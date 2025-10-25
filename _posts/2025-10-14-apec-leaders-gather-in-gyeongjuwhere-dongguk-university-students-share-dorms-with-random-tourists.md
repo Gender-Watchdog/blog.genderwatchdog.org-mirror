@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "APEC Leaders Gather in Gyeongju—Where Dongguk University Students Share Dorms with Random Tourists (updated 2025-10-15T03:21:44Z)"
-slug: apec-leaders-gather-in-gyeongjuwhere-dongguk-university-students-share-dorms-with-random-tourists
+slug: "apec-leaders-gather-in-gyeongjuwhere-dongguk-university-students-share-dorms-with-random-tourists"
 date: 2025-10-14T04:00:00+00:00
 lang: en
 ---

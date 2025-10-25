@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 2023 Peer-Reviewed Study on Sexual Harassment in the South Korean Film Industry
-slug: industry-culture-matters-sexual-harassment-in-the-south-korean-film-industry
+slug: "industry-culture-matters-sexual-harassment-in-the-south-korean-film-industry"
 date: 2025-01-03T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 **Authors:** Lee, Moon, & Na-Young Lee (2023)  

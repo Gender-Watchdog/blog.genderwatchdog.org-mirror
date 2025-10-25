@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "HRW Japan's Korea Assessment Validates Systematic Human Rights Concerns: Strategic Analysis of Regional Pressure and Historical Parallels (edited UTC 11:02 AM, July 22, 2025)"
-slug: from-shame-to-defamation-law-human-rights-watch-japan-exposes-the-evolution-of-koreas-victim-silencing-weapons
+slug: "from-shame-to-defamation-law-human-rights-watch-japan-exposes-the-evolution-of-koreas-victim-silencing-weapons"
 date: 2025-07-20T04:00:00+00:00
-lang: other
+lang: en
 ---
 
 

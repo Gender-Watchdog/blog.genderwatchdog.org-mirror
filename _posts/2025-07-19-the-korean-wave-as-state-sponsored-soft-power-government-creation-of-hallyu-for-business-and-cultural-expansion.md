@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Korean Wave as State-Sponsored Soft Power: Government Creation of Hallyu for Business and Cultural Expansion"
-slug: the-korean-wave-as-state-sponsored-soft-power-government-creation-of-hallyu-for-business-and-cultural-expansion
+slug: "the-korean-wave-as-state-sponsored-soft-power-government-creation-of-hallyu-for-business-and-cultural-expansion"
 date: 2025-07-19T04:02:00+00:00
 lang: en
 ---

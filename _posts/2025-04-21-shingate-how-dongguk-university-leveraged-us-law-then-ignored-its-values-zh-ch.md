@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 申门事件：东国大学如何利用美国法律，却无视其价值观
-slug: shingate-how-dongguk-university-leveraged-us-law-then-ignored-its-values-zh-ch
+slug: "shingate-how-dongguk-university-leveraged-us-law-then-ignored-its-values-zh-ch"
 date: 2025-04-21T00:00:00+00:00
 lang: zh-cn
 ---

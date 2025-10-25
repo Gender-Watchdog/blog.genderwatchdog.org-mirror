@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web Archive access to Dongguk University's professor profile listings and international partner institutions"
-slug: web-archive-access-to-dongguk-universitys-professor-profile-listings-and-international-partner-institutions
+slug: "web-archive-access-to-dongguk-universitys-professor-profile-listings-and-international-partner-institutions"
 date: 2025-01-01T15:00:00+00:00
 lang: en
 ---

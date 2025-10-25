@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "숨겨진 채널: 학계에서 개인 이메일 사용이 감독과 안전을 어떻게 약화시키는가"
-slug: hidden-channels-how-personal-email-use-in-academia-undermines-oversight-and-safety-ko
+slug: "hidden-channels-how-personal-email-use-in-academia-undermines-oversight-and-safety-ko"
 date: 2025-02-28T10:00:00+00:00
 lang: ko
 ---

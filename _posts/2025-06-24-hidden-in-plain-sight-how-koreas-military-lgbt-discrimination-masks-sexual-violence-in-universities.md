@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Hidden in Plain Sight: How Korea's Military LGBT Discrimination Masks Sexual Violence in Universities"
-slug: hidden-in-plain-sight-how-koreas-military-lgbt-discrimination-masks-sexual-violence-in-universities
+slug: "hidden-in-plain-sight-how-koreas-military-lgbt-discrimination-masks-sexual-violence-in-universities"
 date: 2025-06-24T04:00:00+00:00
-lang: other
+lang: en
 ---
 
 Korea's systematic discrimination against LGBT individuals in the military creates a dangerous cover for sexual predators in academic institutions, particularly in arts and culture programs where male faculty predominate. Recent data reveals a troubling pattern: while 61.5% of female students experience sexual violence in film programs, 17.2% of male students also face abuse—a rate that suggests predatory behavior by male faculty members who exploit Korea's homophobic culture to silence their victims.

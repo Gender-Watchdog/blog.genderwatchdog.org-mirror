@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DC Inside におけるLGBT軍事コンテンツの組織的検閲：組織的抑圧の証拠
-slug: korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression-ja
+slug: "korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression-ja"
 date: 2025-07-06T04:00:00+00:00
 lang: ja
 ---

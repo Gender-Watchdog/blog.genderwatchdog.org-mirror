@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comprehensive Outreach Recipients List - All Organizations
-slug: comprehensive-outreach-recipients-list-all-organizations
+slug: "comprehensive-outreach-recipients-list-all-organizations"
 date: 2025-07-12T04:00:00+00:00
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "K‑pop’s Systemic Child Abuse—and Festival Silence (updated 2025-10-23T09:20:52+0000)"
-slug: k-pop-systemic-child-abuse-and-festival-silence
+slug: "k-pop-systemic-child-abuse-and-festival-silence"
 date: 2025-09-23T04:00:00+00:00
 lang: en
 ---

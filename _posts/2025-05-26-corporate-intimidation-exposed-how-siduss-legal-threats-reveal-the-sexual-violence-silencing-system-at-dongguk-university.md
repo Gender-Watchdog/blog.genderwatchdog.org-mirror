@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Corporate Intimidation Exposed: How Sidus's Legal Threats Reveal the Sexual Violence Silencing System at Dongguk University"
-slug: corporate-intimidation-exposed-how-siduss-legal-threats-reveal-the-sexual-violence-silencing-system-at-dongguk-university
+slug: "corporate-intimidation-exposed-how-siduss-legal-threats-reveal-the-sexual-violence-silencing-system-at-dongguk-university"
 date: 2025-05-26T03:49:00+00:00
-lang: other
+lang: en
 ---
 
 ## **The Viral Breakthrough That Triggered Corporate Panic**

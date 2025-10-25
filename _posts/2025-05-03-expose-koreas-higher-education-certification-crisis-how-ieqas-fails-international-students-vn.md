@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "ĐIỀU TRA: Khủng hoảng Chứng nhận Giáo dục Đại học Hàn Quốc: IEQAS Đặt Sinh viên Quốc tế vào Nguy hiểm"
-slug: expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-vn
+slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-vn"
 date: 2025-05-03T00:00:00+00:00
-lang: en
+lang: other
 ---
 
 Kính gửi Ban biên tập,

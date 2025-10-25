@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Why the Dongguk Scandal Is Now a Korean Election Issue
-slug: why-the-dongguk-scandal-is-now-a-korean-election-issue
+slug: "why-the-dongguk-scandal-is-now-a-korean-election-issue"
 date: 2025-05-28T15:00:00+00:00
-lang: other
+lang: en
 ---
 
 ## Official Letters Sent to Political Parties

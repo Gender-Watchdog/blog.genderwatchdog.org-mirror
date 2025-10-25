@@ -1,7 +1,7 @@
 ---
 layout: post
 title: タイトルIX：大学国際パートナーシップへの影響を理解する
-slug: title-ix-understanding-its-international-implications-for-university-partnerships-ja
+slug: "title-ix-understanding-its-international-implications-for-university-partnerships-ja"
 date: 2025-04-27T00:00:00+00:00
 lang: ja
 ---

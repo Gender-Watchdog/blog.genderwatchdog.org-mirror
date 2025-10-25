@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 企业恐吓手段曝光：Sidus法律威胁如何揭露东国大学性暴力噤声系统
-slug: corporate-intimidation-exposed-how-siduss-legal-threats-reveal-the-sexual-violence-silencing-system-at-dongguk-university-hans
+slug: "corporate-intimidation-exposed-how-siduss-legal-threats-reveal-the-sexual-violence-silencing-system-at-dongguk-university-hans"
 date: 2025-05-26T03:39:00+00:00
 lang: zh-cn
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "미투 운동 이후 예술 교육에서의 성폭력: 현황과 정책 과제"
-slug: sexual-violence-in-arts-education-after-me-too-current-status-and-policy-issues-ko
+slug: "sexual-violence-in-arts-education-after-me-too-current-status-and-policy-issues-ko"
 date: 2025-02-28T00:00:00+00:00
 lang: ko
 ---

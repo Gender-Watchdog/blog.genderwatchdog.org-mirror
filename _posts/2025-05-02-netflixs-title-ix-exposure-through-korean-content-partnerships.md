@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Netflix's Title IX Exposure Through Korean Content Partnerships"
-slug: netflixs-title-ix-exposure-through-korean-content-partnerships
+slug: "netflixs-title-ix-exposure-through-korean-content-partnerships"
 date: 2025-05-02T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 **[Link back to the timeline at genderwatchdog.org](https://genderwatchdog.org/)**

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Timeline: Fake Partnerships, Sexual Violence at Dongguk University"
+title: Timeline - Fake Partnerships, Sexual Violence at Dongguk University
 ---
 
 # Timeline: Fake Partnerships, Sexual Violence at Dongguk University
@@ -11,16 +11,6 @@ title: "Timeline: Fake Partnerships, Sexual Violence at Dongguk University"
 - [繁體中文 (Traditional Chinese)](https://genderwatchdog.org/timeline_zh_tw.html)
 - [日本語 (Japanese)](https://genderwatchdog.org/timeline_ja.html)
 - [한국어 (Korean)](https://genderwatchdog.org/timeline_ko.html)
-
-## Recent Blog Posts
-
-Browse by language:
-- [English Posts](/en/)
-- [简体中文 Posts](/zh-cn/)
-- [繁體中文 Posts](/zh-tw/)
-- [日本語 Posts](/ja/)
-- [한국어 Posts](/ko/)
-- [Other Languages](/other/)
 
 ## Events
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "From International Protest to Academic Analysis to Current Crisis: The 7-Year Fight Against Korea's Defamation Laws"
-slug: from-international-protest-to-academic-analysis-to-current-crisis-the-7-year-fight-against-koreas-defamation-laws
+slug: "from-international-protest-to-academic-analysis-to-current-crisis-the-7-year-fight-against-koreas-defamation-laws"
 date: 2025-07-13T04:00:00+00:00
-lang: other
+lang: en
 ---
 
 The fight against South Korea's criminal defamation laws spans nearly a decade of international criticism, academic research, and advocacy—yet the system remains unchanged, continuing to protect perpetrators of sexual violence while criminalizing victims who speak truth.

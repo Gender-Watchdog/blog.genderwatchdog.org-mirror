@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 성폭력 방지와 불교 윤리에 관한 공개서한
-slug: sexual-violence-and-buddhist-ethics-open-letter-to-the-faculty-of-buddhism-at-dongguk-university-ko
+slug: "sexual-violence-and-buddhist-ethics-open-letter-to-the-faculty-of-buddhism-at-dongguk-university-ko"
 date: 2025-02-28T00:00:00+00:00
 lang: ko
 ---

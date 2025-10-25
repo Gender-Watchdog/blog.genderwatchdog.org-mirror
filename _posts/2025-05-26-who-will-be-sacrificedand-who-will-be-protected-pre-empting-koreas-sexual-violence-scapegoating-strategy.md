@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Who Will Be Sacrificed—and Who Will Be Protected? Pre-empting Korea's Sexual Violence Scapegoating Strategy"
-slug: who-will-be-sacrificedand-who-will-be-protected-pre-empting-koreas-sexual-violence-scapegoating-strategy
+slug: "who-will-be-sacrificedand-who-will-be-protected-pre-empting-koreas-sexual-violence-scapegoating-strategy"
 date: 2025-05-26T05:21:00+00:00
-lang: other
+lang: en
 ---
 
 ## **Timestamp Documentation**

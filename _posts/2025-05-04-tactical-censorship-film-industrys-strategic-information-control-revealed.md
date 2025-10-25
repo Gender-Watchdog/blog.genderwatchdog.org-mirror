@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tactical Censorship: Korean Film Industry's Strategic Information Control Revealed, *added 4:54 AM UTC (UTC+0), Saturday, May 17, 2025"
-slug: tactical-censorship-film-industrys-strategic-information-control-revealed
+slug: "tactical-censorship-film-industrys-strategic-information-control-revealed"
 date: 2025-05-04T00:00:00+00:00
 lang: en
 ---

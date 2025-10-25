@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monitoring Resumed After Exposure: Korean Government Surveillance Continues (Brief Update)"
-slug: monitoring-resumed-after-exposure-korean-government-surveillance-continues-brief-update
+slug: "monitoring-resumed-after-exposure-korean-government-surveillance-continues-brief-update"
 date: 2025-09-02T04:01:00+00:00
 lang: en
 ---

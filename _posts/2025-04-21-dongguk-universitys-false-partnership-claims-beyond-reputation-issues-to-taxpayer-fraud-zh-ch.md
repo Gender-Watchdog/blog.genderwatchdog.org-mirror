@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 东国大学虚假合作院校声明：不仅仅是声誉问题，更涉及纳税人欺诈？
-slug: dongguk-universitys-false-partnership-claims-beyond-reputation-issues-to-taxpayer-fraud-zh-ch
+slug: "dongguk-universitys-false-partnership-claims-beyond-reputation-issues-to-taxpayer-fraud-zh-ch"
 date: 2025-04-21T12:00:00+00:00
 lang: zh-cn
 ---

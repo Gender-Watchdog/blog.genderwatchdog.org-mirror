@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Second Falsified Partnership on Dongguk University's Website: Dongguk Not Listed by UBC — 150+ Days of Silence"
-slug: second-falsified-partnership-on-dongguk-universitys-website-ubc-not-listed-by-ubc-150-days-of-silence
+slug: "second-falsified-partnership-on-dongguk-universitys-website-ubc-not-listed-by-ubc-150-days-of-silence"
 date: 2025-09-03T04:01:00+00:00
 lang: en
 ---

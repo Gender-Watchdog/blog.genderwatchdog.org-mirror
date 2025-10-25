@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 東国大学における虚偽の提携関係とTitle IX違反 ― 現在、世界的な調査の対象に（2025年4月）
-slug: title-ix-and-fake-partnerships-dongguk-university-under-global-review-ja
+slug: "title-ix-and-fake-partnerships-dongguk-university-under-global-review-ja"
 date: 2025-03-30T00:00:00+00:00
 lang: ja
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "특종: 한국 고등교육 인증 위기: IEQAS가 국제 학생들을 위험에 빠뜨리는 방법, *업데이트: 2025년 5월 14일 수요일, UTC 16:02"
-slug: expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-ko
+slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-ko"
 date: 2025-05-03T00:00:00+00:00
 lang: ko
 ---

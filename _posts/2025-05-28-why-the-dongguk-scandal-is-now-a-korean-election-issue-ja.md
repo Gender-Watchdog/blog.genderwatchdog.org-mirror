@@ -1,7 +1,7 @@
 ---
 layout: post
 title: なぜ東国大学スキャンダルが今、韓国大統領選挙の争点なのか
-slug: why-the-dongguk-scandal-is-now-a-korean-election-issue-ja
+slug: "why-the-dongguk-scandal-is-now-a-korean-election-issue-ja"
 date: 2025-05-28T15:30:00+00:00
 lang: ja
 ---

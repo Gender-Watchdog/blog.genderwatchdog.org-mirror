@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Tokenism in Academia: The Misleading Representation of Gender Balance at Dongguk University"
-slug: tokenism-in-academia-the-misleading-representation-of-gender-balance-at-dongguk-university
+slug: "tokenism-in-academia-the-misleading-representation-of-gender-balance-at-dongguk-university"
 date: 2025-01-30T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 **[Link back to the timeline at genderwatchdog.org](https://genderwatchdog.org/)**

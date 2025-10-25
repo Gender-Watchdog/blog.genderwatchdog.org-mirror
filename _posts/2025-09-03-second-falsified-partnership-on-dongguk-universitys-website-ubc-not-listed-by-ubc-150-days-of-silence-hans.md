@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 东国大学网站出现第二起虚假加拿大学术合作：UBC 名单未列东国 — 超过 150 天的沉默
-slug: second-falsified-partnership-on-dongguk-universitys-website-ubc-not-listed-by-ubc-150-days-of-silence-hans
+slug: "second-falsified-partnership-on-dongguk-universitys-website-ubc-not-listed-by-ubc-150-days-of-silence-hans"
 date: 2025-09-03T04:03:00+00:00
 lang: zh-cn
 ---

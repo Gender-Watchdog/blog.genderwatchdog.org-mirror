@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 韓国エンターテインメント業界のアパルトヘイト：外国人女性リーダーシップの統計的不可能性
-slug: the-statistical-impossibility-why-there-are-zero-foreign-women-in-korean-entertainment-leadership-ja
+slug: "the-statistical-impossibility-why-there-are-zero-foreign-women-in-korean-entertainment-leadership-ja"
 date: 2025-06-12T14:00:00+00:00
 lang: ja
 ---

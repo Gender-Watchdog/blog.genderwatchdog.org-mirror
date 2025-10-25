@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "INVESTIGASI: Krisis Sertifikasi Pendidikan Tinggi Korea: Bagaimana IEQAS Membahayakan Mahasiswa Internasional"
-slug: expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-ia
+slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-ia"
 date: 2025-05-03T00:00:00+00:00
-lang: en
+lang: other
 ---
 
 Kepada Tim Editorial yang Terhormat,

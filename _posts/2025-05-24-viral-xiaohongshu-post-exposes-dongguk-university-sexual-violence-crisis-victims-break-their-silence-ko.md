@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "바이럴 샤오홍슈(Xiaohongshu) 포스트, 동국대학교 성폭력 위기 폭로: 피해자들의 침묵이 깨지다"
-slug: viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence-ko
+slug: "viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence-ko"
 date: 2025-05-24T16:38:00+00:00
 lang: ko
 ---

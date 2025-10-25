@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Visual Ping Catches Dongguk University in Real-Time Tokenism: The \"Loyal Insider\" Strategy Exposed"
-slug: visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed
+slug: "visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed"
 date: 2025-07-24T04:02:00+00:00
-lang: other
+lang: en
 ---
 
 Our automated monitoring system has caught Dongguk University making calculated changes to their faculty profiles in real-time—changes that perfectly validate our analysis of systematic tokenism and institutional deception targeting international students.

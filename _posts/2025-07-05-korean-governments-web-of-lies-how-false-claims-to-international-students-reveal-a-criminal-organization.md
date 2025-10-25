@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Korean Government's Web of Lies: How False Claims to International Students Reveal a Criminal Organization"
-slug: korean-governments-web-of-lies-how-false-claims-to-international-students-reveal-a-criminal-organization
+slug: "korean-governments-web-of-lies-how-false-claims-to-international-students-reveal-a-criminal-organization"
 date: 2025-07-05T04:00:00+00:00
 lang: en
 ---

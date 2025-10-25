@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Xiaohongshuバイラル指標：東国大学中国人学生募集パイプラインのリアルタイム崩壊
-slug: xiaohongshu-viral-metrics-real-time-collapse-of-dongguk-universitys-china-recruitment-pipeline-ja
+slug: "xiaohongshu-viral-metrics-real-time-collapse-of-dongguk-universitys-china-recruitment-pipeline-ja"
 date: 2025-05-24T02:07:00+00:00
 lang: ja
 ---

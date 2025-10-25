@@ -1,7 +1,7 @@
 ---
 layout: post
 title: サイダスの法的脅迫が裏目に出る：東国大学における企業のパニックと組織的隠蔽の証拠
-slug: sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university-ja
+slug: "sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university-ja"
 date: 2025-05-28T00:00:00+00:00
 lang: ja
 ---

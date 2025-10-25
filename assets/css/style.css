@@ -325,6 +325,92 @@ footer {
     margin-bottom: 0.5em;
 }
 
+.footer-content hr {
+    margin: 2em 0;
+}
+
+/* Language Selector in Footer */
+.language-selector {
+    text-align: center;
+    margin: 2em 0;
+    padding: 1.5em;
+    background: #f6f8fa;
+    border-radius: 6px;
+}
+
+.language-selector a {
+    display: inline-block;
+    margin: 0.3em;
+    padding: 0.4em 0.8em;
+    background: #fff;
+    border: 1px solid #e1e4e8;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #0366d6;
+    transition: all 0.2s;
+}
+
+.language-selector a:hover {
+    background: #f1f8ff;
+    border-color: #0366d6;
+}
+
+/* Resources Section */
+.resources-section {
+    margin: 2em 0;
+    padding: 1.5em;
+    background: #f6f8fa;
+    border-radius: 6px;
+}
+
+.resources-section a {
+    color: #0366d6;
+}
+
+/* Keywords Section */
+.keywords-section {
+    margin: 2em 0;
+}
+
+.keyword-group {
+    margin: 1em 0;
+    padding: 0.8em;
+    background: #f6f8fa;
+    border-radius: 4px;
+    font-size: 0.85em;
+}
+
+.keyword-group strong {
+    display: inline;
+    margin: 0 0.5em 0 0;
+}
+
+/* Endorsements Section */
+.endorsements-section {
+    margin: 2em auto;
+    max-width: 600px;
+    background: #f1f8ff;
+    border: 2px solid #c8e1ff;
+    border-radius: 8px;
+    padding: 1.5em;
+    text-align: center;
+}
+
+.endorsements-section a {
+    color: #0366d6;
+}
+
+/* Legal Section */
+.legal-section {
+    margin: 2em 0;
+    color: #666;
+    font-size: 0.85em;
+}
+
+.legal-section a {
+    color: #0366d6;
+}
+
 .footer-links {
     margin: 1.5em 0;
 }
@@ -335,8 +421,10 @@ footer {
 
 .mirror-notice {
     background: #fff5b1;
-    border-left-color: #dbab09;
+    border-left: 4px solid #dbab09;
+    padding: 1em;
     margin: 1.5em 0;
+    border-radius: 3px;
 }
 
 .copyright,

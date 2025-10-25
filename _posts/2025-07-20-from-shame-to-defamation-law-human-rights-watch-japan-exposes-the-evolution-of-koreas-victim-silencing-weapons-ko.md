@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HRW 일본 한국 평가가 체계적 성폭력 우려를 검증: 지역 압력과 역사적 평행의 전략적 분석 (edited UTC 11:02 AM, July 22, 2025)"
-slug: from-shame-to-defamation-law-human-rights-watch-japan-exposes-the-evolution-of-koreas-victim-silencing-weapons-ko
+slug: "from-shame-to-defamation-law-human-rights-watch-japan-exposes-the-evolution-of-koreas-victim-silencing-weapons-ko"
 date: 2025-07-20T04:00:00+00:00
 lang: ko
 ---

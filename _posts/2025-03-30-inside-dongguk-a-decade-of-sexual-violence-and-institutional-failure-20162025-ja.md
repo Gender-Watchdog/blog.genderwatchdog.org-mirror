@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 東国大学の実態：10年間の性的暴力放置問題（2016年～2025年）
-slug: inside-dongguk-a-decade-of-sexual-violence-and-institutional-failure-20162025-ja
+slug: "inside-dongguk-a-decade-of-sexual-violence-and-institutional-failure-20162025-ja"
 date: 2025-03-30T00:00:00+00:00
 lang: ja
 ---

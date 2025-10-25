@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Title IX 風險提示 — 東國大學（首爾）存在的結構性性暴力風險
-slug: title-ix-risk-advisory-structural-sexual-violence-exposure-at-dongguk-university-seoul-zh-tw
+slug: "title-ix-risk-advisory-structural-sexual-violence-exposure-at-dongguk-university-seoul-zh-tw"
 date: 2025-04-17T00:00:00+00:00
 lang: zh-tw
 ---

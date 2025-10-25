@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Title IX: 국제 대학 파트너십에 미치는 영향 이해하기"
-slug: title-ix-understanding-its-international-implications-for-university-partnerships-ko
+slug: "title-ix-understanding-its-international-implications-for-university-partnerships-ko"
 date: 2025-04-27T00:00:00+00:00
 lang: ko
 ---

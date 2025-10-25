@@ -4,10 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
+    
+    <!-- Primary Meta Tags -->
     <meta name="description" content="{% if page.meta_description %}{{ page.meta_description | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | escape }}{% endif %}">
+    <meta name="keywords" content="sexual violence, Korean universities, Dongguk University, Title IX compliance, IEQAS certification, institutional accountability, international student safety, arts education">
+    <meta name="author" content="Gender Watchdog Research Collective">
+    
+    <!-- Mastodon Verification -->
+    <meta name="fediverse:creator" content="@genderwatchdog@mastodon.social">
+    
+    <!-- Multi-language Meta Descriptions -->
+    <meta name="description" lang="ko" content="젠더 와치독 - 한국 고등교육 내 성폭력 사건과 제도적 실패 조사">
+    <meta name="description" lang="ja" content="ジェンダー・ウォッチドッグ - 韓国高等教育における性暴力事件と制度的失敗の調査">
+    <meta name="description" lang="zh-CN" content="性别监督 - 调查韩国高等教育中的性暴力案件和制度性失败">
+    <meta name="description" lang="zh-TW" content="性別監督 - 調查韓國高等教育中的性暴力案件和制度性失敗">
+    
+    <!-- Enhanced hreflang Links -->
+    <link rel="alternate" hreflang="en" href="{{ site.url }}/en/">
+    <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko/">
+    <link rel="alternate" hreflang="ja" href="{{ site.url }}/ja/">
+    <link rel="alternate" hreflang="zh-CN" href="{{ site.url }}/zh-cn/">
+    <link rel="alternate" hreflang="zh-TW" href="{{ site.url }}/zh-tw/">
+    <link rel="alternate" hreflang="x-default" href="{{ site.url }}/">
     
     {% if page.canonical_url %}
     <link rel="canonical" href="{{ page.canonical_url }}">
+    {% else %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
     {% endif %}
     
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -17,10 +40,39 @@
     <meta property="og:description" content="{% if page.meta_description %}{{ page.meta_description | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | escape }}{% endif %}">
     <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="ko_KR">
+    <meta property="og:locale:alternate" content="ja_JP">
+    <meta property="og:locale:alternate" content="zh_CN">
+    <meta property="og:locale:alternate" content="zh_TW">
     
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@{{ site.twitter_username }}">
+    <meta name="twitter:site" content="@Gender_Watchdog">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.meta_description %}{{ page.meta_description | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | escape }}{% endif %}">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Gender Watchdog",
+      "alternateName": ["젠더 와치독", "ジェンダー・ウォッチドッグ", "性别监督", "性別監督"],
+      "url": "{{ site.url }}",
+      "sameAs": ["https://github.com/genderwatchdog1/timeline-website", "https://twitter.com/Gender_Watchdog", "https://genderwatchdog.org"],
+      "description": "Investigating and documenting sexual violence cases and institutional failures in Korean higher education",
+      "knowsLanguage": ["en", "ko", "ja", "zh-CN", "zh-TW"],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "genderwatchdog@proton.me",
+        "contactType": "customer service"
+      }
+    }
+    </script>
+    
+    <!-- Fathom Analytics -->
+    <script src="https://cdn.usefathom.com/script.js" data-site="UKSUATNV" defer></script>
     
     {% seo %}
 </head>
@@ -50,19 +102,70 @@
 
     <footer>
         <div class="footer-content">
-            <p><strong>Legal & Privacy</strong></p>
-            <p>The Gender Watchdog Blog documents institutional responses to sexual violence in higher education, with focus on exposing institutional capture patterns in Korea through the Dongguk University case. We document how Korean press complicity, QS rankings legitimization, IEQAS certification fraud, and defamation law as legal infrastructure create systematic erasure of violence against international students. All information is shared for educational and advocacy purposes under CC BY-NC-SA 4.0.</p>
+            <hr>
             
-            <p><strong>Analytics & Privacy</strong></p>
-            <p>This site uses privacy-focused Fathom Analytics (GDPR compliant, no personal data tracked, no cookies). We respect your privacy and comply with international data protection regulations.</p>
+            <div class="language-selector">
+                <strong>🌏 Multiple Languages Available | 다국어 지원 | 多言語対応 | 多语言支持 | 多語言支援</strong><br><br>
+                <a href="{{ site.url }}/en/" hreflang="en">🇺🇸 English</a>
+                <a href="{{ site.url }}/ko/" hreflang="ko">🇰🇷 한국어</a>
+                <a href="{{ site.url }}/ja/" hreflang="ja">🇯🇵 日本語</a>
+                <a href="{{ site.url }}/zh-cn/" hreflang="zh-CN">🇨🇳 简体中文</a>
+                <a href="{{ site.url }}/zh-tw/" hreflang="zh-TW">🇭🇰 繁體中文</a>
+                <br><br>
+                <small>Timeline: 
+                    <a href="https://genderwatchdog.org/index.html">English</a> | 
+                    <a href="https://genderwatchdog.org/timeline_zh_cn.html">简体中文</a> | 
+                    <a href="https://genderwatchdog.org/timeline_zh_tw.html">繁體中文</a> | 
+                    <a href="https://genderwatchdog.org/timeline_ja.html">日本語</a> | 
+                    <a href="https://genderwatchdog.org/timeline_ko.html">한국어</a>
+                </small>
+            </div>
             
-            <div class="footer-links">
-                <p>
-                    <a href="https://x.com/{{ site.twitter_username }}">X/Twitter</a> | 
-                    <a href="https://bsky.app/profile/genderwatchdog.org">Bluesky</a> | 
-                    <a href="https://substack.com/@genderwatchdog">Substack</a> | 
-                    <a href="https://github.com/{{ site.github_username }}">GitHub</a>
-                </p>
+            <div class="resources-section">
+                <strong>📚 Resources & Links</strong><br><br>
+                <strong>Documentation:</strong> 
+                <a href="https://github.com/genderwatchdog1/timeline-website" target="_blank">GitHub Repository</a> | 
+                <a href="{{ site.url }}/sitemap.xml">Blog Sitemap</a> | 
+                <a href="{{ site.url }}/about/">About Us</a><br>
+                <strong>Social Media:</strong> 
+                <a href="{{ site.url }}/youtube/">YouTube Channel</a> | 
+                <a href="{{ site.url }}/twitter/">X / Twitter</a> | 
+                <a rel="me" href="https://mastodon.social/@genderwatchdog">Mastodon</a> | 
+                <a href="mailto:genderwatchdog@proton.me">Email Contact</a>
+            </div>
+            
+            <div class="keywords-section">
+                <div class="keyword-group">
+                    <strong>🇰🇷 한국 키워드:</strong> 제도적 포획 한국, 한국 언론 공모, 인종차별적 성폭력 한국, 동국대학교 학술 사기
+                </div>
+                <div class="keyword-group">
+                    <strong>🇯🇵 日本キーワード:</strong> 制度的捕獲韓国, 韓国メディア共謀, 人種差別的性暴力韓国, 東国大学学術詐欺
+                </div>
+                <div class="keyword-group">
+                    <strong>🇨🇳 中文关键词:</strong> 制度性捕获韩国, 韩国媒体共谋, 种族化性暴力韩国, 东国大学学术欺诈
+                </div>
+                <div class="keyword-group">
+                    <strong>🇭🇰 中文關鍵詞:</strong> 制度性捕獲韓國, 韓國媒體共謀, 種族化性暴力韓國, 東國大學學術欺詐
+                </div>
+            </div>
+            
+            <div class="endorsements-section">
+                <strong>Support & Endorsements 📢</strong><br><br>
+                "We are honored to receive support from End Rape On Campus (<a href='https://twitter.com/EndRapeOnCampus' target='_blank'>@EndRapeOnCampus</a>) in exposing the systemic sexual violence cover-up at Dongguk University. Thank you to the entire team for amplifying our efforts, providing solidarity, and advising on advocacy."<br><br>
+                <a href="https://x.com/Gender_Watchdog/status/1917483599189926092" target="_blank">View the pinned tweet</a>
+            </div>
+            
+            <hr>
+            
+            <div class="legal-section">
+                <p><strong>Legal & Privacy</strong></p>
+                <p>The Gender Watchdog Blog documents institutional responses to sexual violence in higher education, with focus on exposing institutional capture patterns in Korea through the Dongguk University case. We document how Korean press complicity, QS rankings legitimization, IEQAS certification fraud, and defamation law as legal infrastructure create systematic erasure of violence against international students. All information is shared for educational and advocacy purposes under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>.</p>
+                
+                <p><strong>Analytics & Privacy</strong></p>
+                <p>This site uses privacy-focused <a href="https://usefathom.com/ref/UKSUATNV" target="_blank">Fathom Analytics</a> (GDPR compliant, no personal data tracked, no cookies). We respect your privacy and comply with international data protection regulations.</p>
+                
+                <p class="copyright">&copy; 2025 Gender Watchdog Research Collective. All rights reserved.</p>
+                <p class="contact">Contact: genderwatchdog@proton.me</p>
             </div>
             
             <div class="mirror-notice">
@@ -71,13 +174,8 @@
                 <p>Mirror: <a href="https://genderwatchdog.bearblog.dev">genderwatchdog.bearblog.dev</a> (Bear Blog)</p>
                 <p><em>If one mirror is blocked, try another. All contain identical content.</em></p>
             </div>
-            
-            <p class="copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. All rights reserved.</p>
-            <p class="contact">Contact: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
         </div>
     </footer>
-    
-    <script async src="https://cdn.usefathom.com/script.js" data-site="YOUR-FATHOM-SITE-ID" defer></script>
 </body>
 </html>
 

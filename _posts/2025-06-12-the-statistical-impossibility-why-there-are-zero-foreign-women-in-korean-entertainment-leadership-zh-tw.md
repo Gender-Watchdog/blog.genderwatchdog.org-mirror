@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 韓國娛樂業的種族隔離制度：外國女性在領導層中零代表的統計學不可能性
-slug: the-statistical-impossibility-why-there-are-zero-foreign-women-in-korean-entertainment-leadership-zh-tw
+slug: "the-statistical-impossibility-why-there-are-zero-foreign-women-in-korean-entertainment-leadership-zh-tw"
 date: 2025-06-12T14:00:00+00:00
 lang: zh-tw
 ---

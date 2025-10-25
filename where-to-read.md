@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: default
 title: 🧭 Where Else to Read Gender Watchdog
-slug: where-else-to-read-gender-watchdog
-date: 2025-01-01T00:00:00+00:00
-lang: en
+permalink: /where-to-read/
 ---
 
 In addition to this blog, we occasionally publish investigative and commentary pieces on external platforms for broader visibility. These articles expand on the structural, legal, and ethical risks facing students in gender-imbalanced academic environments — especially those operating under religious or cultural branding.

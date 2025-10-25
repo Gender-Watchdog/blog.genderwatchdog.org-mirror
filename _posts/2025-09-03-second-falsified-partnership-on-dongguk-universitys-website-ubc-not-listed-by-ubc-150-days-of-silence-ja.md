@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 東国大学ウェブサイトの2件目の虚偽パートナー表記：UBCの一覧に東国大はなし — 150日超の沈黙
-slug: second-falsified-partnership-on-dongguk-universitys-website-ubc-not-listed-by-ubc-150-days-of-silence-ja
+slug: "second-falsified-partnership-on-dongguk-universitys-website-ubc-not-listed-by-ubc-150-days-of-silence-ja"
 date: 2025-09-03T04:03:00+00:00
 lang: ja
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 企業による脅迫の実態：シダス社の法的脅迫が明かす東国大学の性暴力隠蔽システム
-slug: corporate-intimidation-exposed-how-siduss-legal-threats-reveal-the-sexual-violence-silencing-system-at-dongguk-university-ja
+slug: "corporate-intimidation-exposed-how-siduss-legal-threats-reveal-the-sexual-violence-silencing-system-at-dongguk-university-ja"
 date: 2025-05-26T03:39:00+00:00
 lang: ja
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "ИЛРҮҮЛЭЛТ: Солонгосын дээд боловсролын гэрчилгээжүүлэлтийн хямрал: IEQAS олон улсын оюутнуудыг хэрхэн эрсдэлд оруулж байна"
-slug: expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-mo
+slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-mo"
 date: 2025-05-03T00:00:00+00:00
-lang: en
+lang: other
 ---
 
 Хүндэт Редакцийн баг,

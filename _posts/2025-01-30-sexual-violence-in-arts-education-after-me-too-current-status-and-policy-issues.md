@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Sexual Violence in Arts Education After Me Too: Current Status and Policy Issues"
-slug: sexual-violence-in-arts-education-after-me-too-current-status-and-policy-issues
+slug: "sexual-violence-in-arts-education-after-me-too-current-status-and-policy-issues"
 date: 2025-01-30T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 **[Link back to the timeline at genderwatchdog.org](https://genderwatchdog.org/)**

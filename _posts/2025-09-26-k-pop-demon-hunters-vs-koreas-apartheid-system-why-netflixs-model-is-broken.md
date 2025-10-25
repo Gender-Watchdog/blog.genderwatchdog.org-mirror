@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "K‑pop Demon Hunters vs. Korea’s Apartheid System: Why Netflix’s Model Is Broken"
-slug: k-pop-demon-hunters-vs-koreas-apartheid-system-why-netflixs-model-is-broken
+slug: "k-pop-demon-hunters-vs-koreas-apartheid-system-why-netflixs-model-is-broken"
 date: 2025-09-26T04:00:00+00:00
 lang: en
 ---

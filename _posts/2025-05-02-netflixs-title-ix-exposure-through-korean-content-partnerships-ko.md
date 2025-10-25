@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 넷플릭스의 한국 콘텐츠 파트너십을 통한 타이틀 IX 법적 위험
-slug: netflixs-title-ix-exposure-through-korean-content-partnerships-ko
+slug: "netflixs-title-ix-exposure-through-korean-content-partnerships-ko"
 date: 2025-05-02T00:00:00+00:00
 lang: ko
 ---

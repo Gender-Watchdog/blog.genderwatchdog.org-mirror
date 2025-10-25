@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Urgent Request for Immediate Suspension of Sidus FNH Films Pending Investigation – Sexual Violence, Institutional Cover-ups, and Alleged Public Funds Misuse at Dongguk University
-slug: urgent-request-for-immediate-suspension-of-sidus-fnh-films-pending-investigation-sexual-violence-institutional-cover-ups-and-alleged-public-funds-misuse-at-dongguk-university
+slug: "urgent-request-for-immediate-suspension-of-sidus-fnh-films-pending-investigation-sexual-violence-institutional-cover-ups-and-alleged-public-funds-misuse-at-dongguk-university"
 date: 2025-05-04T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 To: Korean Film Council (KOFIC), Ministry of Education, National Human Rights Commission, National Assembly, Korean Council for University Education, and other relevant authorities

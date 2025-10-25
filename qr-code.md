@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: default
 title: QR code, QR 코드
-slug: qr-code-qr
-date: 2025-01-02T00:00:00+00:00
-lang: en
+permalink: /qr-code/
 ---
 
 ![qr-code-04272025](https://github.com/genderwatchdog1/timeline-website/blob/master/qr-codes/title-ix-qr-codes-04292025.png?raw=true)

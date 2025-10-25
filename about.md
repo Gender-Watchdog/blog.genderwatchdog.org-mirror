@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: default
 title: About Gender Watchdog
-slug: about-gender-watchdog
-date: 2025-01-01T00:00:00+00:00
-lang: en
+permalink: /about/
 ---
 
 > **Gender Watchdog** is an independent, anonymous public interest initiative committed to **gender equity**, **student safety**, and **ethical accountability** in global academic and cultural institutions.

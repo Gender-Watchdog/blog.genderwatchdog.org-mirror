@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DC인사이드 성소수자 군사 콘텐츠 체계적 검열: 기관 억압 증거"
-slug: korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression-ko
+slug: "korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression-ko"
 date: 2025-07-06T04:00:00+00:00
 lang: ko
 ---

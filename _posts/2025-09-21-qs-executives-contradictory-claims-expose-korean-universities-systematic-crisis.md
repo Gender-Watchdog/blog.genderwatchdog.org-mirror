@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "QS Executive's Contradictory Claims Expose Korean Universities' Systematic Crisis (edited 0925-0746-utc)"
-slug: qs-executives-contradictory-claims-expose-korean-universities-systematic-crisis
+slug: "qs-executives-contradictory-claims-expose-korean-universities-systematic-crisis"
 date: 2025-09-21T04:00:00+00:00
 lang: en
 ---

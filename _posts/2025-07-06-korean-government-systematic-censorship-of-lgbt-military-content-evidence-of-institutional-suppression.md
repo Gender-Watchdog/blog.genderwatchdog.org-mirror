@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Korean Government Systematic Censorship of LGBT Military Content: Evidence of Institutional Suppression"
-slug: korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression
+slug: "korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression"
 date: 2025-07-06T04:00:00+00:00
 lang: en
 ---

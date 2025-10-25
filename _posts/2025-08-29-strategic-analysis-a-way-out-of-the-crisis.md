@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Strategic analysis — a way out of the crisis
-slug: strategic-analysis-a-way-out-of-the-crisis
+slug: "strategic-analysis-a-way-out-of-the-crisis"
 date: 2025-08-29T04:01:00+00:00
-lang: other
+lang: en
 ---
 
 International advocacy escalated because institutions failed for five years to act on the government's own evidence of sexual violence in education and arts/culture (KWDI 2020: 61.5% women, 17.2% men). We directly notified seven Korean government agencies on April 10, 2025 ([notification posts](https://x.com/Gender_Watchdog/status/1916498267124498824) and [follow-up](https://x.com/Gender_Watchdog/status/1918865547728736340))—141 days of silence and counting. As Korea faces MAGA‑aligned far‑right pressure with diplomatic ramifications, the convergence of reputational damage and a university insolvency wave creates a narrow window for decisive reform. This post analyzes risks and offers a credible off‑ramp: position rapid cleanup of academia and the film/entertainment sector as proactive national‑security measures, not capitulation.

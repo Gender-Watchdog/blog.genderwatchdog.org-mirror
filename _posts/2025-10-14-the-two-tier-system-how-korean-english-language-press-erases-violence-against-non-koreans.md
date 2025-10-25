@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Two-Tier System: How Korean English-Language Press Erases Violence Against Non-Koreans (updated 2025-10-18T10:30:00+0000)"
-slug: the-two-tier-system-how-korean-english-language-press-erases-violence-against-non-koreans
+slug: "the-two-tier-system-how-korean-english-language-press-erases-violence-against-non-koreans"
 date: 2025-10-14T04:01:00+00:00
-lang: other
+lang: en
 ---
 
 **October 14, 2025**

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Title IX Risk Advisory — Structural Sexual Violence Exposure at Dongguk University (Seoul)
-slug: title-ix-risk-advisory-structural-sexual-violence-exposure-at-dongguk-university-seoul
+slug: "title-ix-risk-advisory-structural-sexual-violence-exposure-at-dongguk-university-seoul"
 date: 2025-01-30T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 **[Link back to the timeline at genderwatchdog.org](https://genderwatchdog.org/)**

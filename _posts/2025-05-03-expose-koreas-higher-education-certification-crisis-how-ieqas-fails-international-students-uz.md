@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TADQIQOT: Koreya oliy ta'lim sertifikatlash inqirozi: IEQAS xalqaro talabalarni qanday xavf ostiga qo'ymoqda"
-slug: expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-uz
+slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-uz"
 date: 2025-05-03T00:00:00+00:00
 lang: other
 ---

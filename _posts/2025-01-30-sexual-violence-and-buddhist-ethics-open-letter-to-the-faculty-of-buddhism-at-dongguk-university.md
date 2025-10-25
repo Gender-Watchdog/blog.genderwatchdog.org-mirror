@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Preventing Sexual Violence and Buddhist Ethics: Open Letter to the Faculty of Buddhism at Dongguk University"
-slug: sexual-violence-and-buddhist-ethics-open-letter-to-the-faculty-of-buddhism-at-dongguk-university
+slug: "sexual-violence-and-buddhist-ethics-open-letter-to-the-faculty-of-buddhism-at-dongguk-university"
 date: 2025-01-30T15:00:00+00:00
-lang: other
+lang: en
 ---
 
 **[Link back to the timeline at genderwatchdog.org](https://genderwatchdog.org/)**

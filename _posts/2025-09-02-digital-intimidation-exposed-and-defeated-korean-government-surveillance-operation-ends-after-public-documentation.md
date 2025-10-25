@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Intimidation Exposed and Defeated: Korean Government Surveillance Operation Ends After Public Documentation"
-slug: digital-intimidation-exposed-and-defeated-korean-government-surveillance-operation-ends-after-public-documentation
+slug: "digital-intimidation-exposed-and-defeated-korean-government-surveillance-operation-ends-after-public-documentation"
 date: 2025-09-02T04:01:00+00:00
 lang: en
 ---

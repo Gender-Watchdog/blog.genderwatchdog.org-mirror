@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Korea Keeps Its $74.84B Sex Industry Illegal: Trafficking-by-Design (updated utc-08122025-0159)"
-slug: why-korea-keeps-its-74b-sex-industry-illegal-trafficking-by-design
+slug: "why-korea-keeps-its-74b-sex-industry-illegal-trafficking-by-design"
 date: 2025-07-24T04:00:00+00:00
 lang: en
 ---

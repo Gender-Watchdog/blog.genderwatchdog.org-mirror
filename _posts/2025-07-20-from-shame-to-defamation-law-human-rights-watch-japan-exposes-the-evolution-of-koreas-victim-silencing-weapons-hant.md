@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HRW日本韓國評估驗證系統性性暴力關切：地區壓力與歷史平行的戰略分析 (edited UTC 10:58 AM, July 24, 2025)"
-slug: from-shame-to-defamation-law-human-rights-watch-japan-exposes-the-evolution-of-koreas-victim-silencing-weapons-hant
+slug: "from-shame-to-defamation-law-human-rights-watch-japan-exposes-the-evolution-of-koreas-victim-silencing-weapons-hant"
 date: 2025-07-20T04:00:00+00:00
 lang: zh-tw
 ---

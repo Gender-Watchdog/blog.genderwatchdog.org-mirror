@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "숨겨진 진실: 한국 군대의 성소수자 차별이 대학 성폭력을 은폐하는 방식"
-slug: hidden-in-plain-sight-how-koreas-military-lgbt-discrimination-masks-sexual-violence-in-universities-ko
+slug: "hidden-in-plain-sight-how-koreas-military-lgbt-discrimination-masks-sexual-violence-in-universities-ko"
 date: 2025-06-24T04:00:00+00:00
 lang: ko
 ---

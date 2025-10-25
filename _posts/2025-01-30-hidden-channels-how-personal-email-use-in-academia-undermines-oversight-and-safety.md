@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hidden Channels: How Personal Email Use in Academia Undermines Oversight and Safety"
-slug: hidden-channels-how-personal-email-use-in-academia-undermines-oversight-and-safety
+slug: "hidden-channels-how-personal-email-use-in-academia-undermines-oversight-and-safety"
 date: 2025-01-30T00:00:00+00:00
 lang: en
 ---

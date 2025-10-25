@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Netflixの韓国コンテンツパートナーシップを通じたタイトルIX法的リスク
-slug: netflixs-title-ix-exposure-through-korean-content-partnerships-ja
+slug: "netflixs-title-ix-exposure-through-korean-content-partnerships-ja"
 date: 2025-05-02T00:00:00+00:00
 lang: ja
 ---

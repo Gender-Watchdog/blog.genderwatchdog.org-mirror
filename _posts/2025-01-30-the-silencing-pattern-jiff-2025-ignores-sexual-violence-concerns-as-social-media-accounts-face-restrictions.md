@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Silencing Pattern: JIFF 2025 Ignores Sexual Violence Concerns as Social Media Accounts Face Restrictions"
-slug: the-silencing-pattern-jiff-2025-ignores-sexual-violence-concerns-as-social-media-accounts-face-restrictions
+slug: "the-silencing-pattern-jiff-2025-ignores-sexual-violence-concerns-as-social-media-accounts-face-restrictions"
 date: 2025-01-30T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 **[Link back to the timeline at genderwatchdog.org](https://genderwatchdog.org/)**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 揭露全球学术界的结构性不平等：东国大学的国际合作关系受到审视
-slug: web-archive-access-to-dongguk-universitys-professor-profile-listings-and-international-partner-institutions-zh-ch
+slug: "web-archive-access-to-dongguk-universitys-professor-profile-listings-and-international-partner-institutions-zh-ch"
 date: 2025-04-21T00:00:00+00:00
 lang: zh-cn
 ---

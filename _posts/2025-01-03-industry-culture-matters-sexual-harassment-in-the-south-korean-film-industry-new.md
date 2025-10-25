@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Industry Culture Matters: Sexual Harassment in the South Korean Film Industry"
-slug: industry-culture-matters-sexual-harassment-in-the-south-korean-film-industry-new
+slug: "industry-culture-matters-sexual-harassment-in-the-south-korean-film-industry-new"
 date: 2025-01-03T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 Based on the 2023 peer-reviewed study by Lee, Moon, and Na-Young Lee titled _"Industry Culture Matters: Sexual Violence in the South Korean Film Industry"_ , the key findings related to your two-part question are as follows:

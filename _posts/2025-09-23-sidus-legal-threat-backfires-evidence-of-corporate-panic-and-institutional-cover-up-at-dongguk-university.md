@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Sidus Legal Threat Backfires: Evidence of Corporate Panic and Institutional Cover-Up at Dongguk University (updaed utc 09252025-0445)"
-slug: sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university
+slug: "sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university"
 date: 2025-09-23T04:01:00+00:00
-lang: other
+lang: en
 ---
 
 #### original published date 2025-05-27

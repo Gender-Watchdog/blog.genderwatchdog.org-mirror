@@ -1,7 +1,7 @@
 ---
 layout: post
 title: バイラル小紅書投稿が東国大学性暴力危機を暴露：被害者たちが沈黙を破る
-slug: viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence-ja
+slug: "viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence-ja"
 date: 2025-05-24T02:05:00+00:00
 lang: ja
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 東國大學虛假合作院校聲明：不僅僅是聲譽問題，更涉及納稅人詐欺？
-slug: dongguk-universitys-false-partnership-claims-beyond-reputation-issues-to-taxpayer-fraud-zh-tw
+slug: "dongguk-universitys-false-partnership-claims-beyond-reputation-issues-to-taxpayer-fraud-zh-tw"
 date: 2025-04-17T12:00:00+00:00
 lang: zh-tw
 ---

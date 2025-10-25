@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Exporting Sexual Violence: How Korea Uses Hallyu as a Smokescreen for International Sex Trafficking (updated Sept. 2, 2025)"
-slug: exporting-sexual-violence-how-korea-uses-hallyu-as-a-smokescreen-for-international-sex-trafficking
+slug: "exporting-sexual-violence-how-korea-uses-hallyu-as-a-smokescreen-for-international-sex-trafficking"
 date: 2025-06-06T15:09:00+00:00
-lang: other
+lang: en
 ---
 
 *Published: June 6, 2025, Edited September 2, 2025*

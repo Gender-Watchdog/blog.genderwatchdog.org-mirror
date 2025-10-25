@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "침묵의 패턴: JIFF 2025, 성폭력 우려를 무시하고 소셜 미디어 계정이 제한에 직면하다"
-slug: the-silencing-pattern-jiff-2025-ignores-sexual-violence-concerns-as-social-media-accounts-face-restrictions-ko
+slug: "the-silencing-pattern-jiff-2025-ignores-sexual-violence-concerns-as-social-media-accounts-face-restrictions-ko"
 date: 2025-02-28T00:00:00+00:00
 lang: ko
 ---

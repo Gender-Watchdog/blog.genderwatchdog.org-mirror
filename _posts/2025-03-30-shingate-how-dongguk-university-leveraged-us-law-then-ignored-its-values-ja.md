@@ -1,7 +1,7 @@
 ---
 layout: post
 title: シンゲート事件：東国大学がアメリカの法律を利用し、そしてその価値を無視した方法
-slug: shingate-how-dongguk-university-leveraged-us-law-then-ignored-its-values-ja
+slug: "shingate-how-dongguk-university-leveraged-us-law-then-ignored-its-values-ja"
 date: 2025-03-30T00:00:00+00:00
 lang: ja
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "PRESS RELEASE: Buddhist University Turns Blind Eye to Sexual Violence Risk"
-slug: press-release-buddhist-university-turns-blind-eye-to-sexual-violence-risk
+slug: "press-release-buddhist-university-turns-blind-eye-to-sexual-violence-risk"
 date: 2025-04-25T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 **[Link back to the timeline at genderwatchdog.org](https://genderwatchdog.org/)**

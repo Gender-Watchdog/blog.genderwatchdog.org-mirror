@@ -1,7 +1,7 @@
 ---
 layout: post
 title: **🚨 Account Suspension Update**
-slug: account-suspension-update
+slug: "account-suspension-update"
 date: 2025-01-30T00:00:00+00:00
 lang: en
 ---

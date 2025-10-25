@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "ЗЕРТТЕУ: Кореяның жоғары білім сертификаттау дағдарысы: IEQAS халықаралық студенттерді қауіп-қатерге қалай ұшыратады"
-slug: expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-kz
+slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-kz"
 date: 2025-05-03T00:00:00+00:00
-lang: en
+lang: other
 ---
 
 Құрметті редакция,

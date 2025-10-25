@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "동국대학교 홈페이지의 두 번째 파트너 허위 표기: UBC 목록에 동국대 없음 — 150일+ 침묵"
-slug: second-falsified-partnership-on-dongguk-universitys-website-ubc-not-listed-by-ubc-150-days-of-silence-ko
+slug: "second-falsified-partnership-on-dongguk-universitys-website-ubc-not-listed-by-ubc-150-days-of-silence-ko"
 date: 2025-09-03T04:03:00+00:00
 lang: ko
 ---

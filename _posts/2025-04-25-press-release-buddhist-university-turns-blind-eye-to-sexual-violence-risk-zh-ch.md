@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 新闻稿：佛教大学对性暴力风险视而不见
-slug: press-release-buddhist-university-turns-blind-eye-to-sexual-violence-risk-zh-ch
+slug: "press-release-buddhist-university-turns-blind-eye-to-sexual-violence-risk-zh-ch"
 date: 2025-04-25T00:00:00+00:00
 lang: zh-cn
 ---

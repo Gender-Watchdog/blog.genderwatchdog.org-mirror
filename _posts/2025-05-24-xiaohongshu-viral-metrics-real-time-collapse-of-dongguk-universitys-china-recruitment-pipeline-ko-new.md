@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "여기 최신 스크린샷(2025년 5월 25일 오전 2:33 베이징 시간 기준)을 반영한 **업데이트된 핵심 지표(Core Metrics) 섹션**입니다:"
-slug: xiaohongshu-viral-metrics-real-time-collapse-of-dongguk-universitys-china-recruitment-pipeline-ko-new
+slug: "xiaohongshu-viral-metrics-real-time-collapse-of-dongguk-universitys-china-recruitment-pipeline-ko-new"
 date: 2025-05-24T16:33:00+00:00
-lang: other
+lang: ko
 ---
 
 ## **1. 핵심 지표 (2025년 5월 25일 02:33 베이징 시간 기준)**

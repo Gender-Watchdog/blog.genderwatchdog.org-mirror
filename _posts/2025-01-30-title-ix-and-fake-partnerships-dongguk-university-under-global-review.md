@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fictional Partnerships & Title IX Failures at Dongguk University – Now Under Global Review (April 2025)
-slug: title-ix-and-fake-partnerships-dongguk-university-under-global-review
+slug: "title-ix-and-fake-partnerships-dongguk-university-under-global-review"
 date: 2025-01-30T00:00:00+00:00
 lang: en
 ---

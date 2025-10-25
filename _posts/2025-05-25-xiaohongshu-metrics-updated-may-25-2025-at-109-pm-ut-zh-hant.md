@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 小紅書數據分析 - 2025年5月25日, 東國大學性暴力危機活動表現
-slug: xiaohongshu-metrics-updated-may-25-2025-at-109-pm-ut-zh-hant
+slug: "xiaohongshu-metrics-updated-may-25-2025-at-109-pm-ut-zh-hant"
 date: 2025-05-25T16:38:00+00:00
 lang: zh-tw
 ---

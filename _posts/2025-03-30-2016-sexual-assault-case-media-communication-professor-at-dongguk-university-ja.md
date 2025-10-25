@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016年性的暴力事件：東国大学メディアコミュニケーション学科教授
-slug: 2016-sexual-assault-case-media-communication-professor-at-dongguk-university-ja
+slug: "2016-sexual-assault-case-media-communication-professor-at-dongguk-university-ja"
 date: 2025-03-30T10:05:00+00:00
 lang: ja
 ---

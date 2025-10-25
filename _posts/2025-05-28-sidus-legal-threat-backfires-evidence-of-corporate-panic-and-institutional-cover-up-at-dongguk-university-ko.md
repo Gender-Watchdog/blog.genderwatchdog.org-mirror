@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "싸이더스 법적 협박 역효과: 동국대학교 기업 공모와 제도적 은폐의 증거"
-slug: sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university-ko
+slug: "sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university-ko"
 date: 2025-05-28T00:00:00+00:00
 lang: ko
 ---

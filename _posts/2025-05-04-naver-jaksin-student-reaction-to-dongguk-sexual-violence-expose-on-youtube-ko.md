@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "네이버 지식iN: 동국대 성폭력 폭로 유튜브에 대한 학생 반응"
-slug: naver-jaksin-student-reaction-to-dongguk-sexual-violence-expose-on-youtube-ko
+slug: "naver-jaksin-student-reaction-to-dongguk-sexual-violence-expose-on-youtube-ko"
 date: 2025-05-04T00:00:00+00:00
 lang: ko
 ---

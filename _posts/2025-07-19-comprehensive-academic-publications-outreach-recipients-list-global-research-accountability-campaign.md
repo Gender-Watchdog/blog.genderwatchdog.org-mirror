@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comprehensive Academic Publications Outreach Recipients List - Global Research Accountability Campaign (updated 2:33 AM, July 26, 2025)"
-slug: comprehensive-academic-publications-outreach-recipients-list-global-research-accountability-campaign
+slug: "comprehensive-academic-publications-outreach-recipients-list-global-research-accountability-campaign"
 date: 2025-07-19T04:00:00+00:00
 lang: en
 ---

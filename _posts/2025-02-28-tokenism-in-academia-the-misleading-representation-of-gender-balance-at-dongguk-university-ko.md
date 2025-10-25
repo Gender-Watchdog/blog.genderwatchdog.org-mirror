@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "학계에서의 형식적 다양성: 동국대학교 성별 균형의 오해를 부르는 표현"
-slug: tokenism-in-academia-the-misleading-representation-of-gender-balance-at-dongguk-university-ko
+slug: "tokenism-in-academia-the-misleading-representation-of-gender-balance-at-dongguk-university-ko"
 date: 2025-02-28T00:00:00+00:00
 lang: ko
 ---

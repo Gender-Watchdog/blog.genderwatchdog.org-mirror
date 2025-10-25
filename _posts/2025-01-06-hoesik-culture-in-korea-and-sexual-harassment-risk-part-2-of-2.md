@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hoesik Culture in Korea and Sexual Harassment Risk (part 2 of 2)
-slug: hoesik-culture-in-korea-and-sexual-harassment-risk-part-2-of-2
+slug: "hoesik-culture-in-korea-and-sexual-harassment-risk-part-2-of-2"
 date: 2025-01-06T01:01:00+00:00
 lang: en
 ---

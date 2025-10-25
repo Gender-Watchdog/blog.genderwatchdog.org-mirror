@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎯 Reform Roadmap: What Dongguk University Must Do by September 1, 2025"
-slug: reform-roadmap-what-dongguk-university-must-do-by-september-1-2025
+slug: "reform-roadmap-what-dongguk-university-must-do-by-september-1-2025"
 date: 2025-01-30T00:00:00+00:00
 lang: en
 ---
