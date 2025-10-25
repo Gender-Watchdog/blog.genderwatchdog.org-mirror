@@ -51,6 +51,33 @@ We immediately documented:
 
 **This is not a technical issue. This is targeted interference.**
 
+#### Evidence Screenshots
+
+**1. Third-party confirmation of outage (00:47 AM KST):**
+
+![Down For Everyone Or Just Me showing blog.genderwatchdog.org is down](/assets/images/down-for-everyone-2025-10-25%2000-47-21.png)
+*Independent verification: "It's not just you! blog.genderwatchdog.org is down." - First documented evidence of the outage.*
+
+**2. DNS records properly configured at registrar (01:02 AM KST):**
+
+![Namecheap DNS dashboard showing proper configuration](/assets/images/namecheap-dashboard-2025-10-25%2001-02-46.png)
+*Namecheap dashboard showing DNS records unchanged: 4 A records pointing to GitHub Pages IPs, CNAME record intact. No legal requests, no government notices.*
+
+**3. Global DNS propagation failure (01:19 AM KST):**
+
+![DNS Checker showing global DNS failure with red X marks worldwide](/assets/images/dnschecker-blog-all-x-2025-10-25%2001-19-49.png)
+*DNSChecker.org showing DNS failure across all global servers: United States, Canada, Russia, South Africa, Netherlands, France, Spain, UK, Germany, Mexico, Brazil, Australia, New Zealand, Singapore, South Korea. Not a regional issue—global suppression.*
+
+**4. Browser connection error (01:58 AM KST):**
+
+![Browser showing ERR_CONNECTION_RESET error for blog.genderwatchdog.org](/assets/images/blog.genderwatchdog-censored-2025-10-25%2001-58-10.png)
+*Chrome browser: "This site can't be reached / The connection was reset. / ERR_CONNECTION_RESET"*
+
+**5. Bear Blog dashboard claiming "DNS not set" (04:51 AM KST):**
+
+![Bear Blog dashboard showing DNS not set error](/assets/images/bearblog-dns-records-not-set-%202025-10-25%2004-51-27.png)
+*Bear Blog dashboard suddenly showing "The DNS records for blog.genderwatchdog.org have not been set" despite 6+ months of proper operation and unchanged DNS records at registrar.*
+
 ---
 
 ## Why the Timing Matters
