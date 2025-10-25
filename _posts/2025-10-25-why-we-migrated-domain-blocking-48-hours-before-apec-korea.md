@@ -7,7 +7,7 @@ lang: en
 meta_description: "Our custom domain was blocked exactly 48 hours before APEC Leaders' Week in Gyeongju—the same city where we documented institutional exploitation. Here's why we migrated to GitHub Pages and what it means for censorship resistance."
 ---
 
-# Why We Migrated: Domain Blocking 48 Hours Before APEC Korea
+# Why We Migrated: Domain Blocking 48 Hours Before APEC Economic Leaders' Week in Gyeongju, Korea
 
 **October 25, 2025** — We noticed that our custom domain `blog.genderwatchdog.org` stopped resolving globally at approximately 12:34 PM KST today. The timing is not coincidental: **48 hours before APEC Economic Leaders' Week begins in Gyeongju, South Korea**—the same city where we documented student exploitation at Dongguk University's WISE campus.
 
@@ -126,8 +126,8 @@ The suppression attempt correlates **exactly** with the moment when our document
 - Must pressure **Microsoft**, not individual developer
 - Requires **public legal process** (GitHub transparency reports)
 - Triggers **tech community response** (Hacker News, Reddit, tech press)
-- Creates **international news**: "Korea forces Microsoft to censor sexual violence documentation"
-- **Proves everything we documented** about institutional censorship
+- Creates **international news**: "Microsoft pressured to censor sexual violence documentation"
+- **Proves systematic censorship attempts** through public legal process
 - Becomes **more expensive** politically than ignoring us
 
 ### The Microsoft Factor
