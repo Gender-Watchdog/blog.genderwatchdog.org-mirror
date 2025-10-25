@@ -2,7 +2,7 @@
 layout: post
 title: "Why We Migrated: Domain Blocking 48 Hours Before APEC Korea"
 slug: "why-we-migrated-domain-blocking-48-hours-before-apec-korea"
-date: 2025-10-25T15:00:00+00:00
+date: 2025-10-25T04:34:00+00:00
 lang: en
 meta_description: "Our custom domain was blocked exactly 48 hours before APEC Leaders' Week in Gyeongju—the same city where we documented institutional exploitation. Here's why we migrated to GitHub Pages and what it means for censorship resistance."
 ---
