@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 揭露東國大學：十年性暴力失職史（2016–2025）
-slug: inside-dongguk-a-decade-of-sexual-violence-and-institutional-failure-20162025-zh-tw
+slug: "inside-dongguk-a-decade-of-sexual-violence-and-institutional-failure-20162025-zh-tw"
 date: 2025-04-17T00:00:00+00:00
 lang: zh-tw
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 韩国娱乐业的种族隔离制度：外国女性在领导层中零代表的统计学不可能性
-slug: the-statistical-impossibility-why-there-are-zero-foreign-women-in-korean-entertainment-leadership-zh-cn
+slug: "the-statistical-impossibility-why-there-are-zero-foreign-women-in-korean-entertainment-leadership-zh-cn"
 date: 2025-06-12T14:00:00+00:00
 lang: zh-cn
 ---

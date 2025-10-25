@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 输出性暴力：韩国如何利用韩流作为国际性交易的烟幕弹 (updated 6/8)
-slug: exporting-sexual-violence-how-korea-uses-hallyu-as-a-smokescreen-for-international-sex-trafficking-zh-cn
+slug: "exporting-sexual-violence-how-korea-uses-hallyu-as-a-smokescreen-for-international-sex-trafficking-zh-cn"
 date: 2025-06-06T15:09:00+00:00
 lang: zh-cn
 ---

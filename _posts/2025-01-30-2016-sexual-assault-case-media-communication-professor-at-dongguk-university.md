@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2016 Sexual Assault Case: Media Communication Professor at Dongguk University"
-slug: 2016-sexual-assault-case-media-communication-professor-at-dongguk-university
+slug: "2016-sexual-assault-case-media-communication-professor-at-dongguk-university"
 date: 2025-01-30T00:00:00+00:00
 lang: en
 ---

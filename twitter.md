@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: default
 title: Gender Watchdog’s Official **X** (Twitter) Account
-slug: gender-watchdogs-official-x-account
-date: 2025-01-01T00:00:00+00:00
-lang: en
+permalink: /twitter/
 ---
 
 The fight for justice continues. 🚨

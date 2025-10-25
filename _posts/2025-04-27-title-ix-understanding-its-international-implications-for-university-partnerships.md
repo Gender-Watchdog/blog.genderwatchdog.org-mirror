@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Title IX: Understanding Its International Implications for University Partnerships"
-slug: title-ix-understanding-its-international-implications-for-university-partnerships
+slug: "title-ix-understanding-its-international-implications-for-university-partnerships"
 date: 2025-04-27T00:00:00+00:00
 lang: en
 ---

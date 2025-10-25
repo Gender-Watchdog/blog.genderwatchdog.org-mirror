@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BIFF’s Illegal Filming Conviction Isn’t Anomaly — It’s a Window into Korea’s Spy‑Cam Crisis and a Culture of Cover‑Up (edited 2025-09-18T03:18)"
-slug: biffs-illegal-filming-conviction-isnt-anomaly-its-a-window-into-koreas-spycam-crisis-and-a-culture-of-coverup
+slug: "biffs-illegal-filming-conviction-isnt-anomaly-its-a-window-into-koreas-spycam-crisis-and-a-culture-of-coverup"
 date: 2025-09-15T04:01:00+00:00
 lang: en
 ---

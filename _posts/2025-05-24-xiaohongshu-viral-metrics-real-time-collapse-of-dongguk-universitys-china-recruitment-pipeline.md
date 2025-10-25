@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Xiaohongshu Viral Metrics: Real-Time Collapse of Dongguk University's China Recruitment Pipeline"
-slug: xiaohongshu-viral-metrics-real-time-collapse-of-dongguk-universitys-china-recruitment-pipeline
+slug: "xiaohongshu-viral-metrics-real-time-collapse-of-dongguk-universitys-china-recruitment-pipeline"
 date: 2025-05-24T16:40:00+00:00
-lang: other
+lang: en
 ---
 
 ## **1. Core Metrics (as of May 25, 2025, 02:33am Beijing time)**

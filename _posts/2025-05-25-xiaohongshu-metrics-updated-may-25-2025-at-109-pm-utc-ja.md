@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Xiaohongshuの指標分析 - 2025年5月25日、最新版
-slug: xiaohongshu-metrics-updated-may-25-2025-at-109-pm-utc-ja
+slug: "xiaohongshu-metrics-updated-may-25-2025-at-109-pm-utc-ja"
 date: 2025-05-25T16:02:00+00:00
 lang: ja
 ---

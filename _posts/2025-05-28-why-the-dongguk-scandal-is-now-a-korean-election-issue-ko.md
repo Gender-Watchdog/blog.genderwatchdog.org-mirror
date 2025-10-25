@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 왜 동국대 스캔들이 이제 한국 대선의 핵심 이슈인가
-slug: why-the-dongguk-scandal-is-now-a-korean-election-issue-ko
+slug: "why-the-dongguk-scandal-is-now-a-korean-election-issue-ko"
 date: 2025-05-28T15:30:00+00:00
 lang: ko
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "신게이트: 동국대학교의 미국 법률 활용과 가치 무시 방식"
-slug: shingate-how-dongguk-university-leveraged-us-law-then-ignored-its-values-ko
+slug: "shingate-how-dongguk-university-leveraged-us-law-then-ignored-its-values-ko"
 date: 2025-02-28T00:00:00+00:00
 lang: ko
 ---

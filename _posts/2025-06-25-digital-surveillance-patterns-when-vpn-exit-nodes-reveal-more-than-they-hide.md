@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Digital Surveillance Patterns: When VPN Exit Nodes Reveal More Than They Hide (updated Sept.2, 2025)"
-slug: digital-surveillance-patterns-when-vpn-exit-nodes-reveal-more-than-they-hide
+slug: "digital-surveillance-patterns-when-vpn-exit-nodes-reveal-more-than-they-hide"
 date: 2025-06-25T03:00:00+00:00
-lang: other
+lang: en
 ---
 
 ## Suspicious Traffic Patterns Emerge

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Dongguk Exposed: A Decade of Sexual Violence Negligence (2016–2025)"
-slug: inside-dongguk-a-decade-of-sexual-violence-and-institutional-failure-20162025
+slug: "inside-dongguk-a-decade-of-sexual-violence-and-institutional-failure-20162025"
 date: 2025-01-30T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 **[Link back to the timeline at genderwatchdog.org](https://genderwatchdog.org/)**

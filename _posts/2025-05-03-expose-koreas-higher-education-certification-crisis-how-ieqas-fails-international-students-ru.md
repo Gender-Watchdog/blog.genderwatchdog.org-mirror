@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "РАЗОБЛАЧЕНИЕ: Кризис сертификации высшего образования в Корее: Как IEQAS подвергает опасности иностранных студентов"
-slug: expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-ru
+slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-ru"
 date: 2025-05-03T00:00:00+00:00
 lang: other
 ---

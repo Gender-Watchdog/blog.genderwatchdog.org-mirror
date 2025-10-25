@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 小紅書病毒式傳播指標：東國大學中國招生管道的即時崩潰
-slug: xiaohongshu-viral-metrics-real-time-collapse-of-dongguk-universitys-china-recruitment-pipeline-zh-tw
+slug: "xiaohongshu-viral-metrics-real-time-collapse-of-dongguk-universitys-china-recruitment-pipeline-zh-tw"
 date: 2025-05-24T02:19:00+00:00
 lang: zh-tw
 ---

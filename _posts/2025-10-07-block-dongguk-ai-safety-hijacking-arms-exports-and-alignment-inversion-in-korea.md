@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Block Dongguk: AI Safety Hijacking, Arms Exports, and Alignment Inversion in Korea (updated Saturday, 11-Oct-25 07:35:15 UTC)"
-slug: block-dongguk-ai-safety-hijacking-arms-exports-and-alignment-inversion-in-korea
+slug: "block-dongguk-ai-safety-hijacking-arms-exports-and-alignment-inversion-in-korea"
 date: 2025-10-07T04:00:00+00:00
 lang: en
 ---

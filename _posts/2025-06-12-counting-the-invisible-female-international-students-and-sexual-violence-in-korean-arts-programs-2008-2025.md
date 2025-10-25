@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Counting the Invisible: Female International Students and Sexual Violence in Korean Arts Programs (2008-2025)"
-slug: counting-the-invisible-female-international-students-and-sexual-violence-in-korean-arts-programs-2008-2025
+slug: "counting-the-invisible-female-international-students-and-sexual-violence-in-korean-arts-programs-2008-2025"
 date: 2025-06-12T14:01:00+00:00
-lang: other
+lang: en
 ---
 
 ## The Scale of the Problem

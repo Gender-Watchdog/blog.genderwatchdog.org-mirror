@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gender Equity in University Faculty: A Key to Better Student Outcomes"
-slug: gender-equity-in-university-faculty-a-key-to-better-student-outcomes
+slug: "gender-equity-in-university-faculty-a-key-to-better-student-outcomes"
 date: 2025-01-06T00:00:00+00:00
 lang: en
 ---

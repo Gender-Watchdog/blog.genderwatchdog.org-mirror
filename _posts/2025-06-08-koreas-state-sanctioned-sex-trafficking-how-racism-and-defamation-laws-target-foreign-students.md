@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Korea's State-Sanctioned Sex Trafficking: How Racism and Defamation Laws Target Foreign Students (updated 11:58 AM, Sunday, June 8, 2025, UTC+0)"
-slug: koreas-state-sanctioned-sex-trafficking-how-racism-and-defamation-laws-target-foreign-students
+slug: "koreas-state-sanctioned-sex-trafficking-how-racism-and-defamation-laws-target-foreign-students"
 date: 2025-06-08T01:45:00+00:00
 lang: en
 ---

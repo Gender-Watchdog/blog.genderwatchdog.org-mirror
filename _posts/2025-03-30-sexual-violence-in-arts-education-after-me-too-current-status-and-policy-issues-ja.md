@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Me Too運動後の芸術教育における性暴力：現状と政策課題
-slug: sexual-violence-in-arts-education-after-me-too-current-status-and-policy-issues-ja
+slug: "sexual-violence-in-arts-education-after-me-too-current-status-and-policy-issues-ja"
 date: 2025-03-30T00:00:00+00:00
 lang: ja
 ---

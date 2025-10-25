@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 東國大學網站出現第二起虛假加拿大夥伴關係：UBC 名單未列東國 — 150+ 天的沉默
-slug: second-falsified-partnership-on-dongguk-universitys-website-ubc-not-listed-by-ubc-150-days-of-silence-hant
+slug: "second-falsified-partnership-on-dongguk-universitys-website-ubc-not-listed-by-ubc-150-days-of-silence-hant"
 date: 2025-09-03T04:03:00+00:00
 lang: zh-tw
 ---

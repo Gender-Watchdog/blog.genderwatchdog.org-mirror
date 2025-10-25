@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Kings: As America Rejects Authoritarianism, Korea Prepares to Crown Trump"
-slug: no-kings-as-america-rejects-authoritarianism-korea-prepares-to-crown-trump
+slug: "no-kings-as-america-rejects-authoritarianism-korea-prepares-to-crown-trump"
 date: 2025-10-22T04:00:00+00:00
 lang: en
 ---

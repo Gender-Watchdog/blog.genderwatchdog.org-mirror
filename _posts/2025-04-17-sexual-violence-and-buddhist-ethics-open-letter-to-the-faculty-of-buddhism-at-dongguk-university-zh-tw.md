@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 防範性暴力與佛教倫理：致東國大學佛教學系的公開信
-slug: sexual-violence-and-buddhist-ethics-open-letter-to-the-faculty-of-buddhism-at-dongguk-university-zh-tw
+slug: "sexual-violence-and-buddhist-ethics-open-letter-to-the-faculty-of-buddhism-at-dongguk-university-zh-tw"
 date: 2025-04-17T00:00:00+00:00
 lang: zh-tw
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why we referenced Joe Rogan in an Epstein‑parallel post — and why we removed it
-slug: why-we-referenced-joe-rogan-in-an-epsteinparallel-post-and-why-we-removed-it
+slug: "why-we-referenced-joe-rogan-in-an-epsteinparallel-post-and-why-we-removed-it"
 date: 2025-09-02T04:02:00+00:00
 lang: en
 ---

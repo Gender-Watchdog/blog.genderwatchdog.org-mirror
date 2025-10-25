@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Apartheid in Korean Entertainment: The Statistical Impossibility of Zero Foreign Women in Leadership (updated 3:52 PM, Thursday, June 12, 2025)"
-slug: the-statistical-impossibility-why-there-are-zero-foreign-women-in-korean-entertainment-leadership
+slug: "the-statistical-impossibility-why-there-are-zero-foreign-women-in-korean-entertainment-leadership"
 date: 2025-06-10T14:00:00+00:00
-lang: other
+lang: en
 ---
 
 ## The Numbers Don't Lie—They Reveal a System

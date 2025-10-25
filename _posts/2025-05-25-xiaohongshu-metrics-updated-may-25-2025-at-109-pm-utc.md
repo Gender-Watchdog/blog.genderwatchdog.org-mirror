@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Xiaohongshu Metrics Analysis - May 25, 2025, China student recruitment pipeline collapse
-slug: xiaohongshu-metrics-updated-may-25-2025-at-109-pm-utc
+slug: "xiaohongshu-metrics-updated-may-25-2025-at-109-pm-utc"
 date: 2025-05-25T13:10:00+00:00
 lang: en
 ---

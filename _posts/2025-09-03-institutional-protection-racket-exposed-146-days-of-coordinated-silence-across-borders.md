@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Institutional Protection Racket Exposed: 146 Days of Coordinated Silence Across Borders"
-slug: institutional-protection-racket-exposed-146-days-of-coordinated-silence-across-borders
+slug: "institutional-protection-racket-exposed-146-days-of-coordinated-silence-across-borders"
 date: 2025-09-03T04:00:00+00:00
 lang: en
 ---

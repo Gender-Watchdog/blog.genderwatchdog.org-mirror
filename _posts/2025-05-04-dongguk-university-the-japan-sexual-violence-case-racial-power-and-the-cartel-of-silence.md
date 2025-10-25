@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Dongguk University: The Japan Sexual Violence Case, Racial Power, and the Cartel of Silence"
-slug: dongguk-university-the-japan-sexual-violence-case-racial-power-and-the-cartel-of-silence
+slug: "dongguk-university-the-japan-sexual-violence-case-racial-power-and-the-cartel-of-silence"
 date: 2025-05-04T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 [Original Korean source](https://seokgung.com/scandal2.htm)

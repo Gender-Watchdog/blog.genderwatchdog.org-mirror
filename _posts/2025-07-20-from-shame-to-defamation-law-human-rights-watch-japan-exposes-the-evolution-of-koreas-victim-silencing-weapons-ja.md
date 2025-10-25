@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HRW日本の韓国評価が体系的性暴力懸念を検証：地域圧力と歴史的平行の戦略分析 (edited UTC 10:54 AM, July 24, 2025)"
-slug: from-shame-to-defamation-law-human-rights-watch-japan-exposes-the-evolution-of-koreas-victim-silencing-weapons-ja
+slug: "from-shame-to-defamation-law-human-rights-watch-japan-exposes-the-evolution-of-koreas-victim-silencing-weapons-ja"
 date: 2025-07-20T04:00:00+00:00
 lang: ja
 ---

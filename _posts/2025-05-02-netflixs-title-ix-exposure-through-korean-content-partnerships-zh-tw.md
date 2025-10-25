@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Netflix通過韓國內容合作關係面臨《第九條修正案》法律風險
-slug: netflixs-title-ix-exposure-through-korean-content-partnerships-zh-tw
+slug: "netflixs-title-ix-exposure-through-korean-content-partnerships-zh-tw"
 date: 2025-05-02T00:00:00+00:00
 lang: zh-tw
 ---

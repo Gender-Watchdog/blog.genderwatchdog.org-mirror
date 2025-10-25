@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EXPOSÉ: Korea's Higher Education Certification Crisis: How IEQAS Fails International Students *updated 4:02 PM UTC,Wednesday, May 14, 2025"
-slug: expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students
+slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students"
 date: 2025-05-03T00:12:00+00:00
 lang: en
 ---

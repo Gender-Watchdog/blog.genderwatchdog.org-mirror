@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 虚构合作关系与东国大学的 Title IX 失职：现正接受全球审查（2025年4月）
-slug: title-ix-and-fake-partnerships-dongguk-university-under-global-review-zh-ch
+slug: "title-ix-and-fake-partnerships-dongguk-university-under-global-review-zh-ch"
 date: 2025-04-21T00:00:00+00:00
 lang: zh-cn
 ---

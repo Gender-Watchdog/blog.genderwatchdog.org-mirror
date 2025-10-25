@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DC Inside LGBT軍事內容系統性審查：組織性壓制證據
-slug: korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression-hant
+slug: "korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression-hant"
 date: 2025-07-06T04:00:00+00:00
 lang: zh-tw
 ---

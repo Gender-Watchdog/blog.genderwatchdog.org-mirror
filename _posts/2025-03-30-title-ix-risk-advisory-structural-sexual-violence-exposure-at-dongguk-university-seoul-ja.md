@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Title IX リスク勧告 — 東国大学（ソウル）における構造的性暴力リスク
-slug: title-ix-risk-advisory-structural-sexual-violence-exposure-at-dongguk-university-seoul-ja
+slug: "title-ix-risk-advisory-structural-sexual-violence-exposure-at-dongguk-university-seoul-ja"
 date: 2025-03-30T00:00:00+00:00
 lang: ja
 ---

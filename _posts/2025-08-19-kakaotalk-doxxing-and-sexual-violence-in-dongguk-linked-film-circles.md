@@ -1,9 +1,9 @@
 ---
 layout: post
 title: KakaoTalk Doxxing and Sexual Violence in Dongguk-Linked Film Circles
-slug: kakaotalk-doxxing-and-sexual-violence-in-dongguk-linked-film-circles
+slug: "kakaotalk-doxxing-and-sexual-violence-in-dongguk-linked-film-circles"
 date: 2025-08-19T04:00:00+00:00
-lang: other
+lang: en
 ---
 
 This post documents a KakaoTalk open-chat exchange circulating on DC Inside (Dongguk Gallery → link post into the Film School minor gallery). It shows sexual violence in a digital context—explicit sexual insults and doxxing threats—within a university‑adjacent community. All offensive language is retained for evidentiary integrity.

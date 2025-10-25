@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 沈黙のパターン：JIFF 2025は性暴力問題を無視し、ソーシャルメディアアカウントは制限に直面
-slug: the-silencing-pattern-jiff-2025-ignores-sexual-violence-concerns-as-social-media-accounts-face-restrictions-ja
+slug: "the-silencing-pattern-jiff-2025-ignores-sexual-violence-concerns-as-social-media-accounts-face-restrictions-ja"
 date: 2025-03-30T00:00:00+00:00
 lang: ja
 ---

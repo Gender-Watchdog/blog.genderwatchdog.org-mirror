@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 沉默模式：2025年全州国际电影节忽视性暴力问题，社交媒体账号面临限制
-slug: the-silencing-pattern-jiff-2025-ignores-sexual-violence-concerns-as-social-media-accounts-face-restrictions-zh-ch
+slug: "the-silencing-pattern-jiff-2025-ignores-sexual-violence-concerns-as-social-media-accounts-face-restrictions-zh-ch"
 date: 2025-04-21T00:00:00+00:00
 lang: zh-cn
 ---

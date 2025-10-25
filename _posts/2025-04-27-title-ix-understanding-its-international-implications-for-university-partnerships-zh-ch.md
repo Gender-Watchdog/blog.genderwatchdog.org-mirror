@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Title IX：理解其对大学国际合作伙伴关系的影响
-slug: title-ix-understanding-its-international-implications-for-university-partnerships-zh-ch
+slug: "title-ix-understanding-its-international-implications-for-university-partnerships-zh-ch"
 date: 2025-04-27T00:00:00+00:00
 lang: zh-cn
 ---

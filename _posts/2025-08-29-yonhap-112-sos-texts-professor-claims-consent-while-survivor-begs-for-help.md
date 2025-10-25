@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yonhap 112 SOS texts: Professor claims “consent” while survivor begs for help"
-slug: yonhap-112-sos-texts-professor-claims-consent-while-survivor-begs-for-help
+slug: "yonhap-112-sos-texts-professor-claims-consent-while-survivor-begs-for-help"
 date: 2025-08-29T04:00:00+00:00
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 学術界におけるトークン主義：東国大学における性別バランスの誤解を招く表現
-slug: tokenism-in-academia-the-misleading-representation-of-gender-balance-at-dongguk-university-ja
+slug: "tokenism-in-academia-the-misleading-representation-of-gender-balance-at-dongguk-university-ja"
 date: 2025-03-30T00:00:00+00:00
 lang: ja
 ---

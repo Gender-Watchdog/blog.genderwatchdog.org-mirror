@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "동국대학교의 허위 파트너십 주장: 평판 문제를 넘어 납세자 사기로?"
-slug: dongguk-universitys-false-partnership-claims-beyond-reputation-issues-to-taxpayer-fraud-ko
+slug: "dongguk-universitys-false-partnership-claims-beyond-reputation-issues-to-taxpayer-fraud-ko"
 date: 2025-02-28T12:00:00+00:00
 lang: ko
 ---

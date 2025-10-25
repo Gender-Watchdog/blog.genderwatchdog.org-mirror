@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Ending Racialized Sexual Violence: The Campaign to Dismantle Korean Educational Apartheid"
-slug: ending-racialized-sexual-violence-the-campaign-to-dismantle-korean-educational-apartheid
+slug: "ending-racialized-sexual-violence-the-campaign-to-dismantle-korean-educational-apartheid"
 date: 2025-07-19T04:03:00+00:00
-lang: other
+lang: en
 ---
 
 After documenting systematic sexual violence in Korean universities for months, we are announcing a strategic shift that reflects the true nature of what we've uncovered: **Korea operates an apartheid system in higher education that systematically targets foreign women through racialized sexual violence**.

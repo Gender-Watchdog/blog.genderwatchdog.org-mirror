@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 米兔運動後藝術教育中的性暴力：現狀和政策問題
-slug: sexual-violence-in-arts-education-after-me-too-current-status-and-policy-issues-zh-tw
+slug: "sexual-violence-in-arts-education-after-me-too-current-status-and-policy-issues-zh-tw"
 date: 2025-04-17T00:00:00+00:00
 lang: zh-tw
 ---

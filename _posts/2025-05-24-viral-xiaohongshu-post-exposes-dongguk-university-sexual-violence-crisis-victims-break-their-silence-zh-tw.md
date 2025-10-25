@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 病毒式小紅書貼文揭露東國大學性暴力危機：受害者打破沉默
-slug: viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence-zh-tw
+slug: "viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence-zh-tw"
 date: 2025-05-24T02:18:00+00:00
 lang: zh-tw
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Korean Government Pension Savings from Firing Sexual Violence Perpetrator Faculty
-slug: korean-government-pension-savings-from-firing-sexual-violence-perpetrator-faculty
+slug: "korean-government-pension-savings-from-firing-sexual-violence-perpetrator-faculty"
 date: 2025-06-27T04:00:00+00:00
-lang: other
+lang: en
 ---
 
 **Currency Conversion Rate Used:** 1.00 South Korean Won = 0.00074 US Dollar (as of December 2024)

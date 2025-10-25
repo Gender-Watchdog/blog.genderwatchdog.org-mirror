@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comparative Report: Gender Equity in Top Global Film Schools"
-slug: comparative-report-gender-equity-in-top-global-film-schools
+slug: "comparative-report-gender-equity-in-top-global-film-schools"
 date: 2025-01-06T00:00:00+00:00
 lang: en
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "CORRECTION: Corporate Partnership Fraud Section in Recent Email Communications"
-slug: correction-corporate-partnership-fraud-section-in-recent-email-communications
+slug: "correction-corporate-partnership-fraud-section-in-recent-email-communications"
 date: 2025-07-19T04:00:00+00:00
-lang: other
+lang: en
 ---
 
 ## Error Identification

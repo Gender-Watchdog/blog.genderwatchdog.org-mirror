@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 希杜斯法律威脅適得其反：東國大學企業恐慌與機構掩蓋的證據
-slug: sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university-zh-tw
+slug: "sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university-zh-tw"
 date: 2025-05-28T00:00:00+00:00
 lang: zh-tw
 ---

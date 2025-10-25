@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Sexual Violence Sexual Harassment in the Korean Film Industry
-slug: sexual-violence-sexual-harassment-in-the-korean-film-industry
+slug: "sexual-violence-sexual-harassment-in-the-korean-film-industry"
 date: 2025-01-03T15:00:00+00:00
-lang: other
+lang: en
 ---
 
 Based on the 2019 Korean Film Industry Sexual Violence/Sexual Harassment Research Summary, published by The Center for Gender Equality in Korean Film, “DeunDeun”, here is a detailed breakdown of the **prevalence**, **types**, **context**, and **gender-specific statistics** related to sexual harassment and sexual violence against women in the industry:

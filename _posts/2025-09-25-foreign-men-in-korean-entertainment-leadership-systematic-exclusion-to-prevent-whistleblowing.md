@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Foreign Men in Korean Entertainment Leadership: Systematic Exclusion to Prevent Whistleblowing"
-slug: foreign-men-in-korean-entertainment-leadership-systematic-exclusion-to-prevent-whistleblowing
+slug: "foreign-men-in-korean-entertainment-leadership-systematic-exclusion-to-prevent-whistleblowing"
 date: 2025-09-25T04:00:00+00:00
 lang: en
 ---

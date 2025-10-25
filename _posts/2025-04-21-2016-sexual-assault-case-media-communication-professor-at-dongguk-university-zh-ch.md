@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016年性暴力案件：东国大学媒体传播教授
-slug: 2016-sexual-assault-case-media-communication-professor-at-dongguk-university-zh-ch
+slug: "2016-sexual-assault-case-media-communication-professor-at-dongguk-university-zh-ch"
 date: 2025-04-21T00:00:00+00:00
 lang: zh-cn
 ---

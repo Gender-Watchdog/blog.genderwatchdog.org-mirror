@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 学术界中的象征性平等：东国大学性别平衡的误导性表现
-slug: tokenism-in-academia-the-misleading-representation-of-gender-balance-at-dongguk-university-zh-ch
+slug: "tokenism-in-academia-the-misleading-representation-of-gender-balance-at-dongguk-university-zh-ch"
 date: 2025-04-21T00:00:00+00:00
 lang: zh-cn
 ---

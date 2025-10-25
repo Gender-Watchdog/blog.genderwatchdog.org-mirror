@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "8 Days From Exposure to Damage Control: How Dongguk University's \"Emergency\" Sexual Violence Education Reveals Institutional Knowledge of Ongoing Crimes"
-slug: 8-days-from-exposure-to-damage-control-how-dongguk-universitys-emergency-sexual-violence-education-reveals-institutional-knowledge-of-ongoing-crimes
+slug: "8-days-from-exposure-to-damage-control-how-dongguk-universitys-emergency-sexual-violence-education-reveals-institutional-knowledge-of-ongoing-crimes"
 date: 2025-05-26T03:49:00+00:00
-lang: other
+lang: en
 ---
 
 ## The Timeline That Exposes Everything

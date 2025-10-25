@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "$74.8 Billion: Korea's Trafficking Economy 71% Larger Than Defense Budget (updated utc-08122025-0216)"
-slug: 748-billion-koreas-trafficking-economy-71-larger-than-defense-budget
+slug: "748-billion-koreas-trafficking-economy-71-larger-than-defense-budget"
 date: 2025-07-24T04:00:00+00:00
-lang: other
+lang: en
 ---
 
 ## Correcting the Math: Sex Trafficking vs Defense Spending

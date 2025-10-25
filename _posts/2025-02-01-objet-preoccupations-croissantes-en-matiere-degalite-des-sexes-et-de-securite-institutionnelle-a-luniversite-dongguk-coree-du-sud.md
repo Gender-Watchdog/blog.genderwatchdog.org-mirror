@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "**Objet : Préoccupations croissantes en matière d’égalité des sexes et de sécurité institutionnelle à l’Université Dongguk (Corée du Sud)**"
-slug: objet-preoccupations-croissantes-en-matiere-degalite-des-sexes-et-de-securite-institutionnelle-a-luniversite-dongguk-coree-du-sud
+slug: "objet-preoccupations-croissantes-en-matiere-degalite-des-sexes-et-de-securite-institutionnelle-a-luniversite-dongguk-coree-du-sud"
 date: 2025-02-01T00:00:00+00:00
 lang: other
 ---

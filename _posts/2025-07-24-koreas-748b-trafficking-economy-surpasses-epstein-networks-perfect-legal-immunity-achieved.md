@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Korea's $74.8B Trafficking Economy Surpasses Epstein Networks: Perfect Legal Immunity Achieved (updated 2025-09-19T10:21:04Z)"
-slug: koreas-748b-trafficking-economy-surpasses-epstein-networks-perfect-legal-immunity-achieved
+slug: "koreas-748b-trafficking-economy-surpasses-epstein-networks-perfect-legal-immunity-achieved"
 date: 2025-07-24T04:00:00+00:00
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Case for International Oversight of Korean Child Trafficking Networks
-slug: the-case-for-international-oversight-of-korean-child-trafficking-networks
+slug: "the-case-for-international-oversight-of-korean-child-trafficking-networks"
 date: 2025-09-02T04:00:00+00:00
 lang: en
 ---

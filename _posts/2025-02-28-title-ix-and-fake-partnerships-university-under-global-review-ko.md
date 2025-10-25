@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Title IX 위험 권고 — 동국대학교(서울)의 구조적 성폭력 노출
-slug: title-ix-and-fake-partnerships-university-under-global-review-ko
+slug: "title-ix-and-fake-partnerships-university-under-global-review-ko"
 date: 2025-02-28T00:00:00+00:00
 lang: ko
 ---

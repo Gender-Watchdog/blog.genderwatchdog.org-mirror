@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "性暴力の輸出：韓国がハルリュを国際的人身売買の隠れ蓑として利用する方法 (updated  11:55 PM, Sunday, June 8, 2025)"
-slug: exporting-sexual-violence-how-korea-uses-hallyu-as-a-smokescreen-for-international-sex-trafficking-ja
+slug: "exporting-sexual-violence-how-korea-uses-hallyu-as-a-smokescreen-for-international-sex-trafficking-ja"
 date: 2025-06-06T15:09:00+00:00
 lang: ja
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 虛構合作關係與東國大學的 Title IX 失職：現正接受全球審查（2025年4月）
-slug: title-ix-and-fake-partnerships-dongguk-university-under-global-review-zh-tw
+slug: "title-ix-and-fake-partnerships-dongguk-university-under-global-review-zh-tw"
 date: 2025-04-17T00:00:00+00:00
 lang: zh-tw
 ---

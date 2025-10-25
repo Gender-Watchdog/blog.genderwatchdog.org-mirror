@@ -1,7 +1,7 @@
 ---
 layout: post
 title: $200 Billion for White Ukrainians in 18 Months, Zero Response to 46,000 Trafficked Asian Women in 100+ Days (updated utc-08122025-0206)
-slug: 200-billion-for-white-ukrainians-in-18-months-zero-response-to-46000-trafficked-asian-women-in-100-days
+slug: "200-billion-for-white-ukrainians-in-18-months-zero-response-to-46000-trafficked-asian-women-in-100-days"
 date: 2025-07-24T04:00:00+00:00
 lang: en
 ---

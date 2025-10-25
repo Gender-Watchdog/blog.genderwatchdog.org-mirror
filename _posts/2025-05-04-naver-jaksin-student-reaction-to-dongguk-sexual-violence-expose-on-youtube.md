@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Naver Jaksin: Student Reaction to Dongguk Sexual Violence Exposé on YouTube"
-slug: naver-jaksin-student-reaction-to-dongguk-sexual-violence-expose-on-youtube
+slug: "naver-jaksin-student-reaction-to-dongguk-sexual-violence-expose-on-youtube"
 date: 2025-05-04T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 A revealing moment in Korea's digital public sphere: a student recently encountered our YouTube exposé on the structural sexual violence risks and falsified partnerships at Dongguk University's graduate film program. The student posted the following question on Naver 지식iN (Jaksin), Korea's largest Q&A platform:

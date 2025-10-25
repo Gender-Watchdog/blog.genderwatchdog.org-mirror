@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2016년 성폭력 사건: 동국대학교 미디어커뮤니케이션 교수"
-slug: 2016-sexual-assault-case-media-communication-professor-at-dongguk-university-ko
+slug: "2016-sexual-assault-case-media-communication-professor-at-dongguk-university-ko"
 date: 2025-02-28T00:00:00+00:00
 lang: ko
 ---

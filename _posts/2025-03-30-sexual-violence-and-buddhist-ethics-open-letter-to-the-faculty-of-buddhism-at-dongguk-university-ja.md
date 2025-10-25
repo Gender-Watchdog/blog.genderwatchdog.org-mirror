@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 性暴力防止と仏教倫理
-slug: sexual-violence-and-buddhist-ethics-open-letter-to-the-faculty-of-buddhism-at-dongguk-university-ja
+slug: "sexual-violence-and-buddhist-ethics-open-letter-to-the-faculty-of-buddhism-at-dongguk-university-ja"
 date: 2025-03-30T00:00:00+00:00
 lang: ja
 ---

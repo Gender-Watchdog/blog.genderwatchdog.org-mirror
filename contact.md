@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: default
 title: 📬 Contact
-slug: contact
-date: 2024-12-31T15:00:00+00:00
-lang: en
+permalink: /contact/
 ---
 
 We welcome secure inquiries, tips, and collaboration requests.

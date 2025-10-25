@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "URGENT ESG ALERT: State-Sanctioned Sex Trafficking in Korean Higher Education - Critical Corporate Liability and Infrastructure Risks (edited utc-8132025-1232)"
-slug: urgent-esg-alert-state-sanctioned-sex-trafficking-in-korean-higher-education-critical-corporate-liability-and-infrastructure-risks
+slug: "urgent-esg-alert-state-sanctioned-sex-trafficking-in-korean-higher-education-critical-corporate-liability-and-infrastructure-risks"
 date: 2025-07-05T15:00:00+00:00
 lang: en
 ---

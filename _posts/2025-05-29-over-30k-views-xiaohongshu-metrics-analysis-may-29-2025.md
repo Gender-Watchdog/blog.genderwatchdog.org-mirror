@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Over 30k views, Xiaohongshu Metrics Analysis - May 29, 2025
-slug: over-30k-views-xiaohongshu-metrics-analysis-may-29-2025
+slug: "over-30k-views-xiaohongshu-metrics-analysis-may-29-2025"
 date: 2025-05-29T11:31:45.211747+00:00
-lang: other
+lang: en
 ---
 
 ## Dongguk University Sexual Violence Crisis Campaign Performance Update

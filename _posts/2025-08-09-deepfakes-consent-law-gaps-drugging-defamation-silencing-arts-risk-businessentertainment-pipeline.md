@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deepfakes + consent law gaps + drugging + defamation silencing + arts risk + business‑entertainment pipeline
-slug: deepfakes-consent-law-gaps-drugging-defamation-silencing-arts-risk-businessentertainment-pipeline
+slug: "deepfakes-consent-law-gaps-drugging-defamation-silencing-arts-risk-businessentertainment-pipeline"
 date: 2025-08-09T04:00:00+00:00
 lang: en
 ---

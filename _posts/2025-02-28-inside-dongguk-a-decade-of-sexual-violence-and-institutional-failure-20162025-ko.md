@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "동국대 실상 공개: 10년간의 성폭력 방치 (2016–2025)"
-slug: inside-dongguk-a-decade-of-sexual-violence-and-institutional-failure-20162025-ko
+slug: "inside-dongguk-a-decade-of-sexual-violence-and-institutional-failure-20162025-ko"
 date: 2025-02-28T00:00:00+00:00
 lang: ko
 ---

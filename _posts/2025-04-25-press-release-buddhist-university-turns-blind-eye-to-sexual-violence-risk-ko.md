@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "보도자료: 불교계 대학, 성폭력 위험에 눈감다"
-slug: press-release-buddhist-university-turns-blind-eye-to-sexual-violence-risk-ko
+slug: "press-release-buddhist-university-turns-blind-eye-to-sexual-violence-risk-ko"
 date: 2025-04-25T00:00:00+00:00
 lang: ko
 ---

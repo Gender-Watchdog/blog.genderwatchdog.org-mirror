@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "特報：韓国の高等教育認証の危機：IEQASが留学生を守れない実態, *更新：2025年5月14日（水）16:02 UTC"
-slug: expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-ja
+slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-ja"
 date: 2025-05-03T00:00:00+00:00
 lang: ja
 ---

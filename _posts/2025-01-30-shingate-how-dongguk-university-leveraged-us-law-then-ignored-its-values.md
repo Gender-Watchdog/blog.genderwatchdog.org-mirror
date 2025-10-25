@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Shingate: How Dongguk University Leveraged U.S. Law — Then Ignored Its Values"
-slug: shingate-how-dongguk-university-leveraged-us-law-then-ignored-its-values
+slug: "shingate-how-dongguk-university-leveraged-us-law-then-ignored-its-values"
 date: 2025-01-30T00:00:00+00:00
-lang: other
+lang: en
 ---
 
 **[Link back to the timeline at genderwatchdog.org](https://genderwatchdog.org/)**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "揭露：韓國高等教育認證危機：IEQAS如何辜負國際學生, *更新時間：2025年5月14日，星期三，UTC 16:02"
-slug: expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-zh-tw
+slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-zh-tw"
 date: 2025-05-03T00:00:00+00:00
 lang: zh-tw
 ---

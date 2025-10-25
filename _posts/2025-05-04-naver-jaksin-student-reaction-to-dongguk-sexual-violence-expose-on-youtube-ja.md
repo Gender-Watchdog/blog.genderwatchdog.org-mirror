@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 東国大学：日本人女性への性的暴力事件、人種的権力、沈黙のカルテル
-slug: naver-jaksin-student-reaction-to-dongguk-sexual-violence-expose-on-youtube-ja
+slug: "naver-jaksin-student-reaction-to-dongguk-sexual-violence-expose-on-youtube-ja"
 date: 2025-05-04T00:00:00+00:00
 lang: ja
 ---

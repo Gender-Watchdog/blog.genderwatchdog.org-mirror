@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "การเปิดโปง: วิกฤตการรับรองการศึกษาระดับอุดมศึกษาของเกาหลี: IEQAS ทำให้นักศึกษาต่างชาติตกอยู่ในอันตราย"
-slug: expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-th
+slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students-th"
 date: 2025-05-03T00:00:00+00:00
 lang: other
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 東国大学の虚偽パートナーシップ主張：評判問題を超えた納税者詐欺？
-slug: dongguk-universitys-false-partnership-claims-beyond-reputation-issues-to-taxpayer-fraud-ja
+slug: "dongguk-universitys-false-partnership-claims-beyond-reputation-issues-to-taxpayer-fraud-ja"
 date: 2025-03-30T12:00:00+00:00
 lang: ja
 ---
