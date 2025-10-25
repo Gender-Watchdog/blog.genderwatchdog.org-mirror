@@ -1,0 +1,22 @@
+---
+layout: default
+title: "All Posts in Other Languages"
+lang: other
+---
+
+<h1>All Posts in Other Languages</h1>
+<p>Posts in French, Indonesian, Russian, Vietnamese, Kazakh, Mongolian, Thai, Uzbek, and other languages.</p>
+
+<ul class="post-list">
+{% assign posts = site.posts | where: "lang", "other" | sort: "date" | reverse %}
+{% for post in posts %}
+    <li>
+        <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        {% if post.meta_description %}
+        <p>{{ post.meta_description }}</p>
+        {% endif %}
+    </li>
+{% endfor %}
+</ul>
+

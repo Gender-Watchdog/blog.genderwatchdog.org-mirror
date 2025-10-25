@@ -1,0 +1,66 @@
+# Site settings
+title: "Gender Watchdog Blog"
+description: "Exposing Institutional Capture in Korea Through Dongguk University: Academic Fraud, Racialized Sexual Violence, Institutional Betrayal and Press Complicity"
+url: "https://blog.genderwatchdog.org"
+baseurl: ""
+
+# Author information
+author:
+  name: "Gender Watchdog Research Collective"
+  email: "genderwatchdog@proton.me"
+
+# Social links
+twitter_username: Gender_Watchdog
+github_username: Gender-Watchdog
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Permalink structure (matches Bear Blog format)
+permalink: /:slug/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:slug/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - convert_csv_to_posts.py
+  - secret-files/
+  - vendor/
+  - .git/
+  - .gitignore
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Timezone
+timezone: UTC
+
+# Language configuration
+languages: ["en", "zh-cn", "zh-tw", "ja", "ko", "other"]
+
+# Feed settings
+feed:
+  path: feed.xml
+
