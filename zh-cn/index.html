@@ -1,0 +1,21 @@
+---
+layout: default
+title: "所有简体中文文章"
+lang: zh-cn
+---
+
+<h1>所有简体中文文章</h1>
+
+<ul class="post-list">
+{% assign posts = site.posts | where: "lang", "zh-cn" | sort: "date" | reverse %}
+{% for post in posts %}
+    <li>
+        <span class="post-date">{{ post.date | date: "%Y年%m月%d日" }}</span>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        {% if post.meta_description %}
+        <p>{{ post.meta_description }}</p>
+        {% endif %}
+    </li>
+{% endfor %}
+</ul>
+

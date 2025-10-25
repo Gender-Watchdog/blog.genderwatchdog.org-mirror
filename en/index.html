@@ -1,0 +1,21 @@
+---
+layout: default
+title: "All English Posts"
+lang: en
+---
+
+<h1>All English Posts</h1>
+
+<ul class="post-list">
+{% assign posts = site.posts | where: "lang", "en" | sort: "date" | reverse %}
+{% for post in posts %}
+    <li>
+        <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        {% if post.meta_description %}
+        <p>{{ post.meta_description }}</p>
+        {% endif %}
+    </li>
+{% endfor %}
+</ul>
+

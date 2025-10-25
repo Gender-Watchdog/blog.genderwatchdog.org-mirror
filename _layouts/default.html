@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
+    <meta name="description" content="{% if page.meta_description %}{{ page.meta_description | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | escape }}{% endif %}">
+    
+    {% if page.canonical_url %}
+    <link rel="canonical" href="{{ page.canonical_url }}">
+    {% endif %}
+    
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+    <meta property="og:description" content="{% if page.meta_description %}{{ page.meta_description | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | escape }}{% endif %}">
+    <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@{{ site.twitter_username }}">
+    
+    {% seo %}
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+            
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/en/' | relative_url }}">English</a></li>
+                    <li><a href="{{ '/zh-cn/' | relative_url }}">简体中文</a></li>
+                    <li><a href="{{ '/zh-tw/' | relative_url }}">繁體中文</a></li>
+                    <li><a href="{{ '/ja/' | relative_url }}">日本語</a></li>
+                    <li><a href="{{ '/ko/' | relative_url }}">한국어</a></li>
+                    <li><a href="{{ '/other/' | relative_url }}">Other</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p><strong>Legal & Privacy</strong></p>
+            <p>The Gender Watchdog Blog documents institutional responses to sexual violence in higher education, with focus on exposing institutional capture patterns in Korea through the Dongguk University case. We document how Korean press complicity, QS rankings legitimization, IEQAS certification fraud, and defamation law as legal infrastructure create systematic erasure of violence against international students. All information is shared for educational and advocacy purposes under CC BY-NC-SA 4.0.</p>
+            
+            <p><strong>Analytics & Privacy</strong></p>
+            <p>This site uses privacy-focused Fathom Analytics (GDPR compliant, no personal data tracked, no cookies). We respect your privacy and comply with international data protection regulations.</p>
+            
+            <div class="footer-links">
+                <p>
+                    <a href="https://x.com/{{ site.twitter_username }}">X/Twitter</a> | 
+                    <a href="https://bsky.app/profile/genderwatchdog.org">Bluesky</a> | 
+                    <a href="https://substack.com/@genderwatchdog">Substack</a> | 
+                    <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+                </p>
+            </div>
+            
+            <div class="mirror-notice">
+                <p><strong>Mirror Sites:</strong></p>
+                <p>Primary: <a href="https://blog.genderwatchdog.org">blog.genderwatchdog.org</a> (GitHub Pages)</p>
+                <p>Mirror: <a href="https://genderwatchdog.bearblog.dev">genderwatchdog.bearblog.dev</a> (Bear Blog)</p>
+                <p><em>If one mirror is blocked, try another. All contain identical content.</em></p>
+            </div>
+            
+            <p class="copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. All rights reserved.</p>
+            <p class="contact">Contact: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+        </div>
+    </footer>
+    
+    <script async src="https://cdn.usefathom.com/script.js" data-site="YOUR-FATHOM-SITE-ID" defer></script>
+</body>
+</html>
+
