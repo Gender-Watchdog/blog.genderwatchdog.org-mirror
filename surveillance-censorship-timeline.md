@@ -334,7 +334,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
                 <div class="event-description">
                     After successful viral XHS campaign (50k+ views May-June), created safe.genderwatchdog.org to mirror key posts. Within minutes of seeing 2 viewers arrive via Bearblog Analytics, multiple XHS posts became ghost-banned—accessible only when logged into our own account, invisible to all other users even via direct URL.
                 </div>
-                <a href="https://genderwatchdog.bearblog.dev/blog/" class="event-link" target="_blank">Documentation →</a>
+                <a href="https://safe.genderwatchdog.org/" class="event-link" target="_blank">Documentation →</a>
             </div>
         </div>
         
