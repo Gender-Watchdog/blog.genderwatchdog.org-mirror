@@ -143,6 +143,9 @@ We have requested DNS server logs from Namecheap to understand the root cause.
 
 **Update (October 26, 2025):** The domain blocking on October 25 was not the first censorship attempt—it was the **third escalation** in 18 days, each targeting our APEC-related documentation with increasing aggression.
 
+**📊 [View Complete 6-Month Surveillance & Censorship Timeline →](/surveillance-censorship-timeline.html)**  
+*Interactive timeline documenting systematic suppression from June through October 2025, with evidence links and pattern analysis.*
+
 ### October 7: APEC Engagement → Suppression → Evidence Cleanup
 
 **The first incident** occurred when APEC Secretariat directly engaged with our content, then immediately suppressed it:
@@ -742,6 +745,7 @@ We're now on infrastructure that requires public legal process for any takedown.
 **This Site:**
 - [English Posts](/en/)
 - [All Languages](/) (en, ko, ja, zh-cn, zh-tw, other)
+- [6-Month Surveillance & Censorship Timeline](/surveillance-censorship-timeline.html) ← **New**
 - [About Gender Watchdog](/about/)
 - [Contact Us](/contact/)
 
