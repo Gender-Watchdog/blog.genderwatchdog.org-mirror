@@ -4,6 +4,9 @@ title: "APEC Leaders Gather in Gyeongju—Where Dongguk University Students Shar
 slug: "apec-leaders-gather-in-gyeongjuwhere-dongguk-university-students-share-dorms-with-random-tourists"
 date: 2025-10-14T04:00:00+00:00
 lang: en
+meta_description: "APEC Economic Leaders' Week begins October 27 in Gyeongju, South Korea—the same city where Dongguk University students document housing exploitation: random tourists sharing student dorms, forced fees, racist harassment, and administrative abandonment while campus leadership faces criminal prosecution."
+keywords: "APEC 2025, APEC Gyeongju, Dongguk University scandal, international student exploitation Korea, Chinese students Korea, student housing fraud, APEC accountability, Korea AI governance, institutional capture, APEC Economic Leaders' Week 2025"
+image: "https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/10132025-dongguk-wise-dorm-problems/dongguk-dorm-has-hostel-guests.png?raw=true"
 ---
 
 **October 14, 2025**
