@@ -5,7 +5,7 @@ slug: "why-we-migrated-domain-blocking-48-hours-before-apec-korea"
 date: 2025-10-25T04:34:00+00:00
 modified_date: 2025-10-26T04:30:00+00:00
 lang: en
-meta_description: "Our custom domain was blocked exactly 48 hours before APEC Leaders' Week in Gyeongju—the same city where we documented institutional exploitation. This followed an earlier Substack censorship attempt on October 20. Here's why we migrated to GitHub Pages and what it means for censorship resistance."
+meta_description: "Our custom domain was blocked exactly 48 hours before APEC Leaders' Week in Gyeongju—the third censorship escalation in 18 days. From APEC's suppression of our X.com reply (Oct 7) to Substack blocking (Oct 20) to infrastructure-level domain blocking (Oct 25). Here's why we migrated to GitHub Pages and what it means for censorship resistance."
 ---
 
 # Why We Migrated: Domain Blocking 48 Hours Before APEC Economic Leaders' Week in Gyeongju, Korea
@@ -139,11 +139,42 @@ We have requested DNS server logs from Namecheap to understand the root cause.
 
 ---
 
-## The October 20 Substack Censorship: First Attempt Failed
+## The Escalating Censorship Pattern: Three Attempts in 18 Days
 
-**Update (October 26, 2025):** The domain blocking on October 25 was not the first censorship attempt. Five days earlier, on **October 20, 2025**, two of our Substack posts documenting the same APEC-related issues became suddenly inaccessible.
+**Update (October 26, 2025):** The domain blocking on October 25 was not the first censorship attempt—it was the **third escalation** in 18 days, each targeting our APEC-related documentation with increasing aggression.
 
-### What Happened on October 20
+### October 7: APEC Engagement → Suppression → Evidence Cleanup
+
+**The first incident** occurred when APEC Secretariat directly engaged with our content, then immediately suppressed it:
+
+**Timeline:**
+- **October 7, 2025**: APEC Secretariat **liked** our reply to their announcement of APEC Economic Leaders' Week in Gyeongju
+- **23 minutes later**: Our reply **disappeared from under APEC's post** (became invisible as a reply while remaining accessible via direct URL)
+- **Between Oct 7-10**: APEC **unliked** our post (evidence cleanup—the like notification was completely removed)
+
+**What we documented:**
+
+Our reply raised governance transparency and student safety concerns during Korea's hosting of APEC Leaders' Week in Gyeongju—the same city where we documented Dongguk WISE campus exploitation.
+
+**The suppression pattern:**
+1. ✅ **APEC officially engaged** - Liked our reply raising governance concerns
+2. ❌ **Immediate suppression** - Reply became invisible under APEC's post within 23 minutes
+3. ❌ **Evidence cleanup** - APEC removed their like, erasing notification
+4. ✅ **Content still accessible** - Direct URL worked, only the reply connection was severed
+
+**X.com documentation:** [Full thread with evidence →](https://x.com/Gender_Watchdog/status/1975429913491743188)
+
+**Blog post:** [Institutional Capture in Korea (mentions APEC suppression) →](/institutional-capture-in-korea-exploitation-economy-governance-failures/)
+
+**What this proved:** When our APEC-critical content received diplomatic validation (APEC's like), it was immediately disconnected from APEC's post—showing ability to censor even diplomatically-engaged content without deleting the original post.
+
+---
+
+### October 20: Substack Platform Censorship (Failed When Exposed)
+
+**The second incident** escalated from social media suppression to platform-level content blocking.
+
+**What Happened:**
 
 **October 20, 2025, ~3:30 AM EST (12:30 PM KST):**
 
@@ -208,21 +239,37 @@ We sent a detailed email to Substack requesting transparency on October 20:
 
 **Substack never responded.**
 
-### Why This Matters for the Domain Blocking
+---
 
-The October 20 Substack incident shows **escalating censorship attempts:**
+### October 25: Domain Blocking (Infrastructure-Level Escalation)
+
+**The third incident** escalated to infrastructure-level suppression when platform-level censorship failed.
+
+This is the domain blocking documented throughout this post—occurring **exactly 48 hours before APEC** begins.
+
+---
+
+### The Three-Stage Escalation Pattern
+
+**October 7** (20 days before APEC):
+- ❌ Social media reply suppression (X.com context removal)
+- ❌ Evidence cleanup (APEC unliked)
+- ✅ **Content still accessible** via direct URL
+- ✅ **Method**: Context disconnection (reply became invisible under APEC's post)
 
 **October 20** (7 days before APEC):
-- ❌ Censored 2 Substack posts about APEC-related issues
-- ✅ Reversed when we documented it publicly
+- ❌ Platform content blocking (Substack posts inaccessible)
+- ✅ Reversed when we documented it publicly (10-25 minutes)
 - ✅ **Censorship failed** - content remained accessible after exposure
+- ✅ **Method**: Platform-level blocking (but reversible when exposed)
 
 **October 25** (48 hours before APEC):
-- ❌ Domain blocking at DNS/hosting provider level
-- ❌ **More aggressive approach** - targeting infrastructure, not just platform content
+- ❌ Infrastructure domain blocking (DNS/hosting provider level)
+- ❌ **More aggressive** - targeting infrastructure, not just platform content
 - ❌ **Harder to reverse** - requires migration to new infrastructure
+- ✅ **Method**: Infrastructure-level suppression (not reversible by single platform)
 
-**The pattern:** When soft censorship (Substack post blocking) failed due to public exposure, they escalated to infrastructure-level suppression (domain blocking) closer to APEC.
+**The escalation:** Each method failed or wasn't aggressive enough → escalated to next level as APEC approached.
 
 ### The October 20 Coincidence
 
@@ -278,17 +325,23 @@ This isn't isolated—it's an **escalating series** of censorship attempts:
 1. **April 2025**: We publish documentation → Institutions remain silent
 2. **May 2025**: Sidus FNH (entertainment company) sends legal threats → We document and continue
 3. **190+ days**: Canadian embassy, Korean government, university maintain silence
-4. **October 14, 2025**: Publish Dongguk WISE exploitation + Korea Herald coverage failure on Substack
-5. **October 19-20, 2025**: Send evidence packages to APEC delegations, international press, Korean authorities
-6. **October 20, 2025, 3:30 AM EST**: **First censorship attempt** - Both Substack posts become inaccessible (12 days before APEC)
-7. **October 20, 2025, ~6:00 AM EST**: Posts restored within 10-25 minutes after public documentation → **Censorship attempt failed**
-8. **October 23, 2025**: APEC delegations begin arriving in Gyeongju
-9. **October 25, 2025, ~1:30 PM KST**: **Second censorship attempt** - Domain blocking at infrastructure level (48 hours before APEC)
-10. **October 27, 2025**: APEC officially begins with international media present
+4. **October 7, 2025**: **First censorship attempt** - APEC Secretariat likes our reply raising governance concerns → 23 minutes later: reply becomes invisible under APEC's post → Sometime later: APEC unlikes (evidence cleanup)
+5. **October 14, 2025**: Publish Dongguk WISE exploitation + Korea Herald coverage failure on Substack
+6. **October 19-20, 2025**: Send evidence packages to APEC delegations, international press, Korean authorities
+7. **October 20, 2025, 3:30 AM EST**: **Second censorship attempt** - Both Substack posts become inaccessible (7 days before APEC)
+8. **October 20, 2025, ~6:00 AM EST**: Posts restored within 10-25 minutes after public documentation → **Censorship attempt failed**
+9. **October 23, 2025**: APEC delegations begin arriving in Gyeongju
+10. **October 25, 2025, ~1:30 PM KST**: **Third censorship attempt** - Domain blocking at infrastructure level (48 hours before APEC)
+11. **October 27, 2025**: APEC officially begins with international media present
 
-**The escalation pattern:** Soft censorship (Substack content blocking) failed when exposed → Escalated to infrastructure-level suppression (domain blocking) as APEC approached.
+**The three-stage escalation pattern:**
+- **October 7**: Social media context suppression (reply disconnection) → Content still accessible via direct URL
+- **October 20**: Platform content blocking (Substack) → Failed when publicly documented
+- **October 25**: Infrastructure domain blocking → Required migration to censorship-resistant infrastructure
 
-The suppression attempts correlate **exactly** with evidence distribution to APEC delegations and the timing of maximum international visibility in the specific location we documented.
+Each censorship method failed or wasn't aggressive enough → escalated to next level as APEC approached.
+
+The suppression attempts correlate **exactly** with APEC timing and evidence distribution to APEC delegations—showing systematic targeting of documentation about institutional failures in the APEC host city.
 
 ---
 
@@ -724,7 +777,7 @@ We're now on infrastructure that requires public legal process for any takedown.
 - **October 25, 2025, 8:30 PM KST**: DNS propagated globally
 - **October 25, 2025, 9:00 PM KST**: All 205 posts verified accessible
 - **October 25, 2025, 9:30 PM KST**: Press freedom organizations notified
-- **October 26, 2025, 4:30 AM UTC**: Post updated with October 20 Substack censorship documentation, AWS explanation analysis, and escalation pattern
+- **October 26, 2025, 4:30 AM UTC**: Post updated with three-stage escalation pattern documentation: October 7 APEC X.com suppression, October 20 Substack censorship, October 25 domain blocking. Added AWS explanation analysis.
 - **October 27-November 1, 2025**: APEC Leaders' Week proceeds with our documentation now censorship-resistant
 
 **The work continues.**
