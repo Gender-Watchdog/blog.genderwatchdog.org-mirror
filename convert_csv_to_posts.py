@@ -179,7 +179,8 @@ def escape_yaml_string(s):
         return '""'
     
     # If string contains special YAML characters, wrap in quotes
-    if any(c in s for c in [':', '#', '"', "'", '\n', '@', '`']):
+    # Added * to prevent YAML alias parsing errors
+    if any(c in s for c in [':', '#', '"', "'", '\n', '@', '`', '*']):
         # Escape double quotes
         s = s.replace('"', '\\"')
         return f'"{s}"'
