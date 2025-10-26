@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **🚨 계정 정지 안내**
+title: "🚨 계정 정지 안내"
 slug: "account-suspension-update-ko"
 date: 2025-02-28T00:00:00+00:00
 lang: ko
