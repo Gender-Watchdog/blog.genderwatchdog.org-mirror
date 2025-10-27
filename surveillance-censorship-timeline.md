@@ -517,11 +517,12 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
                 <div class="event-date">October 25, 2025 (48 hours before APEC)</div>
-                <div class="event-title">Domain Blocking - Infrastructure Attack</div>
+                <div class="event-title"><s>Domain Blocking - Infrastructure Attack</s> → Infrastructure Failure - Bot Traffic Spike</div>
                 <div class="event-description">
-                    <strong>Time:</strong> ~12:34 PM KST. Custom domain blog.genderwatchdog.org stops resolving after 6 months of operation. <strong>Registrar (Namecheap):</strong> No legal actions, court orders, or government requests. DNS records unchanged, propagating correctly. <strong>Hosting (Bear Blog):</strong> Dashboard shows "DNS not set" despite 6 months of operation. Default URL (genderwatchdog.bearblog.dev) remains accessible. <strong>Analysis:</strong> Hosting-level interference—only entity with capability to selectively disable custom domain. Migrated to GitHub Pages (Microsoft infrastructure).
+                    <strong>Time:</strong> ~12:34 PM KST. Custom domain blog.genderwatchdog.org stops resolving after 6 months of operation. <strong>Registrar (Namecheap):</strong> No legal actions, court orders, or government requests. DNS records unchanged, propagating correctly. <strong>October 28 Update:</strong> Bear Blog developer confirmed bot traffic spike crashed reverse proxy server (affected all custom domains globally). Developer: "Can't entirely rule out foul play" but "terrible timing." <strong>Context:</strong> Incident occurred amid global AI scraping crisis as Korea announces $100 trillion AI expansion. Migrated to GitHub Pages (Microsoft infrastructure).
                 </div>
-                <a href="/why-we-migrated-domain-blocking-48-hours-before-apec-korea/" class="event-link">Migration Documentation →</a>
+                <a href="/why-we-migrated-domain-blocking-48-hours-before-apec-korea/" class="event-link">Migration Post →</a><br>
+                <a href="/bot-traffic-ai-governance-korea/" class="event-link">AI Governance Analysis →</a>
             </div>
         </div>
         

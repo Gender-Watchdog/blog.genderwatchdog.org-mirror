@@ -8,8 +8,6 @@ lang: en
 meta_description: "Our custom domain was blocked exactly 48 hours before APEC Leaders' Week in Gyeongju—the third censorship escalation in 18 days. From APEC's suppression of our X.com reply (Oct 7) to Substack blocking (Oct 20) to infrastructure-level domain blocking (Oct 25). Here's why we migrated to GitHub Pages and what it means for censorship resistance."
 ---
 
-# Why We Migrated: Domain Blocking 48 Hours Before APEC Economic Leaders' Week in Gyeongju, Korea
-
 **October 25, 2025** — We noticed that our custom domain `blog.genderwatchdog.org` stopped resolving globally at approximately 12:34 PM KST today. The timing is not coincidental: **48 hours before APEC Economic Leaders' Week begins in Gyeongju, South Korea**—the same city where we documented student exploitation at Dongguk University's WISE campus.
 
 This post documents the censorship attempt, our migration to more resilient infrastructure, and why this makes our work **stronger**, not weaker.
@@ -136,6 +134,21 @@ However, **AWS service status records show this explanation is impossible:**
 4. Why did this occur **exactly** 48 hours before APEC, not during the actual AWS outage on October 20?
 
 We have requested DNS server logs from Namecheap to understand the root cause.
+
+#### **Update (October 28, 2025): Technical Cause Identified**
+
+Bear Blog's developer confirmed the root cause: **bot traffic spike crashed the reverse proxy server** (affecting all custom domains globally, not just ours).
+
+**Developer's statement:** "So while I can't entirely rule out foul play, I'm quite certain that this is just terrible timing."
+
+**What this means:**
+- ✅ Technical cause confirmed: Bot traffic overload
+- ⚠️ Intentionality remains ambiguous ("can't entirely rule out foul play")
+- 🌐 Part of larger AI scraping crisis affecting internet infrastructure globally
+
+**The bigger story:** Whether natural or malicious, the bot spike revealed a global crisis of AI companies' ruthless data scraping crashing infrastructure—and Korea's $100 trillion bet to become a "top three AI nation" by 2027 raises urgent governance questions about institutional integrity, ethical data collection, and AI safety oversight.
+
+**📊 [Full Analysis: Bot Traffic, AI Governance, and Korea's $100 Trillion Gambit →](/bot-traffic-ai-governance-korea/)**
 
 ---
 
@@ -783,6 +796,7 @@ We're now on infrastructure that requires public legal process for any takedown.
 - **October 25, 2025, 9:30 PM KST**: Press freedom organizations notified
 - **October 26, 2025, 4:30 AM UTC**: Post updated with three-stage escalation pattern documentation: October 7 APEC X.com suppression, October 20 Substack censorship, October 25 domain blocking. Added AWS explanation analysis.
 - **October 27-November 1, 2025**: APEC Leaders' Week proceeds with our documentation now censorship-resistant
+- **October 28, 2025, 10:00 AM UTC**: Post updated with technical investigation results: Bot traffic spike crashed reverse proxy server. Developer: "Can't entirely rule out foul play" but "terrible timing." Added link to AI governance analysis.
 
 **The work continues.**
 
