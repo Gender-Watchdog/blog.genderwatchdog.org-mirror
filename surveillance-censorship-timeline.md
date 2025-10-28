@@ -436,8 +436,9 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
                 <div class="event-date">August–October 2025</div>
                 <div class="event-title">Save My Seoul Documentary Removed from Civl</div>
                 <div class="event-description">
-                    Documentary exposing Korea's $74.8B sex industry removed from Civl streaming platform after we extensively shared it in blog posts and X.com. Film documented: government historical role (25% of GDP from prostitution in 1960s), 50% of female runaways end up in prostitution, corporate slush funds used for sexual entertainment, police denial of victimhood. Now available only on Vimeo on-demand.
+                    Documentary exposing Korea's $74.8B sex industry removed from Civl streaming platform after we extensively shared it in blog posts and X.com. Film documented: government historical role (25% of GDP from prostitution in 1960s), 50% of female runaways end up in prostitution, corporate slush funds used for sexual entertainment, police denial of victimhood. Civl has not responded to our inquiries. Now available only on Vimeo on-demand.
                 </div>
+                <a href="/assets/images/apec-surveillance-censorship/civl-save-my-seoul-removed.png" class="event-link">Screenshot Evidence →</a><br>
                 <a href="https://vimeo.com/ondemand/savemyseoul" class="event-link" target="_blank">Watch on Vimeo →</a>
             </div>
         </div>
