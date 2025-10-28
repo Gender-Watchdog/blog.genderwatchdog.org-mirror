@@ -440,7 +440,7 @@ The documentary "Save My Seoul" provides direct evidence of systematic corporate
 - **30:33**: "Corporate slush fund to use on prostitution" - documenting systematic corporate funding of trafficking
 
 
-Source: [Save My Seoul Documentary](https://watch.civl.com/programs/save-my-seoul)
+Source: [Save My Seoul Documentary](https://vimeo.com/ondemand/savemyseoul) — **Censorship note**: [Removed from Civl platform](/assets/images/apec-surveillance-censorship/civl-save-my-seoul-removed.png) after we shared extensively. See [timeline](/surveillance-censorship-timeline/)
 
 **Business Culture Criminal Pattern**:
 - **Normalized prostitution** in corporate entertainment and "networking" with documented cultural expectation

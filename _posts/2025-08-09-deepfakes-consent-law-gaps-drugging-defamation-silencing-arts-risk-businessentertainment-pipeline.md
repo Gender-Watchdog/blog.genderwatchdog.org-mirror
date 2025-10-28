@@ -65,7 +65,7 @@ Quid pro quo system evidence:
 - Grooming via “legitimate” internships and networking that funnel vulnerable students into sexual exploitation
 Documented in the film “Save My Seoul” (timestamps: 24:40 “prostitution is culture”, 30:20 hosting expectation of sexual entertainment, 30:33 corporate slush funds): 
 
-[Save My Seoul Documentary](https://watch.civl.com/programs/save-my-seoul)
+[Save My Seoul Documentary](https://vimeo.com/ondemand/savemyseoul) ([removed from Civl](/assets/images/apec-surveillance-censorship/civl-save-my-seoul-removed.png))
 
 ## What needs to happen now
 

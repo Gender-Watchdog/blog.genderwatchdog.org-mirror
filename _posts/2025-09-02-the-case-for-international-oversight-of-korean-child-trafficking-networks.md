@@ -109,7 +109,13 @@ Immediate asks to G7/Nordic missions:
 ---
 
 ## Save My Seoul: Access and Timestamps
-- Watch: [Save My Seoul on Civl](https://watch.civl.com/programs/save-my-seoul)
+
+**⚠️ Censorship Update (October 2025):** After we extensively shared this documentary in blog posts, X.com advocacy, and email outreach to press freedom organizations, the film was removed from Civl streaming platform. [Screenshot evidence of removal](/assets/images/apec-surveillance-censorship/civl-save-my-seoul-removed.png). Civl has not responded to our email inquiries or support form submissions. 
+
+**Is this another censorship incident?** See our [Six-Month Surveillance & Censorship Timeline](/surveillance-censorship-timeline/) documenting the systematic pattern.
+
+**Watch now:** [Save My Seoul on Vimeo (on-demand)](https://vimeo.com/ondemand/savemyseoul) | [YouTube Preview](https://www.youtube.com/watch?v=GF9ZoVWhBxY)
+
 - Key testimony timestamps:
   - 16:40 — Survivors describe networks where "the girls were 12–13 years old"
   - 24:40 — "in Korea...prostitution is culture"

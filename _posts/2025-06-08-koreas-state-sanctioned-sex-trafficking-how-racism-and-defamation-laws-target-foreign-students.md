@@ -324,7 +324,7 @@ You are not the problem. You are proof of the problem."
 - [UN Human Trafficking Definition](https://www.unodc.org/unodc/en/human-Trafficking/Human-Trafficking.html)
 - [KEI Defamation Law Analysis](https://keia.org/the-peninsula/problems-with-koreas-defamation-law/)
 - [Comfort Women Animation](https://youtu.be/LmsdjL0jpGU?feature=shared&t=134)
-- [Save My Seoul Documentary](https://watch.civl.com/programs/save-my-seoul)
+- [Save My Seoul Documentary](https://vimeo.com/ondemand/savemyseoul) ([removed from Civl](/assets/images/apec-surveillance-censorship/civl-save-my-seoul-removed.png))
 - [Sidus Legal Threat Evidence](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/tree/master/email_emls/sidus-fnh-threats)
 
 ---

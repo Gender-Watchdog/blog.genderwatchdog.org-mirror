@@ -95,7 +95,7 @@ This follows a documented pattern where Canadian diplomatic missions fail to pro
 
 #### Business “Hospitality” and Exposure Risk
 
-Independent documentation indicates that elements of Korean corporate hospitality have historically included expectations of sexual entertainment in certain settings. See: Save My Seoul timestamps — 24:40 “prostitution is culture,” 30:20 “hosting (sexual entertainment),” 30:33 “corporate slush funds”: [watch.civl.com/programs/save-my-seoul](https://watch.civl.com/programs/save-my-seoul). 
+Independent documentation indicates that elements of Korean corporate hospitality have historically included expectations of sexual entertainment in certain settings. See: Save My Seoul timestamps — 24:40 "prostitution is culture," 30:20 "hosting (sexual entertainment)," 30:33 "corporate slush funds": [Save My Seoul on Vimeo](https://vimeo.com/ondemand/savemyseoul) ([removed from Civl](/assets/images/apec-surveillance-censorship/civl-save-my-seoul-removed.png)). 
 
 While we are not alleging specific misconduct by Canadian officials, the prolonged non‑action by the Canadian Embassy in Seoul on credible sexual‑violence risks at Dongguk—combined with this known business‑culture context—raises reasonable questions about compromised judgment and conflict‑of‑interest vulnerabilities. If hospitality ever crossed into sexual entertainment, that would implicate officials in sex‑trafficking risks under Canadian and international law.
 

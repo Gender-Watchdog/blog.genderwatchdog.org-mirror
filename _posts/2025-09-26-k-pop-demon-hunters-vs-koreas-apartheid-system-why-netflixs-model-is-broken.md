@@ -653,7 +653,7 @@ The Yellow Envelope Law protects Korean workers' financial interests while forei
 
 ³⁶ [Gender Watchdog: The Case for International Oversight of Korean Child Trafficking Networks](https://blog.genderwatchdog.org/the-case-for-international-oversight-of-korean-child-trafficking-networks/)
 
-³⁷ [Save My Seoul Documentary - Watch on Civl](https://watch.civl.com/programs/save-my-seoul)
+³⁷ Save My Seoul Documentary — [Watch on Vimeo](https://vimeo.com/ondemand/savemyseoul) | [YouTube Preview](https://www.youtube.com/watch?v=GF9ZoVWhBxY) — **Note**: [Removed from Civl](/assets/images/apec-surveillance-censorship/civl-save-my-seoul-removed.png) after extensive sharing in our advocacy. See [censorship timeline](/surveillance-censorship-timeline/)
 
 ³⁸ [Financial Express: What is the 'Kim Soo Hyun Prevention Act'? Bill to raise age of consent in South Korea](https://www.financialexpress.com/life/entertainment-what-is-the-kim-soo-hyun-prevention-act-bill-to-raise-age-of-consent-in-south-korea-3802506/)
 
