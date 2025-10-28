@@ -294,7 +294,7 @@ KEI分析揭示了這個法律框架如何明確保護有權勢的加害者：
 - [韓國新聞接觸記錄 - Base64檔案庫](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/tree/master/email_emls/korean-press-gagged)
 - [韓國新聞接觸記錄 - 解碼版本](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/tree/master/email_emls/decoded/korea-press-gagged)
 - [Herstory：關於日本戰時性奴隸制度的動畫](https://youtu.be/LmsdjL0jpGU?feature=shared&t=134)
-- [拯救我的首爾紀錄片](https://watch.civl.com/programs/save-my-seoul)
+- [拯救我的首爾紀錄片](https://vimeo.com/ondemand/savemyseoul) ([已從Civl刪除](/assets/images/apec-surveillance-censorship/civl-save-my-seoul-removed.png))
 
 ---
 

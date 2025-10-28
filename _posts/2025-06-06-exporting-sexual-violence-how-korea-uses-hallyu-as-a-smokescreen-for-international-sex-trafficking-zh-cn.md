@@ -290,7 +290,7 @@ KEI分析揭示了这个法律框架如何明确保护有权势的加害者：
 - [联合国人口贩卖定义](https://www.unodc.org/unodc/en/human-Trafficking/Human-Trafficking.html)
 - [KEI韩国诽谤法分析](https://keia.org/the-peninsula/problems-with-koreas-defamation-law/)
 - [Herstory：慰安妇动画](https://youtu.be/LmsdjL0jpGU?feature=shared&t=134)
-- [拯救我的首尔纪录片](https://watch.civl.com/programs/save-my-seoul)
+- [拯救我的首尔纪录片](https://vimeo.com/ondemand/savemyseoul) ([已从Civl删除](/assets/images/apec-surveillance-censorship/civl-save-my-seoul-removed.png))
 
 ---
 

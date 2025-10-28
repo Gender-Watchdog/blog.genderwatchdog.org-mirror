@@ -315,7 +315,7 @@ Follow [@Gender_Watchdog](https://x.com/Gender_Watchdog) for real-time updates o
 - [Korean Press Outreach Documentation - Base64 Archive](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/tree/master/email_emls/korean-press-gagged)
 - [Korean Press Outreach Documentation - Decoded](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/tree/master/email_emls/decoded/korea-press-gagged)
 - [Herstory: Animation about Japan's Wartime Sexual Slavery](https://youtu.be/LmsdjL0jpGU?feature=shared&t=134)
-- [Save My Seoul Documentary](https://watch.civl.com/programs/save-my-seoul)
+- [Save My Seoul Documentary](https://vimeo.com/ondemand/savemyseoul) ([removed from Civl](/assets/images/apec-surveillance-censorship/civl-save-my-seoul-removed.png))
 
 ---
 

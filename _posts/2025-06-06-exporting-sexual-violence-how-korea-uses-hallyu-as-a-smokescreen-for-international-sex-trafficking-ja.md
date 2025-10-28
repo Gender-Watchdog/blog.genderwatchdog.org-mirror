@@ -294,7 +294,7 @@ KEI分析は、この法的枠組みが権力ある加害者を明示的にど�
 - [韓国報道機関働きかけ文書 - Base64アーカイブ](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/tree/master/email_emls/korean-press-gagged)
 - [韓国報道機関働きかけ文書 - デコード版](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/tree/master/email_emls/decoded/korea-press-gagged)
 - [ハーストーリー：日本の戦時性奴隷制度に関するアニメーション](https://youtu.be/LmsdjL0jpGU?feature=shared&t=134)
-- [セーブ・マイ・ソウル ドキュメンタリー](https://watch.civl.com/programs/save-my-seoul)
+- [セーブ・マイ・ソウル ドキュメンタリー](https://vimeo.com/ondemand/savemyseoul) ([Civlから削除](/assets/images/apec-surveillance-censorship/civl-save-my-seoul-removed.png))
 
 ---
 
