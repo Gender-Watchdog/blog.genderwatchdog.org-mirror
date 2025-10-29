@@ -225,7 +225,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
     </div>
     
     <div class="overview">
-        <strong>Overview:</strong> From June through October 2025, our advocacy platform experienced escalating surveillance and censorship across multiple platforms. The campaign intensified dramatically as South Korea prepared to host APEC Leaders' Week (October 27–November 1, 2025), culminating in infrastructure-level domain blocking exactly 48 hours before the summit. This timeline documents a pattern consistent with coordinated suppression: active monitoring, platform-specific censorship, cross-border coordination, and strategic escalation timed to major diplomatic events.
+        <strong>Overview:</strong> From June through October 2025, our advocacy platform experienced escalating surveillance and censorship across multiple platforms. The campaign intensified dramatically as South Korea prepared to host APEC Leaders' Week (October 27–November 1, 2025), culminating in infrastructure-level domain blocking exactly 48 hours before the summit—and continued during the event itself with additional APEC reply suppressions. This timeline documents a pattern consistent with coordinated suppression: active monitoring, platform-specific censorship, cross-border coordination, and strategic escalation timed to major diplomatic events.
     </div>
     
     <div class="timeline-labels">
@@ -527,6 +527,37 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
             </div>
         </div>
         
+        <!-- October 28, 2025: APEC Reply Suppression #1 -->
+        <div class="timeline-item">
+            <div></div>
+            <div class="event-marker censorship"></div>
+            <div class="event-content censorship">
+                <div class="event-date">October 28, 2025 (During APEC Leaders' Week)</div>
+                <div class="event-title">APEC "Practical Solutions" Reply Suppressed</div>
+                <div class="event-description">
+                    Reply to APEC Secretariat's post about "practical solutions to build a region that lifts everyone" documenting Gyeongju WISE campus exploitation (forced housing with tourists, racist harassment, admin non-response). <strong>Result:</strong> 35 views overnight—severe suppression indicating reply shadow-banned. Posted during APEC Leaders' Week in Gyeongju—the same city we documented.
+                </div>
+                <a href="https://x.com/Gender_Watchdog/status/1983028010711408674" class="event-link" target="_blank">Suppressed Reply →</a><br>
+                <a href="https://x.com/APEC/status/1982731544000389219" class="event-link" target="_blank">Original APEC Post →</a>
+            </div>
+        </div>
+        
+        <!-- October 28, 2025: APEC Reply Suppression #2 -->
+        <div class="timeline-item">
+            <div></div>
+            <div class="event-marker censorship"></div>
+            <div class="event-content censorship">
+                <div class="event-date">October 28, 2025 (During APEC Leaders' Week)</div>
+                <div class="event-title">APEC "Trust Currency" Reply Thread Suppressed</div>
+                <div class="event-description">
+                    Two-post thread reply to APEC's "Trust is Asia-Pacific's strongest currency" post. First post references October 7 APEC like → suppression → unlike pattern and Korea's institutional failures (40% fake Canadian partnerships at Dongguk, criminal defamation law). Second post documents APEC Secretariat's Singapore headquarters and parallels between Singapore's two-tier migrant exploitation and Korea's system. <strong>Pattern:</strong> This is now the third time APEC-related content has been suppressed (Oct 7, Oct 28 post #1, Oct 28 post #2).
+                </div>
+                <a href="https://x.com/Gender_Watchdog/status/1983030844551037290" class="event-link" target="_blank">Suppressed Reply (Post 1) →</a><br>
+                <a href="https://x.com/Gender_Watchdog/status/1983035187027161244" class="event-link" target="_blank">Suppressed Reply (Post 2) →</a><br>
+                <a href="https://x.com/APEC/status/1982647618426839170" class="event-link" target="_blank">Original APEC Post →</a>
+            </div>
+        </div>
+        
     </div>
     
     <div class="pattern-analysis">
@@ -550,12 +581,13 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         
         <h3 style="margin: 20px 0 10px 0; color: #555;">APEC Timing Correlation</h3>
         <ul style="margin-left: 20px; color: #666;">
-            <li><strong>Oct 7:</strong> 20 days before APEC → Social media suppression</li>
+            <li><strong>Oct 7:</strong> 20 days before APEC → Social media suppression (APEC like/suppress/unlike)</li>
             <li><strong>Oct 20:</strong> 7 days before APEC → Substack blocking (failed)</li>
-            <li><strong>Oct 25:</strong> 48 hours before APEC → Domain blocking</li>
+            <li><strong>Oct 25:</strong> 48 hours before APEC → Domain infrastructure failure (bot traffic)</li>
             <li><strong>Oct 27-Nov 1:</strong> APEC Leaders' Week in Gyeongju</li>
+            <li><strong>Oct 28:</strong> During APEC → Two more APEC replies suppressed (35 views overnight)</li>
         </ul>
-        <p style="color: #666; margin-top: 10px;"><strong>Pattern:</strong> Suppression intensifies as international scrutiny increases</p>
+        <p style="color: #666; margin-top: 10px;"><strong>Pattern:</strong> Suppression intensifies as international scrutiny increases. APEC-related content targeted three times (Oct 7, Oct 28 twice).</p>
         
         <h3 style="margin: 20px 0 10px 0; color: #555;">Speed Indicators</h3>
         <ul style="margin-left: 20px; color: #666;">
