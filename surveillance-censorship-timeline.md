@@ -239,7 +239,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         <div class="phase-header">Phase 1: Surveillance Begins (June 2025)</div>
         
         <!-- June 20, 2025: Surveillance Begins -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-june-20-monitoring-begins">
             <div class="event-content surveillance">
                 <div class="event-date">June 20, 2025</div>
                 <div class="event-title">Active Blog Monitoring Begins</div>
@@ -253,7 +253,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- June 25, 2025: Blog Post Published -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-june-25-blog-post">
             <div class="event-content surveillance">
                 <div class="event-date">June 25, 2025</div>
                 <div class="event-title">Digital Surveillance Patterns Blog Post</div>
@@ -267,7 +267,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- June 27, 2025: Surveillance Documentation -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-june-27-recording">
             <div class="event-content surveillance">
                 <div class="event-date">June 27, 2025</div>
                 <div class="event-title">Surveillance Screen Recording</div>
@@ -283,7 +283,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         <div class="phase-header">Phase 2: Korean Platform Censorship (July 2025)</div>
         
         <!-- July 5, 2025: Military LGBT Censorship -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="censorship-july-05-military-lgbt">
             <div></div>
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
@@ -297,7 +297,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- July 18, 2025: K-Arts Censorship -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="censorship-july-18-karts">
             <div></div>
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
@@ -311,7 +311,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- July 20, 2025: Surveillance Screenshots Begin -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-july-20-archive-begins">
             <div class="event-content surveillance">
                 <div class="event-date">July 20, 2025</div>
                 <div class="event-title">Surveillance Screenshot Archive Begins</div>
@@ -325,7 +325,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- July 29, 2025: Xiaohongshu Ghost-Banning -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="censorship-july-29-xiaohongshu">
             <div></div>
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
@@ -341,7 +341,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         <div class="phase-header">Phase 3: Cross-Platform Expansion (August–September 2025)</div>
         
         <!-- August 29, 2025: Surveillance Continues -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-aug-29-recording">
             <div class="event-content surveillance">
                 <div class="event-date">August 29, 2025</div>
                 <div class="event-title">Ongoing Surveillance Documentation</div>
@@ -355,7 +355,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- September 2, 2025: Surveillance Exposed -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-sept-02-exposed">
             <div class="event-content surveillance">
                 <div class="event-date">September 2, 2025</div>
                 <div class="event-title">Surveillance Publicly Exposed</div>
@@ -370,7 +370,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- September 2, 2025: Monitoring Resumed -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-sept-02-resumed">
             <div class="event-content surveillance">
                 <div class="event-date">September 2, 2025 (Later)</div>
                 <div class="event-title">Monitoring Resumed After Exposure</div>
@@ -384,7 +384,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- September 3, 2025: Surveillance Continues -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-sept-03-recording">
             <div class="event-content surveillance">
                 <div class="event-date">September 3, 2025</div>
                 <div class="event-title">Surveillance Screen Recording</div>
@@ -398,7 +398,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- September 6, 2025: Dongguk Gallery Flooding -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="censorship-sept-06-dongguk-flooding">
             <div></div>
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
@@ -414,7 +414,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         <div class="phase-header">Phase 4: APEC Escalation (October 2025)</div>
         
         <!-- October 7, 2025: APEC Suppression -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="censorship-oct-07-apec-suppression">
             <div></div>
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
@@ -429,7 +429,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- August-October 2025: Save My Seoul Documentary Removal -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="censorship-aug-oct-save-my-seoul">
             <div></div>
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
@@ -444,7 +444,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- October 9, 2025: Surveillance Screenshots End -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-oct-09-archive-ends">
             <div class="event-content surveillance">
                 <div class="event-date">October 9, 2025</div>
                 <div class="event-title">Surveillance Screenshot Archive Ends</div>
@@ -458,7 +458,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- October 11, 2025: Surveillance Continues -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-oct-11-recording">
             <div class="event-content surveillance">
                 <div class="event-date">October 11, 2025</div>
                 <div class="event-title">Surveillance Screen Recording</div>
@@ -472,7 +472,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- October 20, 2025: Substack Blocking -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-oct-20-recording">
             <div class="event-content surveillance">
                 <div class="event-date">October 20, 2025</div>
                 <div class="event-title">Surveillance Screen Recording</div>
@@ -485,7 +485,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
             <div></div>
         </div>
         
-        <div class="timeline-item">
+        <div class="timeline-item" id="censorship-oct-20-substack">
             <div></div>
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
@@ -499,7 +499,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- October 21, 2025: Final Surveillance Recording -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="surveillance-oct-21-final-recording">
             <div class="event-content surveillance">
                 <div class="event-date">October 21, 2025</div>
                 <div class="event-title">Final Surveillance Screen Recording</div>
@@ -513,7 +513,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- October 25, 2025: Domain Blocking -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="censorship-oct-25-domain-blocking">
             <div></div>
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
@@ -528,7 +528,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- October 28, 2025: APEC Reply Suppression #1 -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="censorship-oct-28-apec-practical-solutions">
             <div></div>
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
@@ -543,7 +543,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         </div>
         
         <!-- October 28, 2025: APEC Reply Suppression #2 -->
-        <div class="timeline-item">
+        <div class="timeline-item" id="censorship-oct-28-apec-trust-currency">
             <div></div>
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
