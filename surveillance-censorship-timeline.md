@@ -228,6 +228,20 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         <strong>Overview:</strong> From June through October 2025, our advocacy platform experienced escalating surveillance and censorship across multiple platforms. The campaign intensified dramatically as South Korea prepared to host APEC Leaders' Week (October 27–November 1, 2025), culminating in infrastructure-level domain blocking exactly 48 hours before the summit—and continued during the event itself with additional APEC reply suppressions. This timeline documents a pattern consistent with coordinated suppression: active monitoring, platform-specific censorship, cross-border coordination, and strategic escalation timed to major diplomatic events.
     </div>
     
+    <div style="background: linear-gradient(135deg, #f8d7da 0%, #f5c6cb 100%); border: 2px solid #f44336; border-radius: 8px; padding: 25px; margin: 30px 0; text-align: center;">
+        <h2 style="margin: 0 0 15px 0; color: #721c24; font-size: 1.4em;">🔍 Featured Evidence: APEC Censorship Pattern</h2>
+        <p style="color: #555; font-size: 1.05em; margin-bottom: 20px; line-height: 1.6;">
+            <strong>Three documented incidents</strong> of APEC-related content suppression in October 2025.<br>
+            View interactive X.com (Twitter) embeds with timestamps, engagement metrics, and direct verification links.
+        </p>
+        <a href="/apec-censorship-evidence/" style="display: inline-block; background: #f44336; color: white; padding: 12px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: background 0.3s;">
+            📹 View Interactive Evidence Archive →
+        </a>
+        <p style="margin-top: 15px; font-size: 0.95em; color: #666;">
+            <em>Essential for journalists: Timestamped proof with verifiable X.com links</em>
+        </p>
+    </div>
+    
     <div class="timeline-labels">
         <div class="label-surveillance">📊 SURVEILLANCE</div>
         <div class="label-center"></div>
