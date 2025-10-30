@@ -85,7 +85,7 @@ Canada knew all of this when Carney shook Lee's hand.
 
 Beyond diplomatic briefings, we have objective evidence that the Canadian defense establishment was actively monitoring our documentation about Korea's institutional integrity failures.
 
-On **August 27, 2025**, we posted an X.com warning about Hanwha's unsolicited bidding on Canada's $60 trillion submarine procurement program, calling for enhanced due diligence given human rights and institutional capture concerns in Korean defense partnerships.
+On **August 27, 2025**, we posted an X.com warning about Hanwha's bidding on Canada's $20-24 billion submarine procurement program,[^8] calling for enhanced due diligence given human rights and institutional capture concerns in Korean defense partnerships.
 
 **The Response:**
 
@@ -106,7 +106,7 @@ The anonymous VPN access demonstrates that institutional actors recognized the d
 
 ## The Handshake That Couldn't Hide the Truth
 
-Later on the same day Carney grimaced through his handshake with Lee, the Canadian prime minister and Defense Minister David McGuinty visited **Hanwha Ocean's Geoje shipyard** to inspect submarine construction, accompanied by Korean Prime Minister Kim Min-seok.[^7] The visit aimed to assess production capabilities for the very $60 trillion Canadian Patrol Submarine Project we had warned about months earlier.
+Later on the same day Carney grimaced through his handshake with Lee, the Canadian prime minister and Defense Minister David McGuinty visited **Hanwha Ocean's Geoje shipyard** to inspect submarine construction, accompanied by Korean Prime Minister Kim Min-seok.[^7] The visit aimed to assess production capabilities for the very Canadian Patrol Submarine Project (estimated at $20-24 billion USD for 12 submarines) we had warned about months earlier.[^8]
 
 Think about the cognitive dissonance Carney was managing:
 
@@ -186,4 +186,7 @@ That grimace told the truth Carney's words and signature couldn't.
 [^6]: Gender Watchdog, "Traffic Spike Evidence: Pattern of Institutional Monitoring Across Arms Export Campaigns," blog post documenting 10x traffic increases following Hanwha submarine warnings and systematic surveillance patterns, October 29, 2025. Available at: <https://blog.genderwatchdog.org/traffic-spike-evidence-institutional-monitoring-arms-export-campaigns/>
 
 [^7]: Anna J. Park, "Korea, Canada form landmark security and defense cooperation partnership," Korea Times, October 30, 2025. Available at: <https://www.koreatimes.co.kr/foreignaffairs/20251030/korea-canada-form-landmark-security-and-defense-cooperation-partnership>
+
+[^8]:
+    Canada's National Observer, "Carney tours Korean shipyard vying to build Canada's next submarine fleet," October 30, 2025. Available at: <https://www.nationalobserver.com/2025/10/30/news/carney-tours-korean-shipyard-vying-build-canadas-next-submarine-fleet> | Breaking Defense, "Canada names Hanwha, Thyssenkrupp as 'qualified suppliers' for new submarine program," August 2025. Available at: <https://breakingdefense.com/2025/08/canada-names-hanwha-thyssenkrupp-as-qualified-suppliers-for-new-submarine-program/> (Note: Hanwha estimates 12 submarines at $20-24 billion USD; some Canadian sources cite overall program costs up to $100 billion CAD including infrastructure and lifecycle costs.)
 
