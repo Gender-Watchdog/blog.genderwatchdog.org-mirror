@@ -368,6 +368,21 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
             <div></div>
         </div>
         
+        <!-- August 29, 2025: Hanwha Submarine Traffic Spike -->
+        <div class="timeline-item" id="surveillance-aug-27-hanwha-traffic-spike">
+            <div class="event-content surveillance">
+                <div class="event-date">August 27-29, 2025</div>
+                <div class="event-title">Traffic Spike Following Hanwha Submarine Warning</div>
+                <div class="event-description">
+                    X.com post warning Canadian government about Hanwha submarine contract bid (documenting human rights concerns) resulted in 129 views on blog.genderwatchdog.org two days later—10x normal traffic baseline (2-15 views/day). Pattern indicates institutional monitoring of defense procurement accountability content. Occurred during documented 4-month surveillance pattern (June-October 2025).
+                </div>
+                <a href="https://x.com/Gender_Watchdog/status/1960722731529593132" class="event-link" target="_blank">X.com Post →</a><br>
+                <a href="/traffic-spike-evidence-institutional-monitoring-arms-export-campaigns/" class="event-link">Full Analysis →</a>
+            </div>
+            <div class="event-marker surveillance"></div>
+            <div></div>
+        </div>
+        
         <!-- September 2, 2025: Surveillance Exposed -->
         <div class="timeline-item" id="surveillance-sept-02-exposed">
             <div class="event-content surveillance">
@@ -480,6 +495,21 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
                     Ongoing monitoring documentation continues.
                 </div>
                 <a href="https://youtu.be/-J5ti7_NPBk" class="event-link" target="_blank">YouTube Evidence →</a>
+            </div>
+            <div class="event-marker surveillance"></div>
+            <div></div>
+        </div>
+        
+        <!-- October 22, 2025: ADEX Arms Expo Traffic Spike -->
+        <div class="timeline-item" id="surveillance-oct-22-adex-traffic-spike">
+            <div class="event-content surveillance">
+                <div class="event-date">October 22, 2025</div>
+                <div class="event-title">ADEX Arms Expo Email Campaign Traffic Spike</div>
+                <div class="event-description">
+                    Email outreach to 135 recipients (Seoul ADEX exhibitors, defense ministries, procurement organizations, NATO/ASEAN, defense media) resulted in 105 views—7-10x normal traffic. Timing correlation with active email campaign demonstrates institutional monitoring of arms export due diligence documentation. Canadian diplomat had previously acknowledged concerns as "sensitive matter" (June 16, 2025).
+                </div>
+                <a href="/traffic-spike-evidence-institutional-monitoring-arms-export-campaigns/" class="event-link">Full Analysis →</a><br>
+                <a href="/assets/eml-files/adex-campaign/decoded__Seoul_ADEX_2025_Due_Diligence_Alert_REDACTED.eml" class="event-link">Email Evidence (Redacted) →</a>
             </div>
             <div class="event-marker surveillance"></div>
             <div></div>
