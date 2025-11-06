@@ -2,7 +2,7 @@
 layout: default
 title: "Six-Month Surveillance and Censorship Timeline"
 permalink: /surveillance-censorship-timeline/
-meta_description: "Interactive timeline documenting systematic surveillance and censorship from June through October 2025, culminating in infrastructure-level domain blocking 48 hours before APEC Leaders' Week in Gyeongju, Korea."
+meta_description: "Interactive timeline documenting systematic surveillance and censorship from May through October 2025, beginning with DC Inside permission grant then escalating to infrastructure-level domain blocking 48 hours before APEC Leaders' Week in Gyeongju, Korea."
 keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking, X.com suppression, Substack censorship, DC Inside, systematic suppression"
 ---
 
@@ -218,14 +218,14 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
 <div class="timeline-container">
     <div class="timeline-header">
         <h1>Six-Month Surveillance and Censorship Timeline</h1>
-        <div class="subtitle">Documenting Systematic Suppression: June–October 2025</div>
+        <div class="subtitle">Documenting Systematic Suppression: May–October 2025</div>
         <p style="color: #666; margin-top: 15px;">
             Gender Watchdog documentation of racialized sexual violence in Korean universities
         </p>
     </div>
     
     <div class="overview">
-        <strong>Overview:</strong> From June through October 2025, our advocacy platform experienced escalating surveillance and censorship across multiple platforms. The campaign intensified dramatically as South Korea prepared to host APEC Leaders' Week (October 27–November 1, 2025), culminating in infrastructure-level domain blocking exactly 48 hours before the summit—and continued during the event itself with additional APEC reply suppressions. This timeline documents a pattern consistent with coordinated suppression: active monitoring, platform-specific censorship, cross-border coordination, and strategic escalation timed to major diplomatic events.
+        <strong>Overview:</strong> From May through October 2025, our advocacy platform experienced escalating surveillance and censorship across multiple platforms. In May, DC Inside formally granted permission for academic metric collection from our university gallery posts—making subsequent mass censorship particularly significant. From June onward, we documented active surveillance and platform-specific suppression. The campaign intensified dramatically as South Korea prepared to host APEC Leaders' Week (October 27–November 1, 2025), culminating in infrastructure-level domain blocking exactly 48 hours before the summit—and continued during the event itself with additional APEC reply suppressions. This timeline documents a pattern consistent with coordinated suppression: active monitoring, platform-specific censorship, cross-border coordination, and strategic escalation timed to major diplomatic events.
     </div>
     
     <div style="background: linear-gradient(135deg, #f8d7da 0%, #f5c6cb 100%); border: 2px solid #f44336; border-radius: 8px; padding: 25px; margin: 30px 0; text-align: center;">
@@ -249,6 +249,23 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
     </div>
     
     <div class="timeline">
+        
+        <div class="phase-header">Phase 0: Establishing Context (May 2025)</div>
+        
+        <!-- May 17, 2025: DC Inside Permission Request -->
+        <div class="timeline-item" id="censorship-may-17-dc-inside-permission">
+            <div></div>
+            <div class="event-marker censorship"></div>
+            <div class="event-content censorship">
+                <div class="event-date">May 17, 2025</div>
+                <div class="event-title">DC Inside Grants Scraping Permission</div>
+                <div class="event-description">
+                    Requested and received formal permission from DC Inside to collect view count, recommendation, and comment metrics from our own posts in university galleries. DC Inside granted permission for non-commercial academic research and journalistic transparency purposes. This documented approval makes subsequent July 5 mass censorship of 20+ posts particularly significant—platform that granted research permission later coordinated mass takedowns.
+                </div>
+                <a href="/assets/eml-files/dc-inside/decoded/0517-request-to-scrape/request-2025-05-16.eml" class="event-link">Request Email →</a><br>
+                <a href="/assets/eml-files/dc-inside/decoded/0517-request-to-scrape/response-2025-05-19.eml" class="event-link">DC Inside Response →</a>
+            </div>
+        </div>
         
         <div class="phase-header">Phase 1: Surveillance Begins (June 2025)</div>
         
@@ -302,11 +319,26 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
             <div class="event-marker censorship"></div>
             <div class="event-content censorship">
                 <div class="event-date">July 5, 2025</div>
-                <div class="event-title">20+ Military LGBT Violence Posts Censored</div>
+                <div class="event-title">20+ Military LGBT Sexual Violence Posts Censored</div>
                 <div class="event-description">
                     DC Inside galleries across 20+ university communities remove posts documenting sexual violence in Korean military within hours. DC Inside response implies Korean government behind takedown orders. Topics: "military" and "LGBT" not in their keyword censorship list.
                 </div>
-                <a href="https://x.com/Gender_Watchdog/status/1943277125278081307" class="event-link" target="_blank">X.com Documentation →</a>
+                <a href="https://x.com/Gender_Watchdog/status/1943277125278081307" class="event-link" target="_blank">X.com Documentation →</a><br>
+                <a href="/korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression/" class="event-link">Blog Post Analysis →</a>
+            </div>
+        </div>
+        
+        <!-- July 13, 2025: K-Arts Posts Deleted -->
+        <div class="timeline-item" id="censorship-july-13-karts-deletions">
+            <div></div>
+            <div class="event-marker censorship"></div>
+            <div class="event-content censorship">
+                <div class="event-date">July 13, 2025</div>
+                <div class="event-title">K-Arts Posts Deleted, View Counts Reset to Zero</div>
+                <div class="event-description">
+                    Follow-up inquiry to DC Inside documents 5 additional posts deleted with view counts reset to zero: K-Arts (243 views → 0), Dongdeok Womens (240 views → 0), K-Arts sex trafficking (110 views → 0), K-Arts faculty firing (46 views → 0), K-Arts defamation law (35 views → 0). Email thanks DC Inside for July 6 response clarifying LGBT military keywords not in automated censorship list, requests explanation for new deletions.
+                </div>
+                <a href="/assets/eml-files/dc-inside/decoded/0713-lgbt-karts-censor/followup-2025-07-13.eml" class="event-link">Email to DC Inside →</a>
             </div>
         </div>
         
@@ -412,6 +444,21 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
             <div></div>
         </div>
         
+        <!-- September 2, 2025: DC Inside Policy Change -->
+        <div class="timeline-item" id="censorship-sept-02-policy-change">
+            <div></div>
+            <div class="event-marker censorship"></div>
+            <div class="event-content censorship">
+                <div class="event-date">September 2, 2025</div>
+                <div class="event-title">DC Inside Changes Policy: 117+ Posts Deleted</div>
+                <div class="event-description">
+                    DC Inside retroactively changes policy, claiming "cross-posting is spam" despite granting permission May 17 and acknowledging our multi-gallery posting through July 6 correspondence. Mass deletion of 117+ posts across university galleries, erasing thousands of accumulated views (ranging from 35-385 views per post). Posts had been up for weeks/months, proving relevance to each gallery's audience. Dashboard documents deleted URLs with view counts before erasure. Email requests clarification on policy change and deletion metadata.
+                </div>
+                <a href="/assets/eml-files/dc-inside/decoded/0902-crossposting-changed-policy/policy-change-2025-09-02.eml" class="event-link">Email to DC Inside →</a><br>
+                <a href="https://dashboard.genderwatchdog.org" class="event-link" target="_blank">View Dashboard with Deleted Posts →</a>
+            </div>
+        </div>
+        
         <!-- September 3, 2025: Surveillance Continues -->
         <div class="timeline-item" id="surveillance-sept-03-recording">
             <div class="event-content surveillance">
@@ -436,7 +483,8 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
                 <div class="event-description">
                     After posting about second false Canadian partnership (2 of 5 verified fake) and Canadian diplomat email screenshot calling crisis a "sensitive issue," DC Inside Dongguk gallery experiences flooding attack. DC Inside has not responded to our inquiry.
                 </div>
-                <a href="https://x.com/Gender_Watchdog/status/1964518948646637804" class="event-link" target="_blank">X.com Documentation →</a>
+                <a href="https://x.com/Gender_Watchdog/status/1964518948646637804" class="event-link" target="_blank">X.com Documentation →</a><br>
+                <a href="/assets/eml-files/dc-inside/decoded/0906-flooding/flooding-review-2025-09-06.eml" class="event-link">Email to DC Inside →</a>
             </div>
         </div>
         
