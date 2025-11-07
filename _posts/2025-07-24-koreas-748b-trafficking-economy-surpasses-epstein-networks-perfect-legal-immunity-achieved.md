@@ -238,7 +238,7 @@ Xiaohongshu Research Documentation: https://www.xiaohongshu.com/user/profile/66b
 
 Direct Victim Testimonies from Xiaohongshu Users:
 Ongoing Sexual Violence Against International Students
-User "[电影系学生 - 姓名已编辑]" ([Film Department Student - Name Redacted]) reported recent incidents:
+User "[Film Department Student - Name Redacted]" reported recent incidents:
 
 "上个学期还有个影像大留学生被前辈性骚扰了"
 
@@ -252,7 +252,7 @@ User "[Graduate Applicant - Name Redacted]" shared her direct experience with Do
 Translation: "When I was applying for graduate school, I was interviewed by a Dongguk professor. One of the two interviewers asked questions that weren't interview questions - they were about my personal privacy. My first instinct told me to run. After being accepted, I directly withdrew."
 
 Faculty Discrimination Against International Students
-User "[国际学生 - 姓名已编辑]" ([International Student - Name Redacted]) reported experiencing discrimination:
+User "[International Student - Name Redacted]" reported experiencing discrimination:
 
 "被东国大老师歧视过🙋"
 

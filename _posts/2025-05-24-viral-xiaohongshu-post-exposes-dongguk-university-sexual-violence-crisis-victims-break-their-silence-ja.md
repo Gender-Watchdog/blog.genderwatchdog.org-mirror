@@ -24,7 +24,7 @@ lang: ja
 
 ### 演劇学科の自己検閲：恐怖と報復の証拠
 
-演劇学科のユーザー**[Theatre Student - Name Redacted]**は最初に意味深なコメントを投稿しましたが、その後編集し、東国大学批判を取り巻く恐怖の雰囲気を示しました：
+演劇学科のユーザー**[演劇学科学生 - 名前非公開]**は最初に意味深なコメントを投稿しましたが、その後編集し、東国大学批判を取り巻く恐怖の雰囲気を示しました：
 
 **元のコメント：**
 > "波澜背后的痛小透明的哭泣孤独，而且我们大谈特谈feminism。"
@@ -54,19 +54,19 @@ lang: ja
 
 ### 個人面接での不適切行為
 
-ユーザー**[Graduate Applicant - Name Redacted]**は東国大学教員との直接的な体験を共有しました：
+ユーザー**[大学院志願者 - 名前非公開]**は東国大学教員との直接的な体験を共有しました：
 
 > "em...我以前读研的时候 面试我的是个东大的教授. 两名里面其中一名 问的问题 就不是面试问题. 有关我个人隐私的 第一直觉告诉我 得跑 录取上后我直接退学了"
 
 *翻訳：「大学院に応募していた時、東国大学の教授に面接されました。二人のうち一人が面接の質問ではない質問をしました - それは私の個人的なプライバシーに関するものでした。第一直感で逃げなければと思いました。合格後、直接退学しました。」*
 
-![東国大学教授からの不適切な面接質問についての[Graduate Applicant - Name Redacted]の証言](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/xiaohongshu/for-blog-comments-and-stats-xiahongshu/05242025-LucyM-inappropriate-questions-dongguk-interview-redacted.png?raw=true)
+![東国大学教授からの不適切な面接質問についての大学院志願者の証言](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/xiaohongshu/for-blog-comments-and-stats-xiahongshu/05242025-LucyM-inappropriate-questions-dongguk-interview-redacted.png?raw=true)
 
 この証言は、教員が権力を使って女性志願者に不適切な個人的質問をするなど、性的不適切行為が入学レベルから始まることを明らかにしています。
 
 ### 留学生に対する継続的性暴力
 
-**[电影系学生 - 姓名已编辑]**（[Film Department Student - Name Redacted]）は最近の事件を報告しました：
+**[映画学科学生 - 名前非公開]**は最近の事件を報告しました：
 
 > "上个学期还有个影像大留学生被前辈性骚扰了"
 
@@ -78,7 +78,7 @@ lang: ja
 
 ### 教員差別と制度的人種差別
 
-**[国际学生 - 姓名已编辑]**（[International Student - Name Redacted]）は差別体験を報告しました：
+**[留学生 - 名前非公開]**は差別体験を報告しました：
 
 > "被东国大老师歧视过🙋"
 
@@ -140,7 +140,7 @@ lang: ja
 
 ### キャンパス監視とプライバシー侵害の証拠
 
-ユーザー**[Campus Resident - Name Redacted]**からの特に不穏なコメントは、キャンパス施設での監視侵害の可能性を明らかにしています：
+ユーザー**[キャンパス居住者 - 名前非公開]**からの特に不穏なコメントは、キャンパス施設での監視侵害の可能性を明らかにしています：
 
 > "什么瓜 还有我之前在经营馆女洗手间看到过小孔"
 

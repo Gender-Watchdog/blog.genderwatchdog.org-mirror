@@ -24,7 +24,7 @@ lang: ko
 
 ### 연극과 자율검열: 두려움과 보복의 증거
 
-연극학과의 **[Theatre Student - Name Redacted]** 사용자는 처음에는 의미심장한 댓글을 남겼으나, 이후 수정하여 동국대 비판에 대한 두려움을 보여주었습니다.
+연극학과의 **[연극학과 학생 - 이름 비공개]** 사용자는 처음에는 의미심장한 댓글을 남겼으나, 이후 수정하여 동국대 비판에 대한 두려움을 보여주었습니다.
 
 **원본 댓글:**
 > "波澜背后的痛小透明的哭泣孤独，而且我们大谈特谈feminism。"
@@ -51,19 +51,19 @@ lang: ko
 
 ### 입학 면접에서의 부적절한 질문
 
-**[Graduate Applicant - Name Redacted]** 사용자는 동국대 교수와의 직접적인 경험을 공유했습니다:
+**[대학원 지원자 - 이름 비공개]** 사용자는 동국대 교수와의 직접적인 경험을 공유했습니다:
 
 > "em...我以前读研的时候 面试我的是个东大的教授. 两名里面其中一名 问的问题 就不是面试问题. 有关我个人隐私的 第一直觉告诉我 得跑 录取上后我直接退学了"
 
 *번역: "대학원 지원 당시 동국대 교수에게 면접을 받았는데, 두 명 중 한 명이 면접과 무관한 사적인 질문을 했다. 직감적으로 도망쳐야겠다고 느꼈고, 합격 후 바로 자퇴했다."*
 
-![동국대 교수의 부적절한 면접 질문에 대한 [Graduate Applicant - Name Redacted]의 증언](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/xiaohongshu/for-blog-comments-and-stats-xiahongshu/05242025-LucyM-inappropriate-questions-dongguk-interview-redacted.png?raw=true)
+![동국대 교수의 부적절한 면접 질문에 대한 대학원 지원자의 증언](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/xiaohongshu/for-blog-comments-and-stats-xiahongshu/05242025-LucyM-inappropriate-questions-dongguk-interview-redacted.png?raw=true)
 
 이 증언은 교수들이 지원 여성 학생에게 사적인 질문을 하는 등, 입학 단계에서부터 성적 부적절 행위가 시작됨을 보여줍니다.
 
 ### 외국인 유학생 대상 지속적 성폭력
 
-**[电影系学生 - 姓名已编辑]**([Film Department Student - Name Redacted]) 사용자는 최근 사건을 보고했습니다:
+**[영화과 학생 - 이름 비공개]** 사용자는 최근 사건을 보고했습니다:
 
 > "上个学期还有个影像大留学生被前辈性骚扰了"
 
@@ -75,7 +75,7 @@ lang: ko
 
 ### 교수 차별 및 제도적 인종차별
 
-**[国际学生 - 姓名已编辑]**([International Student - Name Redacted]) 사용자는 차별 경험을 보고했습니다:
+**[유학생 - 이름 비공개]** 사용자는 차별 경험을 보고했습니다:
 
 > "被东国大老师歧视过🙋"
 
@@ -137,7 +137,7 @@ lang: ko
 
 ### 캠퍼스 불법 촬영 및 사생활 침해 증거
 
-**[Campus Resident - Name Redacted]** 사용자는 캠퍼스 내 시설에서 불법 촬영 정황을 드러내는 충격적인 댓글을 남겼습니다:
+**[캠퍼스 거주자 - 이름 비공개]** 사용자는 캠퍼스 내 시설에서 불법 촬영 정황을 드러내는 충격적인 댓글을 남겼습니다:
 
 > "什么瓜 还有我之前在经营馆女洗手间看到过小孔"
 

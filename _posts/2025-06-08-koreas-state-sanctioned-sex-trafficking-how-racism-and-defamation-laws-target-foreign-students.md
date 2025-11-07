@@ -28,11 +28,11 @@ Vivid testimonies from Chinese social media platform Xiaohongshu reveal the syst
 
 **Discrimination by Dongguk University Professor:**
 > "被东国大老师歧视过🙋" 
-> (I've been discriminated against by a Dongguk University professor) - User [国际学生 - 姓名已编辑] ([International Student - Name Redacted])
+> (I've been discriminated against by a Dongguk University professor) - User [International Student - Name Redacted]
 
 **Sexual Violence Against Foreign Students:**
 > "上个学期还有个影像大留学生被前辈性骚扰了"
-> (Last semester, a foreign student in the Film Department was sexually harassed by a senior) - User [电影系学生 - 姓名已编辑] ([Film Department Student - Name Redacted])
+> (Last semester, a foreign student in the Film Department was sexually harassed by a senior) - User [Film Department Student - Name Redacted]
 
 These testimonies from the very platforms Korea uses to recruit foreign students reveal the systematic nature of racial and sexual targeting.
 

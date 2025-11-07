@@ -109,7 +109,7 @@ Recent viral posts on Xiaohongshu (Chinese social media platform) have generated
 ### Direct Victim Testimonies from Xiaohongshu Users:
 
 **Ongoing Sexual Violence Against International Students**
-User "[电影系学生 - 姓名已编辑]" ([Film Department Student - Name Redacted]) reported recent incidents:
+User "[Film Department Student - Name Redacted]" reported recent incidents:
 > "上个学期还有个影像大留学生被前辈性骚扰了"
 > 
 > *Translation: "Last semester, a foreign student in the film program was sexually harassed by a senior student."*

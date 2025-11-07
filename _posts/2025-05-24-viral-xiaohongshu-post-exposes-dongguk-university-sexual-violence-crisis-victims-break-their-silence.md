@@ -60,13 +60,13 @@ User **[Graduate Applicant - Name Redacted]** shared her direct experience with 
 
 *Translation: "When I was applying for graduate school, I was interviewed by a Dongguk professor. One of the two interviewers asked questions that weren't interview questions - they were about my personal privacy. My first instinct told me to run. After being accepted, I directly withdrew."*
 
-![[Graduate Applicant - Name Redacted]'s testimony about inappropriate interview questions from Dongguk professor](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/xiaohongshu/for-blog-comments-and-stats-xiahongshu/05242025-LucyM-inappropriate-questions-dongguk-interview-redacted.png?raw=true)
+![Graduate applicant's testimony about inappropriate interview questions from Dongguk professor](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/xiaohongshu/for-blog-comments-and-stats-xiahongshu/05242025-LucyM-inappropriate-questions-dongguk-interview-redacted.png?raw=true)
 
 This testimony reveals how sexual misconduct begins at the admissions level, with faculty using their power to ask inappropriate personal questions of prospective female students.
 
 ### Ongoing Sexual Violence Against International Students
 
-**[电影系学生 - 姓名已编辑]** ([Film Department Student - Name Redacted]) reported recent incidents:
+**[Film Department Student - Name Redacted]** reported recent incidents:
 
 > "上个学期还有个影像大留学生被前辈性骚扰了"
 
@@ -78,7 +78,7 @@ This comment confirms that sexual violence continues to occur against internatio
 
 ### Faculty Discrimination and Institutional Racism
 
-**[国际学生 - 姓名已编辑]** ([International Student - Name Redacted]) reported experiencing discrimination:
+**[International Student - Name Redacted]** reported experiencing discrimination:
 
 > "被东国大老师歧视过🙋"
 

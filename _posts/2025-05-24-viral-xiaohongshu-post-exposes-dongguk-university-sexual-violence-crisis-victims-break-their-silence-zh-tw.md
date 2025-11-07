@@ -24,7 +24,7 @@ lang: zh-tw
 
 ### 戲劇系自我審查：恐懼和報復的證據
 
-來自戲劇學系的用戶**[Theatre Student - Name Redacted]**最初發布了一條揭露性評論，但隨後進行了編輯，展現了圍繞批評東國大學的恐懼氛圍：
+來自戲劇學系的用戶**[戲劇系學生 - 姓名已編輯]**最初發布了一條揭露性評論，但隨後進行了編輯，展現了圍繞批評東國大學的恐懼氛圍：
 
 **原始評論：**
 > "波瀾背後的痛小透明的哭泣孤獨，而且我們大談特談feminism。"
@@ -54,13 +54,13 @@ lang: zh-tw
 
 ### 個人面試不當行為
 
-用戶**[Graduate Applicant - Name Redacted]**分享了她與東國大學教職員的直接經歷：
+用戶**[研究生申請者 - 姓名已編輯]**分享了她與東國大學教職員的直接經歷：
 
 > "em...我以前讀研的時候 面試我的是個東大的教授. 兩名裡面其中一名 問的問題 就不是面試問題. 有關我個人隱私的 第一直覺告訴我 得跑 錄取上後我直接退學了"
 
 *翻譯：「當我申請研究所時，東國大學教授面試我。兩名面試官中的一名問的問題不是面試問題——是關於我的個人隱私。我的第一直覺告訴我要逃跑。被錄取後，我直接退學了。」*
 
-![[Graduate Applicant - Name Redacted]關於東國大學教授不當面試問題的證詞](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/xiaohongshu/for-blog-comments-and-stats-xiahongshu/05242025-LucyM-inappropriate-questions-dongguk-interview-redacted.png?raw=true)
+![研究生申請者關於東國大學教授不當面試問題的證詞](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/xiaohongshu/for-blog-comments-and-stats-xiahongshu/05242025-LucyM-inappropriate-questions-dongguk-interview-redacted.png?raw=true)
 
 這個證詞揭露了性不當行為如何從招生階段開始，教職員利用權力向潛在女學生問不當的個人問題。
 
@@ -140,7 +140,7 @@ lang: zh-tw
 
 ### 校園監控和隱私侵犯證據
 
-用戶**[Campus Resident - Name Redacted]**的一條特別令人不安的評論揭露了校園設施中潛在的監控違規：
+用戶**[校園居民 - 姓名已編輯]**的一條特別令人不安的評論揭露了校園設施中潛在的監控違規：
 
 > "什麼瓜 還有我之前在經營館女洗手間看到過小孔"
 
