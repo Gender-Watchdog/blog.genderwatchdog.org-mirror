@@ -10,6 +10,8 @@ keywords: "Mark Carney, APEC 2025, Canada Korea relations, Dongguk University, d
 
 **October 30, 2025**
 
+> **Update (November 7, 2025):** This analysis of Canada's knowledge regarding institutional concerns has been expanded with a comprehensive examination of the Canadian Patrol Submarine Project's operational and industrial challenges. The new analysis reveals how Hanwha Ocean's simultaneous pursuit of nuclear submarine development—while South Korea's STEM talent pool collapses—compounds the procurement risks documented here. See: [Canada's Arctic Sovereignty Crisis: Why Diesel-Electric Submarines Can't Defend What Nuclear Subs Could Protect](/canada-arctic-sovereignty-diesel-subs-inadequate-nuclear/)
+
 ## Three Handshakes, Three Stories
 
 At the 2025 APEC summit in Gyeongju, three diplomatic handshakes revealed starkly different levels of comfort. President Lee Jae Myung's grip with Donald Trump was firm, his posture confident as he presented the American president with a golden crown. His clasp with Japanese Prime Minister Sanae Takaichi was warm and professional—two leaders comfortable engaging with each other.
