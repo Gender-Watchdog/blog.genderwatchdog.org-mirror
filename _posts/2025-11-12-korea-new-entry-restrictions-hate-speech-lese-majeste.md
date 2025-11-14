@@ -142,6 +142,23 @@ The Korea Times article mentions prosecutions of foreign critics but is notably 
 
 This selective focus mirrors broader systemic issues in Korean legal frameworks that protect institutions over individuals.
 
+### Institutional Corruption: The Prosecution Scandal
+
+The pattern of selective enforcement extends beyond speech restrictions. On November 11-13, 2025, Korean mainstream media documented a stunning corruption scandal that reveals who Korean institutions protect:
+
+**Justice Minister Jung Sung-ho** - the same official proposing travel bans for foreign critics - allegedly pressured prosecutors to waive appeal in a **781 billion won** (approximately $590 million USD) corruption case linked to President Lee's associates.[^10]
+
+As the Korea Herald reported:
+> "Prosecutors have failed to show unyielding resolve to realize justice according to law... Only 47.3 billion won of the 781 billion won in criminal proceeds has been recovered."[^10]
+
+The Hankyoreh was more direct:
+> "Prosecutors...motivated not by jurisprudence but by politics all this time."[^11]
+
+The Korea Times noted the contradiction:
+> "While [Lee] has vowed to crack down on hate speech and discrimination... his administration's actions suggest a selective application of justice... When a leader champions causes that appear irrelevant to the nation's immediate crises, their rhetoric risks sounding detached from reality."[^12]
+
+**The pattern is clear:** Justice Minister Jung pressures prosecutors to protect powerful figures in a 781 billion won case while proposing entry bans for foreign critics documenting institutional failures. Korean institutions protect the powerful (Lee's associates facing corruption charges) while proposing restrictions on critics (foreign "derogatory comments," domestic hate speech rallies).
+
 ### Korea's Current Speech Restrictions
 
 The reforms emerge within a legal environment that already restricts accountability:
@@ -159,21 +176,40 @@ This creates **asymmetric accountability**:
 - Domestic hate speech rallies now face criminal penalties
 - But truthful defamation might be decriminalized
 - Yet institutional sexual violence remains unpunished
+- And powerful figures in 781 billion won corruption cases receive prosecutorial protection
 
 ## VIII. Timing Reveals Defensive Posture
 
 The competing policy announcements (Justice Ministry travel bans + Presidential hate speech/defamation reforms) emerged simultaneously on November 11-12, 2025, coinciding with:
 
 - **216+ days** of government silence on documented institutional sexual violence[^6]
+- **Prosecution corruption scandal** involving 781 billion won case (Justice Minister Jung pressuring prosecutors to waive appeal)[^10][^11]
 - **International universities** reviewing Korean partnerships
 - **Chinese student testimonies** about sexual harassment going viral on Xiaohongshu (predicted drop in applications from China materialized with Vietnam taking top spot)[^6]
 - Growing **global scrutiny** of systemic issues
 - **Sinophobic rallies** in Seoul prompting Lee's September 9 crackdown orders[^9]
 
-President Lee explicitly cited these rallies as motivation:
+### The "Politics of Distraction"
+
+The Korea Times explicitly identified this pattern:
+> "While [Lee] has vowed to crack down on hate speech and discrimination... his administration's actions suggest a selective application of justice... When a leader champions causes that appear irrelevant to the nation's immediate crises, their rhetoric risks sounding detached from reality."[^12]
+
+The Korea Herald echoed this concern:
+> "Prosecutors have failed to show unyielding resolve to realize justice according to law."[^10]
+
+**The timeline reveals the pattern:**
+
+1. **November 11:** Prosecution corruption scandal breaks (Justice Minister pressured prosecutors on 781B won case)
+2. **November 11:** Same Justice Minister announces travel ban proposal for foreign critics
+3. **November 12:** President Lee announces hate speech criminalization + defamation reform
+4. **November 13:** Korea Herald confirms prosecution's failure to recover 733.7 billion won in criminal proceeds
+
+President Lee explicitly cited sinophobic rallies as motivation:
 > "That's not freedom of speech. That's just rabble-rousing," he said at the September Cabinet meeting, calling for aggressive responses to rallies that "fan hatred."[^9]
 
-Yet the Justice Ministry's travel ban proposal targets **foreign critics abroad**—not domestic hate speech rallies. This divergence suggests **conflicting priorities** within Korean government agencies.
+Yet the Justice Ministry's travel ban proposal targets **foreign critics abroad**—not domestic hate speech rallies. And the prosecution scandal reveals institutional corruption while policy proposals focus on speech restrictions.
+
+**This is the classic authoritarian playbook:** When corruption is exposed, announce policy reforms that deflect attention from institutional accountability to speech control.
 
 ## IX. The NewJeans Connection: Systemic Silencing
 
@@ -246,7 +282,11 @@ As the UN Special Rapporteur on Freedom of Opinion and Expression has emphasized
 
 [^9]: Shin, Hyeong-cheol. "Lee orders crackdown on hate speech, including legal framework for punishment." *The Hankyoreh*, 12 November 2025. President Lee Jae Myung announced simultaneous reforms: criminalizing hate speech at domestic rallies while proposing to abolish criminal defamation for factual statements. Civic groups note these reforms lack foundational anti-discrimination law. [https://english.hani.co.kr/arti/english_edition/e_national/1228847.html](https://english.hani.co.kr/arti/english_edition/e_national/1228847.html)
 
-[^10]: Youn, Ye-jin. "YouTuber's sexual assault confession sparks renewed #MeToo movement in Korea." *Korea Times*, 9 November 2025. YouTuber Kwak Hyeol-su revealed rape by taxi driver in May 2024; driver was indicted in September 2025 before her November public testimony. Her confession video surpassed 1.5 million views within 24 hours and sparked #MeToo_2025 movement online. [https://www.koreatimes.co.kr/southkorea/law-crime/20251109/youtubers-sexual-assault-confession-sparks-renewed-metoo-movement-in-korea](https://www.koreatimes.co.kr/southkorea/law-crime/20251109/youtubers-sexual-assault-confession-sparks-renewed-metoo-movement-in-korea)
+[^10]: Korea Herald Editorial. "Prosecutors renounce legitimate power vested by people." *Korea Herald*, 13 November 2025. Editorial on prosecution waiving appeal in 781 billion won Daejang-dong corruption case despite Justice Minister Jung Sung-ho allegedly pressuring acting Prosecutor General Noh Man-seok. Only 47.3 billion won of 781 billion won in criminal proceeds recovered. Editorial states prosecutors "have failed to show unyielding resolve to realize justice according to law."
+
+[^11]: Hankyoreh Editorial. "Prosecutors' selective outrage over Daejang-dong case lays bare their bias." *The Hankyoreh*, 11 November 2025. Editorial on prosecution refusing to appeal despite massive scope (781 billion won case). Notes directors of prosecution's local branches demanding explanation, rank-and-file prosecutors pushing for acting Prosecutor General resignation. Editorial concludes prosecutors "motivated not by jurisprudence but by politics all this time."
+
+[^12]: Korea Times Editorial. "Lee's anti-hate vow has no substance." *Korea Times*, 12 November 2025. Editorial criticizing President Lee's "selective application of justice" and noting "politics of distraction." Compares anti-China rallies (ethnic targeting) to anti-Trump protests (political criticism). Commenter Foolslive correctly distinguishes racist ethnic targeting from policy criticism. Editorial states: "When a leader champions causes that appear irrelevant to the nation's immediate crises, their rhetoric risks sounding detached from reality."
 
 ---
 
