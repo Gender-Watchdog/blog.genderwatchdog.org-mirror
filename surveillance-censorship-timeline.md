@@ -2,7 +2,7 @@
 layout: default
 title: "Six-Month Surveillance and Censorship Timeline"
 permalink: /surveillance-censorship-timeline/
-meta_description: "Interactive timeline documenting systematic surveillance and censorship from May through October 2025, beginning with DC Inside permission grant then escalating to major traffic spike (most likely AI scrape bots) 48 hours before APEC Leaders' Week in Gyeongju, Korea."
+meta_description: "Interactive timeline documenting systematic surveillance and censorship from May through October 2025, beginning with DC Inside permission grant then escalating to major traffic spike 48 hours before APEC Leaders' Week in Gyeongju, Korea."
 keywords: "surveillance, censorship, APEC, Korea, press freedom, traffic spike, X.com suppression, Substack censorship, DC Inside, systematic suppression"
 ---
 
@@ -225,7 +225,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, traffic spike, 
     </div>
     
     <div class="overview">
-        <strong>Overview:</strong> From May through October 2025, our advocacy platform experienced escalating surveillance and censorship across multiple platforms. In May, DC Inside formally granted permission for academic metric collection from our university gallery posts—making subsequent mass censorship particularly significant. From June onward, we documented active surveillance and platform-specific suppression. The campaign intensified dramatically as South Korea prepared to host APEC Leaders' Week (October 27–November 1, 2025), including a major traffic spike 48 hours before the summit (most likely AI scrape bots, though Bear Blog admin notes foul play cannot be ruled out)—and continued during the event itself with additional APEC reply suppressions. This timeline documents a pattern consistent with coordinated suppression: active monitoring, platform-specific censorship, cross-border coordination, and strategic escalation timed to major diplomatic events.
+        <strong>Overview:</strong> From May through October 2025, our advocacy platform experienced escalating surveillance and censorship across multiple platforms. In May, DC Inside formally granted permission for academic metric collection from our university gallery posts—making subsequent mass censorship particularly significant. From June onward, we documented active surveillance and platform-specific suppression. The campaign intensified dramatically as South Korea prepared to host APEC Leaders' Week (October 27–November 1, 2025), with unusual traffic patterns affecting our X.com posts and blog during this period—and continued during the event itself with additional APEC-related reply suppressions. This timeline documents a pattern consistent with coordinated suppression: active monitoring, platform-specific censorship, cross-border coordination, and strategic escalation timed to major diplomatic events.
     </div>
     
     <div style="background: linear-gradient(135deg, #f8d7da 0%, #f5c6cb 100%); border: 2px solid #f44336; border-radius: 8px; padding: 25px; margin: 30px 0; text-align: center;">
