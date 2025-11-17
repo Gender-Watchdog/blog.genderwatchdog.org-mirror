@@ -2,8 +2,8 @@
 layout: default
 title: "Six-Month Surveillance and Censorship Timeline"
 permalink: /surveillance-censorship-timeline/
-meta_description: "Interactive timeline documenting systematic surveillance and censorship from May through October 2025, beginning with DC Inside permission grant then escalating to infrastructure-level domain blocking 48 hours before APEC Leaders' Week in Gyeongju, Korea."
-keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking, X.com suppression, Substack censorship, DC Inside, systematic suppression"
+meta_description: "Interactive timeline documenting systematic surveillance and censorship from May through October 2025, beginning with DC Inside permission grant then escalating to major traffic spike (most likely AI scrape bots) 48 hours before APEC Leaders' Week in Gyeongju, Korea."
+keywords: "surveillance, censorship, APEC, Korea, press freedom, traffic spike, X.com suppression, Substack censorship, DC Inside, systematic suppression"
 ---
 
 <style>
@@ -225,7 +225,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
     </div>
     
     <div class="overview">
-        <strong>Overview:</strong> From May through October 2025, our advocacy platform experienced escalating surveillance and censorship across multiple platforms. In May, DC Inside formally granted permission for academic metric collection from our university gallery posts—making subsequent mass censorship particularly significant. From June onward, we documented active surveillance and platform-specific suppression. The campaign intensified dramatically as South Korea prepared to host APEC Leaders' Week (October 27–November 1, 2025), culminating in infrastructure-level domain blocking exactly 48 hours before the summit—and continued during the event itself with additional APEC reply suppressions. This timeline documents a pattern consistent with coordinated suppression: active monitoring, platform-specific censorship, cross-border coordination, and strategic escalation timed to major diplomatic events.
+        <strong>Overview:</strong> From May through October 2025, our advocacy platform experienced escalating surveillance and censorship across multiple platforms. In May, DC Inside formally granted permission for academic metric collection from our university gallery posts—making subsequent mass censorship particularly significant. From June onward, we documented active surveillance and platform-specific suppression. The campaign intensified dramatically as South Korea prepared to host APEC Leaders' Week (October 27–November 1, 2025), including a major traffic spike 48 hours before the summit (most likely AI scrape bots, though Bear Blog admin notes foul play cannot be ruled out)—and continued during the event itself with additional APEC reply suppressions. This timeline documents a pattern consistent with coordinated suppression: active monitoring, platform-specific censorship, cross-border coordination, and strategic escalation timed to major diplomatic events.
     </div>
     
     <div style="background: linear-gradient(135deg, #f8d7da 0%, #f5c6cb 100%); border: 2px solid #f44336; border-radius: 8px; padding: 25px; margin: 30px 0; text-align: center;">
@@ -596,7 +596,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
                 <div class="event-date">October 21, 2025</div>
                 <div class="event-title">Final Surveillance Screen Recording</div>
                 <div class="event-description">
-                    Last documented surveillance evidence before domain blocking.
+                    Last documented surveillance evidence before traffic spike incident.
                 </div>
                 <a href="https://youtu.be/s7P_7UmqoL4" class="event-link" target="_blank">YouTube Evidence →</a>
             </div>
@@ -604,7 +604,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
             <div></div>
         </div>
         
-        <!-- October 25, 2025: Domain Blocking -->
+        <!-- October 25, 2025: Traffic Spike Incident -->
         <div class="timeline-item" id="censorship-oct-25-domain-blocking">
             <div></div>
             <div class="event-marker censorship"></div>
@@ -659,7 +659,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
         <ul style="margin-left: 20px; color: #666;">
             <li><strong>Korean Platforms (DC Inside):</strong> Rapid removal (hours), gallery flooding, 20+ simultaneous takedowns</li>
             <li><strong>Chinese Platform (Xiaohongshu):</strong> Ghost-banning triggered by content mirroring</li>
-            <li><strong>Western Platforms:</strong> X/Twitter (context suppression + evidence cleanup), Substack (temporary blocking reversed when exposed), Domain (infrastructure-level interference)</li>
+            <li><strong>Western Platforms:</strong> X/Twitter (context suppression + evidence cleanup), Substack (temporary blocking reversed when exposed), Domain (traffic spike incident - most likely AI bots)</li>
         </ul>
         
         <h3 style="margin: 20px 0 10px 0; color: #555;">Escalation Timeline</h3>
@@ -668,7 +668,7 @@ keywords: "surveillance, censorship, APEC, Korea, press freedom, domain blocking
             <li><strong>Removal</strong> (July 5): 20+ coordinated removals</li>
             <li><strong>Disruption</strong> (July–Sept): Flooding attacks, ghost-banning</li>
             <li><strong>Context suppression</strong> (Oct 7): Western platform, diplomatic context severed</li>
-            <li><strong>Infrastructure attack</strong> (Oct 25): Domain blocking</li>
+            <li><strong>Infrastructure incident</strong> (Oct 25): Traffic spike (most likely AI bots)</li>
         </ol>
         
         <h3 style="margin: 20px 0 10px 0; color: #555;">APEC Timing Correlation</h3>

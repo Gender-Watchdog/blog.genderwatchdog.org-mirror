@@ -449,7 +449,7 @@ But the bot traffic itself is a symptom of the AI industry's ruthless data colle
 
 And Korea's rush to "top three by 2027" status—with documented institutional integrity failures, no independent AI safety oversight, and partnerships with ethically-questionable companies—raises urgent governance questions.
 
-**The October 25 incident wasn't just about our domain blocking.**
+**The October 25 incident wasn't just about our traffic spike.**
 
 **It was about:**
 - An internet breaking under AI scraping strain

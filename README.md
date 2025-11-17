@@ -18,7 +18,7 @@ The blog is available in six languages:
 
 ## 📖 About This Project
 
-This site serves as a censorship-resistant mirror of our investigative documentation, which experienced targeted domain blocking 48 hours before APEC Economic Leaders' Week (Oct.27 to Nov.1, 2025) in Gyeongju, South Korea 2025. We migrated to GitHub Pages to ensure:
+This site serves as a censorship-resistant mirror of our investigative documentation, which experienced a major traffic spike (most likely AI scrape bots) 48 hours before APEC Economic Leaders' Week (Oct.27 to Nov.1, 2025) in Gyeongju, South Korea 2025. We migrated to GitHub Pages to ensure:
 
 - **Transparency**: Any takedown requires public legal process
 - **Resilience**: Multiple mirrors prevent quiet censorship

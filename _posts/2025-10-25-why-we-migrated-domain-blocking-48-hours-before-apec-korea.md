@@ -5,7 +5,7 @@ slug: "why-we-migrated-domain-blocking-48-hours-before-apec-korea"
 date: 2025-10-25T04:34:00+00:00
 modified_date: 2025-10-26T04:30:00+00:00
 lang: en
-meta_description: "Our custom domain was blocked exactly 48 hours before APEC Leaders' Week in Gyeongju—the third censorship escalation in 18 days. From APEC's suppression of our X.com reply (Oct 7) to Substack blocking (Oct 20) to infrastructure-level domain blocking (Oct 25). Here's why we migrated to GitHub Pages and what it means for censorship resistance."
+meta_description: "Our custom domain experienced a major traffic spike exactly 48 hours before APEC Leaders' Week in Gyeongju—the third escalation in 18 days. From APEC's suppression of our X.com reply (Oct 7) to Substack blocking (Oct 20) to the traffic incident (Oct 25). Here's why we migrated to GitHub Pages and what it means for censorship resistance."
 ---
 
 **October 25, 2025** — We noticed that our custom domain `blog.genderwatchdog.org` stopped resolving globally at approximately 12:34 PM KST today. The timing is not coincidental: **48 hours before APEC Economic Leaders' Week begins in Gyeongju, South Korea**—the same city where we documented student exploitation at Dongguk University's WISE campus.
@@ -95,7 +95,7 @@ We contacted our domain registrar (Namecheap) during the outage to investigate p
 
 **What this proves:**
 
-1. ✅ **No legal basis** for domain blocking - no court orders, government requests, or legal actions
+1. ✅ **No legal basis** for service disruption - no court orders, government requests, or legal actions
 2. ✅ **DNS configuration intact** - registrar confirms CNAME propagating correctly
 3. ✅ **Registrar-level security** - DNS changes require owner authorization or verified support interaction
 4. ✅ **Issue at hosting provider** - Namecheap confirms problem is on Bear Blog's side, not DNS
@@ -112,18 +112,18 @@ This registrar confirmation eliminates any legitimate legal explanation for the 
 However, **AWS service status records show this explanation is impossible:**
 
 ![AWS us-east-1 status showing no recent outages](/assets/images/aws-east-outages-10202025/aws-east-1-2025-10-25%2011-47-09.png)
-*AWS Health Dashboard for us-east-1 region showing last incidents were October 20 (5 days before our domain blocking)*
+*AWS Health Dashboard for us-east-1 region showing last incidents were October 20 (5 days before our traffic spike)*
 
 **Why the AWS explanation doesn't work:**
 
 1. ✅ **Last AWS us-east-1 incident**: October 20, 2025 (widespread, covered in mainstream news)
-2. ✅ **Our domain blocking**: October 25, 2025, ~1:30 PM KST (5 days later)
+2. ✅ **Our traffic spike**: October 25, 2025, ~1:30 PM KST (5 days later)
 3. ✅ **AWS status**: No incidents reported between October 20-26
 4. ✅ **Hosting provider uncertainty**: Bear Blog representative said "I'll be investigating"—not confirming AWS as the cause, just speculating
 
 **Technical timeline mismatch:**
 - **October 20 AWS outage**: Widespread us-east-1 incident affecting many services
-- **October 25 domain blocking**: Only `blog.genderwatchdog.org` affected; Bear Blog's own dashboard and other sites operational
+- **October 25 traffic spike**: Only `blog.genderwatchdog.org` affected; Bear Blog's own dashboard and other sites operational
 - **5-day gap**: If this were AWS-related, why did it manifest 5 days after the AWS incident was resolved?
 
 **Unanswered questions:**
@@ -154,7 +154,7 @@ Bear Blog's developer confirmed the root cause: **bot traffic spike crashed the 
 
 ## The Escalating Censorship Pattern: Three Attempts in 18 Days
 
-**Update (October 26, 2025):** The domain blocking on October 25 was not the first censorship attempt—it was the **third escalation** in 18 days, each targeting our APEC-related documentation with increasing aggression.
+**Update (October 26, 2025):** The traffic spike on October 25 was not the first incident—it was the **third escalation** in 18 days, each targeting our APEC-related documentation with increasing aggression.
 
 **📊 [View Complete 6-Month Surveillance & Censorship Timeline →](/surveillance-censorship-timeline.html)**  
 *Interactive timeline documenting systematic suppression from June through October 2025, with evidence links and pattern analysis.*
@@ -257,11 +257,11 @@ We sent a detailed email to Substack requesting transparency on October 20:
 
 ---
 
-### October 25: Domain Blocking (Infrastructure-Level Escalation)
+### October 25: Major Traffic Spike (AI Bot Activity)
 
-**The third incident** escalated to infrastructure-level suppression when platform-level censorship failed.
+**The third incident** involved a major traffic spike (most likely AI scrape bots, though Bear Blog admin notes foul play cannot be ruled out) when platform-level censorship failed.
 
-This is the domain blocking documented throughout this post—occurring **exactly 48 hours before APEC** begins.
+This is the traffic incident documented throughout this post—occurring **exactly 48 hours before APEC** begins.
 
 ---
 
@@ -280,10 +280,10 @@ This is the domain blocking documented throughout this post—occurring **exactl
 - ✅ **Method**: Platform-level blocking (but reversible when exposed)
 
 **October 25** (48 hours before APEC):
-- ❌ Infrastructure domain blocking (DNS/hosting provider level)
-- ❌ **More aggressive** - targeting infrastructure, not just platform content
-- ❌ **Harder to reverse** - requires migration to new infrastructure
-- ✅ **Method**: Infrastructure-level suppression (not reversible by single platform)
+- ❌ Major traffic spike (most likely AI scrape bots)
+- ❌ **More aggressive** - caused service disruption at infrastructure level
+- ❌ **Harder to address** - required migration to more resilient infrastructure
+- ✅ **Method**: Traffic-based disruption (Bear Blog admin notes foul play cannot be ruled out)
 
 **The escalation:** Each method failed or wasn't aggressive enough → escalated to next level as APEC approached.
 
@@ -294,7 +294,7 @@ This is the domain blocking documented throughout this post—occurring **exactl
 - **Morning (3:30 AM EST)**: Our Substack posts blocked
 - **Same day**: AWS us-east-1 widespread outage (covered in mainstream news)
 - **6:00 AM EST**: Our Substack posts restored after public documentation
-- **5 days later (October 25)**: Our Bear Blog domain blocked, hosting provider cites "AWS knock-on effect"
+- **5 days later (October 25)**: Our Bear Blog experienced traffic spike, hosting provider cites "AWS knock-on effect"
 
 **The timing raises questions:**
 
@@ -303,7 +303,7 @@ This is the domain blocking documented throughout this post—occurring **exactl
 3. Could the October 20 AWS outage have provided cover for testing censorship methods?
 4. Was the Substack blocking a trial run that failed (due to our immediate public documentation)?
 
-**What we know:** When the October 20 Substack censorship was exposed publicly, it was reversed within minutes. When the October 25 domain blocking occurred, the hosting provider's explanation (AWS) pointed back to October 20—but AWS incidents don't manifest 5 days later, and our hosting provider is still investigating.
+**What we know:** When the October 20 Substack censorship was exposed publicly, it was reversed within minutes. When the October 25 traffic spike occurred, the hosting provider's explanation (AWS) pointed back to October 20—but AWS incidents don't manifest 5 days later, and our hosting provider is still investigating.
 
 ---
 
@@ -347,13 +347,13 @@ This isn't isolated—it's an **escalating series** of censorship attempts:
 7. **October 20, 2025, 3:30 AM EST**: **Second censorship attempt** - Both Substack posts become inaccessible (7 days before APEC)
 8. **October 20, 2025, ~6:00 AM EST**: Posts restored within 10-25 minutes after public documentation → **Censorship attempt failed**
 9. **October 23, 2025**: APEC delegations begin arriving in Gyeongju
-10. **October 25, 2025, ~1:30 PM KST**: **Third censorship attempt** - Domain blocking at infrastructure level (48 hours before APEC)
+10. **October 25, 2025, ~1:30 PM KST**: **Third incident** - Major traffic spike at infrastructure level (most likely AI scrape bots, 48 hours before APEC)
 11. **October 27, 2025**: APEC officially begins with international media present
 
 **The three-stage escalation pattern:**
 - **October 7**: Social media context suppression (reply disconnection) → Content still accessible via direct URL
 - **October 20**: Platform content blocking (Substack) → Failed when publicly documented
-- **October 25**: Infrastructure domain blocking → Required migration to censorship-resistant infrastructure
+- **October 25**: Major traffic spike (most likely AI bots) → Required migration to more resilient infrastructure
 
 Each censorship method failed or wasn't aggressive enough → escalated to next level as APEC approached.
 
@@ -678,7 +678,7 @@ blog.genderwatchdog.org → gender-watchdog.github.io
 
 Every action you take is documented:
 - Legal threats → Archived and published
-- Domain blocking → Technical logs preserved
+- Traffic spikes → Technical logs preserved
 - APEC timing → Correlation analysis public
 - Government silence → 190+ days documented
 - Press complicity → Coverage gaps tracked
@@ -789,12 +789,12 @@ We're now on infrastructure that requires public legal process for any takedown.
 ---
 
 **Update Log:**
-- **October 25, 2025, ~1:30 PM KST**: Domain blocking detected
+- **October 25, 2025, ~1:30 PM KST**: Major traffic spike detected (service disruption)
 - **October 25, 2025, 8:00 PM KST**: Site successfully migrated to GitHub Pages
 - **October 25, 2025, 8:30 PM KST**: DNS propagated globally
 - **October 25, 2025, 9:00 PM KST**: All 205 posts verified accessible
 - **October 25, 2025, 9:30 PM KST**: Press freedom organizations notified
-- **October 26, 2025, 4:30 AM UTC**: Post updated with three-stage escalation pattern documentation: October 7 APEC X.com suppression, October 20 Substack censorship, October 25 domain blocking. Added AWS explanation analysis.
+- **October 26, 2025, 4:30 AM UTC**: Post updated with three-stage escalation pattern documentation: October 7 APEC X.com suppression, October 20 Substack censorship, October 25 traffic spike. Added AWS explanation analysis.
 - **October 27-November 1, 2025**: APEC Leaders' Week proceeds with our documentation now censorship-resistant
 - **October 28, 2025, 10:00 AM UTC**: Post updated with technical investigation results: Bot traffic spike crashed reverse proxy server. Developer: "Can't entirely rule out foul play" but "terrible timing." Added link to AI governance analysis.
 
