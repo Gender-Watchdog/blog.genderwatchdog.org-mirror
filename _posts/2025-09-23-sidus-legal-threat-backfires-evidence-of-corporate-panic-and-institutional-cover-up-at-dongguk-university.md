@@ -4,6 +4,8 @@ title: "Sidus Legal Threat Backfires: Evidence of Corporate Panic and Institutio
 slug: "sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university"
 date: 2025-09-23T04:01:00+00:00
 lang: en
+meta_description: "Sidus Corporation's legal threat against Gender Watchdog backfires, revealing corporate panic and confirming their presence at Dongguk University despite denials."
+keywords: "Sidus FNH, legal threat, Dongguk University, corporate panic, sexual violence cover-up, Law Firm Shinwon"
 ---
 
 #### original published date 2025-05-27

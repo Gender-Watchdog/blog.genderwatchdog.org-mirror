@@ -4,6 +4,8 @@ title: "Viral Xiaohongshu Post Exposes Dongguk University Sexual Violence Crisis
 slug: "viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence"
 date: 2025-05-24T16:39:00+00:00
 lang: en
+meta_description: "A viral post on Xiaohongshu exposes Dongguk University's sexual violence crisis, prompting victims to break their silence and share testimonies of abuse and discrimination."
+keywords: "Xiaohongshu, Dongguk University, sexual violence, victim testimonies, international students, Chinese social media, viral post"
 ---
 
 Our recent post about Dongguk University's sexual violence crisis has gone viral on Xiaohongshu (Little Red Book), China's leading social media platform, generating unprecedented engagement and prompting multiple victims to come forward with their experiences.

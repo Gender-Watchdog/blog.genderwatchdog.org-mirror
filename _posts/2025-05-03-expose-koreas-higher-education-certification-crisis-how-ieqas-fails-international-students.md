@@ -4,6 +4,8 @@ title: "EXPOSÉ: Korea's Higher Education Certification Crisis: How IEQAS Fails 
 slug: "expose-koreas-higher-education-certification-crisis-how-ieqas-fails-international-students"
 date: 2025-05-03T00:12:00+00:00
 lang: en
+meta_description: "Exposé on how Korea's IEQAS certification fails international students, certifying universities like Dongguk despite documented sexual violence risks and falsified partnerships."
+keywords: "IEQAS, Korean higher education, international student safety, Dongguk University, certification crisis, Ministry of Education"
 ---
 
 ## EXECUTIVE SUMMARY

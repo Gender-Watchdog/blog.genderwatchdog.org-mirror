@@ -4,6 +4,8 @@ title: "Dongguk Exposed: A Decade of Sexual Violence Negligence (2016–2025)"
 slug: "inside-dongguk-a-decade-of-sexual-violence-and-institutional-failure-20162025"
 date: 2025-01-30T00:00:00+00:00
 lang: en
+meta_description: "A comprehensive timeline of sexual violence negligence at Dongguk University (2016-2025), documenting policy failures, the abolition of the Women's Student Council, and ongoing risks in the all-male faculty Film program."
+keywords: "Dongguk University, sexual violence timeline, institutional negligence, women's student council, film program, all-male faculty, student safety"
 ---
 
 **[Link back to the timeline at genderwatchdog.org](https://genderwatchdog.org/)**

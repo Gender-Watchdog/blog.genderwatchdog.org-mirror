@@ -4,6 +4,8 @@ title: "Second Falsified Partnership on Dongguk University's Website: Dongguk No
 slug: "second-falsified-partnership-on-dongguk-universitys-website-ubc-not-listed-by-ubc-150-days-of-silence"
 date: 2025-09-03T04:01:00+00:00
 lang: en
+meta_description: "Dongguk University's website lists UBC as a partner, but UBC confirms no such agreement exists. This second falsified partnership exposes the failure of IEQAS certification."
+keywords: "Dongguk University, UBC, University of British Columbia, falsified partnership, IEQAS failure, international student safety"
 ---
 
 **September 3, 2025**

@@ -6,7 +6,6 @@
     <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
     
     <!-- Primary Meta Tags -->
-    <meta name="description" content="{% if page.meta_description %}{{ page.meta_description | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | escape }}{% endif %}">
     <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | escape }}{% else %}sexual violence, Korean universities, Dongguk University, Title IX compliance, IEQAS certification, institutional accountability, international student safety, arts education{% endif %}">
     <meta name="author" content="Gender Watchdog Research Collective">
     
@@ -40,36 +39,14 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     
     <!-- Open Graph / Social Media -->
-    <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
-    <meta property="og:description" content="{% if page.meta_description %}{{ page.meta_description | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | escape }}{% endif %}">
-    <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-    <meta property="og:url" content="{{ page.url | absolute_url }}">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:locale:alternate" content="ko_KR">
-    <meta property="og:locale:alternate" content="ja_JP">
-    <meta property="og:locale:alternate" content="zh_CN">
-    <meta property="og:locale:alternate" content="zh_TW">
-    {% if page.image %}
-    <meta property="og:image" content="{{ page.image }}">
+    <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/favicons/gender-watchdog-icon-04142025.png' | absolute_url }}{% endif %}">
     <meta property="og:image:alt" content="{{ page.title | escape }}">
-    {% endif %}
-    {% if page.layout == 'post' %}
-    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-    <meta property="article:author" content="Gender Watchdog Research Collective">
-    {% if page.keywords %}
-    <meta property="article:tag" content="{{ page.keywords | escape }}">
-    {% endif %}
-    {% endif %}
     
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@Gender_Watchdog">
-    <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.meta_description %}{{ page.meta_description | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | escape }}{% endif %}">
-    {% if page.image %}
-    <meta name="twitter:image" content="{{ page.image }}">
+    <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/favicons/gender-watchdog-icon-04142025.png' | absolute_url }}{% endif %}">
     <meta name="twitter:image:alt" content="{{ page.title | escape }}">
-    {% endif %}
     
     <!-- Structured Data - Organization -->
     <script type="application/ld+json">
