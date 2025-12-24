@@ -6,11 +6,11 @@ title: Timeline - Fake Partnerships, Sexual Violence at Dongguk University
 # Timeline: Fake Partnerships, Sexual Violence at Dongguk University
 
 ## Website Links
-- [English](https://genderwatchdog.org/index.html)
-- [简体中文 (Simplified Chinese)](https://genderwatchdog.org/timeline_zh_cn.html)
-- [繁體中文 (Traditional Chinese)](https://genderwatchdog.org/timeline_zh_tw.html)
-- [日本語 (Japanese)](https://genderwatchdog.org/timeline_ja.html)
-- [한국어 (Korean)](https://genderwatchdog.org/timeline_ko.html)
+- [English](https://dongguk.genderwatchdog.org/index.html)
+- [简体中文 (Simplified Chinese)](https://dongguk.genderwatchdog.org/timeline_zh_cn.html)
+- [繁體中文 (Traditional Chinese)](https://dongguk.genderwatchdog.org/timeline_zh_tw.html)
+- [日本語 (Japanese)](https://dongguk.genderwatchdog.org/timeline_ja.html)
+- [한국어 (Korean)](https://dongguk.genderwatchdog.org/timeline_ko.html)
 
 ## Events
 
@@ -178,4 +178,37 @@ title: Timeline - Fake Partnerships, Sexual Violence at Dongguk University
 - [調查擴展至多所韓國大學，揭示系統性性暴力風險](https://blog.genderwatchdog.org/05152025_zh_tw_horizontal_ieqas/)
 - [調査が複数の韓国大学に拡大、組織的性暴力リスクを明らかに](https://blog.genderwatchdog.org/05152025_ja_horizontal_ieqas/)
 - [조사 여러 한국 대학으로 확대, 체계적 성폭력 위험 드러나](https://blog.genderwatchdog.org/05152025_ko_horizontal_ieqas/)
+
+### November 24, 2025: Professor F Sexual Violence Case
+
+**Description**: New sexual violence scandal exposes 4-month institutional silence
+
+**Available in**:
+- [Read More](https://blog.genderwatchdog.org/new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence/)
+- [东国大学新性暴力案件：F教授的虐待与机构沉默](https://blog.genderwatchdog.org/new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence/)
+- [東國大學新性暴力案件：F教授的虐待與機構沉默](https://blog.genderwatchdog.org/new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence/)
+- [東国大学での新たな性暴力事件：F教授の虐待と組織的沈黙](https://blog.genderwatchdog.org/new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence/)
+- [동국대 새로운 성폭력 사건: F교수의 학대와 제도적 침묵](https://blog.genderwatchdog.org/new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence/)
+
+### December 18, 2025: UBC FOI Confirms False Partnership
+
+**Description**: BC OIPC intervention forces UBC to confirm zero communication with Dongguk
+
+**Available in**:
+- [Read More](https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/)
+- [UBC信息自由请求确认虚假合作](https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/)
+- [UBC信息自由請求確認虛假合作](https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/)
+- [UBC情報公開請求により虚偽の提携が確認される](https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/)
+- [UBC 정보공개청구로 허위 파트너십 확인](https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/)
+
+### December 23, 2025: University of Southampton: 3rd False Partner
+
+**Description**: UK university treats partnership verification as FOI request; confirms no agreement
+
+**Available in**:
+- [Read More](https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/)
+- [南安普顿大学：第三个虚假合作伙伴](https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/)
+- [南安普頓大學：第三個虛假合作夥伴](https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/)
+- [サウサンプトン大学：3番目の虚偽パートナー](https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/)
+- [사우샘프턴 대학교: 세 번째 허위 파트너](https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/)
 

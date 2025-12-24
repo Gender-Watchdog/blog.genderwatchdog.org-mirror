@@ -3,8 +3,10 @@ layout: post
 title: "Dongguk University's False Partnership Claims: Beyond Reputation Issues to Taxpayer Fraud?"
 slug: "dongguk-universitys-false-partnership-claims-beyond-reputation-issues-to-taxpayer-fraud"
 date: 2025-01-30T12:00:00+00:00
-lang: enmeta_description: "Investigation into Dongguk University's false partnership claims with Canadian institutions, revealing potential taxpayer fraud and misuse of government funds."
-keywords: "Dongguk University, partnership fraud, taxpayer fraud, Canadian universities, government funding, higher education corruption"---
+lang: en
+meta_description: "Investigation into Dongguk University's false partnership claims with Canadian institutions, revealing potential taxpayer fraud and misuse of government funds."
+keywords: "Dongguk University, partnership fraud, taxpayer fraud, Canadian universities, government funding, higher education corruption"
+---
 
 Dongguk University's misrepresentation of international partnerships raises serious questions that go far beyond merely misleading students. Korean universities receive substantial government funding partially based on their international partnerships and global standing.
 

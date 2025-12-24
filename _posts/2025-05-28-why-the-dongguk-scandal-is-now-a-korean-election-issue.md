@@ -3,8 +3,10 @@ layout: post
 title: Why the Dongguk Scandal Is Now a Korean Election Issue
 slug: "why-the-dongguk-scandal-is-now-a-korean-election-issue"
 date: 2025-05-28T15:00:00+00:00
-lang: enmeta_description: "The Dongguk University sexual violence and partnership fraud scandal has become a Korean election issue, exposing deep flaws in higher education oversight and the IEQAS certification system."
-keywords: "Dongguk University, sexual violence, partnership fraud, Korean election, IEQAS, Sidus FNH, Tcha Sung-Jai, higher education reform"---
+lang: en
+meta_description: "The Dongguk University sexual violence and partnership fraud scandal has become a Korean election issue, exposing deep flaws in higher education oversight and the IEQAS certification system."
+keywords: "Dongguk University, sexual violence, partnership fraud, Korean election, IEQAS, Sidus FNH, Tcha Sung-Jai, higher education reform"
+---
 
 ## Official Letters Sent to Political Parties
 
