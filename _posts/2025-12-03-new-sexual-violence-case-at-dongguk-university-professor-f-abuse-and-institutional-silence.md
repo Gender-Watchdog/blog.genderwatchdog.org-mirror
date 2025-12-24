@@ -4,6 +4,7 @@ title: "New Sexual Violence Case at Dongguk University: \"Your Voice is Sex-Appe
 slug: "new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence"
 date: 2025-12-03T00:00:00+00:00
 lang: en
+meta_description: "A new sexual violence scandal at Dongguk University involving 'Professor F' exposes a 4-month institutional silence and failure of the Human Rights Center, mirroring the university's pattern of delay in addressing partnership fraud."
 ---
 
 Just as international partners are beginning to question Dongguk University's safety record, a new sexual violence scandal has erupted on campus, exposing the exact mechanisms of institutional delay and cover-up we have documented for months.
