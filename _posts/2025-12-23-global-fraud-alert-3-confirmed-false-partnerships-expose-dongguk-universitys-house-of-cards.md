@@ -80,7 +80,7 @@ The MOU signed in **early December 2025** between Dongguk's Graduate School of D
 ### 4. The Global South: The "Gateway" Lie
 Dongguk markets itself to students in Southeast Asia, Central Asia, and Africa as a "Global Hub"—a stepping stone to the West.
 *   **Consumer Fraud:** Students from Vietnam or Uzbekistan might choose Dongguk thinking it connects them to UBC or Southampton.
-*   **Predatory Recruitment:** Dongguk is selling a "Lemon." They are aggressively recruiting international students to meet government quotas by selling a "Global Network" that is **40% fake**.
+*   **Predatory Recruitment:** Dongguk is selling a "Lemon." They are aggressively recruiting international students to meet government quotas by selling a "Global Network" that is **riddled with confirmed falsehoods across two continents**.
 
 ## Conclusion
 
