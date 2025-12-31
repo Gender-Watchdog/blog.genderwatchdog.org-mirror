@@ -59,7 +59,7 @@ plugins:
 timezone: UTC
 
 # Language configuration
-languages: ["en", "zh-cn", "zh-tw", "ja", "ko", "other"]
+languages: ["en", "zh-cn", "zh-tw", "ja", "ko", "vi", "other"]
 
 # Feed settings
 feed:

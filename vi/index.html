@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Tất cả bài viết tiếng Việt"
+lang: vi
+---
+
+<h1>Tất cả bài viết tiếng Việt</h1>
+
+<ul class="post-list">
+{% assign posts = site.posts | where: "lang", "vi" | sort: "date" | reverse %}
+{% for post in posts %}
+    <li>
+        <span class="post-date">{{ post.date | date: "%d/%m/%Y" }}</span>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        {% if post.meta_description %}
+        <p>{{ post.meta_description }}</p>
+        {% endif %}
+    </li>
+{% endfor %}
+</ul>

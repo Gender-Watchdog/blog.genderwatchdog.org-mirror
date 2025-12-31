@@ -168,6 +168,19 @@ Transparency is key. We are releasing redacted FOI responses confirming the lack
 
 *Unredacted versions available to credentialed press, journalists, ranking organizations, and government officials upon request.*
 
+## The Media Response: A "Limited Hangout"
+
+Immediately after we exposed Dongguk University's falsified partnerships in China—specifically tagging *The Korea Times* in our public inquiry—the media outlet published an article titled "China delists 15 Korean universities from recognized overseas institutions." <sup>27</sup>
+
+This timing is suspicious. It appears to be a classic **"Limited Hangout"** strategy.
+
+*   **The Strategy:** Admit to a general, systemic problem (China delisting Korean universities) to distract from the specific, fraudulent behavior of one institution (Dongguk University falsifying partnerships).
+*   **The Reality:** By framing this as a broad diplomatic issue, they attempt to provide cover for Dongguk's specific lies. The issue is not merely that China "delisted" Dongguk; the issue is that Dongguk claimed partnerships that **never existed in the first place**.
+
+We see through this attempt to control the narrative. The "China Crisis" is real, but it is being weaponized as a shield to protect Dongguk from accountability for its own "Semantic Fraud."
+
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">우리가 <a href="https://twitter.com/koreatimescokr?ref_src=twsrc%5Etfw">@koreatimescokr</a> 를 태그하여 동국대의 중국 파트너십 위조를 지적하자마자, 그들은 &quot;중국이 한국 대학들을 퇴출시키고 있다&quot;는 기사를 냈습니다.<br><br>이것은 &#39;꼬리 자르기(Limited Hangout)&#39;입니다. 자신들이 홍보한 동국대의 구체적인 사기를 덮기 위해, 일반적인 위기론으로 물타기를 하는… <a href="https://t.co/hkO7AtR55a">https://t.co/hkO7AtR55a</a></p>&mdash; Gender Watchdog (@Gender_Watchdog) <a href="https://twitter.com/Gender_Watchdog/status/2006289062504939812?ref_src=twsrc%5Etfw">December 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## The Coupang Parallel: Cover-Up Culture
 
 South Korea is currently in an uproar over **Coupang**, the e-commerce giant, for hiding a massive data breach to protect its stock price and U.S. investors. <sup>26</sup>
@@ -233,3 +246,4 @@ The silence is deafening. But the evidence is now undeniable.
 24. Deakin University. "Exchange Partners." Accessed December 30, 2025. [https://www.deakin.edu.au/international-students/study-abroad-and-exchange/exchange-partners](https://www.deakin.edu.au/international-students/study-abroad-and-exchange/exchange-partners) <sup>24</sup>
 25. Beijing Foreign Studies University. "Partner Universities." Accessed December 30, 2025. [https://internationalen.bfsu.edu.cn/info/1260/1766.htm](https://internationalen.bfsu.edu.cn/info/1260/1766.htm) <sup>25</sup>
 26. Choi Hyun-ju and Noh Yu-rim. "Coupang follows 'U.S. playbook' for aftermath of data leak, prioritizing investors over customers." *Korea JoongAng Daily*, December 30, 2025. [https://koreajoongangdaily.joins.com/news/2025-12-30/business/industry/Coupang-follows-US-playbook-for-aftermath-of-data-leak-prioritizing-investors-over-customers/2489262](https://koreajoongangdaily.joins.com/news/2025-12-30/business/industry/Coupang-follows-US-playbook-for-aftermath-of-data-leak-prioritizing-investors-over-customers/2489262) <sup>26</sup>
+27. Lee Hae-rin. "China delists 15 Korean universities from recognized overseas institutions." *The Korea Times*, December 30, 2025. [https://www.koreatimes.co.kr/southkorea/society/20251230/china-delists-15-korean-universities-from-recognized-overseas-institutions](https://www.koreatimes.co.kr/southkorea/society/20251230/china-delists-15-korean-universities-from-recognized-overseas-institutions) <sup>27</sup>

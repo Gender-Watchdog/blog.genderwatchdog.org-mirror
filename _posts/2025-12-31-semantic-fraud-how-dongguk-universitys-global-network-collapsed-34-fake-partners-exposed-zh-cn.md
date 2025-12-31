@@ -1,224 +1,222 @@
 ---
 layout: post
-title: "의미론적 사기: 동국대학교의 글로벌 네트워크는 어떻게 붕괴했는가 (34개 가짜 파트너십 폭로)"
+title: "语义欺诈：东国大学的全球网络如何崩溃（34个虚假合作伙伴被曝光）"
 date: 2025-12-31T00:00:00+00:00
-slug: semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed-ko
-lang: ko
-meta_description: "동국대학교 글로벌 네트워크 감사 결과 34개 가짜 파트너십 적발. MOU 함정부터 완전한 날조까지, 전 세계 학생들을 기만하는 조직적인 '의미론적 사기'의 실체를 폭로합니다."
-tags: 동국대학교, 학술 사기, 가짜 파트너십, 의미론적 사기, 쿠팡, 교육부
+slug: semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed-zh-cn
+lang: zh-cn
+tags: [东国大学, 学术欺诈, 虚假合作伙伴, 语义欺诈, Coupang, 教育部]
 ---
 
-**[속보]** "글로벌 동국" 브랜드는 모래 위에 지어졌습니다.
+**[突发新闻]** “全球东国”品牌建立在沙堆之上。
 
-캐나다와 영국에서의 파트너십 위조 폭로에 이어, 동국대학교의 "글로벌 파트너" 목록에 대한 포괄적인 감사를 통해 우리는 **"의미론적 사기(Semantic Fraud)"** 라고 부르는 조직적인 기만 패턴을 밝혀냈습니다.
+在我们曝光了加拿大和英国的虚假合作伙伴关系之后，对东国大学“全球合作伙伴”名单的全面审计揭示了一种系统性的欺骗模式，我们称之为**“语义欺诈” (Semantic Fraud)。**
 
-중국에서 오세아니아, '퍼블릭 아이비(Public Ivies)'에서 러셀 그룹에 이르기까지, 동국대학교가 파트너라고 주장하지만 관계를 완전히 부인하거나 "파트너십"이라고 부르기에는 너무 제한적인 **34개 기관** 을 확인했습니다.
+从中国到大洋洲，从“公立常春藤”到罗素集团，我们现在已经确定了**34个机构**，东国大学声称它们是合作伙伴，但这些机构要么完全否认这种关系，要么将其限制得非常严格，以至于称其为“合作伙伴”具有误导性。
 
-이것은 단순한 행정적 오류가 아닙니다. 은폐 공작입니다.
+这不仅仅是一个行政错误。这是一个掩盖行为。
 
-## "의미론적 사기"란 무엇인가?
+## 什么是“语义欺诈”？
 
-동국대학교는 다양한 유형의 학술 협정의 모호성을 악용하여 글로벌 위상을 부풀리고 있는 것으로 보입니다.
+东国大学似乎正在利用不同类型学术协议之间的模糊性来夸大其全球地位：
 
-1.  **MOU의 함정:** 법적 구속력이 없는 양해각서(MOU)—종종 단순한 "친하게 지내자"는 서신—에 서명하고 이를 완전한 학생 교환 파트너십으로 등재합니다.
-2.  **좀비 파트너십:** 협정이 만료된 지 수년이 지났음에도 불구하고 파트너로 계속 등재합니다(예: 우한대학교).
-3.  **"학과 한정" 바꿔치기:** 특정 학과(예: 공과대학)만의 소규모 협정임에도 불구하고, 동국대학교는 대학 전체를 파트너로 등재하여 다른 전공 학생들을 오도합니다.
-4.  **완전한 날조:** 협정 기록이 전혀 없는 대학을 등재합니다.
+1.  **MOU陷阱：** 签署一份不具约束力的谅解备忘录（MOU）——通常只是一封“让我们做朋友”的信——并将其列为全面的学生交换合作伙伴关系。
+2.  **僵尸合作伙伴：** 在协议过期多年后，仍将大学列为合作伙伴（例如：武汉大学）。
+3.  **院系偷梁换柱：** 一个特定的院系（例如工程系）有一个小的协议，但东国大学将整个大学列为合作伙伴，误导其他专业的学生。
+4.  **完全捏造：** 列出没有任何协议记录的大学。
 
-## 1. 중국 클러스터: 속아 넘어간 국영 언론
+## 1. 中国集群：官方媒体被欺骗
 
-중국 파트너십에 대한 조사 결과, 주요 기관과 국영 언론조차 오도된 것으로 드러났습니다.
+我们要对中国合作伙伴关系的调查显示，即使是主要机构和官方媒体也被误导了。
 
-### "결정적 증거": 베이징이공대학 (BIT)
-우리는 BIT 유학생 센터로부터 동국대학교와의 상태에 대한 직접적인 답변을 받았습니다.
+### “铁证”：北京理工大学 (BIT)
+我们收到了北京理工大学留学生中心关于他们与东国大学状态的直接回复。
 
-> **"您好！我是北京理工大学留学生中心[Name Redacted]。我校与东国大学已签署MOU。特此说明。"**
-> *(안녕하세요! 베이징이공대학 유학생 센터의 [이름 삭제]입니다. 본교는 동국대학교와 MOU를 체결했습니다. 이에 설명드립니다.)*
+> **“您好！我是北京理工大学留学生中心[Name Redacted]。我校与东国大学已签署MOU。特此说明。”**
 
-**함정:** 그들은 MOU를 가지고 있지만, BIT는 학생 교환을 위한 공식 파트너 목록에 **동국대학교를 등재하지 않았습니다**. 동국대학교는 이 "종이 한 장"을 사용하여 완전한 파트너십을 주장하며 학생들이 그곳에서 공부할 수 있다고 속이고 있습니다.
+**骗局：** 虽然他们有MOU，但北京理工大学**并未将东国大学列入**其官方学生交换合作伙伴名单。东国大学利用这张“废纸”声称拥有全面的合作伙伴关系，欺骗学生认为他们可以在那里学习。
 
-### 우한대학교: 시간 여행
-동국대학교는 우한대학교와의 파트너십을 주장하기 위해 **2014년** 웹페이지에 의존하고 있는 것으로 보입니다.
-*   **2014년 과거 페이지:** 동국대학교가 등재되어 있습니다.
-*   **2024년 공식 페이지:** **동국대학교는 사라졌습니다.**
+### 武汉大学：时间旅行
+东国大学似乎依赖于**2014年**的一个网页来声称与武汉大学的合作伙伴关系。
+*   **2014年旧网页：** 列出了东国大学。
+*   **2024年官方网页：** **东国大学已消失。**
 
 ![Wuhan University 2014 Legacy Page](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/china/wuhan-dongguk-yes-2014.png)
-*위: 동국대학교가 의존하고 있는 2014년 페이지.*
+*上图：东国大学依赖的2014年网页。*
 
 ![Wuhan University 2024 Official Page](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/china/wuhan-dongguk-no-2024.png)
-*위: 2024년의 현실.*
+*上图：2024年的现实。*
 
-### 베이징외국어대학 (BFSU)
-BFSU는 13개의 한국 파트너를 등재하고 있습니다. 동국대학교는 그 안에 없습니다. 그러나 동국대학교는 그들을 파트너라고 주장합니다.<sup>25</sup>
+### 北京外国语大学 (BFSU)
+北外列出了13个韩国合作伙伴。东国大学不在其中。然而，东国大学声称他们是合作伙伴。<sup>25</sup>
 ![BFSU Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/china/beijing-foreign-studies-u-partners-page.png)
 
-### 칭화대학교와 차이나 데일리
-*차이나 데일리* 조차 칭화대학교와 동국대학교 간의 "MOU 체결"에 대해 보도했습니다. 그러나 칭화대학교의 공식 교환 학생 사무처는 이를 대학 전체의 파트너십으로 인정하고 있습니까? 증거는 그렇지 않음을 시사합니다. 국제적 위상을 위조하는 대학의 평판을 세탁하는 데 국영 언론이 이용되어서는 안 됩니다.
+### 清华大学 & 中国日报 (China Daily)
+就连《中国日报》也报道了清华大学与东国大学的“MOU签署仪式”。但清华大学的官方交换办公室是否承认这是全校范围的合作伙伴关系？证据显示并非如此。官方媒体不应被用来洗白一所伪造其国际地位的大学的声誉。
 
 ![Tsinghua MOU Signing](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/china/dcinside-dongguk-tsinghua-mou.png)
-*X에서 전체 분석 보기: [https://x.com/Gender_Watchdog/status/2004549863296684193](https://x.com/Gender_Watchdog/status/2004549863296684193)*
+*在X上查看我们的完整分析：[https://x.com/Gender_Watchdog/status/2004549863296684193](https://x.com/Gender_Watchdog/status/2004549863296684193)*
 
-### 기타 중국 대학
-*   **베이징대학교:** 동국대학교 없음.
+### 其他中国大学
+*   **北京大学：** 没有东国大学。
     ![Peking University Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/china/peking-u-no-dongguk.png)
-*   **저장대학교:** 동국대학교 없음.<sup>4</sup>
+*   **浙江大学：** 没有东国大学。<sup>4</sup>
     ![Zhejiang University Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/china/zhejiang-u-no-dongguk.png)
-*   **하얼빈공업대학:** 동국대학교 없음.
+*   **哈尔滨工业大学：** 没有东国大学。
     ![Harbin Institute of Technology Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/china/harbin-inst-tech-no-dongguk.png)
 
-## 2. 오세아니아의 붕괴: 85%가 가짜
+## 2. 大洋洲崩溃：85%是假的
 
-오세아니아 지역(호주/뉴질랜드) 감사 결과는 더욱 충격적이었습니다. 동국대학교가 주장하는 7개 파트너 중:
-*   **실재 확인:** 1개 (찰스 스터트 대학교)
-*   **가짜/부재 확인:** 5개
-*   **가짜일 가능성 높음 (명칭 오류):** 1개
+我们要对大洋洲（澳大利亚/新西兰）地区的审计更加令人震惊。在东国大学声称的7个合作伙伴中：
+*   **确认真实：** 1 (查尔斯特大学)
+*   **确认虚假/不存在：** 5
+*   **可能是假的（名称错误）：** 1
 
-**이는 85%의 불합격률입니다.**
+**这是85%的失败率。**
 
-### "웨스트 시드니 대학교 (University of West Sydney)" 오류
-동국대학교는 **"University of West Sydney"** 라는 파트너를 등재하고 있습니다.
-**팩트 체크:** 호주에 그런 대학은 없습니다. 정확한 명칭은 **"Western Sydney University"** 입니다.
-대학이 제휴 상대라고 주장하는 곳의 정확한 이름조차 모른다면, 이는 파트너십이 존재하지 않음을 보여주는 강력한 지표입니다. 동국대학교가 제공한 링크는 404 오류로 연결됩니다.
+### “西悉尼大学”错误
+东国大学列出了一个名为**“University of West Sydney”**的合作伙伴。
+**事实核查：** 澳大利亚没有这所大学。正确的名称是**“Western Sydney University”**。
+当一所大学甚至不知道其所谓合作伙伴的正确名称时，这是一个强烈的信号，表明这种伙伴关系并不存在。东国大学提供的链接导致404错误。
 
-### 오세아니아로부터의 "No" 확인
-*   **빅토리아 대학교 웰링턴 (NZ):** 서울대, 고려대는 등재되어 있으나, **동국대학교는 없음**.<sup>20</sup>
+### 大洋洲确认“无”
+*   **惠灵顿维多利亚大学 (NZ)：** 列出了首尔国立大学、高丽大学，但**没有东国大学**。<sup>20</sup>
     ![VUW Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/oceania/victoria-u-wellington-no-dongguk.png)
-*   **울런공 대학교 (AU):** 서울대, 연세대는 등재되어 있으나, **동국대학교는 없음**.<sup>21</sup>
+*   **伍伦贡大学 (AU)：** 列出了首尔国立大学、延世大学，但**没有东国大学**。<sup>21</sup>
     ![UOW Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/oceania/u-wollongong-no-dongguk-clean.png)
-*   **선샤인 코스트 대학교 (AU):** **동국대학교 없음**.<sup>22</sup>
+*   **阳光海岸大学 (AU)：** **没有东国大学**。<sup>22</sup>
     ![UniSC Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/oceania/u-sunshine-coast-aus-no-dongguk.png)
-*   **스윈번 공과대학교 (AU):** **동국대학교 없음**.<sup>23</sup>
+*   **斯威本科技大学 (AU)：** **没有东国大学**。<sup>23</sup>
     ![Swinburne Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/oceania/swinburne-u-tech-aus-no-dongguk.png)
-*   **디킨 대학교 (AU):** **동국대학교 없음**.<sup>24</sup>
+*   **迪肯大学 (AU)：** **没有东国大学**。<sup>24</sup>
     ![Deakin Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/oceania/deakin-u--aus-no-dongguk.png)
 
-## 3. 글로벌 톱 티어: 계속되는 거절
+## 3. 全球顶尖：拒绝继续
 
-이 패턴은 전 세계적으로 반복됩니다. 동국대학교가 파트너라고 주장하는 명문 대학들은 동국대학교를 등재하지 않고 있습니다.
+这种模式在全球范围内重复出现。东国大学声称是合作伙伴的著名大学并未列出东国大学。
 
-*   **UCLA (미국):** 없음.<sup>1</sup>
+*   **UCLA (美国)：** 没有。<sup>1</sup>
     ![UCLA Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/usa/ucla-no-dongguk.png)
-*   **UCSD (미국):** 없음.<sup>2</sup>
+*   **UCSD (美国)：** 没有。<sup>2</sup>
     ![UCSD Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/usa/ucsd-no-dongguk.png)
-*   **맨체스터 대학교 (영국):** 없음.<sup>3</sup>
+*   **曼彻斯特大学 (英国)：** 没有。<sup>3</sup>
     ![Manchester Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/europe/u-manchester-no-dongguk.png)
-*   **라이덴 대학교 (네덜란드):** 없음.<sup>5</sup>
+*   **莱顿大学 (荷兰)：** 没有。<sup>5</sup>
     ![Leiden Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/europe/Leiden-u-no-dongguk.png)
-*   **겐트 대학교 (벨기에):** 없음.<sup>6</sup>
+*   **根特大学 (比利时)：** 没有。<sup>6</sup>
     ![Ghent Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/europe/ghent-u-no-dongguk-map.png)
-*   **베를린 자유대학교 (독일):** 없음.<sup>7</sup>
+*   **柏林自由大学 (德国)：** 没有。<sup>7</sup>
     ![FU Berlin Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/europe/fu-berlin-no-donogguk.png)
-*   **함부르크 대학교 (독일):** 없음.<sup>8</sup>
+*   **汉堡大学 (德国)：** 没有。<sup>8</sup>
     ![Hamburg Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/europe/u-hamburg-no-dongguk.png)
-*   **미시간 주립대학교 (미국):** 없음.<sup>9</sup>
+*   **密歇根州立大学 (美国)：** 没有。<sup>9</sup>
     ![MSU Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/usa/michigan-state-u-exchange-no-dongguk.png)
-*   **애리조나 대학교 (미국):** 없음 (서울대만 있음).<sup>10</sup>
+*   **亚利桑那大学 (美国)：** 没有（只列出了首尔国立大学）。<sup>10</sup>
     ![Arizona Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/usa/u-arizona-no-dongguk.png)
-*   **노팅엄 대학교 (영국):** 없음.<sup>11</sup>
+*   **诺丁汉大学 (英国)：** 没有。<sup>11</sup>
     ![Nottingham Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/europe/u-nottingham-no-dongguk.png)
 
-## 4. 주의사항 및 제한: "학과 한정" 바꿔치기
+## 4. 警告和限制：院系偷梁换柱
 
-동국대학교는 실제로는 특정 학과나 프로그램에 한정된 협정임에도 불구하고 대학 전체의 파트너십을 주장하는 경우가 많습니다.
+东国大学经常声称拥有全校范围的合作伙伴关系，而实际协议仅限于特定的院系或项目。
 
-*   **룬드 대학교 (스웨덴):** 공과대학(LTH) 한정. 인문대학 없음.<sup>12</sup>
+*   **隆德大学 (瑞典)：** 仅限工程学院 (LTH)。没有人文学院。<sup>12</sup>
     ![Lund Engineering Only](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/europe/lund-engineering-only-dongguk.png)
-*   **오슬로 대학교 (노르웨이):** 인문대학 학사 과정 한정.<sup>13</sup>
+*   **奥斯陆大学 (挪威)：** 仅限人文学士学位。<sup>13</sup>
     ![Oslo Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/europe/u-oslo-dongguk-only-humanities-bachelor.png)
-*   **일리노이 대학교 어배너-섐페인 (미국):** 연구 협력 한정, 학생 교환 없음.<sup>14</sup>
+*   **伊利诺伊大学厄巴纳-香槟分校 (美国)：** 仅限研究合作，无学生交换。<sup>14</sup>
     ![UIUC Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/usa/illinois-donggu-only-nat-sci-engineering.png)
-*   **국립대만대학 (대만):** 3개 단과대학 한정, 대학 전체 아님.
+*   **国立台湾大学 (台湾)：** 仅限3个学院，非全校。
     ![NTU Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/asia/ntu-taiwan-no-dongguk-univversity-agreements.png)
 
-## 5. 일본 감사: 추가 거절
+## 5. 日本审计：更多拒绝
 
-*   **리츠메이칸 대학:** 없음.<sup>17</sup>
+*   **立命馆大学：** 没有。<sup>17</sup>
     ![Ritsumeikan Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/japan/ritsumeikan-no-dongguk.png)
-*   **리츠메이칸 아시아 태평양 대학 (APU):** 없음.<sup>16</sup>
+*   **立命馆亚洲太平洋大学 (APU)：** 没有。<sup>16</sup>
     ![APU Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/japan/ritsumeikan-apu.png)
-*   **관사이 대학:** 기본 협정만 있음, 교환 학생 없음.<sup>18</sup>
+*   **关西大学：** 仅基本协议，无交换。<sup>18</sup>
     ![Kansai Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/japan/kansai-dongguk-basic-agreement-only.png)
-*   **도호쿠 대학:** 교양학부 한정.<sup>19</sup>
+*   **东北大学：** 仅限通识教育学院。<sup>19</sup>
     ![Tohoku Partner List](https://raw.githubusercontent.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/master/assets/images/dongguk-fake-partners/japan/tohoku-u-dongguk-only-departmental.png)
 
-## 벽은 좁혀오고 있다: 국제적 법적 에스컬레이션
+## 围墙正在合拢：国际法律升级
 
-국제 파트너들이 우리의 문의를 공식적인 법적 및 규제 문제로 격상시킴에 따라 동국대학교의 침묵 전략은 실패하고 있습니다.
+随着国际合作伙伴将我们的询问升级为正式的法律和监管问题，东国大学的沉默策略正在失败。
 
-1.  **캐나다 (UBC): 규제 기관 개입**
-    UBC가 초기에 지연한 후, **브리티시컬럼비아주 정보 프라이버시 위원회(OIPC)** 가 개입하여 답변을 명령했습니다. 이는 문의를 "무시"하는 것이 규제 기관의 감독을 촉발한다는 것을 증명합니다.
+1.  **加拿大 (UBC)：监管干预**
+    在UBC最初拖延之后，**BC省信息与隐私专员 (OIPC)** 介入，下令做出回应。这证明“无视”询问会引发监管审查。
 
-2.  **영국 (사우샘프턴 대학교): 자발적인 정보 공개 청구(FOI) 격상**
-    중요한 움직임으로, 사우샘프턴 대학교는 우리의 문의를 **자발적으로** 정보 공개 사무소로 전달했습니다 (참조: F-25-0507). 그들은 이를 단순한 이메일 문의가 아닌 공식적인 법적 문제로 다루고 있습니다.
+2.  **英国 (南安普顿大学)：自愿FOI升级**
+    在一个重大举措中，南安普顿大学**自愿将**我们的询问转交给他们的信息自由办公室 (Ref: F-25-0507)。他们不认为这是一个简单的电子邮件询问；他们将其视为一个正式的法律问题。
 
-3.  **중국 (BIT): "의미론적" 자백**
-    베이징이공대학은 우리를 무시하지 않았습니다. 그들은 사기의 정확한 메커니즘을 확인하는 답변을 보냈습니다. "MOU는 있다"(종이) 그러나 "파트너십은 없다"(현실).
+3.  **中国 (BIT)：“语义”供认**
+    北京理工大学没有无视我们。他们回复确认了骗局的确切机制：“我们有MOU”（纸张）但“没有合作伙伴关系”（现实）。
 
-**동국대학교에 보내는 메시지는 명확합니다:** 학생들로부터 숨을 수는 있어도, 영국과 캐나다의 정보 공개법이나 중국 국립 대학의 내부 감사로부터 숨을 수는 없습니다.
+**给东国大学的信息很明确：** 你们可以躲避学生，但你们无法躲避英国和加拿大的《信息自由法》，也无法躲避中国公立大学的内部审计。
 
-### 증거 다운로드 (개인정보 보호를 위해 편집됨)
+### 下载证据（为保护隐私已编辑）
 
-투명성이 핵심입니다. 파트너십 부재를 확인하는 편집된 FOI 답변을 공개합니다.
+透明度是关键。我们正在发布已编辑的FOI回复，确认缺乏合作伙伴关系。
 
-1.  **사우샘프턴 대학교 및 UBC FOI 답변:**
-    [Proton Drive를 통해 다운로드](https://drive.proton.me/urls/W2G59E3DX4#qZdYHs1FVp6z)
+1.  **南安普顿FOI回复和UBC FOI回复：**
+    [通过Proton Drive下载](https://drive.proton.me/urls/W2G59E3DX4#qZdYHs1FVp6z)
 
-2.  **익명의 캐나다 대학 이메일 답변:**
-    [X (Twitter)에서 보기](https://x.com/Gender_Watchdog/status/1971983739564839121/photo/1)
+2.  **匿名加拿大大学电子邮件回复：**
+    [在X (Twitter)上查看](https://x.com/Gender_Watchdog/status/1971983739564839121/photo/1)
 
-*자격을 갖춘 언론, 기자, 순위 기관 및 정부 관계자에게는 요청 시 편집되지 않은 버전을 제공합니다.*
+*未编辑的版本可应要求提供给媒体、记者、排名机构和授权的政府官员。*
 
-## 언론의 반응: "꼬리 자르기 (Limited Hangout)"
+## 媒体回应：“有限的坦白 (Limited Hangout)”
 
-우리가 동국대학교의 중국 파트너십 위조를 폭로하고 공개 질의에서 *코리아타임스(The Korea Times)*를 구체적으로 태그한 직후, 해당 언론사는 "중국이 15개 한국 대학을 해외 학위 인정 기관에서 제외했다"는 기사를 게재했습니다. <sup>27</sup>
+就在我们曝光东国大学在中国的虚假合作伙伴关系——并在我们的公开质询中特别标记了*《韩国时报》(The Korea Times)*——之后，该媒体发表了一篇题为“中国将15所韩国大学从认可的海外机构名单中除名”的文章。 <sup>27</sup>
 
-이 타이밍은 의심스럽습니다. 이는 전형적인 **"꼬리 자르기(Limited Hangout)"** 전략으로 보입니다.
+这个时机非常可疑。这似乎是一个典型的**“有限的坦白 (Limited Hangout)”**策略。
 
-*   **전략:** 특정 기관(동국대학교)의 구체적인 사기 행위를 덮기 위해 일반적이고 구조적인 문제(중국의 한국 대학 퇴출)를 인정하여 시선을 분산시키는 것입니다.
-*   **현실:** 그들은 이 문제를 광범위한 외교적 문제로 포장하여 동국대학교의 구체적인 거짓말에 면죄부를 주려 하고 있습니다. 핵심은 중국이 동국대를 "퇴출"시킨 것이 아니라, 동국대가 **애초에 존재하지도 않았던** 파트너십을 주장했다는 것입니다.
+*   **策略：** 承认一个普遍的、系统性的问题（中国将韩国大学除名），以转移人们对某个机构具体欺诈行为（东国大学伪造合作伙伴关系）的注意力。
+*   **现实：** 通过将此问题框定为广泛的外交问题，他们试图为东国大学的具体谎言提供掩护。问题的核心不仅仅是中国“除名”了东国大学；问题在于东国大学声称拥有**从一开始就不存在**的合作伙伴关系。
 
-우리는 여론을 통제하려는 이러한 시도를 꿰뚫어 보고 있습니다. "중국발 위기"는 실재하지만, 이는 동국대학교가 저지른 "의미론적 사기(Semantic Fraud)"에 대한 책임을 회피하기 위한 방패로 악용되고 있습니다.
+我们看穿了这种试图控制舆论的企图。“中国危机”是真实的，但它正被武器化，作为保护东国大学免受其自身“语义欺诈 (Semantic Fraud)”责任追究的盾牌。
 
 <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">우리가 <a href="https://twitter.com/koreatimescokr?ref_src=twsrc%5Etfw">@koreatimescokr</a> 를 태그하여 동국대의 중국 파트너십 위조를 지적하자마자, 그들은 &quot;중국이 한국 대학들을 퇴출시키고 있다&quot;는 기사를 냈습니다.<br><br>이것은 &#39;꼬리 자르기(Limited Hangout)&#39;입니다. 자신들이 홍보한 동국대의 구체적인 사기를 덮기 위해, 일반적인 위기론으로 물타기를 하는… <a href="https://t.co/hkO7AtR55a">https://t.co/hkO7AtR55a</a></p>&mdash; Gender Watchdog (@Gender_Watchdog) <a href="https://twitter.com/Gender_Watchdog/status/2006289062504939812?ref_src=twsrc%5Etfw">December 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## 쿠팡과의 평행이론: 은폐 문화
+## 与Coupang的相似之处：掩盖文化
 
-한국은 현재 주가와 미국 투자자를 보호하기 위해 대규모 데이터 유출을 은폐한 전자상거래 거대 기업 **쿠팡(Coupang)** 으로 인해 큰 소란을 겪고 있습니다.<sup>26</sup>
+韩国目前正因**Coupang**（电子商务巨头）掩盖大规模数据泄露以保护股价和美国投资者而陷入混乱。<sup>26</sup>
 
-동국대학교는 정확히 같은 수법을 따르고 있습니다.
-*   **쿠팡:** 주가를 보호하기 위해 데이터 유출을 숨겼습니다.
-*   **동국대학교:** 대학 순위를 보호하기 위해 가짜 파트너십을 숨기고 있습니다.
+东国大学正在遵循同样的剧本。
+*   **Coupang：** 隐瞒数据泄露以保护股价。
+*   **东国大学：** 隐瞒虚假合作伙伴关系以保护大学排名。
 
-두 경우 모두 기관은 이해관계자(고객/학생)의 권리와 안전보다 대외적인 이미지를 우선시합니다.
+在这两种情况下，机构都将外部形象置于利益相关者（客户/学生）的权利和安全之上。
 
-## 결과: 리스트 제외 및 소송
+## 后果：除名和诉讼
 
-이는 피해자 없는 범죄가 아닙니다.
+这不是没有受害者的犯罪。
 
-1.  **순위 제외 (KAIST 선례):**
-    KAIST는 최근 설문 조사 데이터 조작으로 인해 QS 세계 대학 순위에서 제외되었습니다. 동국대학교가 **수십 개** 의 국제 파트너십을 위조한 것—"국제화 지수"의 핵심 지표—은 훨씬 더 심각한 위반입니다. 우리는 이 증거를 QS, THE, ARWU에 제출하고 있습니다. 동국대학교는 **리스트에서 제외될** 실질적인 위험에 직면해 있습니다.
+1.  **从排名中除名（KAIST先例）：**
+    KAIST最近因操纵调查数据而被QS世界大学排名除名。东国大学伪造**数十个**国际合作伙伴关系——这是“国际视野”的关键指标——是更严重的违规行为。我们正在将此证据提交给QS、THE和ARWU。东国大学面临被**除名**的真实风险。
 
-2.  **집단 소송:**
-    학생들은 "글로벌 대학"을 위해 등록금을 지불합니다. 그 글로벌 인프라가 가짜라면, 이는 **소비자 사기** 입니다. 학생들은 등록금 반환 및 학위 가치 하락에 대한 손해 배상을 청구하는 집단 소송의 근거를 가지고 있습니다.
+2.  **集体诉讼：**
+    学生为“全球大学”支付学费。如果那个全球基础设施是假的，那就是**消费者欺诈**。学生有理由提起集体诉讼，要求退还学费并赔偿学位贬值的损失。
 
-3.  **IEQAS 인증 취소:**
-    교육부의 IEQAS(교육국제화역량인증제) 인증은 정확한 데이터에 의존합니다. 우리의 보고에도 불구하고 동국대학교가 260일 이상 파트너 목록을 업데이트하지 않은 것은, 수정하면 인증을 잃게 될 것임을 그들이 알고 있음을 시사합니다.
+3.  **IEQAS认证撤销：**
+    教育部的IEQAS（国际教育质量保证体系）认证依赖于准确的数据。东国大学在超过260天的时间里未能更新其合作伙伴名单——尽管有我们的报告——这表明他们知道纠正它将使他们失去认证。
 
-## 260일간의 침묵
+## 260天的沉默
 
-우리는 **2025년 4월 10일** 에 첫 번째 위조된 캐나다 파트너십을 한국 교육부에 보고했습니다.
-그로부터 **260일 이상** 이 지났습니다.
-*   교육부는 아무것도 하지 않았습니다.
-*   동국대학교는 아무것도 업데이트하지 않았습니다.
+我们在**2025年4月10日**向韩国教育部报告了第一个虚假的加拿大合作伙伴关系。
+已经过去了**260多天**。
+*   教育部什么也没做。
+*   东国大学什么也没更新。
 
-침묵은 귀를 먹먹하게 합니다. 그러나 증거는 이제 부인할 수 없습니다.
+这种沉默令人震耳欲聋。但证据现在是无可辩驳的。
 
-**우리는 교육부의 즉각적인 조사와 모든 글로벌 순위 기관의 전면적인 감사를 요구합니다.**
+**我们要求教育部立即进行调查，并要求所有全球排名机构进行全面审计。**
 
 ---
-*Gender Watchdog은 고등교육 내의 제도적 부패와 성폭력을 고발하는 데 전념하는 옹호 단체입니다.*
+*Gender Watchdog 是一个致力于揭露高等教育中体制腐败和性暴力的倡导组织。*
 
-### 참고 문헌
+### 参考资料
 
 1.  University of California, Los Angeles (UCLA). "International Collaboration." Accessed December 30, 2025. [https://www.global.ucla.edu/collaboration](https://www.global.ucla.edu/collaboration) <sup>1</sup>
 2.  University of California, San Diego (UCSD). "Global Initiatives Database." Accessed December 30, 2025. [https://ucsd.adv-pub.moveonca.com/database-report-page/](https://ucsd.adv-pub.moveonca.com/database-report-page/) <sup>2</sup>
