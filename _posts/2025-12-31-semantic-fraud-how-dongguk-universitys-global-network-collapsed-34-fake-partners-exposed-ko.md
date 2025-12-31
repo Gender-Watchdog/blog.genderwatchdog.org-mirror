@@ -4,6 +4,7 @@ title: "의미론적 사기: 동국대학교의 글로벌 네트워크는 어떻
 date: 2025-12-31T00:00:00+00:00
 slug: semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed-ko
 lang: ko
+meta_description: "동국대학교 글로벌 네트워크 감사 결과 34개 가짜 파트너십 적발. MOU 함정부터 완전한 날조까지, 전 세계 학생들을 기만하는 조직적인 '의미론적 사기'의 실체를 폭로합니다."
 tags: 동국대학교, 학술 사기, 가짜 파트너십, 의미론적 사기, 쿠팡, 교육부
 ---
 

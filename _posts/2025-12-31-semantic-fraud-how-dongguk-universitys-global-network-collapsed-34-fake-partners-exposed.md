@@ -4,6 +4,7 @@ title: "Semantic Fraud: How Dongguk University's Global Network Collapsed (34 Fa
 date: 2025-12-31T00:00:00+00:00
 slug: semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed
 lang: en
+meta_description: "Comprehensive audit exposes 34 fake partnerships in Dongguk University's global network. From 'MOU traps' to outright fabrication, we reveal the systematic 'Semantic Fraud' deceiving students worldwide."
 tags: Dongguk University, Academic Fraud, Fake Partnerships, Semantic Fraud, Coupang, Ministry of Education
 ---
 
