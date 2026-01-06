@@ -1,15 +1,30 @@
 ---
 layout: default
-title: Disclaimer
+title: Legal Posture & Methodology Disclaimer
 permalink: /disclaimer/
 ---
 
-# Disclaimer: KWDI Report Analysis and Citation Clarification
+# Legal Posture & Methodology Disclaimer
 
 **Timestamp Verification:** [Screenshot of creation time](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/disclaimer-time/disclaimer-time-screenshot.png?raw=true) *(time.gov timestamp at time of writing)*
 
-## Important Clarification on Statistical References
+## 1. Institutional Independence & Liability Shield
+**This project is an independent, volunteer-run initiative.**
 
+While we gratefully acknowledge the moral support and solidarity of organizations like **EROC**, this project is **operationally and financially independent**.
+*   **No Funding:** We do not receive grants, financial contributions, or material resources from our supporters.
+*   **No Oversight:** Supporters do not have editorial control, oversight, or prior review privileges over our findings.
+*   **No Liability:** All analysis, opinions, and data presented here are the sole responsibility of the Gender Watchdog Research Collective. Supporters bear no liability for this content.
+
+## 2. Future Direction: AI for Social Impact
+This initiative is a pre-incorporation social enterprise. Our long-term goal is to develop AI-assisted whistleblowing tools to promote transparency.
+*   **Not an NGO:** We are not a registered non-profit or charity.
+*   **Not Legal Advice:** The information provided here is for public interest and educational purposes only and does not constitute legal counsel.
+*   **No Derivatives:** To protect the integrity of our investigative reports, content on this site is licensed under **CC BY-NC-ND 4.0**. You may not alter our reports to change the findings while keeping our name attached.
+
+## 3. Methodology & Clarification on Statistical References (KWDI)
+
+### Statistical References
 Throughout our blog posts and resources across the internet, when we reference "from the 2020 KWDI report" regarding the 81/100 risk score for film departments, we want to clarify our methodology and ensure transparency.
 
 ### Current Status
@@ -35,6 +50,4 @@ We are systematically updating our materials to reflect this clarification and e
 
 *For questions about our analytical methodology or KWDI report interpretations, please contact us at our official channels.*
 
-
-
-Note: Some source links may be temporarily down due to third-party server issues or file host changes. If a link does not work and you'd like access to the original document, feel free to contact genderwatchdog@proton.me 
+Note: Some source links may be temporarily down due to third-party server issues or file host changes. If a link does not work and you'd like access to the original document, feel free to contact genderwatchdog@proton.me

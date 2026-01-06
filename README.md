@@ -31,7 +31,20 @@ This site serves as a censorship-resistant mirror of our investigative documenta
 - **Hosting**: GitHub Pages
 - **Domain**: blog.genderwatchdog.org (via Namecheap)
 - **Analytics**: Fathom Analytics (privacy-focused, GDPR compliant)
-- **License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- **License**: Dual License (Apache 2.0 / CC BY-NC-ND 4.0) - see below
+
+## ⚖️ Legal & Licensing
+
+### Truthful Posture (Not an NGO)
+This project is an **independent, volunteer-run initiative** and pre-incorporation social enterprise.
+*   **We are NOT a registered non-profit organization or NGO.**
+*   **We DO NOT solicit tax-exempt donations.**
+*   **We operate independently of our supporters.** Organizations like EROC express solidarity but provide no funding, oversight, or editorial direction.
+
+### Dual-License Strategy
+To protect our investigative integrity while keeping our tools open:
+*   **Code (Scripts, CSS, Templates):** [Apache 2.0](LICENSE) - Free to use and audit.
+*   **Content (Reports, Data, Images):** [CC BY-NC-ND 4.0](LICENSE-CONTENT) - Attribution required, Non-Commercial use only, **No Derivatives** allowed (you cannot alter our reports to change the findings).
 
 ## 📂 Repository Structure
 
