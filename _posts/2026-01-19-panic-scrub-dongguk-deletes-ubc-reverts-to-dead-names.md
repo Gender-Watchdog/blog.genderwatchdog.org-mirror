@@ -45,7 +45,11 @@ By reverting to the dead name, Dongguk has revealed their hand: they are likely 
 
 Why scrub the site now?
 
-We believe Dongguk University is attempting to **"front-run"** a wave of incoming Freedom of Information (FOI) requests. Having seen the reputational damage caused by the UBC and Southampton exposures, they are likely purging other "high-risk" entries—universities they know they have no valid agreement with—before we can formally audit them.
+We believe Dongguk University is attempting to **"front-run"** a wave of incoming Freedom of Information (FOI) requests following the recent validation of our audit by **Professor John Ioannidis (Stanford)**.
+
+**Context:** [Professor Ioannidis confirmed to us](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml) that some institutions are "addicted to gaming" rankings. Dongguk appears to be deleting the evidence of this gaming before formal audits begin.
+
+Having seen the reputational damage caused by the UBC and Southampton exposures, they are likely purging other "high-risk" entries—universities they know they have no valid agreement with—before we can formally audit them.
 
 **Verify for yourself:**
 *   Dongguk's Current Page: [https://www.dongguk.edu/eng/page/554](https://www.dongguk.edu/eng/page/554)
