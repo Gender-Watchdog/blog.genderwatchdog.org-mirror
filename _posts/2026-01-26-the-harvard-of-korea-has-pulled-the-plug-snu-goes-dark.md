@@ -4,7 +4,7 @@ title: "The Harvard of Korea has pulled the plug: SNU Goes Dark"
 date: 2026-01-26 00:00:00 +0000
 slug: the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark
 lang: en
-meta_description: "Seoul National University's international partners database goes offline five days after we exposed partnership discrepancies with Ritsumeikan University. Coincidence or cover-up?"
+meta_description: "Update: SNU's partner database returns online as a 'Zombie' site—alive but still listing fraudulent entries. We analyze the failed cover-up following the initial 'panic scrub'."
 tags: fraud, snu, education, submarine-deal
 ---
 
@@ -48,6 +48,20 @@ This matters because SNU is the crown jewel of the "Technical Talent" promise cu
 If Korea's top university has unstable administrative systems preventing verification of partnerships, where is the talent coming from?
 
 **We wait to see if the data returns unchanged.**
+
+### UPDATE (Jan 28, 2026): The "Zombie" Database Returns
+**Status:** Online.
+**Verdict:** Fraudulent Entry Persists.
+
+As of approx. 12:00 EST Jan 28, the `oia.snu.ac.kr` site has been restored.
+We have verified that the **Ritsumeikan University** entry—which Ritsumeikan's own records do not reciprocate—remains listed.
+
+**Analysis:**
+The restoration of the site *without* correcting the data suggests a "Zombie" Strategy. Under pressure from high-level scrutiny (likely due to the current visits in Canada from Korean government officials and Hanwha executives), SNU has prioritized **uptime** over **integrity**. They cannot afford the optics of a "System Collapse," so they have re-animated a compromised database.
+
+We forced them to blink. They chose to double down on the error rather than admit the flaw.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 UPDATE: The &quot;Zombie&quot; Database is Back<br><br>(EN) 🇨🇦 SNU&#39;s database results reflect a &quot;Zombie&quot; strategy: Alive, but rotting. The site is back online, but the fraudulent Ritsumeikan entry remains. Restored immediately AFTER we cc&#39;d them on alerts to Ranking Bodies &amp; during the Canada… <a href="https://t.co/fAoVSi95eg">https://t.co/fAoVSi95eg</a></p>&mdash; Gender Watchdog (@Gender_Watchdog) <a href="https://twitter.com/Gender_Watchdog/status/2016329693180657915?ref_src=twsrc%5Etfw">January 28, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">🚨 BREAKING: [속보] 서울대 서버 다운 (SNU Goes Dark)<br><br>(KO) 🇰🇷 저희가 DC인사이드를 통해 서울대-리츠메이컨 대학 파트너십 불일치(discrepancy)를 지적한지 5일 만에, 서울대 국제협력본부 파트너 DB가 차단되었습니다.<br><br>✅ 메인 홈페이지: 정상 ❌ 파트너 DB (<a href="https://t.co/GIKVCsLQnE">https://t.co/GIKVCsLQnE</a>): 접속… <a href="https://t.co/eKomlFU5z9">https://t.co/eKomlFU5z9</a> <a href="https://t.co/93TJxMrzyh">pic.twitter.com/93TJxMrzyh</a></p>&mdash; Gender Watchdog (@Gender_Watchdog) <a href="https://twitter.com/Gender_Watchdog/status/2015706938278048045?ref_src=twsrc%5Etfw">January 26, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
