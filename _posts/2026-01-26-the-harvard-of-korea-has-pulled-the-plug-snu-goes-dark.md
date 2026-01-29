@@ -4,7 +4,7 @@ title: "The Harvard of Korea has pulled the plug: SNU Goes Dark"
 date: 2026-01-26 00:00:00 +0000
 slug: the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark
 lang: en
-meta_description: "Update 2: SNU rebrands OIA to OGA in a 'Shell Game' cover-up following our fraud exposure. We track the bureaucratic scrub and continued data falsification."
+meta_description: "Update 2: SNU rebrands OIA to OGA in a botched 'Shell Game' cover-up following our fraud exposure. We track the bureaucratic scrub and the 'Frankenstein' site that emerged."
 tags: fraud, snu, education, submarine-deal
 ---
 
@@ -65,9 +65,9 @@ We forced them to blink. They chose to double down on the error rather than admi
 
 <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">🚨 BREAKING: [속보] 서울대 서버 다운 (SNU Goes Dark)<br><br>(KO) 🇰🇷 저희가 DC인사이드를 통해 서울대-리츠메이컨 대학 파트너십 불일치(discrepancy)를 지적한지 5일 만에, 서울대 국제협력본부 파트너 DB가 차단되었습니다.<br><br>✅ 메인 홈페이지: 정상 ❌ 파트너 DB (<a href="https://t.co/GIKVCsLQnE">https://t.co/GIKVCsLQnE</a>): 접속… <a href="https://t.co/eKomlFU5z9">https://t.co/eKomlFU5z9</a> <a href="https://t.co/93TJxMrzyh">pic.twitter.com/93TJxMrzyh</a></p>&mdash; Gender Watchdog (@Gender_Watchdog) <a href="https://twitter.com/Gender_Watchdog/status/2015706938278048045?ref_src=twsrc%5Etfw">January 26, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### UPDATE 2 (Jan 29, 2026): The "Shell Game" Cover-Up (OIA → OGA)
+### UPDATE 2 (Jan 29, 2026): The "Frankenstein" Site (Botched Cover-up)
 **Status:** Redirects Active.
-**Tactic:** Bureaucratic Scrub.
+**Tactic:** Interrupted Scrub / Attempted Liability Decoupling.
 
 Following the "Zombie Restoration," SNU has executed a second evasive maneuver: **A Rename.**
 The "Office of International Affairs" (OIA) has suddenly been rebranded to the "Office of Global Affairs" (OGA).
@@ -75,10 +75,27 @@ The "Office of International Affairs" (OIA) has suddenly been rebranded to the "
 *   **Old URL:** `oia.snu.ac.kr` (Now 301 Redirects)
 *   **New URL:** `oga.snu.ac.kr`
 
-**Why?**
-This is a classic "Liability Decoupling" tactic. By "sunsetting" the OIA entity, they create a bureaucratic firewall between the current administration and the "legacy" fraud committed by the OIA. It allows them to dismiss future inquiries about past records by claiming "That office no longer exists."
+#### Strategic Analysis: The "Interrupted Scrub" Hypothesis
+*Disclaimer: The following is a forensic analysis of the observed anomalies.*
 
-They used the downtime not to fix the data, but to change the sign on the door.
+While the rebranding to "Office of Global Affairs" (OGA) serves to distance the administration from the OIA's history (a tactic known as "Liability Decoupling"), the execution suggests something far more chaotic.
+
+**The Smoking Gun:** The new OGA website still lists the falsified Ritsumeikan partnership.
+
+**Why this indicates a "Botched Scrub":**
+A standard, competent administrative rebrand would involve cleaning the dataset—specifically removing discrepancies like the Ritsumeikan entry—*before* migration. The fact that the site was offline for days and returned with a new name but the **same compromised data** suggests a rushed and sloppy process.
+
+Furthermore, the blunt redirects (e.g., `oia.snu.ac.kr/outgoing-partnerships` redirecting to the OGA domain) without fixing the underlying data integrity issues reinforces the "Rushed Job" theory.
+
+**The Timeline suggests:**
+1.  **The Plan:** SNU took the site offline (Jan 26) to perform a "Lift and Shift"—rebranding to OGA and purging the falsified records simultaneously.
+2.  **The Interruption:** Gender Watchdog's "Goes Dark" alert went viral, drawing immediate scrutiny to the downtime itself.
+3.  **The Panic:** Realizing that extended downtime was being interpreted as an active cover-up, administrators were forced to bring the systems back online immediately.
+4.  **The Result:** They succeeded in changing the name (OGA), but ran out of time to scrub the data.
+
+We are looking at a **"Frankenstein" site**: A new brand stitching together the old, corrupt database. This indicates an administration operating in panic mode, prioritizing optics over integrity, and failing at both.
+
+They changed the sign on the door, but forgot to clean the crime scene.
 
 **Visual Evidence of the Switch:**
 
