@@ -4,7 +4,7 @@ title: "The Harvard of Korea has pulled the plug: SNU Goes Dark"
 date: 2026-01-26 00:00:00 +0000
 slug: the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark
 lang: en
-meta_description: "Update 2: SNU rebrands OIA to OGA in a botched 'Shell Game' cover-up. We verify sloppy redirects and the 'Frankenstein' site that emerged."
+meta_description: "Update 3: SNU censors whistleblower post while botched 'OGA' rebrand confirms 'Frankenstein' site cover-up."
 tags: fraud, snu, education, submarine-deal
 ---
 
@@ -115,6 +115,24 @@ Below is the diff tracking the exact moment the page changed.
 <iframe src="https://visualping.io/diff/951098610?disableId=H0AFfLYcDWLQJYH" title="SNU Ritsumeikan Partnership | OIA Name Change" height="600" width="100%" frameborder="0"></iframe>
 
 [View Full Size Diff](https://visualping.io/diff/951098610?disableId=H0AFfLYcDWLQJYH)
+
+### UPDATE 3 (Jan 29, 2026): The Censorship (Streisand Effect)
+**Status:** Original Whistleblower Post Deleted.
+**Tactic:** Evidence Suppression.
+
+Simultaneously with the website rebrand, **the original forensic alert posted on the DC Inside SNU Student Gallery has been deleted.**
+
+The post titled *"Seoul National University Administration Worse than Inha University? The Ritsumeikan Mystery"* (ID: 234659) is no longer accessible on the board.
+
+**Why delete it?**
+Because it contained the primary evidence of the Ritsumeikan discrepancy that sparked the audit. By deleting the student discussion, they attempt to erase the "origin" of the controversy.
+
+**The Archives Remain:**
+We anticipated this censorship. The post is permanently archived.
+
+*   **Deleted Source Context:** [SNU Student Gallery Board](https://gall.dcinside.com/board/lists/?id=seouluniversity&page=1)
+*   **Archive 1 (Archive.md):** [View Snapshot](https://archive.md/vieGw)
+*   **Archive 2 (Megalodon):** [View Snapshot](https://megalodon.jp/2026-0121-1734-38/https://gall.dcinside.com:443/board/view/?id=seouluniversity&no=234659)
 
 ***
 
