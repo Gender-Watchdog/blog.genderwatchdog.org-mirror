@@ -4,7 +4,7 @@ title: "The Harvard of Korea has pulled the plug: SNU Goes Dark"
 date: 2026-01-26 00:00:00 +0000
 slug: the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark
 lang: en
-meta_description: "Update 2: SNU rebrands OIA to OGA in a botched 'Shell Game' cover-up following our fraud exposure. We track the bureaucratic scrub and the 'Frankenstein' site that emerged."
+meta_description: "Update 2: SNU rebrands OIA to OGA in a botched 'Shell Game' cover-up. We verify sloppy redirects and the 'Frankenstein' site that emerged."
 tags: fraud, snu, education, submarine-deal
 ---
 
@@ -101,6 +101,12 @@ They changed the sign on the door, but forgot to clean the crime scene.
 
 1. **The Redirect in Action:**
 A Google search for the old "International Partners" page now redirects to the new OGA domain. Notice that Google still indexes the `oia.snu.ac.kr` subdomain, but users are sent to `oga.snu.ac.kr`.
+
+**Redirected URLs (Sloppy Migration):**
+We verified that the following specific URLs, visible in search results, now bluntly redirect to the OGA homepage instead of their correct deep-link destinations:
+*   `https://oia.snu.ac.kr/outgoing-partnerships`
+*   `http://oia.snu.ac.kr/partner-universities-program`
+*   Target: `https://oga.snu.ac.kr/`
 
 ![Google Search Redirect OIA to OGA](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/20260126-snu-scrub/snu-scrub-20260126/snu-oia-oga-google-result-redirect.png?raw=true)
 
