@@ -4,7 +4,7 @@ title: "The Harvard of Korea has pulled the plug: SNU Goes Dark"
 date: 2026-01-26 00:00:00 +0000
 slug: the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark
 lang: en
-meta_description: "Update 3: SNU censors whistleblower post while botched 'OGA' rebrand confirms 'Frankenstein' site cover-up."
+meta_description: "Update 4: SNU attempts 'Soft 404' redirect strategy to hide forensic links, but the 'Zombie' Ritsumeikan entry persists on the backend."
 tags: fraud, snu, education, submarine-deal
 ---
 
@@ -133,6 +133,37 @@ We anticipated this censorship. The post is permanently archived.
 *   **Deleted Source Context:** [SNU Student Gallery Board](https://gall.dcinside.com/board/lists/?id=seouluniversity&page=1)
 *   **Archive 1 (Archive.md):** [View Snapshot](https://archive.md/vieGw)
 *   **Archive 2 (Megalodon):** [View Snapshot](https://megalodon.jp/2026-0121-1734-38/https://gall.dcinside.com:443/board/view/?id=seouluniversity&no=234659)
+
+### UPDATE 4 (Feb 5, 2026): The "Soft 404" & Zombie Persistence
+**Status:** Redirect Anomaly Detected / Visual Confirmation.
+**Tactic:** "Link Rot" Strategy & Backend Stagnation.
+
+We have detected a sophisticated "Soft 404" redirect strategy designed to break forensic deep links while maintaining surface-level uptime.
+
+**The Evidence (Visual Ping Analysis):**
+New Visual Ping analysis confirms that the specific deep link to the falsified partner page no longer redirects to the equivalent page on the new site.
+
+**The Technical Breakdown:**
+*   **Old Forensic Link:** `https://oia.snu.ac.kr/outgoing-partnerships?field_region_target_id=22&page=3` (Where we found the Ritsumeikan lie).
+*   **The "Lazy" Redirect:** `https://oga.snu.ac.kr/?field_region_target_id=22&page=3` (Redirects to Homepage + Generic Params).
+*   **The Actual New Location:** `https://oga.snu.ac.kr/outgoing-partnerships?field_region_target_id=22&page=3` (Where the lie still exists).
+
+**Why This Matters:**
+If this were a competent migration, the **Old Link** would automatically forward to the **Actual New Location**. Instead, it dumps users on the homepage, effectively "scrubbing" the evidence from direct access without triggering a "404 Not Found" error.
+
+> "The old Partnerships table and related navigation were removed. The page now shows a global affairs header with a hero area and an appointment widget, along with updated navigation." — *Visual Ping Change Summary*
+
+**Visual Confirmation:**
+![Visual Ping Redirect Analysis](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/20260126-snu-scrub/snu-scrub-20260126/update4/visual-ping-snu-redirect-with-params.png?raw=true)
+
+**Strategic Analysis: Weaponized Incompetence**
+This configuration exhibits the hallmarks of a "Lazy Root" redirect, effectively scrubbing the evidence from direct access without returning a suspicious "404 Not Found" error. Users are simply dumped on the front page, confused.
+
+![SNU Redirect Destination](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/20260126-snu-scrub/snu-scrub-20260126/update4/snu-redirect-dest-02052026.png?raw=true)
+
+However, the **Zombie Entry** persists. We verified that the falsified Ritsumeikan partnership *still exists* on the new `oga.snu.ac.kr` database (accessible only if you navigate manually). This confirms a "Lift and Shift" migration: SNU changed the name on the door (OIA -> OGA) but refused to clean the corruption inside the house.
+
+![SNU OGA Ritsumeikan Page](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/20260126-snu-scrub/snu-scrub-20260126/update4/snu-oga-ritsumeikan-page.png?raw=true)
 
 ***
 
