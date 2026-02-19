@@ -1,3 +1,13 @@
+---
+layout: post
+title: "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions (updated at 2026-02-19T06:36:55Z)"
+date: 2026-02-18 00:00:00 +0000
+slug: from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions
+lang: en
+meta_description: "Documented timeline: Dongguk University indicted a professor in 2015, saw him convicted of bid-rigging in 2017, and promoted him to Dean in 2023."
+tags: DonggukUniversity, TchaSeungJai, Corruption, EducationFraud, SexualViolence
+---
+
 # From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions
 
 *February 18, 2026 — Gender Watchdog*
