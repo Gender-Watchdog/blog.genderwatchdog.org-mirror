@@ -1,14 +1,6 @@
----
-layout: post
-title: "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions (updated at 2026-02-19T06:36:55Z)"
-date: 2026-02-18 00:00:00 +0000
-slug: from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions
-lang: en
-meta_description: "Documented timeline: Dongguk University indicted a professor in 2015, saw him convicted of bid-rigging in 2017, and promoted him to Dean in 2023."
-tags: DonggukUniversity, TchaSeungJai, Corruption, EducationFraud, SexualViolence
----
+# From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions
 
-*February 18, 2026 — Gender Watchdog* | Updated: February 19, 2026
+*February 18, 2026 — Gender Watchdog*
 
 **A university founded on Buddhist principles of truthfulness (진리), compassion (자비), and righteousness (정직) indicted a professor in 2015, watched him be convicted of bid-rigging in 2017, and responded by promoting him twice — the second time to Dean.**
 
@@ -73,6 +65,50 @@ The appointment was not challenged. It was celebrated.
 
 ---
 
+## 2026: The "Ghost Dean" & Institutional Opaqueness
+
+As of February 2026, subsequent to our investigation exposing his conviction, Dongguk University's presentation of its leadership has become increasingly opaque and contradictory.
+
+1.  **Absent from Korean Faculty List:** Tcha Seung-Jai has vanished from the official Korean-language faculty page (`dic.dongguk.edu`). It is unclear when this removal occurred, but his absence from the primary domestic resource is striking for a figure who was appointed Dean as recently as 2023.
+2.  **Retained on English Faculty List:** He remains listed on the English faculty page (`dongguk.edu/eng/dandae/122`), where his name is spelled "Sung-Jai Tcha" and he is curiously listed with only a "Bachelor Degree" in "French Education".
+3.  **Promotional Video Presence:** Despite his absence from domestic text lists, Tcha remains a central figure in the Graduate School's official promotional video. At the **1:28 mark**, he appears on screen, identified clearly by Hangul text as a professor of the department.
+
+![Tcha Seung-jai featured in Dongguk Promotional Video at 1:28](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/dongguk-tcha-former-dean-scrub/youtube-dongguk-tcha.png?raw=true)
+*Figure 1: Tcha Seung-jai featured in the official promotional video (Source: Dongguk University)*
+
+![Close-up of Tcha Seung-jai's name and title in video](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/dongguk-tcha-former-dean-scrub/youtube-dongguk-tcha-name-closeup.png?raw=true)
+*Figure 2: Close-up of on-screen text identifying him as "Professor Tcha Seung-jai of Film & Video Production"*
+
+**Watch the full video here:**
+*   **YouTube:** [https://www.youtube.com/watch?v=c1wxRgGbpQ4&t=88s](https://www.youtube.com/watch?v=c1wxRgGbpQ4&t=88s)
+*   **Dongguk Official Site:** [https://dic.dongguk.edu/page/1083](https://dic.dongguk.edu/page/1083)
+
+This suggests a university operating with a "One Foot In, One Foot Out" strategy—hiding a controversial figure from domestic scrutiny to avoid scandal, while maintaining his image internationally to attract students and prestige. This is the definition of **Institutional Capture**: protecting the network at the expense of transparency.
+
+---
+
+## The Global Fallout: Panic Scrubs and University Alerts
+
+This lack of transparency has triggered a global response. Between **February 14-17, 2026**, notices regarding this misrepresentation were notified to the General Counsels of the **QS Top 400 universities**. The alert explicitly warned that international partnerships are being used to "reputation launder" an administration that includes convicted leadership.
+
+Simultaneously, we have observed a "Panic Scrub" spreading across other Korean institutions:
+*   **Sogang University** (#6 Ranked) took its International Partners database offline on Feb 11, 2026.
+*   **Chung-Ang University** (#11 Ranked) followed suit, momentarily disabling access to their partner data after public scrutiny.
+
+These actions indicate that the "semantic fraud" we first identified at Dongguk—where universities claim partnerships that do not exist or are functionally dead—is likely a systemic issue across the sector.
+
+---
+
+## Institutional Capture: The Probability of Protection
+
+Why would a university risk its reputation to promote a convicted felon? The answer likely lies in the same "Elite Cartel" dynamics that protected figures like Kim Hak-ui (the Vice Minister of Justice involved in a sexual bribery scandal) and the perpetrators of the Burning Sun scandal.
+
+In South Korea's hyper-connected elite circles, Tcha's industry power—as the gatekeeper of film investment and casting—translates into political currency. We hypothesize that his survival of the 2017 scandal (where a multi-million dollar bid-rigging case resulted in a trivial fine of ~1.5 million KRW, or ~$1,100 USD) is evidence of high-level protection. By promoting him, Dongguk University signaled its alignment with this impunity network, prioritizing industry access over student safety.
+
+For a deeper analysis of these structural dynamics, see our report on **Institutional Capture in Korea**.<sup>20</sup> We also previously mapped the intersection of luxury marketing and grooming in the industry's "sponsorship" culture in our analysis of the **Chanel x BIFF partnership**.<sup>21</sup>
+
+---
+
 ## What Dongguk's Response Tells Us
 
 Every institution faces difficult decisions about employees who encounter the legal system. The question is what the institution's response reveals about its actual values — not its stated ones.
@@ -95,6 +131,8 @@ When Gender Watchdog first documented the co-location of Sidus FNH within Donggu
 
 The legal notice, sent May 27, 2025, demanded retraction of our documentation and threatened criminal complaint under South Korea's defamation statutes, which, unlike those of most liberal democracies, permit criminal prosecution for statements that are true but deemed injurious to reputation.
 
+This legal architecture creates what we have described as a "perfect immunity" system that outperforms even the silencing tactics seen in the Epstein case.<sup>22</sup> By criminalizing truthful testimony, the system converts sexual violence allegations into administrative offenses against the accuser, ensuring that institutions like Dongguk never have to address the substance of the claims.
+
 Sidus's letter asserted that the company had relocated its office from the Chungmuro Visual Media Center more than fifteen years prior. Dongguk's archived official website — captured April 8, 2025 — stated that the Film & Digital Media department building "houses Sidus FNH, one of Korea's top 5 film production companies."
 
 One of these statements is false. The legal threat came from the party whose statement contradicts the archived institutional record.
@@ -114,6 +152,16 @@ On October 31, 2025, The PIE News reported that South Korea had reached its targ
 We have been documenting this racialized dimension of the crisis since April 2025. Victim testimony collected through Xiaohongshu (China's "Little Red Book" platform) details how faculty exploit visa vulnerability as a mechanism of compliance.<sup>17</sup> These accounts are not anonymized rumors; they represent a pattern consistent with the KWDI data, consistent with the 2025 Professor F case reported by Maeil Kyeongjae, and consistent with the structural access architecture Tcha Seung-jai's appointments have maintained and expanded.
 
 The Korean government certified this institution. The Korean government has received our full evidence file since April 10, 2025 — **more than 300 days** of documented silence.
+
+---
+
+## The "Crime Against Humanity" Hypothesis
+
+On February 17, 2026, UN Human Rights Council experts stated that the "scale, nature, systematic character, and transnational reach" of the atrocities revealed in the Jeffrey Epstein files may meet the legal threshold of **crimes against humanity**.<sup>18</sup>
+
+We have argued since July 2025 that the systematic sexual violence documented in Korea's "Sponsorship" economy—where institutions like Dongguk University and the Ministry of Culture facilitate grooming pipelines—functions on a similar structural level. The "Sponsorship" system is not a series of isolated crimes; it is a **transnational industrial network** that commodifies vulnerable students (especially foreign nationals) for the benefit of protected elites.
+
+The parallels are not rhetorical. The "Epstein Model," as described by Professor Pak Noja, is defined by institutions that are captured by predatory interests to protect their own impunity.<sup>19</sup> Dongguk University's promotion of a convicted felon to Dean, while falsely claiming partnerships to recruit foreign students into a 61.5% sexual violence environment, fits this model of institutional capture perfectly.
 
 ---
 
@@ -170,3 +218,13 @@ We do not accept that it is routine. And we will continue to document why.
 <sup>16</sup> Gender Watchdog, "Sidus Legal Threat Backfires: Evidence of Corporate Panic and Institutional Cover-Up at Dongguk University": [https://blog.genderwatchdog.org/sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university/](https://blog.genderwatchdog.org/sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university/)
 
 <sup>17</sup> Gender Watchdog, "Viral Xiaohongshu Post Exposes Dongguk University Sexual Violence Crisis: Victims Break Their Silence": [https://blog.genderwatchdog.org/viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence/](https://blog.genderwatchdog.org/viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence/)
+
+<sup>18</sup> Reuters, "Allegations in Epstein files may amount to 'crimes against humanity,' UN experts say," Feb 17, 2026. Experts cited the "scale, nature, systematic character, and transnational reach" of the atrocities.
+
+<sup>19</sup> Pak Noja, "The Epstein Model: US Ruled by Predators," *The Hankyoreh*: [https://english.hani.co.kr/arti/english_edition/english_editorials/1244571.html](https://english.hani.co.kr/arti/english_edition/english_editorials/1244571.html)
+
+<sup>20</sup> Gender Watchdog, "Institutional Capture in Korea: Exploitation Economy, Governance Failures, and AI Safety Hijacking": [https://blog.genderwatchdog.org/institutional-capture-in-korea-exploitation-economy-governance-failures](https://blog.genderwatchdog.org/institutional-capture-in-korea-exploitation-economy-governance-failures)
+
+<sup>21</sup> Gender Watchdog Analysis: "Chanel, BIFF, and Korea’s 'Sponsorship' System: When Luxury Marketing Overlaps with Sexual Grooming." (See X/Twitter thread: `https://x.com/Gender_Watchdog/status/1966813553140396281` for full analysis).
+
+<sup>22</sup> Gender Watchdog, "BIFF to Epstein: How Korea's Exploitation Economy Fueled the MAGA Far-Right Alliance": [https://blog.genderwatchdog.org/biff-to-epstein-how-koreas-exploitation-economy-fueled-the-maga-far-right-alliance/](https://blog.genderwatchdog.org/biff-to-epstein-how-koreas-exploitation-economy-fueled-the-maga-far-right-alliance/)
