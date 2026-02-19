@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions (updated at 2026-02-19T06:36:55Z)"
+title: "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions (updated at 2026-02-19T21:55:39Z)"
 date: 2026-02-18 00:00:00 +0000
 slug: from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions
 lang: en
