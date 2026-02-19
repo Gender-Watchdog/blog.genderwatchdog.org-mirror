@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions"
+title: "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions (updated at 2026-02-19T06:36:55Z)"
 date: 2026-02-18 00:00:00 +0000
 slug: from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions
 lang: en
@@ -8,7 +8,7 @@ meta_description: "Documented timeline: Dongguk University indicted a professor 
 tags: DonggukUniversity, TchaSeungJai, Corruption, EducationFraud, SexualViolence
 ---
 
-*February 18, 2026 — Gender Watchdog*
+*February 18, 2026 — Gender Watchdog* | Updated: February 19, 2026
 
 **A university founded on Buddhist principles of truthfulness (진리), compassion (자비), and righteousness (정직) indicted a professor in 2015, watched him be convicted of bid-rigging in 2017, and responded by promoting him twice — the second time to Dean.**
 
