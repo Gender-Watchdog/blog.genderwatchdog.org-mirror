@@ -14,6 +14,7 @@ twitter_username: Gender_Watchdog
 github_username: Gender-Watchdog
 
 # Build settings
+future: true
 markdown: kramdown
 kramdown:
   input: GFM
