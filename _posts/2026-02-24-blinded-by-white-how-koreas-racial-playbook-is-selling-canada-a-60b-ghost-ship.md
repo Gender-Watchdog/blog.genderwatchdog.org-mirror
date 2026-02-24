@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blinded by White: How Korea's Racial Playbook Is Selling Canada a $60B 'Ghost Ship' (updated at 2026-02-24T18:57:31Z)"
+title: "Blinded by White: How Korea's Racial Playbook Is Selling Canada a $60B 'Ghost Ship' (updated at 2026-02-24T20:36:46Z)"
 date: 2026-02-24 00:00:00 +0000
 slug: blinded-by-white-how-koreas-racial-playbook-is-selling-canada-a-60b-ghost-ship
 lang: en
@@ -142,7 +142,7 @@ When Fuhr toured the Okpo shipyard on February 2 — Hanwha Ocean's primary faci
 
 Just days after his visit, unionized workers exposed that **4,000 migrant subcontracted workers at Hanwha Ocean's shipbuilding operations received bonuses equal to just 46.8% of what Korean subcontracted workers received** — a discriminatory two-tier system that President Lee Jae-myung had falsely praised as "equal."[^8]
 
-Hanwha's labor practices are not an aberration. A migrant worker at a Korean industrial site was physically bound and hoisted by a forklift in 2025 — a case that triggered national outcry.[^9] These are the supply chains Canada is being asked to import.
+Hanwha's labor practices are not an aberration but part of a documented national pattern. In August 2025, a Sri Lankan migrant worker at a brick factory in Naju — unrelated to Hanwha — was bound with plastic wrap and hoisted by a forklift by fellow workers, an incident that triggered national outrage and was condemned by civil society groups as emblematic of the systemic dehumanization of migrant industrial laborers in Korea.[^9] President Lee Jae-myung called it a "barbaric violation of human rights." That the government needed to be shamed into action by a viral video illustrates how structurally normalized the abuse had become. These are the labor norms governing the industrial environment Canada is being asked to partner with.
 
 USMCA/CUSMA labor provisions exist precisely to prevent this. That Fuhr toured the Okpo site days before the abuse was publicly denounced — and no reported due diligence was triggered — illustrates the depth of the blind spot.
 
