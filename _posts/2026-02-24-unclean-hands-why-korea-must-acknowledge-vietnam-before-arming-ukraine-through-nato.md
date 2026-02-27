@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unclean Hands: Why Korea Must Acknowledge Vietnam Before Arming Ukraine Through NATO (updated at 2026-02-27T01:46:16Z)"
+title: "Unclean Hands: Why Korea Must Acknowledge Vietnam Before Arming Ukraine Through NATO (updated at 2026-02-27T06:00:02Z)"
 date: 2026-02-24 00:00:00 +0000
 slug: unclean-hands-why-korea-must-acknowledge-vietnam-before-arming-ukraine-through-nato
 lang: en
@@ -97,6 +97,12 @@ This localization severs the visible brand identity from the producing instituti
 **Ethical liability travels with the hardware regardless of the name on the barrel.**
 
 Norway, as a NATO member and a recent Hanwha weapons buyer, has its own ESG procurement standards. The Norwegian Government Pension Fund Global (the Oil Fund) has established exclusion criteria including serious violations of human rights and severe environmental damage as grounds for divestment — criteria applicable in kind to defense procurement contexts. The Norwegian Defence Materiel Agency has not publicly disclosed whether it conducted an independent labor audit of Hanwha Aerospace's Changwon facility prior to procuring the K9 Vidar fleet — nor whether the migrant subcontracting structures documented at Hanwha Ocean's Okpo shipyard extend to Hanwha Aerospace's defense manufacturing operations.
+
+![NBIM Hanwha Aerospace Investment](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/hanwha/nbim-hanwha-aerospace-investment.png?raw=true)
+*Norges Bank Investment Management (NBIM) holdings in Hanwha Aerospace Co Ltd as of Dec 31, 2025. Source: [NBIM All Investments](https://www.nbim.no/en/investments/all-investments/#/2025-12-31/0/5y09m3zrly5a)*
+
+![NBIM Hanwha Group Investments](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/hanwha/nbim-hanwha-investments.png?raw=true)
+*NBIM's broader portfolio exposure across Hanwha Group subsidiaries. Source: [NBIM All Investments](https://www.nbim.no/en/investments/all-investments/#/2025-12-31/0/5y09m3zrly5a)*
 
 ---
 
