@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die in Justice: Chung-Ang University's Partnership Fraud, Criminal Leadership, and Twenty-One Years of Sexual Violence Cover-Ups (updated at 2026-03-11T02:55:05Z)"
+title: "Die in Justice: Chung-Ang University's Partnership Fraud, Criminal Leadership, and Twenty-One Years of Sexual Violence Cover-Ups (updated at 2026-03-11T04:03:49Z)"
 date: 2026-03-09 00:00:00 +0000
 slug: chung-ang-university-partnership-fraud-sexual-violence-doosan
 lang: en
@@ -17,6 +17,9 @@ gh_pages_url: https://blog.genderwatchdog.org/chung-ang-university-partnership-f
 That is the official motto of Chung-Ang University, inscribed on the institution's seal and repeated in every piece of international marketing material the university sends to prospective students, partner universities, and rankings bodies.[^1]
 
 The documented record below is the answer to that motto.
+
+> **Interactive Timeline:** Every case, every date, every cover-up mechanism — documented with primary sources at **[CAU Exposed: Sexual Violence, Financial Crimes & Institutional Failure](https://chungang.genderwatchdog.org/)**
+> Available in: [English](https://chungang.genderwatchdog.org/index.html) · [日本語](https://chungang.genderwatchdog.org/timeline_ja.html) · [한국어](https://chungang.genderwatchdog.org/timeline_ko.html) · [简体中文](https://chungang.genderwatchdog.org/timeline_zh_cn.html) · [Tiếng Việt](https://chungang.genderwatchdog.org/timeline_vi.html)
 
 ---
 
@@ -124,7 +127,7 @@ One CAU president jailed for corruption. One CAU foundation chairman resigned un
 
 ## Part IV: Twenty-One Years of Sexual Violence — Nine Perpetrators, Seven Departments, Zero Permanent Bans
 
-> *A detailed chronological timeline of all confirmed cases is being compiled at a dedicated documentation site. [TIMELINE SITE PLACEHOLDER — chung-ang.genderwatchdog.org, currently in development] The summary below covers confirmed cases with verified sources.*
+> *A full interactive timeline of all confirmed cases, with primary source citations for each entry, is documented at [CAU Exposed: Sexual Violence, Financial Crimes & Institutional Failure](https://chungang.genderwatchdog.org/). The summary below covers confirmed cases with verified sources.*
 
 The record of sexual violence at Chung-Ang University is not a wave. It is a continuous document spanning from 1998 to at least 2019 — two decades — across at least seven academic departments, with nine confirmed perpetrators, and **zero confirmed instances** of the harshest disciplinary sanction (파면, permanent dismissal bar) being applied despite multiple Human Rights Center recommendations to do so.
 
