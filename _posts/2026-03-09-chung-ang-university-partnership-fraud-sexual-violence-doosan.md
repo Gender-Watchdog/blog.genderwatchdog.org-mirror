@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die in Justice: Chung-Ang University's Partnership Fraud, Criminal Leadership, and Twenty-One Years of Sexual Violence Cover-Ups (updated at 2026-03-10T17:33:37Z)"
+title: "Die in Justice: Chung-Ang University's Partnership Fraud, Criminal Leadership, and Twenty-One Years of Sexual Violence Cover-Ups (updated at 2026-03-10T23:46:06Z)"
 date: 2026-03-09 00:00:00 +0000
 slug: chung-ang-university-partnership-fraud-sexual-violence-doosan
 lang: en
@@ -37,7 +37,7 @@ The 36 absent universities include institutions that CAU was actively marketing 
 - **Nanyang Technological University, Singapore** (QS 12) — Korea partner list publicly accessible; CAU absent
 - **UC Berkeley** (QS 17) — lists KAIST, Korea University, SNU, and Yonsei for Korea exchange; CAU not present
 - **University of Manchester** (QS 35) — lists Ewha, Korea University, SNU, Yonsei; CAU absent
-- **Duke University** (QS 62) — lists SNU, Yonsei, Korea University, **Sogang**, and Ewha; CAU not listed
+- **Duke University** (QS 62) — The South Korea country page is entirely blank (since at least 2020), and Duke has explicitly frozen all new bilateral undergraduate exchanges globally. CAU claimed a Duke partnership in 2025–2026 despite Duke's exchange infrastructure for Korea being publicly dead for half a decade. ([Screenshot of blank page placeholder] — Source: Megalodon Archive: <a href="https://megalodon.jp/2026-0311-0802-31/https://global.duke.edu:443/countries/south-korea">https://megalodon.jp/2026-0311-0802-31/https://global.duke.edu:443/countries/south-korea</a>; Megalodon Archive (frozen exchanges): <a href="https://megalodon.jp/2026-0311-0805-35/https://global.duke.edu:443/partnerships">https://megalodon.jp/2026-0311-0805-35/https://global.duke.edu:443/partnerships</a>)
 - **UC San Diego** (QS 66) — 26 Korean partner institutions listed; CAU not among them
 - **Erasmus University Rotterdam** (QS 140) — lists Hanyang, Korea University, SNU, and Yonsei for Korea; CAU absent
 - **Ohio State University** (QS 190) — CAU holds only an MOU with OSU; the student *exchange* program is **Sogang-only**. OSU explicitly distinguishes between MOU institutions and exchange partners on their own international programs page.
@@ -263,6 +263,8 @@ Against that declared standard, the institution's documented record includes:
 
 We are not asking accreditation bodies, QS, partner universities, foreign embassies, or prospective students to trust our word. The Appendix below links directly to each partner institution's own public partner directory. The evidence is already online, at the other institution, waiting to be checked.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">UPDATE: Back Online (after 65 Hours)<br><br>Chung-Ang University (#11 Global Rank) has reappeared online as of midnight PST (Feb 14).<br><br>The Timeline: <br>1️⃣ Goes Dark: Feb 11 <br>2️⃣ We Expose: Feb 12 <br>3️⃣ Restored: Feb 14<br><br>They spent ~2.5 days in the dark. Now the real work begins: We are…</p>&mdash; Gender Watchdog (@Gender_Watchdog) <a href="https://twitter.com/Gender_Watchdog/status/2022755873832210478?ref_src=twsrc%5Etfw">February 14, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 **To international accreditation bodies:** the partnership claims listed in CAU's institutional filings have been independently audited against the partner institutions' own records. The failure rate in the prestige tier is 73%. Renewal without independent verification is not due diligence — it is delegation of credentialing to an institution that has already demonstrated it will game any metric it can.
 
 **To QS and other commercial ranking agencies:** you have been notified. CAU has taken its partner database offline rather than dispute these findings. Continued ranking without partnership verification is not a neutral act.
@@ -282,49 +284,49 @@ CAU's motto demands justice and truth. Their record documents the opposite. We a
 
 ## Footnotes
 
-[^1]: CAU motto and official history. <a href="https://neweng.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=240">https://neweng.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=240</a>
+[^1]: CAU motto and official history. [https://neweng.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=240](https://neweng.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=240)
 
 [^2]: Gender Watchdog Reciprocity Audit, `audit_results.csv` (March 8, 2026, manually corrected, 28 corrections applied). [GITHUB URL — TO BE PUBLISHED BY USER]
 
-[^3]: Professor John Ioannidis, Stanford University Meta-Research Innovation Center, email correspondence with Gender Watchdog, January 2026. <a href="https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml">https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml</a>
+[^3]: Professor John Ioannidis, Stanford University Meta-Research Innovation Center, email correspondence with Gender Watchdog, January 2026. https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml: <a href="https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study">https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study</a>%202026-01-17T02_29_40%2B09_00.eml)
 
-[^4]: *Gender Watchdog Blog*, "The 'Panic Scrub' Spreads: Chung-Ang and Sogang Universities Go Dark" (Feb 11, 2026). <a href="https://blog.genderwatchdog.org/panic-scrub-spreads-chung-ang-sogang-go-dark">https://blog.genderwatchdog.org/panic-scrub-spreads-chung-ang-sogang-go-dark</a>
+[^4]: *Gender Watchdog Blog*, "The 'Panic Scrub' Spreads: Chung-Ang and Sogang Universities Go Dark" (Feb 11, 2026). [https://blog.genderwatchdog.org/panic-scrub-spreads-chung-ang-sogang-go-dark](https://blog.genderwatchdog.org/panic-scrub-spreads-chung-ang-sogang-go-dark)
 
-[^5]: *Korea Times*, "Chung-Ang and Doosan" (Sep 24, 2008). <a href="https://www.koreatimes.co.kr/www/nation/2024/09/113_31605.html">https://www.koreatimes.co.kr/www/nation/2024/09/113_31605.html</a>
+[^5]: *Korea Times*, "Chung-Ang and Doosan" (Sep 24, 2008). [https://www.koreatimes.co.kr/www/nation/2024/09/113_31605.html](https://www.koreatimes.co.kr/www/nation/2024/09/113_31605.html)
 
-[^6]: *Wikipedia*, Chung-Ang University (citing *Ohmynews* Feb 23, 2009; *Kyunghyang Shinmun* Feb 26, 2009; *Yonhap* Jul 27, 2010). <a href="https://en.wikipedia.org/wiki/Chung-Ang_University">https://en.wikipedia.org/wiki/Chung-Ang_University</a>
+[^6]: *Wikipedia*, Chung-Ang University (citing *Ohmynews* Feb 23, 2009; *Kyunghyang Shinmun* Feb 26, 2009; *Yonhap* Jul 27, 2010). [https://en.wikipedia.org/wiki/Chung-Ang_University](https://en.wikipedia.org/wiki/Chung-Ang_University)
 
-[^7]: *Korea Times*, "Chung-Ang probe spills to Doosan, Woori" (May 1, 2015). <a href="https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori">https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori</a>
+[^7]: *Korea Times*, "Chung-Ang probe spills to Doosan, Woori" (May 1, 2015). [https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori](https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori)
 
-[^8]: *Korea Times*, "Doosan Heavy chairman resigns" (Apr 21, 2015). <a href="https://www.koreatimes.co.kr/www/nation/2018/06/113_177508.html">https://www.koreatimes.co.kr/www/nation/2018/06/113_177508.html</a>
+[^8]: *Korea Times*, "Doosan Heavy chairman resigns" (Apr 21, 2015). [https://www.koreatimes.co.kr/www/nation/2018/06/113_177508.html](https://www.koreatimes.co.kr/www/nation/2018/06/113_177508.html)
 
-[^9]: *Korea Times*, "Park Yong-sung to be questioned" (May 13, 2015). <a href="https://www.koreatimes.co.kr/southkorea/20150513/park-yong-sung-to-be-questioned">https://www.koreatimes.co.kr/southkorea/20150513/park-yong-sung-to-be-questioned</a>
+[^9]: *Korea Times*, "Park Yong-sung to be questioned" (May 13, 2015). [https://www.koreatimes.co.kr/southkorea/20150513/park-yong-sung-to-be-questioned](https://www.koreatimes.co.kr/southkorea/20150513/park-yong-sung-to-be-questioned)
 
-[^10]: *NamuWiki*, 교수/범죄 [footnotes 23–27] (citing national press coverage 1998–2003). <a href="https://namu.wiki/w/%EA%B5%90%EC%88%98/%EB%B2%94%EC%A3%84">https://namu.wiki/w/%EA%B5%90%EC%88%98/%EB%B2%94%EC%A3%84</a>
+[^10]: *NamuWiki*, 교수/범죄 [footnotes 23–27] (citing national press coverage 1998–2003). [https://namu.wiki/w/%EA%B5%90%EC%88%98/%EB%B2%94%EC%A3%84](https://namu.wiki/w/%EA%B5%90%EC%88%98/%EB%B2%94%EC%A3%84)
 
-[^11]: *Hankyung*, "중앙대 교수 성희롱 의혹…" (Jun 4, 2018). <a href="https://www.hankyung.com/article/201806047731Y">https://www.hankyung.com/article/201806047731Y</a>
+[^11]: *Hankyung*, "중앙대 교수 성희롱 의혹…" (Jun 4, 2018). [https://www.hankyung.com/article/201806047731Y](https://www.hankyung.com/article/201806047731Y)
 
-[^12]: *Seoul Sinmun* (May 24, 2018). <a href="https://www.seoul.co.kr/news/society/accident/2018/05/24/20180524500160">https://www.seoul.co.kr/news/society/accident/2018/05/24/20180524500160</a>
+[^12]: *Seoul Sinmun* (May 24, 2018). [https://www.seoul.co.kr/news/society/accident/2018/05/24/20180524500160](https://www.seoul.co.kr/news/society/accident/2018/05/24/20180524500160)
 
-[^13]: *Hankyung / Korea Economic Daily* (Mar 20, 2018). <a href="https://www.hankyung.com/society/article/201803208255Y">https://www.hankyung.com/society/article/201803208255Y</a>
+[^13]: *Hankyung / Korea Economic Daily* (Mar 20, 2018). [https://www.hankyung.com/society/article/201803208255Y](https://www.hankyung.com/society/article/201803208255Y)
 
-[^14]: *Kado / Gangwon Ilbo* (Mar 20, 2018). <a href="https://www.kado.net/news/articleView.html?idxno=903558">https://www.kado.net/news/articleView.html?idxno=903558</a>
+[^14]: *Kado / Gangwon Ilbo* (Mar 20, 2018). [https://www.kado.net/news/articleView.html?idxno=903558](https://www.kado.net/news/articleView.html?idxno=903558)
 
-[^15]: *NamuWiki*, 중앙대학교/사건사고 (citing national press coverage 2014–2018). <a href="https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0">https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0</a>
+[^15]: *NamuWiki*, 중앙대학교/사건사고 (citing national press coverage 2014–2018). [https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0](https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0)
 
-[^16]: *News1*, "중앙대 영문과 교수 성폭력 사건" (Nov 28, 2018). <a href="https://www.news1.kr/society/general-society/3487887">https://www.news1.kr/society/general-society/3487887</a>
+[^16]: *News1*, "중앙대 영문과 교수 성폭력 사건" (Nov 28, 2018). [https://www.news1.kr/society/general-society/3487887](https://www.news1.kr/society/general-society/3487887)
 
-[^17]: *SBS News* (Nov 28, 2018). <a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1005034822">https://news.sbs.co.kr/news/endPage.do?news_id=N1005034822</a>
+[^17]: *SBS News* (Nov 28, 2018). [https://news.sbs.co.kr/news/endPage.do?news_id=N1005034822](https://news.sbs.co.kr/news/endPage.do?news_id=N1005034822)
 
-[^18]: *News1*, "중앙대, A교수 최종 해임 결정" (Jun 18, 2019). <a href="https://www.news1.kr/society/incident-accident/3648886">https://www.news1.kr/society/incident-accident/3648886</a>
+[^18]: *News1*, "중앙대, A교수 최종 해임 결정" (Jun 18, 2019). [https://www.news1.kr/society/incident-accident/3648886](https://www.news1.kr/society/incident-accident/3648886)
 
 [^19]: Korean Women's Development Institute (KWDI), *2020 Report on Sexual Violence in Korean University Arts and Culture Programs* (2020). 61.5% of female students in arts/culture programs; structural risk index 81/100 for film and media departments.
 
 [^20]: *Korea Times*, "University professors commit most campus sexual offenses" (Jun 2, 2021). 66% of all sexual violence at Korean universities perpetrated by male-dominated faculty.
 
-[^21]: GSAIM official site: <a href="https://gsaim.cau.ac.kr">https://gsaim.cau.ac.kr</a>; CAU official history (BK21, CJ E&M, Netflix): <a href="https://neweng.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=240">https://neweng.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=240</a>
+[^21]: GSAIM official site: [https://gsaim.cau.ac.kr](https://gsaim.cau.ac.kr); CAU official history (BK21, CJ E&M, Netflix): [https://neweng.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=240](https://neweng.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=240)
 
-[^22]: *Gender Watchdog Blog*, "The Harvard of Korea Has Pulled the Plug: SNU Goes Dark" (Jan 26, 2026). <a href="https://blog.genderwatchdog.org/the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark/">https://blog.genderwatchdog.org/the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark/</a>
+[^22]: *Gender Watchdog Blog*, "The Harvard of Korea Has Pulled the Plug: SNU Goes Dark" (Jan 26, 2026). [https://blog.genderwatchdog.org/the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark/](https://blog.genderwatchdog.org/the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark/)
 
 ---
 
@@ -352,7 +354,7 @@ These universities have publicly accessible partner directories. CAU is not list
 | 12 | Nanyang Technological University, Singapore | Korea partners visible — CAU absent | NTU GEM Explorer: <a href="https://ntu-sa.terradotta.com/index.cfm?FuseAction=Programs.SearchResults&Sort=Program_Country&Order=asc&program_name=GEM%20Explorer&program_type_id=1&program_active=1&requiredminimumtofindismeet=0&partner_id=ANY&">https://ntu-sa.terradotta.com/index.cfm?FuseAction=Programs.SearchResults&Sort=Program_Country&Order=asc&program_name=GEM%20Explorer&program_type_id=1&program_active=1&requiredminimumtofindismeet=0&partner_id=ANY&</a> |
 | 17 | University of California, Berkeley | KAIST, Korea U, SNU, Yonsei only | UCEAP Korea: <a href="https://uceap.universityofcalifornia.edu/programs?country[30]=30">https://uceap.universityofcalifornia.edu/programs?country[30]=30</a> |
 | 35 | University of Manchester | Ewha, Korea U, SNU, Yonsei | Manchester Korea partners: <a href="https://www.manchester.ac.uk/study/international/study-abroad-exchange/partners/#korea">https://www.manchester.ac.uk/study/international/study-abroad-exchange/partners/#korea</a> |
-| 62 | Duke University | SNU, Yonsei, Korea U, **Sogang**, Ewha — not CAU | Duke East Asia: <a href="https://global.duke.edu/regions/east-asia">https://global.duke.edu/regions/east-asia</a> |
+| 62 | Duke University | Blank page; new exchanges frozen globally | Duke South Korea blank: <a href="https://global.duke.edu/countries/south-korea">https://global.duke.edu/countries/south-korea</a> |
 | 66 | UC San Diego | 26 Korea partners listed — CAU not among them | UCSD Korea exchange: <a href="https://ucsd.adv-pub.moveonca.com/database-report-page/">https://ucsd.adv-pub.moveonca.com/database-report-page/</a> |
 | 88 | Boston University | Seoul National University only for Korea exchange | BU Korea programs: <a href="https://www.bu.edu/abroad/explore-programs/find-a-program/?num=1&bu_progs_location=asia-oceania%2Cauckland%2Chong-kong%2Ckyoto%2Cseoul%2Cshanghai%2Csingapore%2Csonepat-india%2Csydney%2Ctaipei%2Ctokyo&q=korea">https://www.bu.edu/abroad/explore-programs/find-a-program/?num=1&bu_progs_location=asia-oceania%2Cauckland%2Chong-kong%2Ckyoto%2Cseoul%2Cshanghai%2Csingapore%2Csonepat-india%2Csydney%2Ctaipei%2Ctokyo&q=korea</a> |
 | 88 | Purdue University *(QS rank refers to main campus; CAU claims Purdue Northwest — a separate, lower-ranked campus)* | CAU not listed at either campus | Purdue NW partnerships: <a href="https://www.pnw.edu/international-programs-partnerships/partnerships/">https://www.pnw.edu/international-programs-partnerships/partnerships/</a> |
