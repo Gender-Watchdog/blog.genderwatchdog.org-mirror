@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die in Justice: Chung-Ang University's Partnership Fraud, Criminal Leadership, and Twenty-One Years of Sexual Violence Cover-Ups (updated at 2026-03-10T23:46:06Z)"
+title: "Die in Justice: Chung-Ang University's Partnership Fraud, Criminal Leadership, and Twenty-One Years of Sexual Violence Cover-Ups (updated at 2026-03-11T02:55:05Z)"
 date: 2026-03-09 00:00:00 +0000
 slug: chung-ang-university-partnership-fraud-sexual-violence-doosan
 lang: en
@@ -286,9 +286,9 @@ CAU's motto demands justice and truth. Their record documents the opposite. We a
 
 [^1]: CAU motto and official history. [https://neweng.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=240](https://neweng.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=240)
 
-[^2]: Gender Watchdog Reciprocity Audit, `audit_results.csv` (March 8, 2026, manually corrected, 28 corrections applied). [GITHUB URL — TO BE PUBLISHED BY USER]
+[^2]: Gender Watchdog Reciprocity Audit, `audit_results.csv` (March 8, 2026, manually corrected, 28 corrections applied). <a href="https://github.com/Gender-Watchdog/cau-timeline-website/blob/main/evidence/20260309-cau-reciprocity-audit/audit_results.csv">https://github.com/Gender-Watchdog/cau-timeline-website/blob/main/evidence/20260309-cau-reciprocity-audit/audit_results.csv</a>
 
-[^3]: Professor John Ioannidis, Stanford University Meta-Research Innovation Center, email correspondence with Gender Watchdog, January 2026. https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml: <a href="https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study">https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study</a>%202026-01-17T02_29_40%2B09_00.eml)
+[^3]: Professor John Ioannidis, Stanford University Meta-Research Innovation Center, email correspondence with Gender Watchdog, January 2026. <a href="https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml">https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml</a>
 
 [^4]: *Gender Watchdog Blog*, "The 'Panic Scrub' Spreads: Chung-Ang and Sogang Universities Go Dark" (Feb 11, 2026). [https://blog.genderwatchdog.org/panic-scrub-spreads-chung-ang-sogang-go-dark](https://blog.genderwatchdog.org/panic-scrub-spreads-chung-ang-sogang-go-dark)
 
@@ -337,7 +337,7 @@ CAU's motto demands justice and truth. Their record documents the opposite. We a
 **Audit date:** March 8, 2026
 **Methodology:** For each university listed below, we navigated to the institution's own public partner/exchange directory and searched for the Korean claimant university. The verification URL links directly to the page we checked. Results are sorted by QS World University Rankings 2025.
 
-**Raw audit data (CSV):** [GITHUB URL — TO BE PUBLISHED BY USER]
+**Raw audit data (CSV):** <a href="https://github.com/Gender-Watchdog/cau-timeline-website/blob/main/evidence/20260309-cau-reciprocity-audit/audit_results.csv">https://github.com/Gender-Watchdog/cau-timeline-website/blob/main/evidence/20260309-cau-reciprocity-audit/audit_results.csv</a>
 
 ---
 
@@ -477,4 +477,4 @@ Included for comparative context. Sogang's audit returned a 41% reciprocity rate
 
 This audit was conducted in two phases. Phase 1 used automated browser-based verification (Browserbase) to check partner directories at scale. Phase 2 applied manual human review to all ambiguous, borderline, and disputed entries. A total of 28 corrections were applied on March 8, 2026, including the downgrade of Sciences Po Lille from Verified to Not Found and the upgrade of NKUA Athens from Not Found to Verified (bilateral PDF dated January 2025 confirmed).
 
-The raw audit data, including all status values, evidence URLs, notes, and timestamps for all 103 entries covering both CAU and Sogang, is available as a CSV file: [GITHUB URL — TO BE PUBLISHED BY USER]
+The raw audit data, including all status values, evidence URLs, notes, and timestamps for all 103 entries covering both CAU and Sogang, is available as a CSV file: <a href="https://github.com/Gender-Watchdog/cau-timeline-website/blob/main/evidence/20260309-cau-reciprocity-audit/audit_results.csv">https://github.com/Gender-Watchdog/cau-timeline-website/blob/main/evidence/20260309-cau-reciprocity-audit/audit_results.csv</a>
