@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cannes Gave Its Jury to a Director Whose Industry Criminalizes Survivors (updated at 2026-02-27T20:45:37Z)"
+title: "Cannes Gave Its Jury to a Director Whose Industry Criminalizes Survivors (updated at 2026-03-11T23:04:41Z)"
 date: 2026-02-27 00:00:00 +0000
 slug: cannes-gave-its-jury-to-a-director-whose-industry-criminalizes-survivors
 lang: en
@@ -90,6 +90,28 @@ South Korea is not a post-#MeToo industry. It is an industry where #MeToo happen
 
 ---
 
+## Cannes Is a French Institution. France Just Voted 327-0.
+
+The country where the Cannes Film Festival is held passed a consent-based rape law on **October 29, 2025** — a Senate vote of **327-0** — redefining rape as any sexual act committed without consent that is "freely given, informed, specific, prior and revocable."[^49] The direct catalyst was the Pelicot trial: in December 2024, 51 men were convicted for repeatedly raping Gisèle Pelicot while she was drugged and unconscious over a period of years, recruited by her own husband via a dark web forum. Defense lawyers argued their clients could not have known she did not consent. The old legal framework — built around force, not consent — made that argument available to them. France's Senate closed that loophole. By 327-0.
+
+France's own film industry forced part of this reckoning. Judith Godrèche stood at the 49th César Awards in February 2024 and delivered a landmark address to a room of industry colleagues — and an estimated 3 million television viewers — asking: *"Why allow this art that we love so much, this art that brings us together, to be used as a cover for the illicit trafficking of young girls? We can decide that men accused of rape should not be allowed to call the shots in cinema."*[^50] France's legislature responded.
+
+Cannes itself moved. In 2025, following Gérard Depardieu's conviction for sexual assault — an 18-month suspended sentence — the festival barred actor Théo Navarro-Mussy from the red carpet while sexual assault allegations against him remained under judicial appeal — the first such exclusion in the festival's 78-year history, and a policy shift under sustained pressure from legislators and advocacy groups.[^51] These are not small gestures. They reflect a French public and political culture that spent five years — from Polanski's César win in 2020, through Godrèche's speech, through the Pelicot verdicts — choosing accountability over ceremony.
+
+Park Chan-wook's Cannes appointment was announced three months after France's 327-0 vote.
+
+The film industry he represents is one where the consent-based reform equivalent was proposed by South Korea's Ministry of Gender in January 2023 and cancelled by the Ministry of Justice **within hours**.[^15] Japan — not historically a country associated with rapid feminist legal reform — voted unanimously in June 2023 to criminalize "nonconsensual sexual intercourse."[^16] Japan reached that reform partly because Shiori Itō spent years turning her case into public record: her *Black Box Diaries* documentary, Oscar-nominated in 2025, documented in granular detail how a prominent broadcasting executive connected to the Abe administration drugged and assaulted her, and how institutional machinery — including a halted arrest order reportedly linked to a phone call from above — worked to keep her silent.[^52] When the BBC broke the Johnny Kitagawa story that Japanese domestic broadcasters had contractually suppressed for fifty years, 964 men came forward as survivors within months.[^53]
+
+South Korea has had its own equivalent whistleblowers. It has had suicides, named perpetrators, 200,000-signature petitions, and the KWDI's 61.5% finding. What it has not produced is a 327-0 vote, or a film industry that accelerated accountability rather than absorbed it.
+
+Park Chan-wook last spoke publicly on this in 2016, when he told a *Cine21*-organized forum that he *"was under the impression that the Korean film industry had cleaned up well compared to before."*[^33] That statement predates Japan's reform. It predates France's 327-0 vote. It predates the KWDI's documented 61.5%, predates three deaths in two years, predates the Burning Sun exposure, and predates Dongguk's promotion of a criminally convicted professor to Dean.
+
+Cannes says it is "delighted to celebrate" Korean cinema's engagement with "the questioning of our time." The question of our time — posed by France's Senate by 327-0, by Japan's unanimous legislature, by Shiori Itō, by Judith Godrèche, and by the 61.5% of Korean women in film programs who never received a platform to ask it themselves — is a consent question. The Oscars, whose own house is not clean, declined to nominate *No Other Choice* after it made their fifteen-film shortlist.[^29] Whether that was deliberate or not, it reflects a different institutional temperature than Cannes's announcement.
+
+Reactive accountability — barring accused perpetrators from the red carpet only after the optics become untenable — is not the same as proactive due diligence. France demonstrated in October 2025 that institutions can choose the latter. As a French institution, in the country that just made that choice by 327-0, Cannes has considerably less cover than it did before.
+
+---
+
 ## The Statistical Baseline: 61.5%
 
 The KWDI 2020 report — commissioned by a Korean government-linked research body — documented the following:[^2]
@@ -114,6 +136,72 @@ The predatory structure is not limited to the "Sponsorship" system. In July 2025
 
 ---
 
+## The Human Ledger: Deaths, Convictions, and the Lessons the Industry Refused to Learn
+
+Dr. Scott Shepherd, writing in the Korea Times on February 28, 2026 — two days after Cannes announced Park's appointment — asked a question the celebration did not answer: *"How many ruined lives is one successful K-pop star worth? What is the value of a million clicks if measured per objectified young man or woman, per sexualised child? Per life lost?"*[^40]
+
+Shepherd noted that "each scandal is seen as isolated from all the others — it's just a one-off, like last week's one-off and the one-off before that." He was writing about NewJeans and indentured contracts for former minors. He could have been writing about any case below.
+
+This is not a rhetorical provocation. It requires an accounting.
+
+**2009: Jang Ja-yeon — 31 Men Named, All Cleared**
+
+On March 7, 2009, actress Jang Ja-yeon, 29, died by suicide. Her note named at least 31 powerful men — broadcasting executives, finance company heads, newspaper representatives — whom she described as having beaten her and forced her compliance at "sponsor" drinking parties. An eyewitness, actress Yoon Ji-oh, testified she personally observed Jang being groped at her agency CEO's birthday party while she repeatedly tried to stand up and was pushed back down.[^41]
+
+The outcome: the only man sentenced was her agency manager — one year in prison, on assault charges. All thirty-one named men were cleared. The eyewitness testimony was reportedly dismissed in part because one perpetrator's wife was a prosecutor.
+
+The names were not published by most major Korean media. This was not editorial caution — it was the direct consequence of Article 307's criminal defamation architecture. Under Article 307(1), publicly alleging facts that damage another's reputation carries up to two years imprisonment, *even if those facts are accurate*. The only defense — Article 310 — requires proving the statement was both true *and* made solely in the public interest. Truth alone is not a defense. Accurate reporting of the names could have exposed an outlet to criminal prosecution unless it could clear that dual burden. The legal architecture made institutional protection the easier choice.
+
+Approximately 200,000 people signed a petition demanding the case be properly investigated. The case was reopened in 2018 under President Moon. After 13 months, the outcome was unchanged. The perpetrators were not named.[^41]
+
+**2017–2019: Three Deaths, One Industry**
+
+Three artists died within two years. Each was segmented by Korean media and industry representatives into its own isolated compartment — individual tragedies, never a pattern.
+
+- **Kim Jong-hyun** (SHINee, December 2017): Lead vocalist, died at 27. In his final note: *"I was so alone... The depression that gnawed on me slowly has finally engulfed me entirely."* SM Entertainment had maintained his schedule during documented periods of worsening mental health.
+- **Sulli** (f(x), October 2019): Died at 25 after years of organized misogynist cyberbullying — for not wearing a bra, for identifying as a feminist, for ordinary self-expression. Her agency continued her schedule throughout.
+- **Goo Hara** (Kara, November 2019): Died at 28. Her ex-boyfriend had assaulted her, filmed her without consent, and threatened to release the footage. During the resulting legal battle, her agency terminated her contract. Online commenters blamed her — not him — for the video's existence.[^42]
+
+Forty percent of Korean actors and actresses have reported suicidal thoughts at some point in their careers, according to survey data.[^43] After each death, the industry mourned. Then the same schedules resumed. The same contracts were enforced. The same silence.
+
+**2019: The Burning Sun — Industrial-Scale Exploitation**
+
+Burning Sun revealed that the "Sponsorship" system, far from being an informal arrangement, operated at industrial scale. A Gangnam nightclub co-owned by a Big Bang idol was used to drug and sexually assault women, facilitate prostitution for VIP investors, distribute non-consensual intimate videos across private KakaoTalk group chats, and pay police officers to suppress investigation. Singer Jung Joon-young was convicted for filming and distributing intimate footage of women without consent. Seungri received three years in prison and a ₩1.1 billion fine in 2021.[^44]
+
+This was not an isolated scandal. It was a forensic exposure of how the "Sponsorship" pipeline actually operates at the industry's summit — and why the mechanisms generalize downward through every level below it, including into the university graduate programs that supply it.
+
+**2022: Venice Honours Kim Ki-duk — The Cannes Parallel**
+
+Director Kim Ki-duk — celebrated internationally at Venice, Berlin, and Locarno — had faced documented assault and sexual coercion allegations from multiple actresses since at least 2013. In 2018, following an MBC investigative broadcast presenting multiple survivor testimonies, he sued his accusers for criminal defamation. His co-accused, actor Cho Jae-hyun, publicly admitted the allegations and apologized. Kim's defamation suits failed at trial and on appeal — not because truth is a defense under Korean law, but because courts found the public interest threshold was met. Every woman who testified did so *under legal exposure*: a different ruling would have put them in prison for telling the truth.
+
+In 2022, Venice announced a posthumous world premiere of Kim's final film. Korean film organizations responded with formal objection. Choi Eun-min of the Deun-Deun Center for Gender Equality in Korean Film stated: *"It's regrettable that Venice is inviting and commemorating Kim's film without mentioning his deeds as a perpetrator of sexual assault... This could be seen as an act of pardoning the perpetrators from their acts of violence."*[^45]
+
+Cannes 2026 is not Venice 2022. But the structural logic is identical: a major Western film institution choosing to celebrate Korean cinema without condition, while the documented institutional record sits publicly available.
+
+**2023: Lee Sun-kyun — "Social Murder"**
+
+Lee Sun-kyun, 48, best known internationally as the patriarch in *Parasite* — winner of the Palme d'Or at Cannes 2019, the same institution that has now appointed Park Chan-wook as jury president — was found dead in a Seoul park on December 27, 2023. He had been under police investigation for alleged drug use. He denied the allegations. Three separate drug tests returned negative. Police leaked investigation details to media before any charges were filed — in apparent violation of South Korean law prohibiting publication of criminal investigation details before charges — publicly obliterating his reputation months before any determination of guilt or innocence. His final police interrogation lasted 19 hours. Three days later, he was dead.[^46]
+
+Director Bong Joon-ho, who had cast Lee in *Parasite*, demanded a live televised press conference investigating police and media conduct. *The Diplomat* described it plainly as "social murder" — a death caused not by what Lee did, but by the institutional machinery that destroyed him first.
+
+This is not a separate story. Lee Sun-kyun was a *Parasite* actor. *Parasite* won the Palme d'Or at Cannes. Park Chan-wook is being appointed to preside over the same institution. The Korean film industry that produced all of them is the same industry. The institutional protection systems that enabled Lee Sun-kyun's destruction are the same systems documented throughout this post.
+
+**2024: Peer-Reviewed Confirmation — Post-#MeToo Backlash Increased Risk for Younger, Educated Women**
+
+A 2024 peer-reviewed study published in *Violence Against Women*, based on survey data from 449 women in the Korean film industry, found that *younger age*, *higher education*, and *union membership* each **increased** the probability of experiencing sexual violence — consistent with a documented post-#MeToo backlash where women perceived as rejecting the industry's implicit codes were specifically targeted.[^47]
+
+This finding is directly relevant to the CMPA's calculus. The Canadian talent most likely to travel to Korea under a co-production framework — younger, professionally trained, organizationally engaged — represents, according to peer-reviewed evidence, the cohort at highest risk within the Korean film production environment the MOU is designed to access.
+
+**2025: *UNDER15* — Children Under Contract**
+
+In March 2025, a Korean audition programme called *UNDER15* debuted, featuring 59 girls born after 2009 competing for placement in a K-pop idol group. Its creator explicitly stated the goal was to produce "an underage BLACKPINK." Promotional materials depicted contestants in full stage makeup and revealing outfits. Comment sections on related YouTube content were disabled. Unlike the UK, Germany, or the United States — all of which maintain formal child performance regulations including educational access requirements and welfare oversight — South Korea has no legislative prohibitions on the sexualization of minors in entertainment media.[^48]
+
+A child-rights researcher quoted in the Korea Times noted: *"Korea is the only country systematically training minors as part of entertainment business strategies. If the industry is to continue this practice, it must resolve fundamental human rights issues."*
+
+The CMPA-PGK MOU is a partnership with the industry context in which *UNDER15* is not only legally permissible but commercially viable.
+
+---
+
 ## Racialized Targeting: Zero Foreign Women Reach Leadership
 
 The crisis is not only gendered. It is explicitly **racialized**.
@@ -134,13 +222,13 @@ The mechanism is what we have termed **"Semantic Fraud"**: a component-level or 
 
 A cross-audit of the University of Strasbourg's official international partnerships database illustrates the pattern precisely. **Konkuk University** lists "University of Strasbourg" on its international office page without qualification — implying a full institution-wide agreement. The Unistra official record confirms only a single component-level agreement restricted to **EM Strasbourg** (the business school), not the institution as a whole.[^34] This is a restricted departmental agreement dressed up as a general partnership.
 
-![Konkuk University listing University of Strasbourg without scope disclosure — the actual agreement is limited to EM Strasbourg business school only](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/02282026-cannes-park-strasbourg-fake/strasbourg-konkuk-semantic-fraud.png?raw=true)
+<img src="https://raw.githubusercontent.com/Gender-Watchdog/genderwatchdog_metookorea2025/master/imgs/02282026-cannes-park-strasbourg-fake/strasbourg-konkuk-semantic-fraud.png" alt="Konkuk University listing University of Strasbourg without scope disclosure — the actual agreement is limited to EM Strasbourg business school only">
 
 *Above: Konkuk University claims "University of Strasbourg" as an unrestricted partner — while the Unistra official database confirms only an EM Strasbourg component agreement.*
 
 The contrast with Yeungnam University — which accurately lists the same agreement as "University of Strasbourg EM Strasbourg Business School" — demonstrates that honest disclosure is both possible and practiced by some Korean institutions.[^34] Konkuk's omission is not an administrative oversight. It is a choice.
 
-![Yeungnam University correctly disclosing the EM Strasbourg scope — a model of accurate partnership representation](https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/imgs/02282026-cannes-park-strasbourg-fake/strasbourg-yeungnam-proper-scope.png?raw=true)
+<img src="https://raw.githubusercontent.com/Gender-Watchdog/genderwatchdog_metookorea2025/master/imgs/02282026-cannes-park-strasbourg-fake/strasbourg-yeungnam-proper-scope.png" alt="Yeungnam University correctly disclosing the EM Strasbourg scope — a model of accurate partnership representation">
 
 *Above: Yeungnam University lists "University of Strasbourg EM Strasbourg Business School" — the correct, scope-limited version. This is what Konkuk should have written.*
 
@@ -304,4 +392,32 @@ So is the international community that claims to speak for them.
 [^38]: *Hankyung* (한국경제), BIFF staff member sentenced to one year, immediate custody (July 2025). <a href="https://www.hankyung.com/article/2025072113517">https://www.hankyung.com/article/2025072113517</a>; *News1*, BIFF appeal ruling — Busan District Court Criminal Appeals Division (김현희 재판장), original 1-year sentence converted to 1-year imprisonment suspended for 2 years (집행유예 2년), October 16, 2025. <a href="https://www.news1.kr/local/busan-gyeongnam/5943546">https://www.news1.kr/local/busan-gyeongnam/5943546</a>
 
 [^39]: *Screen Daily*, "Busan film festival takes action following sexual harassment investigation" (January 19, 2024). <a href="https://www.screendaily.com/news/busan-film-festival-takes-action-following-sexual-harassment-investigation/5189637.article">https://www.screendaily.com/news/busan-film-festival-takes-action-following-sexual-harassment-investigation/5189637.article</a> — The Busan Counseling Center Against Sexual Violence investigation concluded it was "a serious incident of sexual harassment in the workplace"; harassment was found continuous and intentional; BIFF accepted perpetrator's resignation without proper investigation or disciplinary action, which the Center stated was "the biggest obstacle to resolving this case."
+
+[^40]: Dr. Scott Shepherd, *Korea Times*, "How much does K-pop cost?" (February 28, 2026). <a href="https://www.koreatimes.co.kr/opinion/20260228/how-much-does-k-pop-cost">https://www.koreatimes.co.kr/opinion/20260228/how-much-does-k-pop-cost</a>
+
+[^41]: *Variety*, "Korean Prosecutors to Reopen Actress Suicide Case" (2018). <a href="https://variety.com/2018/tv/asia/korea-prosecutors-to-reopen-actress-jang-ja-yeon-suicide-case-1202742137/">https://variety.com/2018/tv/asia/korea-prosecutors-to-reopen-actress-jang-ja-yeon-suicide-case-1202742137/</a>; Asian Junkie, "Ministry of Justice Investigative Team Gives Conclusions After Reinvestigation" (May 2019). <a href="https://www.asianjunkie.com/2019/05/21/ministry-of-justice-investigative-team-gives-conclusions-after-reinvestigation-into-jang-ja-yeons-case/">https://www.asianjunkie.com/2019/05/21/ministry-of-justice-investigative-team-gives-conclusions-after-reinvestigation-into-jang-ja-yeons-case/</a>; *Jang Ja-yeon* — Wikipedia. <a href="https://en.wikipedia.org/wiki/Jang_Ja-yeon">https://en.wikipedia.org/wiki/Jang_Ja-yeon</a>
+
+[^42]: *Goo Hara* — Wikipedia. <a href="https://en.wikipedia.org/wiki/Goo_Hara">https://en.wikipedia.org/wiki/Goo_Hara</a>; *ABC News*, "Deaths of Goo Hara and Sulli highlight tremendous pressures of K-pop" (2019). <a href="https://abcnews.com/International/deaths-goo-hara-sulli-highlight-tremendous-pressures-pop/story?id=67303374">https://abcnews.com/International/deaths-goo-hara-sulli-highlight-tremendous-pressures-pop/story?id=67303374</a>
+
+[^43]: *The Politic*, "Fallen Idols: Sexism and Suicide in the K-pop Industry." <a href="https://thepolitic.org/fallen-idols-sexism-and-suicide-in-the-k-pop-industry/">https://thepolitic.org/fallen-idols-sexism-and-suicide-in-the-k-pop-industry/</a>
+
+[^44]: *Her World Singapore*, "Seven Real-Life K-Drama Scandals" (covering Burning Sun convictions). <a href="https://www.herworld.com/life/entertainment/seven-real-life-k-drama-scandals-sent-shockwaves-through-industry">https://www.herworld.com/life/entertainment/seven-real-life-k-drama-scandals-sent-shockwaves-through-industry</a>
+
+[^45]: *Hollywood Reporter*, "Korean Film Figures Condemn Venice for Honoring Kim Ki-duk Despite Sexual Abuse Allegations" (2022). <a href="https://www.hollywoodreporter.com/movies/movie-news/korean-film-figures-condemn-venice2022-for-honoring-kim-ki-duk-despite-sexual-abuse-allegations-1235207801/">https://www.hollywoodreporter.com/movies/movie-news/korean-film-figures-condemn-venice2022-for-honoring-kim-ki-duk-despite-sexual-abuse-allegations-1235207801/</a>
+
+[^46]: *The Diplomat*, "Lee Sun-kyun of Oscar-Winning Parasite Died of Social Murder" (January 2024). <a href="https://thediplomat.com/2024/01/lee-sun-kyun-of-oscar-winning-parasite-died-of-social-murder/">https://thediplomat.com/2024/01/lee-sun-kyun-of-oscar-winning-parasite-died-of-social-murder/</a>; *Euronews*, "Parasite Director Calls for Investigation into Actor Lee Sun-kyun's Death" (January 2024). <a href="https://www.euronews.com/culture/2024/01/12/parasite-director-calls-for-investigation-into-actor-lee-sun-kyuns-death">https://www.euronews.com/culture/2024/01/12/parasite-director-calls-for-investigation-into-actor-lee-sun-kyuns-death</a>; *Lee Sun-kyun* — Wikipedia. <a href="https://en.wikipedia.org/wiki/Lee_Sun-kyun">https://en.wikipedia.org/wiki/Lee_Sun-kyun</a>
+
+[^47]: Lee, H., Moon, S., & Lee, N. (2024). "Industry Culture Matters: Sexual Harassment in the South Korean Film Industry." *Violence Against Women*, 30(15–16), 4080–4100. <a href="https://pubmed.ncbi.nlm.nih.gov/37788354/">https://pubmed.ncbi.nlm.nih.gov/37788354/</a>
+
+[^48]: *Korea Times*, "New K-pop Audition Show Under Fire for Exploiting Minors" (March 2025). <a href="https://www.koreatimes.co.kr/www/art/2025/03/732_394448.html">https://www.koreatimes.co.kr/www/art/2025/03/732_394448.html</a>
+
+[^49]: *Human Rights Watch*, "France Redefines Rape in Landmark Law" (October 30, 2025). <a href="https://www.hrw.org/news/2025/10/30/france-redefines-rape-in-landmark-law">https://www.hrw.org/news/2025/10/30/france-redefines-rape-in-landmark-law</a>; *NBC News*, "France Adopts Consent-Based Rape Law in Wake of Gisèle Pelicot Case" (October 2025). <a href="https://www.nbcnews.com/world/europe/france-adopts-consent-based-rape-law-wake-landmark-gisele-pelicot-case-rcna240598">https://www.nbcnews.com/world/europe/france-adopts-consent-based-rape-law-wake-landmark-gisele-pelicot-case-rcna240598</a>; *TIME*, "France Updates Its Rape Law to Affirmative Consent" (October 2025). <a href="https://time.com/7330026/gisele-pelicot-france-rape-law-updated-affirmative-consent-force-oecd/">https://time.com/7330026/gisele-pelicot-france-rape-law-updated-affirmative-consent-force-oecd/</a>
+
+[^50]: *Deadline*, "Judith Godrèche César Speech: 'I Was 14'" (February 2024). <a href="https://deadline.com/2024/02/metoo-french-cesar-judith-godreche-speech-1235835953/">https://deadline.com/2024/02/metoo-french-cesar-judith-godreche-speech-1235835953/</a>; *Euronews*, "Actor Calls on French Film Industry to Face Sexual Abuse During Live César Awards" (February 2024). <a href="https://www.euronews.com/culture/2024/02/24/actor-calls-on-french-film-industry-to-face-sexual-abuse-during-live-cesar-awards-ceremony">https://www.euronews.com/culture/2024/02/24/actor-calls-on-french-film-industry-to-face-sexual-abuse-during-live-cesar-awards-ceremony</a>
+
+[^51]: *Variety*, "How France's #MeToo Movement Transformed Cannes" (May 2025). <a href="https://variety.com/2025/film/global/how-france-metoo-movement-cannes-film-industry-1236254860/">https://variety.com/2025/film/global/how-france-metoo-movement-cannes-film-industry-1236254860/</a>
+
+[^52]: *Courthouse News Service*, "Oscar-Nominated Documentary *Black Box Diaries* Has Delayed Japan Premiere After Legal Issues" (December 2025). <a href="https://courthousenews.com/oscar-nominated-documentary-black-box-diaries-has-delayed-premiere-in-japan-after-legal-issues/">https://courthousenews.com/oscar-nominated-documentary-black-box-diaries-has-delayed-premiere-in-japan-after-legal-issues/</a>
+
+[^53]: Wikipedia, "Johnny Kitagawa Sexual Abuse Scandal." <a href="https://en.wikipedia.org/wiki/Johnny_Kitagawa_sexual_abuse_scandal">https://en.wikipedia.org/wiki/Johnny_Kitagawa_sexual_abuse_scandal</a>
 
