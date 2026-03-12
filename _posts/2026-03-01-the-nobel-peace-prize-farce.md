@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Nobel Peace Prize for \"The Korean Public\"? A \"Revolution of Light\" Built on Shadows (updated at 2026-03-01T22:40:55Z)"
+title: "The Nobel Peace Prize for \"The Korean Public\"? A \"Revolution of Light\" Built on Shadows (updated at 2026-03-12T15:40:28Z)"
 date: 2026-03-01 00:00:00 +0000
 slug: the-nobel-peace-prize-farce
 lang: en
@@ -63,6 +63,24 @@ The dehumanization of foreigners is entrenched politically at both local and nat
 ## Part II: The Myth of the "Honest" Public (Institutional Fraud)
 
 The nomination itself is tainted by the corrupt ecosystem from which it emerged. The Nobel Committee is being petitioned by an academic elite that claims to represent the moral conscience of the "public." However, these specific nominators belong to institutions currently engaging in active, documented fraud. You cannot separate the legitimacy of the nomination from the integrity of the nominators.
+
+### 4.5 The Nomination Network: Recruited at a Korean-Hosted Congress
+
+On March 11, 2026, the *Hankyoreh* published interviews with the three foreign political scientists who signed the nomination.[^47] What those interviews reveal is the provenance of the nominating network itself.
+
+All three — Pablo Oñate (University of Valencia), David Farrell (University College Dublin), and Azul A. Aguiar Aguilar (Jesuit University of Guadalajara) — attended the IPSA World Congress held in Seoul in July 2025. The congress was organized by coordinating nominator Prof. Kim Eui-young of Seoul National University, who served as its senior organizing committee chair.[^47]
+
+The nomination was not independently arrived at. It was proposed by Kim to the other scholars at an event Kim organized, hosted in Seoul, funded in part through Korean institutional patronage. The Kim Dae-Jung Foundation — a Korean state-adjacent foundation — sponsors the IPSA Kim Dae-Jung Award, first presented at that same Seoul congress.
+
+The three nominators' stated bases for the nomination are equally revealing:
+
+*   **Prof. Pablo Oñate (University of Valencia):** Met President Lee Jae Myung personally at the Seoul congress. He has published over 100 articles on electoral systems—**zero on Korea**, East Asia, or gender-based violence.[^47]
+*   **Prof. David Farrell (University College Dublin):** A leading academic on deliberative democracy who stated his impressions of Korea come from two brief Seoul visits, Korean PhD students he supervised, and—in his own words—"Korean grills and fried chicken."[^47] He admits he "has not followed the details" of the insurrection trial. There is a deep structural irony here: Farrell's life work focuses on expanding citizen voice (e.g., the Irish Citizens' Assembly), yet he has nominated a public that utilizes criminal defamation laws to silence citizen advocates.
+*   **Prof. Azul A. Aguiar Aguilar (Jesuit University of Guadalajara):** Her IPSA profile confirms she was the **2025 IPSA World Congress Program Co-Chair**—meaning she co-organized the very Seoul congress alongside the coordinating nominator, Kim Eui-young. This is a direct organizational relationship, not an independent peer assessment. Ironically, her own research specialty is court capture and democratic backsliding in Latin America—the exact institutional pathologies currently ravaging Korean universities and courts, which she seemingly did not investigate before signing the nomination.
+
+A review of their combined publication records reveals **zero peer-reviewed publications on Korea** and zero publications on Korean human rights or academic governance. The nominating network is not a panel of independent Korea experts. It is a group of political science organization leaders recruited by an SNU professor at an event he organized and co-chaired in Seoul.
+
+Seoul National University is the same institution whose international partner database went offline rather than respond to Gender Watchdog's independent reciprocity audit.[^7] Prof. Kim Eui-young's department email (`politics@snu.ac.kr`) is among those we formally notified. The nominator organized the nomination. The nomination's institutional anchor is the audited institution. These facts belong in the same sentence.
 
 ### 5. The "Phantom Partnership" Crisis
 We exposed that **Seoul National University (SNU)**—the institution of lead nominator Kim Eui-young—listed a "Student Exchange" partnership with Ritsumeikan University (Japan) that **does not exist**.[^7] This is a classic example of "Phantom Partnership" fraud, designed to inflate global rankings and deceive prospective students. 
@@ -252,3 +270,4 @@ We urge the Nobel Committee to **reject the nomination**. Do not validate a "dem
 [^45]: *The Korea Times*, "More than 300 adoptees file complaints in Korea's renewed adoption probe" (Feb 26, 2026). Link: <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20260226/more-than-300-adoptees-file-complaints-in-koreas-renewed-adoption-probe">https://www.koreatimes.co.kr/southkorea/globalcommunity/20260226/more-than-300-adoptees-file-complaints-in-koreas-renewed-adoption-probe</a>
 [^46]: *Lowy Institute*, "Why xenophobia won’t solve South Korea’s China problem" (Dec 2, 2025). Link: <a href="https://www.lowyinstitute.org/the-interpreter/why-xenophobia-won-t-solve-south-korea-s-china-problem">https://www.lowyinstitute.org/the-interpreter/why-xenophobia-won-t-solve-south-korea-s-china-problem</a>
 [^44]: *The Korea Times*, "Professors are main perpetrators of sexual abuse at graduate schools: survey" (Jun 2, 2021). <a href="https://www.koreatimes.co.kr/southkorea/society/20210602/professors-are-main-perpetrators-of-sexual-abuse-at-graduate-schools-survey">https://www.koreatimes.co.kr/southkorea/society/20210602/professors-are-main-perpetrators-of-sexual-abuse-at-graduate-schools-survey</a>
+[^47]: *Hankyoreh*, "Scholars behind Nobel nomination call Korea's 'Revolution of Light' a beacon of democratic resilience" (Mar 11, 2026). Link: <a href="https://english.hani.co.kr/arti/english_edition/e_national/1248843.html">https://english.hani.co.kr/arti/english_edition/e_national/1248843.html</a>
