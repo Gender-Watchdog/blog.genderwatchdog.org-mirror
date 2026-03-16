@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nine Korean Universities, Zero Rebuttals: The Partnership Fraud Map Keeps Expanding (updated at 2026-03-12T03:57:16Z)"
+title: "Nine Korean Universities, Zero Rebuttals: The Partnership Fraud Map Keeps Expanding (updated at 2026-03-16T03:24:56Z)"
 date: 2026-03-11 00:00:00 +0000
 slug: nine-universities-zero-rebuttals-korea-partnership-fraud
 lang: en
@@ -24,9 +24,9 @@ Sometime before March 10, 2026, Ajou University's partnerships directory — `aj
 
 <img src="https://raw.githubusercontent.com/Gender-Watchdog/cau-timeline-website/main/imgs/cau-blog/ajou-partners-page-blank-20260308.png" alt="Ajou University Blank Partner Page">
 
-Those are the documented database deletions — five institutions, five disappearing acts, five restorations or sustained silences. Three of the five came back online within 48–65 hours. None has disputed the methodology. None has published a counter-audit. None has issued a correction.
+Those are the documented database takedowns — five institutions, five disappearing acts, five restorations or sustained silences. Three of the five came back online within 48–65 hours. None has disputed the methodology. None has published a counter-audit. None has issued a correction.
 
-But the deletion wave is only half the picture.
+But the takedown wave is only half the picture.
 
 Before any database went dark, Gender Watchdog documented specific, named false partnership claims — each confirmed against the named institution's own published database:
 
@@ -44,21 +44,21 @@ Tu Anh, 25, a Keimyung International Commerce graduate, fell to her death on Oct
 
 Nine universities. Not one rebuttal. Not one correction. Not one counter-audit.
 
-The methodology is documented and published. Every claim in this post is verifiable through a primary source URL — most of them at the named partner institution's own public directory. What follows is the record of three universities — Sogang, Ajou, and Hongik — whose institutional histories explain why they, and institutions like them, respond to accountability findings not with transparency but with deletion.
+The methodology is documented and published. Every claim in this post is verifiable through a primary source URL — most of them at the named partner institution's own public directory. What follows is the record of three universities — Sogang, Ajou, and Hongik — whose institutional histories explain why they, and institutions like them, respond to accountability findings not with transparency but with removal.
 
 ---
 
-## Part I: What the Deletion Proves
+## Part I: What the Takedown Proves
 
 The detailed methodology behind these findings — the reciprocity audit approach, the documentation of CAU's 27% confirmation rate, the initial panic scrub — is documented in full at *Die in Justice: Chung-Ang University's Partnership Fraud, Criminal Leadership, and Twenty-One Years of Sexual Violence Cover-Ups*: <a href="https://blog.genderwatchdog.org/chung-ang-university-partnership-fraud-sexual-violence-doosan">https://blog.genderwatchdog.org/chung-ang-university-partnership-fraud-sexual-violence-doosan</a>. This post extends that documented pattern.
 
-What the deletions prove is not coordination. We cannot claim that. What they prove is a behavioral preference, demonstrated independently by each institution: when external audit findings arrive, the response is not correction, not transparency, and not rebuttal. It is the removal of the data that would allow independent verification.
+What the takedowns prove is not coordination. We cannot claim that. What they prove is a behavioral preference, demonstrated independently by each institution: when external audit findings arrive, the response is not correction, not transparency, and not rebuttal. It is the removal of the data that would allow independent verification.
 
 Restoration without rebuttal is not exoneration. CAU's partner database came back online 65 hours after it disappeared. The Wayback Machine capture of the page that was hidden for those 65 hours is the permanent record — not the restored version. Hongik and Ajou each restored their pages within approximately 48 hours. The screenshots and Wayback captures taken during each window are the permanent record. The live pages being accessible again does not undo the documented removal.
 
 The QS ranking infrastructure assigned "International Outlook" scores to all nine of these institutions based in part on partnership data. It does not independently audit claimed partnerships. It elevates what institutions claim, not what partner institutions confirm. It has been informed of these findings. It continues to rank.
 
-Professor John Ioannidis (Stanford), one of the world's most cited scientists and an expert on research integrity, confirmed to us in January that some institutions are "addicted to gaming" rankings — email record: <a href="https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml">https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml</a> — a dynamic the wholesale deletion of partnership databases illustrates at its logical endpoint.
+Professor John Ioannidis (Stanford), one of the world's most cited scientists and an expert on research integrity, confirmed to us in January that some institutions are "addicted to gaming" rankings — email record: <a href="https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml">https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml</a> — a dynamic the wholesale removal of partnership databases illustrates at its logical endpoint.
 
 ---
 
@@ -369,21 +369,21 @@ International students are recruited into these programmes on the basis of claim
 
 Seoul National University. Dongguk University. Chung-Ang University. Sogang University. Keimyung University. Chungbuk National University. Catholic University of Korea. Hongik University. Ajou University.
 
-Nine institutions, spanning Korea's highest-ranked university and a regional private institution, national publics and elite arts schools, a Jesuit university and a chaebol-captured research institution and a foundation built on an industrial collapse. Each, in its own way, has responded to documented partnership fraud findings with deletion, silence, dead-name reversions, or quiet restorations after brief exposed windows. Not one has disputed the methodology. Not one has published a counter-audit. Not one has issued a formal correction.
+Nine institutions, spanning Korea's highest-ranked university and a regional private institution, national publics and elite arts schools, a Jesuit university and a chaebol-captured research institution and a foundation built on an industrial collapse. Each, in its own way, has responded to documented partnership fraud findings with removal, silence, dead-name reversions, or quiet restorations after brief exposed windows. Not one has disputed the methodology. Not one has published a counter-audit. Not one has issued a formal correction.
 
-Dongguk, Chung-Ang, and Sogang are documented in both categories: specific verified false claims and database deletions. Dongguk is also the institution where the sexual violence Title IX failure that built this advocacy was originally documented — and covered up. Partnership fraud is not a separate issue from sexual violence cover-up at these institutions. Both express the same governance disposition.
+Dongguk, Chung-Ang, and Sogang are documented in both categories: specific verified false claims and database takedowns. Dongguk is also the institution where the sexual violence Title IX failure that built this advocacy was originally documented — and covered up. Partnership fraud is not a separate issue from sexual violence cover-up at these institutions. Both express the same governance disposition.
 
 Tu Anh is the reason this is not an academic exercise. She fell to her death on October 28, 2025, because the "Global Degree" that promised her professional access in Korea was sold on the back of partnerships that the named partner universities do not confirm. The QS ranking infrastructure that validated Keimyung's apparent prestige was built, in part, on claimed partnerships that four elite Chinese universities cannot locate in their own records.[^5]
 
 **To international accreditation bodies:** the partnership claims filed in these institutions' accreditation documents have been independently audited against the partner institutions' own records. The failure rate in the prestige tier is documented and published. Renewal without independent partnership verification is not due diligence.
 
-**To QS and other commercial ranking agencies:** you have been informed. Multiple institutions have removed their partner databases rather than dispute the audit findings. "International Outlook" scores assigned to partnership data that institutions deleted rather than defend are not scores. They are unverified institutional self-reporting, commercially laundered.
+**To QS and other commercial ranking agencies:** you have been informed. Multiple institutions have removed their partner databases rather than dispute the audit findings. "International Outlook" scores assigned to partnership data that institutions removed rather than defend are not scores. They are unverified institutional self-reporting, commercially laundered.
 
 **To partner universities receiving exchange correspondence from these institutions:** ask whether your own published partner directory lists the Korean claimant. For the majority of the institutions in these claimed top-400 networks, the answer is no.
 
 **To foreign students and their embassies:** the structural sexual violence risk in Korean arts and media programmes is documented and quantified. The KWDI 2020 report is a primary source. The institutional records at CAU, Hongik, and the institutions documented here — confirmed perpetrators, calibrated sanctions, governance structures designed to suppress rather than surface accountability — are public record.
 
-**To the institutions themselves:** the Wayback Machine captures and the screenshots are the permanent record. Restoring a page without issuing a rebuttal does not change what the archived blank page documents. The window in which deletion is its own evidence has already closed.
+**To the institutions themselves:** the Wayback Machine captures and the screenshots are the permanent record. Restoring a page without issuing a rebuttal does not change what the archived blank page documents. The window in which the takedown is its own evidence has already closed.
 
 What accreditation bodies, ranking publishers, partner universities, embassies, and prospective students do with this documented record is their decision to make.
 
@@ -431,6 +431,28 @@ What they cannot claim is that they were not informed.
 | CAU | Prof A (English Lit) | Drug-facilitated SA; PTSD documented; re-contacted victim | 해임 | 파면 demanded by students |
 | Hongik | Prof K (Sejong) | Serial sexual exploitation | 휴직 (leave) | Not dismissed at all |
 | Hongik | Prof A (Fine Arts) | 25+ victims; 4 years; National Assembly | 해임 | 파면 demanded; rehire-eligible 2025 |
+
+---
+
+### Raw Archive Downloads — Verify the Evidence Yourself
+
+Every partnership database page documented in this investigation was captured as a cryptographically verifiable `.wacz` (Web Archive Collection Zipped) file before any scrubbing or restoration. These archives can be replayed in full — with original page layout, navigation, and timestamps intact — using <a href="https://replayweb.page/">ReplayWeb.page</a> (open source, runs entirely in your browser, no server required).
+
+**How to use:** download a `.wacz` file → go to <a href="https://replayweb.page/">https://replayweb.page/</a> → click "Load Archive" → select the file. You are replaying the capture, not the live site.
+
+**Set 1 — Original Reciprocity Audit Universities**
+
+The 28 institutions targeted in Gender Watchdog's initial January 2026 audit, including SNU, CAU, Sogang, Dongguk, Keimyung, CBNU, Catholic University of Korea, and others:
+
+<a href="https://drive.proton.me/urls/KBJMAPVS3C#O3Y7S38aeLxC">https://drive.proton.me/urls/KBJMAPVS3C#O3Y7S38aeLxC</a>
+
+**Set 2 — Korea Times QS University Rankings Event Universities (September 2025)**
+
+Additional universities added to the audit based on the Korea Times / QS international excellence ranking event held in September 2025, including Hongik and Ajou:
+
+<a href="https://drive.proton.me/urls/0440KR7R9C#qUpPCTXhMlVg">https://drive.proton.me/urls/0440KR7R9C#qUpPCTXhMlVg</a>
+
+The methodology for interpreting these archives — what counts as a confirmed partner, how reciprocity rates are calculated, what constitutes a verified false claim — is documented in full at *Die in Justice: Chung-Ang University's Partnership Fraud*: <a href="https://blog.genderwatchdog.org/chung-ang-university-partnership-fraud-sexual-violence-doosan">https://blog.genderwatchdog.org/chung-ang-university-partnership-fraud-sexual-violence-doosan</a>.
 
 ---
 
