@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions (updated at 2026-02-19T21:55:39Z)"
+title: "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions (updated at 2026-03-17T05:48:38Z)"
 date: 2026-02-18 00:00:00 +0000
 slug: from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions
 lang: en
@@ -20,7 +20,7 @@ This is not speculation. Every step of this timeline is documented across major 
 
 ## The Man at the Center
 
-Tcha Seung-jai (차승재) is not a minor figure in Korean cinema. The Hollywood Reporter identified him as the **founder and co-CEO of Sidus FNH**, the production house behind some of Korea's most internationally recognized films. He served three terms as **President of the Korean Film Producers Association (KFPA)** — the position that effectively controls industry-wide hiring standards, blacklisting power, and access to co-production networks across Asia and beyond.
+Tcha Seung-jai (차승재) is not a minor figure in Korean cinema. The Hollywood Reporter identified him as the **founder and co-CEO of Sidus FNH**, the production house behind some of Korea's most internationally recognized films. He served as **President of the Korean Film Producers Association (KFPA)** — the position that effectively controls industry-wide hiring standards, blacklisting power, and access to co-production networks across Asia and beyond.
 
 We have documented at length how he simultaneously leveraged corporate control, academic authority, industry gatekeeping, and association leadership into what we term a **"Quadruple Coercion"** model — a structure that creates near-total dependency for any career-seeking student at Dongguk's Graduate School of Digital Image & Contents.<sup>1</sup> His company Sidus FNH shared physical facilities with the very department where he taught, a fact confirmed by Dongguk University's own official website before it was quietly archived.<sup>2</sup>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cannes Gave Its Jury to a Director Whose Industry Criminalizes Survivors (updated at 2026-03-11T23:04:41Z)"
+title: "Cannes Gave Its Jury to a Director Whose Industry Criminalizes Survivors (updated at 2026-03-17T05:48:38Z)"
 date: 2026-02-27 00:00:00 +0000
 slug: cannes-gave-its-jury-to-a-director-whose-industry-criminalizes-survivors
 lang: en
@@ -44,7 +44,7 @@ The Canadian Media Producers Association signed with an industry. We documented 
 
 Any audit of the Producers Guild of Korea begins at Dongguk University's film department — the academic-industry pipeline that feeds PGK, KFPA, and Korea's production infrastructure.
 
-**Tcha Seung-jai (차승재)**, three-term President of the Korean Film Producers Association and founder of Sidus FNH, was a professor at Dongguk's Graduate School of Digital Image & Contents when police began investigating him in June 2015 for embezzling approximately 350 million KRW (~CAD $340,000) from government education subsidies.[^5][^6] In his 2017 trial, he was convicted of **bid-rigging** — manipulating which vendors received contracts funded by public education money.[^5]
+**Tcha Seung-jai (차승재)**, President of the Korean Film Producers Association and founder of Sidus FNH, was a professor at Dongguk's Graduate School of Digital Image & Contents when police began investigating him in June 2015 for embezzling approximately 350 million KRW (~CAD $340,000) from government education subsidies.[^5][^6] In his 2017 trial, he was convicted of **bid-rigging** — manipulating which vendors received contracts funded by public education money.[^5]
 
 Dongguk University's response: **they promoted him**.
 
