@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die in Justice: Chung-Ang University's Partnership Fraud, Criminal Leadership, and Twenty-One Years of Sexual Violence Cover-Ups (updated at 2026-03-11T04:03:49Z)"
+title: "Die in Justice: Chung-Ang University's Partnership Fraud, Criminal Leadership, and Twenty-One Years of Sexual Violence Cover-Ups (updated at 2026-03-19T18:35:49Z)"
 date: 2026-03-09 00:00:00 +0000
 slug: chung-ang-university-partnership-fraud-sexual-violence-doosan
 lang: en
@@ -92,7 +92,7 @@ The governance structure under which the following years operated — the serial
 
 ### Park Beom-hoon: CAU President, Presidential Secretary, Convicted Felon
 
-**February 2009:** One year after the Doosan takeover, CAU's newly unelected president Park Beom-hoon makes a public statement about female students. Reported in *Ohmynews* (Feb 23, 2009) and *Kyunghyang Shinmun* (Feb 26, 2009), the statement — "조그만 토종이 감칠맛 있어" — rendered female students as objects for male consumption.[^6]
+**February 2009:** One year after the Doosan takeover, CAU's newly unelected president Park Beom-hoon makes a public statement at a ruling party lecture. He pointed at a female student and described her as having a "savory quality" suited for childbearing and housekeeping — "요렇게 생긴 토종이 애기 잘 낳고 살림 잘하는 스타일 … 사실 감칠맛이 있습니다".[^6]
 
 There were no institutional consequences. The man who had just been installed via a governance coup described the female students in his institution's care as sexual objects for male pleasure, and the Doosan-controlled administration produced no public record of discipline or rebuke.
 
@@ -280,8 +280,7 @@ CAU's motto demands justice and truth. Their record documents the opposite. We a
 
 ---
 
-*A full chronological timeline of all confirmed sexual violence cases at Chung-Ang University, with primary source citations for each entry, is being compiled at a dedicated documentation site.*
-*[TIMELINE PLACEHOLDER — chung-ang.genderwatchdog.org — currently in development]*
+*The full interactive timeline of all confirmed sexual violence cases at Chung-Ang University, with primary source citations for each entry, is documented at <a href="https://chungang.genderwatchdog.org/">CAU Exposed: Sexual Violence, Financial Crimes & Institutional Failure</a> — available in English, 日本語, 한국어, 简体中文, and Tiếng Việt.*
 
 ---
 
@@ -297,7 +296,7 @@ CAU's motto demands justice and truth. Their record documents the opposite. We a
 
 [^5]: *Korea Times*, "Chung-Ang and Doosan" (Sep 24, 2008). [https://www.koreatimes.co.kr/www/nation/2024/09/113_31605.html](https://www.koreatimes.co.kr/www/nation/2024/09/113_31605.html)
 
-[^6]: *Wikipedia*, Chung-Ang University (citing *Ohmynews* Feb 23, 2009; *Kyunghyang Shinmun* Feb 26, 2009; *Yonhap* Jul 27, 2010). [https://en.wikipedia.org/wiki/Chung-Ang_University](https://en.wikipedia.org/wiki/Chung-Ang_University)
+[^6]: *Wikipedia*, Chung-Ang University (citing *Yonhap* Jul 27, 2010). <a href="https://en.wikipedia.org/wiki/Chung-Ang_University">https://en.wikipedia.org/wiki/Chung-Ang_University</a>. For Park Beom-hoon's remarks, see *노동자 연대* (Workers' Solidarity), August 27, 2009: <a href="https://wspaper.org/article/6913">https://wspaper.org/article/6913</a>. For conviction and sentencing details, see HuffPost Korea (Nov 19, 2015): <a href="https://www.huffingtonpost.kr/2015/11/19/story_n_8606768.html">https://www.huffingtonpost.kr/2015/11/19/story_n_8606768.html</a>, and NamuWiki: <a href="https://namu.wiki/w/%EB%B0%95%EB%B2%94%ED%9B%88">https://namu.wiki/w/%EB%B0%95%EB%B2%94%ED%9B%88</a>.
 
 [^7]: *Korea Times*, "Chung-Ang probe spills to Doosan, Woori" (May 1, 2015). [https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori](https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori)
 
