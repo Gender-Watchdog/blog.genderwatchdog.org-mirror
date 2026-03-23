@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions (updated at 2026-03-17T05:48:38Z)"
+title: "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions (updated at 2026-03-23T06:11:46Z)"
 date: 2026-02-18 00:00:00 +0000
 slug: from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions
 lang: en
@@ -42,7 +42,7 @@ The political economics of this matter. These were not private monies. They were
 
 When the case reached trial, Tcha Seung-jai was **acquitted of the embezzlement charges** but **convicted of bid-rigging** in the same government subsidy program — found to have manipulated which vendors received contracts funded by public education money.
 
-A criminal conviction. Not an allegation. Not a settlement. A court verdict.
+A criminal conviction. Not an allegation. Not a settlement. A court verdict.<sup>4a</sup>
 
 Dongguk University did not announce his departure. He continued as a professor.
 
@@ -203,6 +203,8 @@ We do not accept that it is routine. And we will continue to document why.
 
 <sup>4</sup> Sisafocus, 2015 — confirms indictment and academic position: [https://www.sisafocus.co.kr/news/articleView.html?idxno=123718](https://www.sisafocus.co.kr/news/articleView.html?idxno=123718)
 
+<sup>4a</sup> Segye Ilbo (세계일보), "타짜 제작자 차승재 교수, 1심서 횡령 등 대부분 혐의 '무죄'" (July 26, 2017). Seoul Western District Court (서울서부지법 형사11부) convicted Tcha of bid-rigging (입찰방해), fined 1.5 million KRW; acquitted of embezzlement, subsidy fraud, and violations of the Special Act on the Aggravated Punishment of Specific Economic Crimes: <a href="https://www.segye.com/newsView/20170726000316">https://www.segye.com/newsView/20170726000316</a>
+
 <sup>5</sup> Dong-A Ilbo, March 13, 2020 — reports Dongguk Research Institute Director appointment: [https://www.donga.com/news/article/all/20200313/100141733/1](https://www.donga.com/news/article/all/20200313/100141733/1)
 
 <sup>6</sup> Kyunghyang Shinmun, March 12, 2020: [https://www.khan.co.kr/article/202003122103005](https://www.khan.co.kr/article/202003122103005)
@@ -229,7 +231,7 @@ We do not accept that it is routine. And we will continue to document why.
 
 <sup>17</sup> Gender Watchdog, "Viral Xiaohongshu Post Exposes Dongguk University Sexual Violence Crisis: Victims Break Their Silence": [https://blog.genderwatchdog.org/viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence/](https://blog.genderwatchdog.org/viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence/)
 
-<sup>18</sup> Reuters, "Allegations in Epstein files may amount to 'crimes against humanity,' UN experts say," Feb 17, 2026. Experts cited the "scale, nature, systematic character, and transnational reach" of the atrocities.
+<sup>18</sup> Reuters, "Allegations in Epstein files may amount to 'crimes against humanity,' UN experts say," Feb 17, 2026. Experts cited the "scale, nature, systematic character, and transnational reach" of the atrocities: <a href="https://www.reuters.com/world/allegations-epstein-files-may-amount-crimes-against-humanity-un-experts-say-2026-02-17/">https://www.reuters.com/world/allegations-epstein-files-may-amount-crimes-against-humanity-un-experts-say-2026-02-17/</a>
 
 <sup>19</sup> Pak Noja, "The Epstein Model: US Ruled by Predators," *The Hankyoreh*: [https://english.hani.co.kr/arti/english_edition/english_editorials/1244571.html](https://english.hani.co.kr/arti/english_edition/english_editorials/1244571.html)
 
