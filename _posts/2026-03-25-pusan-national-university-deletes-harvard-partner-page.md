@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Pusan National University Deletes Its Partner Page — After We Documented a Fake Harvard Partnership (updated at 2026-03-24T23:35:36Z)"
+title: "Pusan National University Deletes Its Partner Page — After We Documented a Fake Harvard Partnership (updated at 2026-03-25T04:57:17Z)"
 date: 2026-03-25 00:00:00 +0000
 slug: pusan-national-university-deletes-harvard-partner-page
 lang: en
 tags: partner-fraud, korea-universities, pusan-national-university, harvard, evidence-burial, governance, ieqas, national-university
 meta_description: "Pusan National University deleted its international partners page 77 days after Gender Watchdog documented a false Harvard University partnership claim. PNU is the eleventh Korean university in this pattern."
-bearblog_url: https://genderwatchdog.bearblog.dev/pusan-national-university-deletes-harvard-partner-page/
+bearblog_url: https://genderwatchdog.bearblog.dev/pusan-national-university-deletes-its-partner-page-after-we-documented-a-fake-harvard-partnership/
 gh_pages_url: https://blog.genderwatchdog.org/pusan-national-university-deletes-harvard-partner-page/
 ---
 
@@ -131,9 +131,13 @@ The Korean government has received our full evidence file since April 10, 2025. 
 
 At private institutions, the question was whether those universities had acted in bad faith. At a national university, the question becomes whether the Ministry of Education is functionally complicit — whether a government that funds, accredits, and consistently fails to audit partnership claims is effectively endorsing the fraud.
 
-One specific action is available right now: the Ministry of Education should publicly audit the international partnership claims of IEQAS-accredited institutions against reciprocal verification from the foreign universities listed. Harvard can confirm or deny a PNU partnership in a single email. The Ministry of Education has not sent that email.
+The world's leading university ranking body has now confirmed this structure in writing. On March 24, 2026, Times Higher Education responded to our documented evidence across eleven institutions — including PNU's Harvard claim — with three sentences. THE's stated position: "inclusion in the rankings is based on the proviso that a university is deemed to be in good standing by its relevant local regulatory body." THE directed us to "the relevant regulatory body." That regulatory body is the Ministry of Education. The Ministry of Education has been formally notified since April 10, 2025 and taken no public action.[^7]
 
-When a private university fabricates partnerships, it misleads students. When a national university does the same thing — and the Ministry of Education says nothing — the fraud becomes government policy.
+The loop is now documented: THE ranks based on MOE accreditation — MOE's accreditation process does not verify partnership claims — fabricated partnerships inflate THE rankings — THE directs complaints back to MOE.
+
+One specific action is available right now: the Ministry of Education should publicly audit the international partnership claims of IEQAS-accredited institutions against reciprocal verification from the foreign universities listed. Harvard can confirm or deny a PNU partnership in a single email. The Ministry of Education has not sent that email. Neither has THE.
+
+When a private university fabricates partnerships, it misleads students. When a national university does the same thing — and the Ministry of Education says nothing, and the ranking body defers to the Ministry of Education — the fraud becomes infrastructure.
 
 ---
 
@@ -166,3 +170,5 @@ When a private university fabricates partnerships, it misleads students. When a 
 [^5]: *Gender Watchdog*, "Dong-A University's Three-Stage Evidence Burial: From Ghost Partners to a False 2023 Timestamp" (March 22, 2026): <a href="https://blog.genderwatchdog.org/dong-a-university-partner-fraud-three-stage-burial/">https://blog.genderwatchdog.org/dong-a-university-partner-fraud-three-stage-burial/</a>
 
 [^6]: *Gender Watchdog*, "Nine Korean Universities, Zero Rebuttals: The Partnership Fraud Map Keeps Expanding" (March 11, 2026): <a href="https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/">https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/</a>
+
+[^7]: *Times Higher Education*, response from THE Data Team to Gender Watchdog (March 24, 2026) — three sentences responding to documented evidence across eleven institutions. Archived .eml: <a href="https://github.com/Gender-Watchdog/evidence_repository/blob/master/email-eml/THE-ranking-responses/decoded_Re_%20UPDATE_%20Nine%20Korean%20Universities%2C%20Zero%20Rebuttals%20%E2%80%94%20CAU%20at%2027%25%2C%20Top%201%2C500%20QS%20Partners%20Now%20Being%20Notified%202026-03-24T10_05_04-07_00.eml">https://github.com/Gender-Watchdog/evidence_repository/blob/master/email-eml/THE-ranking-responses/decoded_Re_%20UPDATE_%20Nine%20Korean%20Universities%2C%20Zero%20Rebuttals%20%E2%80%94%20CAU%20at%2027%25%2C%20Top%201%2C500%20QS%20Partners%20Now%20Being%20Notified%202026-03-24T10_05_04-07_00.eml</a>
