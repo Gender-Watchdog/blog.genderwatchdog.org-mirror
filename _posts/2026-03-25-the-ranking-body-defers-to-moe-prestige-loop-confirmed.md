@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Times Higher Education Responds to Nine Cases of Korean University Partnership Fraud — In Three Sentences (updated at 2026-03-25T05:20:37Z)"
+title: "Times Higher Education Responds to Nine Cases of Korean University Partnership Fraud — In Three Sentences (updated at 2026-03-26T02:02:46Z)"
 date: 2026-03-25 00:00:00 +0000
 slug: the-ranking-body-defers-to-moe-prestige-loop-confirmed
 lang: en
@@ -114,6 +114,14 @@ Silence gives advocates nothing to quote. A documented position is an evidentiar
 
 **To QS:** Times Higher Education and QS are the two dominant global university ranking systems. Both are cited by Korean universities in international student recruitment. THE's explicit deflection to MOE is now on the public record. QS has not been given the same opportunity to take that posture publicly. The question — *will QS also defer all due diligence on Korean partnership claims to MOE?* — now has to be answered.
 
+The timing is not incidental. On the same day THE confirmed it runs no independent verification of Korean university partnership data, QS published subject ranking gains for Korean arts and humanities institutions — with *The Korea Times* noting that "103 Korean entries dropped out of the rankings this year, compared with 62 new entries, underscoring ongoing volatility and raising questions about the sustainability of gains in select fields."[^12]
+
+The connection between false partnership pages and QS scores runs through two documented channels. **The first is direct:** QS's International Student Ratio — weighted at 5% in the QS World University Rankings — and its successor International Student Diversity indicator both measure the size and nationality breadth of an institution's international student body.[^13] QS's own documentation states that attracting "a sizeable number and diverse range of international students" is treated as evidence of institutional "positive reputation." False partnership claims manufacture exactly that signal: they attract international students from diverse countries who enroll under false pretenses, raising ISR scores, which contribute to QS ranking position, and ISD scores, which while unweighted in the overall QS World University Rankings serve as a publicly visible signal that Korean universities use in recruitment materials to claim global appeal. **The second is indirect:** QS's International Research Network indicator — weighted at 5–10% across QS Subject Rankings disciplines — is drawn entirely from Elsevier's Scopus bibliometric data, measuring sustained research partnerships defined as three or more co-authored papers over five years.[^14] The published partner pages do not feed IRN directly. But they function as **credibility signals** in informal researcher vetting: a scholar at an overseas institution sees a Korean university listed alongside Harvard, Tsinghua, or UBC, treats it as a legitimate collaborator, agrees to a joint project, and publishes — feeding Scopus, which feeds IRN. Gender Watchdog documented this leverage mechanism in January 2026:
+
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">🇰🇷 **부산대의 &#39;하버드 파트너&#39; 주장, 왜 위험할까요? (Ranking Gaming)**<br><br>단순한 허위 기재가 아닙니다. 이는 정교한 **랭킹 조작(Ranking Gaming)** 시도입니다.<br><br>1️⃣ **레버리지(Leverage):** &#39;가짜 파트너십&#39;을 미끼로 해외 연구진에게 접근, 실제 공동 연구(Collaboration)를 따냅니다.<br>2️⃣ **랭킹… <a href="https://t.co/UPPhDU5XRD">pic.twitter.com/UPPhDU5XRD</a></p>&mdash; Gender Watchdog (@Gender_Watchdog) <a href="https://twitter.com/Gender_Watchdog/status/2008768256530915552?ref_src=twsrc%5Etfw">January 7, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Both channels now have a documented evidentiary record of what those partner pages contained — and what was deleted from them — during our audit period.
+
 **To international employers and graduate recruiters:** The world's leading university ranking body has confirmed it does not independently verify the partnership claims that drive "International Outlook" scores. A ranking issued under a framework the ranking body itself acknowledges depends entirely on MOE accreditation — and MOE accreditation that does not verify partnerships — is not a measure of verified international standing. It is a measure of administrative compliance with a system that does not check.
 
 ---
@@ -176,3 +184,12 @@ When a private university fabricates partnerships, it misleads students. When a 
 [^11]: *Gender Watchdog*, "The 'Panic Scrub': Dongguk University Deletes UBC Partners, Reverts to 'Dead Names' in Failed Cover-Up" (January 19, 2026). Visualping Forensic Evidence; Ryerson dead-name blunder; Manitoba MOU vs. partnership distinction.
     Archive snapshot: <a href="https://archive.md/jZsL9">https://archive.md/jZsL9</a>
     Blog: <a href="https://blog.genderwatchdog.org/panic-scrub-dongguk-deletes-ubc-reverts-to-dead-names/">https://blog.genderwatchdog.org/panic-scrub-dongguk-deletes-ubc-reverts-to-dead-names/</a>
+
+[^12]: *The Korea Times*, Jung Da-hyun, "Korean universities climb in engineering, arts in QS subject rankings" (March 25, 2026). <a href="https://www.koreatimes.co.kr/southkorea/society/20260325/korean-universities-climb-in-engineering-arts-in-qs-subject-rankings">https://www.koreatimes.co.kr/southkorea/society/20260325/korean-universities-climb-in-engineering-arts-in-qs-subject-rankings</a>
+
+[^13]: *QS World University Rankings*, "International Student Diversity (Indicator)" — measures ratio of international students and breadth of nationalities represented; QS states diverse international enrollment is treated as evidence of institutional "positive reputation"; weighted 5% in QS Europe Region Rankings and unweighted supplementary indicator in QS World University Rankings:
+    <a href="https://support.qs.com/hc/en-gb/articles/10425678849564-International-Student-Diversity-Indicator">https://support.qs.com/hc/en-gb/articles/10425678849564-International-Student-Diversity-Indicator</a>
+    <a href="https://support.qs.com/hc/en-gb/articles/4403961727506-International-Student-Ratio-Indicator">https://support.qs.com/hc/en-gb/articles/4403961727506-International-Student-Ratio-Indicator</a>
+
+[^14]: *QS World University Rankings*, "International Research Network (Indicator)" — bibliometric indicator drawn from Elsevier's Scopus, measuring sustained research partnerships (3+ joint papers in a 5-year window); weighted 5% in QS World University Rankings and 5–10% in QS Subject Rankings (specifically: 5% for Arts & Humanities and Social Sciences & Management; 10% for Engineering & Technology, Life Sciences & Medicine, and Natural Sciences):
+    <a href="https://support.qs.com/hc/en-gb/articles/360021865579-International-Research-Network-Indicator">https://support.qs.com/hc/en-gb/articles/360021865579-International-Research-Network-Indicator</a>
