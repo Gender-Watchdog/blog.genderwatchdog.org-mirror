@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Two Profiles, Two Cleanup Tracks: Dongguk Scrubs Its Film Faculty Eight Days After the EU-Korea Research Summit (updated at 2026-04-02T04:29:49Z)"
+title: "Two Profiles, Two Cleanup Tracks: Dongguk Scrubs Its Film Faculty Eight Days After the EU-Korea Research Summit (updated at 2026-04-02T21:47:58Z)"
 date: 2026-04-01 00:00:00 +0000
 slug: dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026
 lang: en
 tags: Dongguk University, GEP Compliance, Horizon Europe, Faculty Purge, Sexual Violence, Academic Fraud, BK21, EU Delegation, Visual Ping
 meta_description: "Eight days after the EU-Korea Research and Innovation Day, Dongguk University's Graduate School of Digital Image & Contents made three coordinated changes to its public faculty roster — all caught by automated monitoring."
-bearblog_url: https://genderwatchdog.bearblog.dev/dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026/
+bearblog_url: https://genderwatchdog.bearblog.dev/two-profiles-two-cleanup-tracks-dongguk-scrubs-its-film-faculty-eight-days-after-the-eu-korea-research-summit/
 gh_pages_url: https://blog.genderwatchdog.org/dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026/
 ---
 
@@ -61,7 +61,7 @@ The automated text-change analysis compressed what are actually three distinct r
 
 ---
 
-### Track A: Two Female Research Faculty Removed, One Added — BK21 Credential Eliminated from the Roster
+### Track A: Two Female Research Faculty Removed, One Added — BK21 Credential and Female Research Footprint Eliminated from a Tenured-Male Department
 
 ![Visual Ping diff showing the research visiting professor slot changes on April 1 2026 — 이정현 and 최은진 removed, 박매화 added, BK21 affiliation disappearing from the roster entirely](https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/scrubs-20260320/dongguk/faculty-page/20260401-removed-male/female-faculty-member-bmh.png?raw=true)
 
@@ -95,6 +95,22 @@ Visual Ping's automated text-change detection flagged this as a single profile m
 **+1 OTT content practitioner added (박매화, 영상대학원 PhD)**
 
 **The continuing 손민영 and newly added 박매화 now share identical credentials (영상대학원 PhD), specialties (연출/시나리오), and research areas (OTT영상콘텐츠).**
+
+**The tenured and tenure-track tier (교수/조교수) is 100% male in both the July 2025 and April 2026 snapshots. The 연구초빙교수 tier was the only tier where women held research-credentialed positions. As of April 1, 2026, it no longer contains a government-research-linked credential of any kind.**
+
+**Full department gender composition — April 1, 2026 (Wayback Machine):**
+
+| Tier | Males | Females | % Male |
+|---|---|---|---|
+| 교수/조교수 (tenured/tenure-track) | 5 | 0 | 100% |
+| 명예교수 (emeritus) | 1 | 0 | 100% |
+| 연구초빙교수 (research visiting) | 1 | 1 | 50% |
+| 대우교수 (special appointment) | 4 | 1 | 80% |
+| 겸임교수 (adjunct) | 1 | 2 | 33% |
+| 강의초빙교수 (teaching visiting) | 0 | 1 | 0% |
+| **Total** | **12** | **5** | **70.6%** |
+
+*(Comparison: July 25, 2025 — 13M:6F (68% male). The tenured and tenure-track core has been 100% male in both snapshots.)*
 
 `BK21 사업` did not get stripped from a profile — the faculty member holding it was removed entirely. 이정현, whose research area explicitly carried the BK21 Project label, is gone from the public roster. 최은진, a second female research visiting professor with a film studies and popular culture background — also credentialed at the `일반대학원` level — was removed alongside her with no public explanation.
 
