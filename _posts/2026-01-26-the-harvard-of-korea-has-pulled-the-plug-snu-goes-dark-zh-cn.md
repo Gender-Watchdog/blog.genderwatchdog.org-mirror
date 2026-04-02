@@ -5,7 +5,7 @@ date: 2026-01-26 00:00:00 +0000
 slug: the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark-zh-cn
 lang: zh-cn
 tags: 欺诈, SNU, 教育, 潜水艇协议
-meta_description: "更新4：SNU尝试"软404"重定向策略隐藏取证链接，但"僵尸"立命馆条目依然留存在后端。"
+meta_description: '更新4：SNU尝试"软404"重定向策略隐藏取证链接，但"僵尸"立命馆条目依然留存在后端。'
 bearblog_url: https://genderwatchdog.bearblog.dev/the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark/
 gh_pages_url: https://blog.genderwatchdog.org/the-harvard-of-korea-has-pulled-the-plug-snu-goes-dark/
 ---
