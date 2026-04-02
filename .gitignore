@@ -40,5 +40,6 @@ secret-files-1121/
 
 # Configuration and Instructions
 .github/copilot-instructions.md
+copilot-instructions.md
 
 /scripts/*
