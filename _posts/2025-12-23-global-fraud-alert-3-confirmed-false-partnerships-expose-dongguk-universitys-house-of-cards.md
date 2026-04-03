@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Global Fraud Alert: 3 Confirmed False Partnerships Expose Dongguk University's 'House of Cards'"
+title: "Global Fraud Alert: 3 Confirmed False Partnerships Expose Dongguk University's 'House of Cards' (updated at 2026-04-02T21:47:58Z)"
 date: 2025-12-23T00:00:00+00:00
 slug: global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards
 lang: en
 meta_description: "Confirmation of 3 false partnerships (UBC, Southampton, and another Canadian university) across 2 continents exposes Dongguk University's 'Global Network' as a systemic fraud, posing liability risks for international partners."
 tags: fraud, university-partnerships, dongguk-university, ubc, southampton, tsinghua
+bearblog_url: https://genderwatchdog.bearblog.dev/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/
+gh_pages_url: https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/
 ---
 
 **This is a critical turning point.** The confirmation of **3 false or misrepresented partnerships** (UBC, University of Southampton, and one Canadian university requesting anonymity) across **2 continents** (North America and Europe) transforms what could have been "isolated administrative errors" into a **global pattern of systemic fraud**.
@@ -41,7 +43,7 @@ Furthermore, we found that Southampton only lists a **"Summer School"** program 
 This follows our explosive findings in Canada, where **2 out of 5 (40%)** of Dongguk's listed partners have been confirmed as false or disputed.
 
 1.  **One Canadian University (Name withheld upon request):** Directly confirmed to us that **"No agreement with Dongguk University exists,"** despite being listed on Dongguk's site.
-2.  **University of British Columbia (UBC):** The BC Information & Privacy Commissioner (OIPC) had to intervene after UBC failed to produce any records of communication with Dongguk for an entire academic year. The FOI office has confirmed **no active institutional agreement exists**.
+2.  **University of British Columbia (UBC):** The BC Information & Privacy Commissioner (OIPC) had to intervene after UBC failed to respond within the statutory timeline. UBC's subsequent FOI records search produced **zero records of any communication with Dongguk**, and zero internal UBC documents mentioning "Dongguk" — an absence of records from which we infer no active institutional agreement exists.
 
 ### FOI request made to UBC
 ![UBC FOI Request](https://github.com/Gender-Watchdog/blog.genderwatchdog.org-mirror/blob/master/assets/images/ubc-foi-oipc-intervention/ubc-foi-request-form-filled.png?raw=true)
