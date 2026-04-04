@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Profiles, Two Cleanup Tracks: Dongguk Scrubs Its Film Faculty Eight Days After the EU-Korea Research Summit (updated at 2026-04-02T21:47:58Z)"
+title: "Two Profiles, Two Cleanup Tracks: Dongguk Scrubs Its Film Faculty Eight Days After the EU-Korea Research Summit (updated at 2026-04-04T01:29:53Z)"
 date: 2026-04-01 00:00:00 +0000
 slug: dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026
 lang: en
@@ -119,6 +119,29 @@ Their replacement, 박매화, holds no BK21 affiliation. Her credential comes fr
 `BK21 사업` — the BK21 Project — is South Korea's flagship competitive graduate-level research funding program, administered by the National Research Foundation of Korea (NRF), designed to raise Korean graduate programs to international research standards. We analytically infer that its signaling of government-endorsed graduate research capacity serves as a primary institutional connection to Horizon Europe partnership eligibility frameworks.[^5] As of April 1, 2026, the department's publicly listed research visiting professor tier carries **zero explicit government research funding credentials**.
 
 On a day when an EU RTD compliance unit is actively reviewing whether Korean Horizon Europe proposals meet GEP requirements[^4], removing the only research visiting professor whose publicly listed research area cited a government funding program eliminates the most legible institutional connection between the department's research-teaching faculty and the compliance-governed pipeline the EU is scrutinising. Whether that is the intent is analytical inference. The timing — eight days after the EU-Korea Research Summit — is documented fact.
+
+#### The Shelf Life of Tokenism: Why 이정현 Was First Elevated, Then Removed
+
+Nine months before her April 2026 removal, 이정현 was the subject of deliberate institutional enhancement. In July 2025, Visual Ping caught Dongguk silently upgrading her profile: her office location was upgraded, her academic scope was broadened from `영화이론비평` (Film Theory Criticism) to `영화학` (Film Studies), and — most significantly — the BK21 Project label was added to her listed research areas.[^19] The profile change was not announced. Gender Watchdog flagged it in real time as a calculated "loyal insider" strategy: she was an internally-credentialed Dongguk PhD, holding a 연구초빙교수 position with no tenure security and no decision-making authority, invisible on the English-language faculty page. Enhanced enough to improve domestic optics. Controllable enough to be removed if she became inconvenient.
+
+The July 2025 logic and the April 2026 logic are not contradictions. They are the same institutional calculus operating under different external threat conditions:
+
+| Period | Dominant Threat | Token's Function | Outcome |
+|---|---|---|
+| Summer 2025 | Domestic advocacy pressure; Xiaohongshu exposure reaching Chinese-language international students | Improve Korean-language optics; demonstrate apparent gender progress to domestic audience | Profile enhanced; BK21 added; office upgraded |
+| April 2026 | EU RTD compliance review; GEP conformity audit confirmed active post-summit[^4] | Minimize government-research-linked profiles that invite compliance audit questions about whether GEP governs the actual faculty research environment | Removed entirely; BK21 credential disappears from the roster with her |
+
+Three features made the April 2026 removal low-cost for the institution:
+
+**First, the BK21 label that made her useful in 2025 became a liability in 2026.** A government-research-affiliated female researcher raises an immediate audit question under Horizon Europe GEP review: does the institution's GEP actually govern this person's working environment? Given the department's documented 100% male tenured core and the broader sexual violence pattern, the honest answer is no. Removing her removes the most legible signal that could direct that inquiry toward this department.
+
+**Second, she was never on the English-language faculty page.** The international face of the institution — the page EU compliance reviewers, overseas applicants, and partner universities consult — did not include her before the removal and does not miss her after it. The internationally visible faculty record is unchanged. Only the Korean-language page, which serves domestic audiences, reflects the loss.
+
+**Third, the 연구초빙교수 title had always been revocable by design.** No tenure security. No contractual continuity obligation. The "loyal insider" framing developed in our July 2025 documentation noted the removal capability explicitly: she was useful only so long as the institution found her useful. The 연구초빙교수 structure was built to execute exactly this exit — cleanly, with no formal disciplinary process, no published justification, no headlines.
+
+Her replacement, 박매화, confirms the substitution was not a personnel decision driven by research fit. 박매화 holds no BK21 affiliation, holds the same `영상대학원` practitioner credential as the continuing 손민영, lists the identical specialty (`연출/시나리오`) and the identical research area (`OTT영상콘텐츠`). The tier was not restructured to improve its research depth. It was restructured to remove its compliance-legible features while maintaining the minimum headcount for the position category to appear nominally occupied.
+
+이정현 was not protected by loyalty. She was protected by utility. When the threat matrix shifted from domestic image management to international compliance scrutiny, utility became liability — and the contingency structure embedded in her position title executed on schedule.
 
 ---
 
