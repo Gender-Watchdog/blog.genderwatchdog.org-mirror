@@ -44,12 +44,6 @@
     <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/favicons/gender-watchdog-icon-04142025.png' | absolute_url }}{% endif %}">
     <meta property="og:image:alt" content="{{ page.title | escape }}">
     
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@Gender_Watchdog">
-    <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/favicons/gender-watchdog-icon-04142025.png' | absolute_url }}{% endif %}">
-    <meta name="twitter:image:alt" content="{{ page.title | escape }}">
-    
     <!-- Structured Data - Organization -->
     <script type="application/ld+json">
     {
@@ -59,7 +53,7 @@
       "alternateName": ["젠더 와치독", "ジェンダー・ウォッチドッグ", "性别监督", "性別監督"],
       "url": "{{ site.url }}",
       "sameAs": ["https://github.com/genderwatchdog1/timeline-website", "https://twitter.com/Gender_Watchdog", "https://genderwatchdog.org"],
-      "description": "Investigating and documenting sexual, "vi" violence cases and institutional failures in Korean higher education",
+      "description": "Investigating and documenting sexual violence cases and institutional failures in Korean higher education",
       "knowsLanguage": ["en", "ko", "ja", "zh-CN", "zh-TW"],
       "contactPoint": {
         "@type": "ContactPoint",
@@ -113,6 +107,12 @@
     <!-- / Fathom -->
     
     {% seo %}
+    
+    <!-- Override jekyll-seo-tag twitter:card to force large image format -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@Gender_Watchdog">
+    <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/favicons/gender-watchdog-icon-04142025.png' | absolute_url }}{% endif %}">
+    <meta name="twitter:image:alt" content="{{ page.title | escape }}">
 </head>
 <body>
     <header>
