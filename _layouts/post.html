@@ -2,6 +2,18 @@
 layout: default
 ---
 
+{% if page.gh_pages_url and page.lang and page.lang != 'en' %}
+{% assign en_url = page.gh_pages_url %}
+{% assign base_slug = en_url | remove: site.url | remove: '/' %}
+<link rel="alternate" hreflang="en" href="{{ en_url }}">
+<link rel="alternate" hreflang="ko" href="{{ site.url }}/{{ base_slug }}-ko/">
+<link rel="alternate" hreflang="ja" href="{{ site.url }}/{{ base_slug }}-ja/">
+<link rel="alternate" hreflang="vi" href="{{ site.url }}/{{ base_slug }}-vi/">
+<link rel="alternate" hreflang="zh-CN" href="{{ site.url }}/{{ base_slug }}-zh-cn/">
+<link rel="alternate" hreflang="zh-TW" href="{{ site.url }}/{{ base_slug }}-zh-tw/">
+<link rel="alternate" hreflang="x-default" href="{{ en_url }}">
+{% endif %}
+
 <article class="post" lang="{{ page.lang }}">
     <header class="post-header">
         <h1>{{ page.title }}</h1>
