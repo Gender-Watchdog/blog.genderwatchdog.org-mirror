@@ -6,8 +6,8 @@ slug: dongguk-japanese-studies-professor-sexual-violence-second-department-2026-
 lang: ko
 tags: Dongguk University, Sexual Violence, Japanese Studies, GEP Compliance, Horizon Europe, Faculty Accountability, Korea, Criminal Defamation
 meta_description: "2026년 1월, 동국대학교 일본학과 교수가 일본에서 강제추행 혐의로 체포되었다. 대학의 양성평등계획(GEP)이 시행된 바로 그날인 3월 24일 한국 언론에 이 사실이 보도되었을 때에도 그는 여전히 강의를 하고 있었다."
-bearblog_url: https://genderwatchdog.bearblog.dev/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-ko/
-gh_pages_url: https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-ko/
+bearblog_url: https://genderwatchdog.bearblog.dev/dongguk-japanese-studies-professor-sexual-violence-second-department-2026/
+gh_pages_url: https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026/
 ---
 
 2026년 3월 18일, 동국대학교 총장은 피해자 보호와 젠더 폭력 대응에 대한 기관의 약속을 담은 양성평등계획(GEP)에 서명했다. 그로부터 7주 전인 2026년 1월 28일, 일본학과 소속의 한 교수가 비동의 강제추행 혐의로 일본 경찰에 체포되었다. 한국 언론이 이 사건을 처음 보도한 3월 24일에도 그는 여전히 강의를 하고 있었다.

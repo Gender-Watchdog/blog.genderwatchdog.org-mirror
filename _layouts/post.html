@@ -18,6 +18,26 @@ layout: default
         {% endif %}
     </header>
 
+    {% if page.lang and page.lang != 'en' %}
+    <div style="border-left: 4px solid #e67e22; padding: 10px 16px; background-color: #fef9f3; color: #333; margin-bottom: 24px; font-size: 0.95em;">
+        {% case page.lang %}
+        {% when 'ko' %}
+        ⚠️ 이 글은 AI가 번역한 것으로 100% 정확하지 않을 수 있습니다. 영어 원문:
+        {% when 'ja' %}
+        ⚠️ この記事はAIによる翻訳であり、100%正確でない場合があります。英語の原文:
+        {% when 'vi' %}
+        ⚠️ Đây là bản dịch do AI tạo ra và có thể không chính xác 100%. Bản gốc tiếng Anh:
+        {% when 'zh-cn' %}
+        ⚠️ 本文由AI翻译，可能与英文原文存在差异。英文原文：
+        {% when 'zh-tw' %}
+        ⚠️ 本文由AI翻譯，可能與英文原文存在差異。英文原文：
+        {% else %}
+        ⚠️ This is an AI-generated translation and may not be 100% accurate. English original:
+        {% endcase %}
+        {% if page.gh_pages_url %}<a href="{{ page.gh_pages_url }}">{{ page.gh_pages_url }}</a>{% endif %}
+    </div>
+    {% endif %}
+
     <div class="post-content">
         {{ content }}
     </div>
