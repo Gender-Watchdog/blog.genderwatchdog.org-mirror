@@ -1,0 +1,120 @@
+# Archive GitHub Traffic Data
+#
+# Transparency note: This workflow fetches GitHub's own aggregate traffic statistics
+# (total clone counts, total view counts) for all public Gender-Watchdog repositories
+# using the GitHub Traffic API. No individual users are identified or tracked. The raw
+# numbers are stored in a separate private archive repo for long-term record-keeping,
+# since GitHub only retains this data for 14 days.
+#
+# Required secret: TRAFFIC_ARCHIVE_PAT
+#   A fine-grained Personal Access Token with Administration (read), Contents (read/write),
+#   and Metadata (read) permissions across all Gender-Watchdog repositories.
+#   Store in: bearblog-mirror-ghpages → Settings → Secrets and variables → Actions.
+
+name: Archive GitHub Traffic Data
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # Every Monday at 06:00 UTC
+  workflow_dispatch:        # Allow manual run at any time
+
+jobs:
+  archive-traffic:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch traffic data for all repos and push to archive
+        env:
+          GH_TOKEN: ${{ secrets.TRAFFIC_ARCHIVE_PAT }}
+        run: |
+          set -e
+
+          ARCHIVE_REPO="Gender-Watchdog/github-clone-history"
+          CAPTURED_AT=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          DATE=$(date -u +"%Y-%m-%d")
+
+          # All public Gender-Watchdog repos to track
+          REPOS=(
+            "Gender-Watchdog/blog.genderwatchdog.org-mirror"
+            "Gender-Watchdog/metoo2025_dashboard"
+            "Gender-Watchdog/evidence_repository"
+            "Gender-Watchdog/timeline-website"
+            "Gender-Watchdog/korean_film_industry_sexual_violence"
+            "Gender-Watchdog/genderwatchdog_metookorea2025"
+            "Gender-Watchdog/cau-timeline-website"
+          )
+
+          # Clone the archive repo first
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git clone "https://x-access-token:${GH_TOKEN}@github.com/${ARCHIVE_REPO}.git" archive-repo
+
+          # Process each repo
+          for SOURCE_REPO in "${REPOS[@]}"; do
+            REPO_SLUG=$(echo "$SOURCE_REPO" | cut -d'/' -f2)
+            echo "--- Processing $SOURCE_REPO ---"
+
+            CLONES=$(curl -sf \
+              -H "Authorization: token $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/$SOURCE_REPO/traffic/clones" || echo '{"count":0,"uniques":0,"clones":[]}')
+
+            VIEWS=$(curl -sf \
+              -H "Authorization: token $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/$SOURCE_REPO/traffic/views" || echo '{"count":0,"uniques":0,"views":[]}')
+
+            REFERRERS=$(curl -sf \
+              -H "Authorization: token $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/$SOURCE_REPO/traffic/popular/referrers" || echo '[]')
+
+            POPULAR_PATHS=$(curl -sf \
+              -H "Authorization: token $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/$SOURCE_REPO/traffic/popular/paths" || echo '[]')
+
+            # Combine into one timestamped JSON snapshot
+            SNAPSHOT=$(jq -n \
+              --arg captured_at "$CAPTURED_AT" \
+              --arg source_repo "$SOURCE_REPO" \
+              --argjson clones "$CLONES" \
+              --argjson views "$VIEWS" \
+              --argjson referrers "$REFERRERS" \
+              --argjson popular_paths "$POPULAR_PATHS" \
+              '{
+                captured_at: $captured_at,
+                source_repo: $source_repo,
+                clones: $clones,
+                views: $views,
+                referrers: $referrers,
+                popular_paths: $popular_paths
+              }')
+
+            TOTAL_CLONES=$(echo "$CLONES" | jq -r '.count // 0')
+            UNIQUE_CLONERS=$(echo "$CLONES" | jq -r '.uniques // 0')
+            TOTAL_VIEWS=$(echo "$VIEWS" | jq -r '.count // 0')
+            UNIQUE_VISITORS=$(echo "$VIEWS" | jq -r '.uniques // 0')
+
+            # Per-repo subfolder in archive: data/<repo-slug>/YYYY-MM-DD.json
+            mkdir -p "archive-repo/data/${REPO_SLUG}"
+            echo "$SNAPSHOT" | jq '.' > "archive-repo/data/${REPO_SLUG}/${DATE}.json"
+
+            # Append to per-repo cumulative CSV
+            CSV_FILE="archive-repo/data/${REPO_SLUG}/summary.csv"
+            if [ ! -f "$CSV_FILE" ]; then
+              echo "captured_at,total_clones,unique_cloners,total_views,unique_visitors" > "$CSV_FILE"
+            fi
+            echo "${CAPTURED_AT},${TOTAL_CLONES},${UNIQUE_CLONERS},${TOTAL_VIEWS},${UNIQUE_VISITORS}" >> "$CSV_FILE"
+
+            echo "$REPO_SLUG: clones=$TOTAL_CLONES ($UNIQUE_CLONERS unique), views=$TOTAL_VIEWS ($UNIQUE_VISITORS unique)"
+          done
+
+          # Single commit covering all repos
+          cd archive-repo
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit (data unchanged since last run)."
+          else
+            git commit -m "Traffic snapshot: ${DATE} (${#REPOS[@]} repos)"
+            git push
+          fi
