@@ -43,3 +43,5 @@ secret-files-1121/
 copilot-instructions.md
 
 /scripts/*
+
+*.env
