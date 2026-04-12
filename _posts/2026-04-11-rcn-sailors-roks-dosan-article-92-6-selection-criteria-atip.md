@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Sailors, One Question DND Cannot Answer: The Selection Criteria That Implicate Canada's Armed Forces Law (updated at 2026-04-12T18:44:48Z)"
+title: "Two Sailors, One Question DND Cannot Answer: The Selection Criteria That Implicate Canada's Armed Forces Law (updated at 2026-04-12T20:12:43Z)"
 date: 2026-04-11 00:00:00 +0000
 slug: rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip
 lang: en
@@ -32,7 +32,7 @@ Canada settled the LGBT Purge class action for $110 million, with Federal Court 
 
 Suppose DND made no inquiry into Article 92-6 before placing Canadian sailors aboard a vessel governed by that law. This means LGBTQ+ CAF members may currently be serving on that submarine without having been told that the legal framework governing their commanding officer classifies their sexual orientation as a criminal matter.
 
-DAOD 5014-0 establishes DND's duty of care to personnel — the obligation to protect members from foreseeable harm. The Korean military's Article 92-6 prosecutions and the 2017 "gay witch hunt" — in which dozens of soldiers were identified through dating apps, prosecuted, subjected to forced sexual acts as punishment, and placed in solitary confinement[^9] — were covered extensively in international press.[^4] This was not obscure information. The bilateral defence agreement was signed February 25, 2026 — with CBC reporting that negotiations had already concluded months earlier, in October 2025.[^5] DND had every opportunity, and every institutional obligation, to ask the question.
+DAOD 5014-0 establishes DND's duty of care to personnel — the obligation to protect members from foreseeable harm. The Korean military's Article 92-6 prosecutions and the 2017 "gay witch hunt" — in which dozens of soldiers were identified through dating apps, prosecuted, subjected to forced sexual acts as punishment, beaten and subjected to violence and isolation[^9] — were covered extensively in international press.[^4] This was not obscure information. The bilateral defence agreement was signed February 25, 2026 — with CBC reporting that negotiations had already concluded months earlier, in October 2025.[^5] DND had every opportunity, and every institutional obligation, to ask the question.
 
 If no one asked, that is a duty of care failure. The risk was documented, public, and directly relevant to the assignment.
 
@@ -130,4 +130,4 @@ Criminalizing the Crew: Korea's Article 92-6, Canada's Armed Forces Law, and the
 
 [^8]: *Office of the Auditor General of Canada*, "Report 10 — Industrial and Technological Benefits," *Fall 2024 Reports of the Auditor General of Canada* (December 2024). <a href="https://www.canada.ca/en/auditor-general/our-work/audit-reports/parl-oag-202412-10-e.html">https://www.canada.ca/en/auditor-general/our-work/audit-reports/parl-oag-202412-10-e.html</a>
 
-[^9]: *Amnesty International*, "South Korea: Serving in Silence: LGBTI People in South Korea's Military," Index ASA 25/0529/2019 (July 11, 2019). Documents the 2017 witch hunt: soldiers identified via dating apps, prosecuted under Article 92-6, subjected to forced sexual acts as punishment, placed in solitary confinement, beaten; at least 4 documented suicide attempts. <a href="https://www.amnesty.org/en/documents/asa25/0529/2019/en/">https://www.amnesty.org/en/documents/asa25/0529/2019/en/</a>
+[^9]: *Amnesty International*, "South Korea: Serving in Silence: LGBTI People in South Korea's Military," Index ASA 25/0529/2019 (July 11, 2019). Documents the 2017 witch hunt: soldiers identified via dating apps, prosecuted under Article 92-6, subjected to forced sexual acts as punishment, beaten and subjected to violence and isolation; at least 4 documented suicide attempts. <a href="https://www.amnesty.org/en/documents/asa25/0529/2019/en/">https://www.amnesty.org/en/documents/asa25/0529/2019/en/</a>
