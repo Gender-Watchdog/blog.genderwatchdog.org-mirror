@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Sailors, One Question DND Cannot Answer: The Selection Criteria That Implicate Canada's Armed Forces Law (updated at 2026-04-12T20:12:43Z)"
+title: "Two Sailors, One Question DND Cannot Answer: The Selection Criteria That Implicate Canada's Armed Forces Law (updated at 2026-04-13T04:59:53Z)"
 date: 2026-04-11 00:00:00 +0000
 slug: rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip
 lang: en
@@ -109,6 +109,129 @@ Canada settled the LGBT Purge for $110 million. This question costs nothing to a
 For a full analysis of Article 92-6, how it operates within the Korean Military Criminal Act, its history of enforcement and Supreme Court jurisprudence, and how it collides with Canada's CHRA, DAOD 5516-0, and the CPSP procurement process, see Part 1:
 
 Criminalizing the Crew: Korea's Article 92-6, Canada's Armed Forces Law, and the Conflict Arriving at Esquimalt: <a href="https://blog.genderwatchdog.org/korea-military-article-92-6-canada-cpsp-lgbtq-conflict-esquimalt/">https://blog.genderwatchdog.org/korea-military-article-92-6-canada-cpsp-lgbtq-conflict-esquimalt/</a>
+
+---
+
+## Appendix: Full Text of ATIP Requests Filed April 11–12, 2026
+
+The following are the descriptions submitted verbatim to the Government of Canada ATIP portal. Timeframe for all requests: January 1, 2024 to the date of filing.
+
+---
+
+### EA2026_0167918 — National Defence: CPSP / Hanwha Ocean Bid
+
+```
+All records held by DND/ADM(Materiel) re: Canadian Patrol Submarine Project (CPSP) evaluation:
+
+1) Briefing notes, risk assessments, decision records re: Hanwha Ocean CPSP submission and ITB obligations;
+
+2) Due diligence on Korean university partnerships in Hanwha's ITB proposal (incl. University of Toronto, UNB, Dalhousie, Mohawk College, Ontario Shipyards/Heddle) — integrity verification, partnership audits, any flags re: falsified or fabricated partnerships;
+
+3) Compliance records re: Fighting Against Forced Labour Act (S.C. 2023, c.9) — Hanwha supply chain audits, Geoje shipyard labour practices, wage discrimination, migrant workers;
+
+4) GEP, GBA+, ESG assessments for Korean universities/institutes proposed as ITB partners;
+
+5) Responses to civil society submissions re: CPSP Korean partner governance — incl. "Gender Watchdog," sexual violence, KWDI data, falsified partnerships;
+
+6) Records comparing Hanwha Ocean (Korea) vs. TKMS (Germany) on governance, GBA+, forced labour, GEP compliance;
+
+7) Assessments of Korean university engineering ecosystem capacity for long-term technology transfer and sustainment obligations;
+
+8) Records assessing Article 92-6, ROK Military Criminal Act as procurement/human rights risk — incl. 35-year CAF sustainment implications.
+
+Record types: Emails, briefing notes, scoring matrices, risk assessments, memos, GCdocs entries, Teams chats.
+
+Keywords: "Hanwha Ocean"; "KSS-III"; "CPSP"; "Canadian Patrol Submarine Project"; "Dongguk University"; "Gender Watchdog"; "genderwatchdog.org"; "GEP"; "Gender Equality Plan"; "GBA+"; "ESG"; "forced labour"; "Fighting Against Forced Labour"; "Geoje"; "supply chain audit"; "wage discrimination"; "46.8%"; "TKMS"; "Thyssenkrupp"; "industrial benefits"; "technology transfer"; "falsified partnerships"; "fabricated partnerships"; "falsified international partnerships"; "partnership fraud"; "partnership integrity"; "UBC"; "University of British Columbia"; "University of Manitoba"; "Mohawk College"; "University of Toronto"; "Dalhousie"; "UNB"; "Horizon Europe"; "Article 92-6"; "Military Criminal Act"; "LGBTQ+"; "same-sex"; "Rainer Wessely"; "Wessely"; "DG RTD"; "sexual violence"; "racialized sexual violence"; "sexual misconduct"; "GBV"; "gender-based violence"; "KWDI"; "Korean Women's Development Institute"; "61.5%"; "inappropriate conduct"; "inappropriate behaviour"; "sexual harassment"; "gender-based discrimination"; "supply chain governance"; "sexual orientation"; "University of New Brunswick"; "abuse"; "exploitation".
+
+Note: Interpret broadly and search synonyms per s.4(2.1) duty to assist — records indexed as "harassment," "misconduct," or "inappropriate conduct" should be included. Sever and release non-exempt information (s.25); rolling releases preferred.
+```
+
+---
+
+### EA2026_0167920 — Public Services and Procurement Canada: CPSP Evaluation Criteria
+
+```
+All records held by PSPC re: Canadian Patrol Submarine Project (CPSP) evaluation:
+
+1) CPSP evaluation criteria re: GEP, GBA+, ESG, supply chain integrity for Hanwha Ocean's ITB/technology transfer ecosystem;
+
+2) Compliance records re: Fighting Against Forced Labour Act (S.C. 2023, c.9) — Hanwha supply chain audits, migrant worker conditions, wage discrimination, Geoje shipyard;
+
+3) Due diligence on governance/institutional integrity/gender equality performance of Korean universities proposed as Hanwha ITB partners;
+
+4) Responses to civil society submissions re: sexual violence, KWDI data, falsified partnerships, institutional integrity — incl. "Gender Watchdog," "Dongguk University," "partnership fraud," "partnership misrepresentation";
+
+5) Legal assessments re: Canada-ROK Defence Cooperation Agreement (Feb 25, 2026) compatibility with GBA+, Forced Labour Act, CHRA, CAF DAOD policies, National Defence Act — incl. Article 92-6 ROK Military Criminal Act as procurement risk;
+
+6) Records comparing Hanwha Ocean (Korea) vs. TKMS (Germany) on governance, forced labour, GEP, GBA+ compliance;
+
+7) Communications between PSPC and EU Delegation Seoul, EC DG RTD, or European Commission — incl. Counsellor Rainer Wessely or DG RTD GEP rulings re: Horizon Europe Korean institutions relevant to CPSP.
+
+Record types: Emails, briefing notes, RFP/RFQ records, evaluation scoring, GBA+ assessments, legal opinions, GCdocs entries, Teams chats.
+
+Keywords: "Hanwha Ocean"; "CPSP"; "Canadian Patrol Submarine Project"; "GEP"; "Gender Equality Plan"; "GBA+"; "ESG"; "forced labour"; "Fighting Against Forced Labour"; "Geoje"; "supply chain audit"; "wage discrimination"; "46.8%"; "Dongguk University"; "Gender Watchdog"; "genderwatchdog.org"; "TKMS"; "Thyssenkrupp"; "falsified partnerships"; "fabricated partnerships"; "falsified international partnerships"; "partnership fraud"; "UBC"; "University of British Columbia"; "University of Manitoba"; "Horizon Europe"; "EU Delegation Seoul"; "supply chain governance"; "institutional integrity"; "Article 92-6"; "Military Criminal Act"; "LGBTQ+"; "sexual orientation"; "same-sex"; "Rainer Wessely"; "Wessely"; "DG RTD"; "sexual violence"; "racialized sexual violence"; "sexual misconduct"; "GBV"; "gender-based violence"; "KWDI"; "Korean Women's Development Institute"; "61.5%"; "inappropriate conduct"; "inappropriate behaviour"; "sexual harassment"; "gender-based discrimination"; "abuse"; "exploitation".
+
+Note: Interpret broadly and search synonyms per s.4(2.1) duty to assist. Sever and release non-exempt information (s.25); rolling releases preferred.
+```
+
+---
+
+### EA2026_0167922 — National Defence: Article 92-6 / Canada-Korea Military Exercises
+
+```
+Records requested: All records held by the Department of National Defence concerning:
+
+1) Canada–Republic of Korea joint military exercises planned, conducted, or in preparation for May–June 2026, including but not limited to the planned docking of the ROKS Dosan Ahn Chang-ho at HMCS Esquimalt and associated joint drills;
+
+2) Any human rights, personnel policy, legal, or risk assessments — however described — relating to Article 92-6 of the Republic of Korea's Military Criminal Act, which criminalizes consensual same-sex conduct between Korean military personnel;
+
+3) Any internal assessments, briefing notes, legal opinions, or communications concerning the compatibility of Article 92-6 of the Korean Military Criminal Act with:
+   (a) the Canadian Human Rights Act (CHRA), including s.3(1) prohibiting discrimination on the basis of sexual orientation;
+   (b) DAOD 5516-0 (Sexual Misconduct Response) and DAOD 5014-0 (Harassment Prevention and Resolution);
+   (c) DND/CAF obligations as host institution for visiting foreign military personnel at Canadian Forces bases;
+
+4) Any assessments, communications, or briefings concerning personnel policy implications for CAF members embedded aboard Korean naval vessels (including the ROKS Dosan Ahn Chang-ho) or participating in joint exercises with the Republic of Korea Navy;
+
+5) Any legal or policy analysis of the Canadian Patrol Submarine Project (CPSP) long-term sustainment obligations — including personnel exchange, embedded personnel, and joint training — in the context of South Korea's Article 92-6.
+
+Record types: Emails and attachments, briefing notes, issue notes, legal opinions, memos, media lines/Q&As, meeting notes, Microsoft Teams chats/channels, GCdocs/InfoBank entries, calendar entries, and any relevant correspondence tracking system entries.
+
+Search locations/systems: Outlook/Exchange mailboxes (including shared mailboxes); Microsoft Teams (chats and channels); GCdocs/InfoBank; Judge Advocate General (JAG) offices; Vice Chief of the Defence Staff (VCDS); Canadian Joint Operations Command (CJOC); HMCS Esquimalt administration.
+
+Keywords: "Article 92-6"; "Korean Military Criminal Act"; "ROKS Dosan Ahn Chang-ho"; "KSS-III"; "Esquimalt"; "Canada-Korea exercises"; "sexual orientation"; "LGBTQ"; "homosexual"; "gay"; "CAF human rights"; "Hanwha Ocean"; "CPSP"; "Canadian Patrol Submarine Project"; "joint exercises Korea"; "personnel exchange Korea".
+
+Note: Interpret keywords broadly per s.4(2.1). Records on Article 92-6 may be indexed without citing the article number — using terms such as "Korea LGBTQ," "same-sex conduct," "sexual orientation Korea," "Korean military law," "personnel policy Korea," or "joint exercises human rights." Include all such variants.
+
+Severance/duty to assist: Please sever and release all non-exempt information (s.25) and apply the duty to assist (s.4(2.1)). Provide rolling/interim releases. Delivery preference: electronic.
+```
+
+---
+
+### EA2026_0167940 — National Defence: RCN Embedded Sailor Selection
+
+```
+Records requested: All records held by the Department of National Defence concerning the selection, posting, and assignment of Royal Canadian Navy (RCN) personnel embedded aboard the ROKS Dosan Ahn Chang-ho (Republic of Korea Navy, KSS-III class submarine) during its trans-Pacific voyage to Canada in 2026, specifically:
+
+1) All records concerning the criteria used to select RCN personnel for the embedded exchange positions aboard the ROKS Dosan Ahn Chang-ho, including posting instructions, selection criteria, eligibility requirements, or any restrictions or considerations applied to the selection process;
+
+2) Any assessments, communications, or briefings concerning the legal, human rights, or personnel policy implications of placing CAF members aboard a vessel governed by Article 92-6 of the Republic of Korea's Military Criminal Act, which criminalizes consensual same-sex conduct between military personnel;
+
+3) Any records indicating whether the sexual orientation, gender, or gender identity of candidates was considered — directly or indirectly — in the selection process for the embedded positions, including any records reflecting guidance to selecting officials regarding the Korean Military Criminal Act;
+
+4) Any duty of care assessments, risk assessments, or briefings concerning the legal environment applicable to RCN personnel serving aboard a Korean naval vessel — including any disclosure provided to or withheld from selected personnel regarding Article 92-6;
+
+5) Any communications between DND, CJOC, NDHQ, or the Naval Personnel and Training Group concerning the embedded posting, including the timeline and authority for the assignment decision.
+
+Record types: Posting orders, assignment instructions, selection criteria documents, emails, briefing notes, legal opinions, duty of care assessments, memos, GCdocs/InfoBank entries, Teams chats, HRMS entries.
+
+Search locations/systems: Canadian Joint Operations Command (CJOC); Naval Personnel and Training Group (NPTG); NDHQ personnel assignment desks; Judge Advocate General (JAG); VCDS personnel policy branch.
+
+Keywords: "Dosan Ahn Chang-ho"; "KSS-III"; "embedded"; "exchange personnel"; "posting criteria"; "selection criteria"; "Article 92-6"; "Korean Military Criminal Act"; "sexual orientation"; "LGBTQ"; "homosexual"; "duty of care"; "personnel exchange Korea"; "joint exercises Korea"; "trans-Pacific"; "Esquimalt exchange".
+
+Note: Interpret keywords broadly per s.4(2.1). Records may be indexed using operational language — terms such as "Korea exchange," "submarine exchange posting," "KSS-III liaison," or "Esquimalt Korea personnel" should be included. A nil result should be reported as such rather than a non-response.
+
+Severance/duty to assist: Please sever and release all non-exempt information (s.25) and apply the duty to assist (s.4(2.1)). Rolling/interim releases preferred. Delivery preference: electronic.
+```
 
 ---
 
