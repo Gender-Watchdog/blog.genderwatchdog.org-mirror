@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cannes Gave Its Jury to a Director Whose Industry Criminalizes Survivors (updated at 2026-03-17T05:48:38Z)"
+title: "Cannes Gave Its Jury to a Director Whose Industry Criminalizes Survivors (updated at 2026-04-25T16:39:41Z)"
 date: 2026-02-27 00:00:00 +0000
 slug: cannes-gave-its-jury-to-a-director-whose-industry-criminalizes-survivors
 lang: en
@@ -65,12 +65,13 @@ Sidus's threat directly contradicted Dongguk's own archived website, which as of
 
 Dongguk's promotion of a criminally convicted professor is not administrative failure. It is structural design. Academic and Korean commentator Pak Noja (Vladimir Tikhonov) documented the mechanism in *Hankyoreh*: elite Korean institutions are captured by mutual-protection networks that create total control over students.[^13]
 
-Gender Watchdog calls this the **"Quadruple Coercion" model**:
+Gender Watchdog calls this the **"Five-Lever Coercion" model** (four levers for domestic students; all five for international students on Korean student visas):
 
 1. **Academic Authority** — the professor grades them
 2. **Corporate Power** — the production CEO hires them
 3. **Association Presidency** — the industry leader can blacklist them
 4. **Defamation Law** — the legal system criminalizes their truth-telling
+5. **Visa Dependency** — expulsion triggers deportation, so compliance is survival *(international students only)*
 
 This is not metaphor. Korean criminal defamation law allows prosecution for *true* statements if they fail a subjective "public interest" test.[^14] It has been documented as the primary legal tool used to silence #MeToo survivors. The Sidus FNH threat against Gender Watchdog demonstrates the mechanism in active use.
 
@@ -395,9 +396,9 @@ So is the international community that claims to speak for them.
 
 [^40]: Dr. Scott Shepherd, *Korea Times*, "How much does K-pop cost?" (February 28, 2026). <a href="https://www.koreatimes.co.kr/opinion/20260228/how-much-does-k-pop-cost">https://www.koreatimes.co.kr/opinion/20260228/how-much-does-k-pop-cost</a>
 
-[^41]: *Variety*, "Korean Prosecutors to Reopen Actress Suicide Case" (2018). <a href="https://variety.com/2018/tv/asia/korea-prosecutors-to-reopen-actress-jang-ja-yeon-suicide-case-1202742137/">https://variety.com/2018/tv/asia/korea-prosecutors-to-reopen-actress-jang-ja-yeon-suicide-case-1202742137/</a>; Asian Junkie, "Ministry of Justice Investigative Team Gives Conclusions After Reinvestigation" (May 2019). <a href="https://www.asianjunkie.com/2019/05/21/ministry-of-justice-investigative-team-gives-conclusions-after-reinvestigation-into-jang-ja-yeons-case/">https://www.asianjunkie.com/2019/05/21/ministry-of-justice-investigative-team-gives-conclusions-after-reinvestigation-into-jang-ja-yeons-case/</a>; *Jang Ja-yeon* — Wikipedia. <a href="https://en.wikipedia.org/wiki/Jang_Ja-yeon">https://en.wikipedia.org/wiki/Jang_Ja-yeon</a>
+[^41]: Sources on the Jang Ja-yeon case: *Variety*, "Korean Prosecutors to Reopen Actress Suicide Case" (2018). <a href="https://variety.com/2018/tv/asia/korea-prosecutors-to-reopen-actress-jang-ja-yeon-suicide-case-1202742137/">https://variety.com/2018/tv/asia/korea-prosecutors-to-reopen-actress-jang-ja-yeon-suicide-case-1202742137/</a>; Asian Junkie, "Ministry of Justice Investigative Team Gives Conclusions After Reinvestigation" (May 2019). <a href="https://www.asianjunkie.com/2019/05/21/ministry-of-justice-investigative-team-gives-conclusions-after-reinvestigation-into-jang-ja-yeons-case/">https://www.asianjunkie.com/2019/05/21/ministry-of-justice-investigative-team-gives-conclusions-after-reinvestigation-into-jang-ja-yeons-case/</a>; *Jang Ja-yeon* — Wikipedia. <a href="https://en.wikipedia.org/wiki/Jang_Ja-yeon">https://en.wikipedia.org/wiki/Jang_Ja-yeon</a>
 
-[^42]: *Goo Hara* — Wikipedia. <a href="https://en.wikipedia.org/wiki/Goo_Hara">https://en.wikipedia.org/wiki/Goo_Hara</a>; *ABC News*, "Deaths of Goo Hara and Sulli highlight tremendous pressures of K-pop" (2019). <a href="https://abcnews.com/International/deaths-goo-hara-sulli-highlight-tremendous-pressures-pop/story?id=67303374">https://abcnews.com/International/deaths-goo-hara-sulli-highlight-tremendous-pressures-pop/story?id=67303374</a>
+[^42]: Sources on the 2019 deaths: *Goo Hara* — Wikipedia. <a href="https://en.wikipedia.org/wiki/Goo_Hara">https://en.wikipedia.org/wiki/Goo_Hara</a>; *ABC News*, "Deaths of Goo Hara and Sulli highlight tremendous pressures of K-pop" (2019). <a href="https://abcnews.com/International/deaths-goo-hara-sulli-highlight-tremendous-pressures-pop/story?id=67303374">https://abcnews.com/International/deaths-goo-hara-sulli-highlight-tremendous-pressures-pop/story?id=67303374</a>
 
 [^43]: *The Politic*, "Fallen Idols: Sexism and Suicide in the K-pop Industry." <a href="https://thepolitic.org/fallen-idols-sexism-and-suicide-in-the-k-pop-industry/">https://thepolitic.org/fallen-idols-sexism-and-suicide-in-the-k-pop-industry/</a>
 
