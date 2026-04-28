@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JIFF 2026: The Nations That Left and the Pattern They Left Behind (updated at 2026-04-23T19:38:39Z)"
+title: "JIFF 2026: The Nations That Left and the Pattern They Left Behind (updated at 2026-04-28T04:57:29Z)"
 date: 2026-04-22 00:00:00 +0000
 slug: jiff-2026-nations-that-left
 lang: en
@@ -444,4 +444,6 @@ April 1, 2025, to April 21, 2026
 
 [^45]: *Korea Times*, "Thriller *Climax* exposes power in entertainment shadows" (March 30, 2026). <a href="https://www.koreatimes.co.kr/entertainment/shows-dramas/20260330/thriller-climax-exposes-power-entertainment-shadows">https://www.koreatimes.co.kr/entertainment/shows-dramas/20260330/thriller-climax-exposes-power-entertainment-shadows</a> — Korean drama (ENA/Disney+) using the entertainment industry's sexual coercion infrastructure as its central plot engine; streaming on Disney+, Viu, and Rakuten Viki internationally.
 
-[^46]: *Korea Herald*, Moon Ki-hoon, "Jeonju film fest seeks volunteers as local films pack lineup" (February 10, 2025). <a href="https://www.koreaherald.com/article/10416420">https://www.koreaherald.com/article/10416420</a>
+[^46]: *Korea Herald*, Moon Ki-hoon, "Jeonju film fest seeks volunteers as local films pack lineup" (February 10, 2025). <a href="https://www.koreaherald.com/article/10416420">https://www.koreaherald.com/article/10416420</a> — JIFF's 26th edition recruited 400 volunteers across 12 departments; its Korean competition section highlights first- and second-time directors (165 entries in 2025).
+
+[^47]: *Gender Watchdog* — ESG email archive, July 11-13, 2025. .eml files: <a href="https://github.com/Gender-Watchdog/evidence_repository/tree/master/email-eml/film-festivals/jiff-2025/corporate">https://github.com/Gender-Watchdog/evidence_repository/tree/master/email-eml/film-festivals/jiff-2025/corporate</a> — Folders: hyundai/ (July 11 email to compliance@hyundai-europe.com, ksoe.esg@hd.com, hce.esg@hd.com), kia-lotte/ (July 13 emails — 1 Kia to chjc79@kia.com + csr@kia.com; 4 Lotte emails to 25+ addresses across Lotte Group), korean-air/ (July 13 email to KAL_ESG@koreanair.com, sh_report@koreanair.com, whistleblower@koreanair.com)
