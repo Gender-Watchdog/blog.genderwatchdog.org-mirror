@@ -1,6 +1,6 @@
 tua---
 layout: post
-title: "两份档案，两条清理轨迹：东国大学在韩欧研究峰会八天后清除了其电影学院教师名单（更新于 2026-04-04T01:29:53Z）"
+title: "两份档案，两条清理轨迹：东国大学在韩欧研究峰会八天后清除了其电影学院教师名单（更新于 2026-05-02T03:27:26Z）"
 date: 2026-04-01 00:00:00 +0000
 slug: dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026-zh-cn
 lang: zh-cn
@@ -55,9 +55,11 @@ gh_pages_url: https://blog.genderwatchdog.org/dongguk-faculty-purge-paper-facult
 
 自动文本变动分析将实际上三项独立的名单变动压缩为一次表面上的"档案修改"。将Visual Ping差异图与Wayback Machine存档（2025年7月25日存档为变更前，2026年4月1日存档为变更后）[^13]进行对比，方能精准还原全貌。这并非例行维护。
 
-<iframe src="https://visualping.io/diff/984971310?disableId=9yNDjbXqv0l6Dtn" title="dongguk-film-faculty-profiles-ko" height="1200" width="600" frameborder="0"></iframe>
+<iframe src="https://visualping.io/diff/984971310?disableId=9yNDjbXqv0l6Dtn" title="dongguk-film-faculty-profiles-ko" height="600" width="600" frameborder="0"></iframe>
 
 *互动式Visual Ping差异图：东国大学DIC教师页面，2026年4月1日。左右拖动中央竖向滑块以对比前后版本（红色=已删除，绿色=已新增）。*
+
+[打开完整互动对比 — 东国大学DIC教师页面2026年4月 1日前后](https://visualping.io/diff/984971310?disableId=9yNDjbXqv0l6Dtn)
 
 ---
 
@@ -122,7 +124,7 @@ Visual Ping的自动文本变动检测将此次修改标记为单一档案更改
 
 #### 象征性代表的保质期：为何이정현先被提升，后被移除
 
-在2026年4月被移除的九个月前，이정현曾是机构刻意提升的对象。2025年7月，Visual Ping捕捉到东国大学悄然升级了她的档案：她的办公室地址得到升级，学术范围从`영화이론비평`（电影理论批评）拓展至`영화학`（电影学），最重要的是——BK21项目标签被添加至她的研究领域列表中。[^19] 该档案变更未作任何公告。Gender Watchdog在第一时间将其标记为一种经过算计的"忠诚内部人"策略：她是东国大学内部培养的博士，持有연구초빙교수职位，既无终身教职保障，也无任何决策权，且在英文教师页面上根本不可见。档案提升足以改善国内形象，而其可控性足以在她带来不便时被随时移除。
+在2026年4月被移除的九个月前，이정현曾是机构刻意提升的对象。2025年7月，Visual Ping捕捉到东国大学悄然升级了她的档案：她的办公室地址得到升级，学术范围从`영화이론비평`（电影理论批评）拓展至`영화학`（电影学），最重要的是——BK21项目标签被添加至她的研究领域列表中。[^19] 2025年5月 3日的archive.md页面截图独立确认了强化前的基准状态：전공 분야列为`영화이론비평`，세부 연구분야为`OTT산업론`——不含BK21资质。[^21] 该档案变更未作任何公告。Gender Watchdog在第一时间将其标记为一种经过算计的"忠诚内部人"策略：她是东国大学内部培养的博士，持有연구초빙교수职位，既无终身教职保障，也无任何决策权，且在英文教师页面上根本不可见。档案提升足以改善国内形象，而其可控性足以在她带来不便时被随时移除。
 
 2025年7月的逻辑与2026年4月的逻辑并不矛盾。它们是同一套机构算计，在不同外部威胁条件下运作的产物：
 
@@ -142,6 +144,14 @@ Visual Ping的自动文本变动检测将此次修改标记为单一档案更改
 其替代者박매화，进一步证明了这一替换并非基于研究能力的人事决策。박매화不持任何BK21关联，与仍在任的손민영持有相同的`영상대학원`实践型资质，专业方向相同（`연출/시나리오`），研究领域相同（`OTT영상콘텐츠`）。该层级的重构并非为了提升研究深度，而是为了在维持该职位类别名义占位的最低人数的同时，移除其具有合规可读性的特征。
 
 이정현受保护，靠的不是忠诚，而是实用价值。当威胁矩阵从国内形象管理转向国际合规审查，实用价值变成了负债——她职位名称中内置的应急机制，按计划准时启动。
+
+#### 崔恩珍的移除：不同的变化轴线
+
+최은진没有BK21资质。解释이정현被移除的合规责任逻辑——一位立即引发GEP审计问题的政府研究关联研究人员——并不直接适用于她。她的移除需要单独说明。
+
+2026年4月的重组将`일반대학원 영화학`博士资质类型从연구초빙교수层级中完全消除。이정현和최은진都持有该资质：东国大学일반대학원电影学项目的内部博士，这是有别于`영상대학원`实践者通道的学术严格轨道。 4月 1日之后仍留任的两位研究초빙교수손민영和박매화均未持有该资质。该层级的资质档案在一次更新中从电影学学术研究（일반대학원电影学博士 × 2）转变为OTT实践者（영상대학원 PhD × 2）。BK21因移除이정현而消失，但结构性变化是整个层级的资质类型消除，而非针对某一BK21持有者的定向移除。
+
+최은진的移除是否源于同样的合规考量、与EU审计背景无关的人事因素，还是将整个层级整合为实践者档案的决定，仅凭公开记录无法确认。记录所显示的是：共享该层级中已不复存在的资质类型的两名教师，在同一天、韩欧研究峰会八天后同时被移除，且未作任何公开说明。
 
 ---
 
@@ -338,3 +348,5 @@ Rainer Wessely于3月19日的回复，是欧盟机构首次正式确认已收到
 [^19]: Gender Watchdog，"Visual Ping实时捕获东国大学的象征性代表操作：'忠诚内部人士'策略曝光"（2025年7月24日）。<a href="https://blog.genderwatchdog.org/visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed/">https://blog.genderwatchdog.org/visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed/</a>
 
 [^20]: 韩国检察官通知邮件，"제목: 형사 고발: 동국대학교의 국제 파트너십 위조, 공공 자금 오용 및 성폭력 은폐 혐의"（2025年5月21日）。<a href="https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/korean-prosecutor-outreach/%EC%A0%9C%EB%AA%A9_%20%ED%98%95%EC%82%AC%20%EA%B3%A0%EB%B0%9C_%20%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%EC%9D%98%20%EA%B5%AD%EC%A0%9C%20%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD%20%EC%9C%84%EC%A1%B0%2C%20%EA%B3%B5%EA%B3%B5%20%EC%9E%90%EA%B8%88%20%EC%98%A4%EC%9A%A9%20%EB%B0%8F%20%EC%84%B1%ED%8F%AD%EB%A0%A5%20%EC%9D%80%ED%8F%90%20%ED%98%90%EC%9D%98%202025-05-21T02_53_27-04_00.eml">https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/korean-prosecutor-outreach/%EC%A0%9C%EB%AA%A9_%20%ED%98%95%EC%82%AC%20%EA%B3%A0%EB%B0%9C_%20%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%EC%9D%98%20%EA%B5%AD%EC%A0%9C%20%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD%20%EC%9C%84%EC%A1%B0%2C%20%EA%B3%B5%EA%B3%B5%20%EC%9E%90%EA%B8%88%20%EC%98%A4%EC%9A%A9%20%EB%B0%8F%20%EC%84%B1%ED%8F%AD%EB%A0%A5%20%EC%9D%80%ED%8F%90%20%ED%98%90%EC%9D%98%202025-05-21T02_53_27-04_00.eml</a>
+
+[^21]: 东国大学DIC教师页面的archive.md截图（2025年5月3日）。이정현的전공 분야：`영화이론비평`；세부 연구분야：`OTT산업론`。强化前档案中无BK21资质。 <a href="https://archive.md/wBY91">https://archive.md/wBY91</a>

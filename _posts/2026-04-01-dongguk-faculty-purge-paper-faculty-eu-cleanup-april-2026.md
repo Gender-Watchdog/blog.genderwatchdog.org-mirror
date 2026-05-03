@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Profiles, Two Cleanup Tracks: Dongguk Scrubs Its Film Faculty Eight Days After the EU-Korea Research Summit (updated at 2026-04-04T01:29:53Z)"
+title: "Two Profiles, Two Cleanup Tracks: Dongguk Scrubs Its Film Faculty Eight Days After the EU-Korea Research Summit (updated at 2026-05-02T03:27:26Z)"
 date: 2026-04-01 00:00:00 +0000
 slug: dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026
 lang: en
@@ -55,9 +55,11 @@ The Dongguk University Graduate School of Digital Image &amp; Contents (동국�
 
 The automated text-change analysis compressed what are actually three distinct roster changes into a single apparent "profile modification." Cross-referencing the Visual Ping diff against the Wayback Machine archives of the faculty page — July 25, 2025 (pre-change) and April 1, 2026 (post-change)[^13] — makes the full picture precise. It is not routine maintenance.
 
-<iframe src="https://visualping.io/diff/984971310?disableId=9yNDjbXqv0l6Dtn" title="dongguk-film-faculty-profiles-ko" height="1200" width="600" frameborder="0"></iframe>
+<iframe src="https://visualping.io/diff/984971310?disableId=9yNDjbXqv0l6Dtn" title="dongguk-film-faculty-profiles-ko" height="600" width="600" frameborder="0"></iframe>
 
 *Interactive Visual Ping diff: Dongguk DIC faculty page, April 1, 2026. Drag the center vertical slider left and right to compare versions (Red = removed. Green = added).*
+
+[Open full interactive diff — Dongguk DIC faculty page before/after April 1, 2026](https://visualping.io/diff/984971310?disableId=9yNDjbXqv0l6Dtn)
 
 ---
 
@@ -122,7 +124,7 @@ On a day when an EU RTD compliance unit is actively reviewing whether Korean Hor
 
 #### The Shelf Life of Tokenism: Why 이정현 Was First Elevated, Then Removed
 
-Nine months before her April 2026 removal, 이정현 was the subject of deliberate institutional enhancement. In July 2025, Visual Ping caught Dongguk silently upgrading her profile: her office location was upgraded, her academic scope was broadened from `영화이론비평` (Film Theory Criticism) to `영화학` (Film Studies), and — most significantly — the BK21 Project label was added to her listed research areas.[^19] The profile change was not announced. Gender Watchdog flagged it in real time as a calculated "loyal insider" strategy: she was an internally-credentialed Dongguk PhD, holding a 연구초빙교수 position with no tenure security and no decision-making authority, invisible on the English-language faculty page. Enhanced enough to improve domestic optics. Controllable enough to be removed if she became inconvenient.
+Nine months before her April 2026 removal, 이정현 was the subject of deliberate institutional enhancement. In July 2025, Visual Ping caught Dongguk silently upgrading her profile: her office location was upgraded, her academic scope was broadened from `영화이론비평` (Film Theory Criticism) to `영화학` (Film Studies), and — most significantly — the BK21 Project label was added to her listed research areas.[^19] An archive.md capture of the faculty page from May 3, 2025, confirms the pre-enhancement baseline independently: 전공 분야 listed as `영화이론비평` and 세부 연구분야 as `OTT산업론` — with no BK21 credential present.[^21] The profile change was not announced. Gender Watchdog flagged it in real time as a calculated "loyal insider" strategy: she was an internally-credentialed Dongguk PhD, holding a 연구초빙교수 position with no tenure security and no decision-making authority, invisible on the English-language faculty page. Enhanced enough to improve domestic optics. Controllable enough to be removed if she became inconvenient.
 
 The July 2025 logic and the April 2026 logic are not contradictions. They are the same institutional calculus operating under different external threat conditions:
 
@@ -142,6 +144,14 @@ Three features made the April 2026 removal low-cost for the institution:
 Her replacement, 박매화, confirms the substitution was not a personnel decision driven by research fit. 박매화 holds no BK21 affiliation, holds the same `영상대학원` practitioner credential as the continuing 손민영, lists the identical specialty (`연출/시나리오`) and the identical research area (`OTT영상콘텐츠`). The tier was not restructured to improve its research depth. It was restructured to remove its compliance-legible features while maintaining the minimum headcount for the position category to appear nominally occupied.
 
 이정현 was not protected by loyalty. She was protected by utility. When the threat matrix shifted from domestic image management to international compliance scrutiny, utility became liability — and the contingency structure embedded in her position title executed on schedule.
+
+#### The Choi Removal: A Different Axis of Change
+
+최은진 held no BK21 credential. The compliance-liability logic that explains 이정현's removal — a government-research-affiliated researcher raising immediate GEP audit questions — does not apply to her directly. Her removal requires a separate account.
+
+The April 2026 restructuring eliminated the `일반대학원 영화학` PhD credential type from the 연구초빙교수 tier entirely. Both 이정현 and 최은진 held that credential: internal Dongguk PhDs from the regular graduate school's Film Studies program, the academically rigorous track distinct from the `영상대학원` practitioner pipeline. Neither 손민영 nor 박매화 — the two remaining research visiting professors after April 1 — holds it. The tier's credential profile was converted in a single update from academic film studies (일반대학원 Film Studies PhD × 2) to OTT practitioner (영상대학원 PhD × 2). BK21 disappears as a consequence of removing 이정현 specifically, but the structural change is credential-type elimination across the tier, not a targeted removal of one BK21 holder.
+
+Whether 최은진's removal was driven by the same compliance calculus, by personnel factors unrelated to the EU audit context, or by a decision to consolidate the entire tier around the practitioner profile cannot be established from public records alone. What the records show is that the two faculty members who shared a credential type that no longer exists in the tier were removed simultaneously, on the same day, eight days after the EU-Korea Research Summit, with no public explanation.
 
 ---
 
@@ -338,3 +348,5 @@ All were caught.
 [^19]: Gender Watchdog, "Visual Ping Catches Dongguk University in Real-Time Tokenism: The 'Loyal Insider' Strategy Exposed" (July 24, 2025). <a href="https://blog.genderwatchdog.org/visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed/">https://blog.genderwatchdog.org/visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed/</a>
 
 [^20]: Korean Prosecutors Notification Email, "제목: 형사 고발: 동국대학교의 국제 파트너십 위조, 공공 자금 오용 및 성폭력 은폐 혐의" (May 21, 2025). <a href="https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/korean-prosecutor-outreach/%EC%A0%9C%EB%AA%A9_%20%ED%98%95%EC%82%AC%20%EA%B3%A0%EB%B0%9C_%20%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%EC%9D%98%20%EA%B5%AD%EC%A0%9C%20%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD%20%EC%9C%84%EC%A1%B0%2C%20%EA%B3%B5%EA%B3%B5%20%EC%9E%90%EA%B8%88%20%EC%98%A4%EC%9A%A9%20%EB%B0%8F%20%EC%84%B1%ED%8F%AD%EB%A0%A5%20%EC%9D%80%ED%8F%90%20%ED%98%90%EC%9D%98%202025-05-21T02_53_27-04_00.eml">https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/korean-prosecutor-outreach/%EC%A0%9C%EB%AA%A9_%20%ED%98%95%EC%82%AC%20%EA%B3%A0%EB%B0%9C_%20%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%EC%9D%98%20%EA%B5%AD%EC%A0%9C%20%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD%20%EC%9C%84%EC%A1%B0%2C%20%EA%B3%B5%EA%B3%B5%20%EC%9E%90%EA%B8%88%20%EC%98%A4%EC%9A%A9%20%EB%B0%8F%20%EC%84%B1%ED%8F%AD%EB%A0%A5%20%EC%9D%80%ED%8F%90%20%ED%98%90%EC%9D%98%202025-05-21T02_53_27-04_00.eml</a>
+
+[^21]: archive.md capture of Dongguk University DIC faculty page (May 3, 2025). Lee 전공 분야: `영화이론비평`; 세부 연구분야: `OTT산업론`. No BK21 credential present in the pre-enhancement profile. <a href="https://archive.md/wBY91">https://archive.md/wBY91</a>
