@@ -1,24 +1,28 @@
 ---
 layout: post
-title: "JIFF 2026: The Nations That Left and the Pattern They Left Behind (updated at 2026-04-28T05:19:54Z)"
+title: "JIFF 2026: The Nations That Left and the Pattern They Left Behind (updated at 2026-05-10T01:59:42Z)"
 date: 2026-04-22 00:00:00 +0000
 slug: jiff-2026-nations-that-left
 lang: en
 tags: JIFF, Jeonju International Film Festival, Dongguk University, Sexual Violence, Canada, Japan, France, Australia, ATIP, Article 307, Film Industry, Korea, Diplomatic Withdrawal, KWDI, Ric Esther Bienstock
-meta_description: "Five Western governmental cultural bodies withdrew from JIFF 2026. They represent the exact four nations — Canada, Japan, France, Australia — that Gender Watchdog formally contacted about Korea's film education sexual violence crisis. The pattern is documented."
+meta_description: "Six Western governmental cultural bodies withdrew from JIFF 2026. They represent the exact four nations — Canada, Japan, France, Australia — that Gender Watchdog formally contacted about Korea's film education sexual violence crisis. The pattern is documented."
 bearblog_url: https://genderwatchdog.bearblog.dev/jiff-2026-the-nations-that-left-and-the-pattern-they-left-behind/
 gh_pages_url: https://blog.genderwatchdog.org/jiff-2026-nations-that-left/
 ---
 
-Jeonju International Film Festival opens April 29, 2026, with one number that matters: **five**.
+Jeonju International Film Festival opens April 29, 2026, with one number that matters: **six**.
 
-Five Western governmental cultural entities that co-signed JIFF's international legitimacy in 2025 are gone in 2026. Canada's federal wordmark. Québec's provincial office. Japan Foundation Seoul. Australia's Embassy. France's Embassy culture section. All absent — confirmed from the HTML of the festival's own partners page.[^1][^2]
+Six Western governmental cultural entities that co-signed JIFF's international legitimacy in 2025 are gone in 2026. Canada's federal wordmark. Québec's provincial office. Japan Foundation Seoul. Australia's Embassy. France's Embassy culture section. AC/E (Acción Cultural Española), Spain's Ministry of Culture international cultural action agency. All absent — confirmed from the HTML of the festival's own partners page.[^1][^2]
 
 The four nations those entities represent — Canada, Japan, France, Australia — are the exact four nations Gender Watchdog formally contacted, repeatedly and on the record, about the sexual violence crisis documented inside Korea's film education ecosystem. The nations GW did not contact at equivalent depth — Austria, Brazil, Spain, Peru — all stayed.
 
 That is not a coincidence. It is a pattern.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">JIFF 2026 opens April 29. One number: 5.<br><br>Five Western governmental cultural bodies withdrew this year. Every one of them had received our documentation of Korea&#39;s film education sexual violence crisis. None that hadn&#39;t received it withdrew.<br><br>Coincidence isn&#39;t the right word. 🧵… <a href="https://t.co/19amv8I3Ep">pic.twitter.com/19amv8I3Ep</a></p>&mdash; Gender Watchdog (@Gender_Watchdog) <a href="https://twitter.com/Gender_Watchdog/status/2047342762450952255?ref_src=twsrc%5Etfw">April 23, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*Correction (May 8, 2026): An earlier version of this post stated five Western governmental cultural bodies withdrew. The correct number is six — AC/E (Acción Cultural Española), Spain's Ministry of Culture international cultural action agency, was also absent. The body of this post has been updated accordingly.*
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Correction to this thread: we wrote &quot;five Western governmental cultural bodies&quot; withdrew.<br><br>It&#39;s six.<br><br>AC/E — Acción Cultural Española, Spain&#39;s Ministry of Culture international cultural action agency — is also absent from JIFF 2026.<br><br>The full six:<br>→ Canada (federal wordmark)<br>→… <a href="https://t.co/DrMIa1oztn">https://t.co/DrMIa1oztn</a></p>&mdash; Gender Watchdog (@Gender_Watchdog) <a href="https://twitter.com/Gender_Watchdog/status/2052562415670419487?ref_src=twsrc%5Etfw">May 8, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -40,7 +44,7 @@ On May 4, 2025 — four days after JIFF 2025 opened — a third email reached th
 
 ---
 
-## Five Withdrew. The HTML Confirms It.
+## Six Withdrew. The HTML Confirms It.
 
 The following entities are absent from JIFF 2026's Partners section — confirmed by HTML alt text on the Wayback Machine archive of the 2025 page versus the 2026 live capture:[^1][^2]
 
@@ -56,7 +60,7 @@ The entities that arrived to fill those positions: **Universal Pictures** (유�
 
 The substitution is structural. Government cultural diplomacy has been replaced by commercial content investment. JIFF's international standing in 2026 is no longer state-endorsed; it is commercially contracted.
 
-Budget cycles, government transitions, and routine JIFF restructuring could explain any individual departure. What they cannot explain is the directional pattern: five governmental cultural withdrawals, all from nations whose diplomatic channels received Gender Watchdog's documentation. Zero withdrawals from nations that did not.
+Budget cycles, government transitions, and routine JIFF restructuring could explain any individual departure. What they cannot explain is the directional pattern: six governmental cultural withdrawals, all from nations whose diplomatic channels received Gender Watchdog's documentation. Zero withdrawals from nations that did not.
 
 ---
 
