@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Caught on Monitor: The 24-Hour GEP Window, CMS Surgery, and Dongguk's Fake Partner Hub (updated at 2026-05-10T01:37:28Z)"
+title: "Caught on Monitor: The 24-Hour GEP Window, CMS Surgery, and Dongguk's Fake Partner Hub (updated at 2026-05-10T23:56:52Z)"
 date: 2026-05-09 00:00:00 +0000
 slug: dongguk-gep-24-hour-window-partner-page-orphaning-2026
 lang: en
 tags: Dongguk, GEP, evidence, monitoring, partner-pages, Horizon-Europe
 meta_description: "Monitoring software caught Dongguk University's Gender Equality Plan page live for less than 24 hours before being orphaned, and six continental partner page tabs simultaneously switched to a new CMS template — with three Canadian partners failing basic verification."
-bearblog_url: https://genderwatchdog.bearblog.dev/dongguk-gep-24-hour-window-partner-page-orphaning-2026/
+bearblog_url: https://genderwatchdog.bearblog.dev/caught-on-monitor-the-24-hour-gep-window-cms-surgery-and-dongguks-fake-partner-hub/
 gh_pages_url: https://blog.genderwatchdog.org/dongguk-gep-24-hour-window-partner-page-orphaning-2026/
 ---
 
@@ -127,29 +127,35 @@ Two applications of the orphaning technique since March 2026: the GEP page `/pag
 
 Monitoring software and third-party archives make that architecture visible. The evidence is now logged in six CSVs, three HTML captures, and one Megalodon archive. None of it can be retroactively altered.
 
-<div style="border: 2px solid #cc0000; padding: 16px; margin: 20px 0; background: #fff8f8; color: #000;">
-<strong style="color: #cc0000; font-size: 1.05em;">EIGHT ACTS. TWELVE MONTHS. ZERO INVESTIGATIONS.</strong>
-<div style="color: #000; margin-top: 12px; overflow-x: auto;">
-
-| Date | Act |
-|---|---|
-| May 27, 2025 | Sidus FNH legal threat demanding retraction of Gender Watchdog's sexual violence documentation |
-| July 24, 2025 | Female faculty profile (이정현) silently edited on department website — caught by Visual Ping as real-time tokenism |
-| After Jul 25, 2025 | 차승재 (Tcha Seung-jai) removed from Korean-language DIC faculty page — present in the July 25 Wayback archive, confirmed absent by September 23, 2025 |
-| December 2025 | GEP page itself confirms: "Dongguk established a GEP Task Force (TFT) under the Planning and Budget Office" — timed with GW's 34-partner fraud exposé[^2][^12] |
-| January 19, 2026 | "Panic Scrub" — UBC deleted, Toronto Metropolitan University reverted to dead name "Ryerson" — caught mid-act |
-| March 18, 2026 | GEP page (`/page/1173`) published on Dongguk website; Gender Watchdog briefs EU Delegation |
-| March 18, 2026 (23:17 KST) | GEP link appears in sitewide `About DU` nav — monitoring software confirms simultaneous change across all 6 partner pages |
-| March 19, 2026 | EU Delegation Counsellor Wessely forwards GEP compliance briefing to RTD units |
-| March 19, 2026 (12:58 JST) | Megalodon archives `/page/1173` — only externally timestamped capture inside the 24-hour window |
-| March 19, 2026 (23:17 KST) | GEP link removed from all 6 partner pages; `/page/1173` orphaned; `/page/1506` published with contact info removed |
-| March 24, 2026 | EU-Korea Research and Innovation Day, Four Seasons Hotel Seoul |
-| April 1, 2026 | Two female research faculty removed; BK21 credential dropped; senior male film professor transitioned to 명예교수 with all contact stripped — eight days after the summit |
-| May 1, 2026 | DC Inside (Dongguk gallery): JIFF Western government withdrawals published in Korean — domestic broadcast of institutional cost |
-| May 2, 2026 | DC Inside (Dongguk gallery): University president named as Horizon Europe compliance liability in Korean — audience: students, faculty, senate |
-| May 4, 2026 (23:28 KST) | All 6 partner page tabs replaced with new CMS; `/page/1543` operational — old partner lists orphaned |
-| **May 5, 2026** | **Gender Watchdog discovers GEP 24-hour window and partner page orphaning; `/page/1543` spot-checked: U Ottawa (0 results), TMU dead link, U Manitoba absent from own database** |
-
+<div style="border:2px solid #cc0000;padding:16px;margin:20px 0;background:#fff8f8;">
+<strong style="color:#cc0000;font-size:1.05em;">EIGHT ACTS. TWELVE MONTHS. ZERO INVESTIGATIONS.</strong>
+<div style="overflow-x:auto;margin-top:12px;">
+<table style="border-collapse:collapse;width:100%;font-size:0.9em;">
+<thead>
+<tr>
+<th style="background:#1a1a1a;color:#fff;padding:8px 12px;text-align:left;white-space:nowrap;">Date</th>
+<th style="background:#1a1a1a;color:#fff;padding:8px 12px;text-align:left;">Act</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">May 27, 2025</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">Sidus FNH legal threat demanding retraction of Gender Watchdog's sexual violence documentation</td></tr>
+<tr style="background:#fafafa;"><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">July 24, 2025</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">Female faculty profile (이정현) silently edited on department website — caught by monitoring software as real-time tokenism</td></tr>
+<tr><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">After Jul 25, 2025</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">차승재 (Tcha Seung-jai) removed from Korean-language DIC faculty page — present in the July 25 Wayback archive, confirmed absent by September 23, 2025</td></tr>
+<tr style="background:#fafafa;"><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">December 2025</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">GEP page itself confirms: "Dongguk established a GEP Task Force (TFT) under the Planning and Budget Office" — timed with GW's 34-partner fraud exposé<sup><a href="#fn2" style="color:#cc0000;">2</a></sup><sup><a href="#fn12" style="color:#cc0000;">12</a></sup></td></tr>
+<tr><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">January 19, 2026</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">"Panic Scrub" — UBC deleted, Toronto Metropolitan University reverted to dead name "Ryerson" — caught mid-act</td></tr>
+<tr style="background:#fafafa;"><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">March 18, 2026</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">GEP page (<code>/page/1173</code>) published on Dongguk website; Gender Watchdog briefs EU Delegation</td></tr>
+<tr><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">March 18, 2026 (23:17 KST)</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">GEP link appears in sitewide <code>About DU</code> nav — monitoring software confirms simultaneous change across all 6 partner pages</td></tr>
+<tr style="background:#fafafa;"><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">March 19, 2026</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">EU Delegation Counsellor Wessely forwards GEP compliance briefing to RTD units</td></tr>
+<tr><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">March 19, 2026 (12:58 JST)</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">Megalodon archives <code>/page/1173</code> — only externally timestamped capture inside the 24-hour window</td></tr>
+<tr style="background:#fafafa;"><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">March 19, 2026 (23:17 KST)</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">GEP link removed from all 6 partner pages; <code>/page/1173</code> orphaned; <code>/page/1506</code> published with contact info removed</td></tr>
+<tr><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">March 24, 2026</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">EU-Korea Research and Innovation Day, Four Seasons Hotel Seoul</td></tr>
+<tr style="background:#fafafa;"><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">April 1, 2026</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">Two female research faculty removed; BK21 credential dropped; senior male film professor transitioned to 명예교수 with all contact stripped — eight days after the summit</td></tr>
+<tr><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">May 1, 2026</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">DC Inside (Dongguk gallery): JIFF Western government withdrawals published in Korean — domestic broadcast of institutional cost</td></tr>
+<tr style="background:#fafafa;"><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">May 2, 2026</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">DC Inside (Dongguk gallery): University president named as Horizon Europe compliance liability in Korean — audience: students, faculty, senate</td></tr>
+<tr><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">May 4, 2026 (23:28 KST)</td><td style="color:#000;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">All 6 partner page tabs replaced with new CMS; <code>/page/1543</code> operational — old partner lists orphaned</td></tr>
+<tr style="background:#fff3f3;"><td style="color:#cc0000;font-weight:bold;padding:7px 12px;border-bottom:1px solid #e0e0e0;white-space:nowrap;vertical-align:top;">May 5, 2026</td><td style="color:#cc0000;font-weight:bold;padding:7px 12px;border-bottom:1px solid #e0e0e0;vertical-align:top;">Gender Watchdog discovers GEP 24-hour window and partner page orphaning; <code>/page/1543</code> spot-checked: U Ottawa (0 results), TMU dead link, absent from U of Manitoba database</td></tr>
+</tbody>
+</table>
 </div>
 </div>
 
