@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Two Sailors, One Question DND Cannot Answer: The Selection Criteria That Implicate Canada's Armed Forces Law (updated at 2026-04-13T04:59:53Z)"
+title: "Two Sailors, One Question DND Cannot Answer: The Selection Criteria That Implicate Canada's Armed Forces Law (updated at 2026-05-20T04:44:53Z)"
 date: 2026-04-11 00:00:00 +0000
 slug: rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip
 lang: en
 tags: Canada, Korea, RCN, Military, LGBTQ, Article 92-6, ATIP, Access to Information, CPSP, Esquimalt, Human Rights
 meta_description: "Two Royal Canadian Navy submariners are currently embedded aboard a Korean naval vessel governed by Article 92-6, which criminalizes same-sex conduct. DND cannot answer how they were selected without confirming either discriminatory screening or a duty-of-care failure."
-bearblog_url: https://genderwatchdog.bearblog.dev/rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip/
+bearblog_url: https://genderwatchdog.bearblog.dev/two-sailors-one-question-dnd-cannot-answer-the-selection-criteria-that-implicate-canadas-armed-forces-law/?token=7581a4d5b1
 gh_pages_url: https://blog.genderwatchdog.org/rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip/
 ---
 
@@ -235,6 +235,28 @@ Severance/duty to assist: Please sever and release all non-exempt information (s
 
 ---
 
+## Update — May 19, 2026
+
+**ATIP Non-Compliance: Two Statutory Deadlines Missed**
+
+The 30-day response deadline for EA2026_0167922 (Article 92-6 / CAF LGBTQ+ policy conflict) and EA2026_0167940 (RCN sailor selection criteria) passed approximately May 11, 2026, without a response from the Department of National Defence. Both requests are now non-compliant under the *Access to Information Act*. A formal complaint has been filed with the Office of the Information Commissioner of Canada.
+
+**Women's Selection ATIP — Clock Reset Past Exercise Date**
+
+A fifth request, EA2026_0169288, filed April 19, 2026, asked DND for records on female sailor selection criteria for this deployment. On May 13, DND's DAIP officer proposed an amendment to the scope of the request. The amendment was conditionally accepted May 14. The statutory clock reset to approximately June 13, 2026 — approximately three weeks after the ROKS Dosan Ahn Chang-ho is expected to dock at CFB Esquimalt. The one ATIP that asks whether women were considered or excluded from this posting no longer falls before the event it was meant to inform.
+
+**Canada-Korea Military Exercises Begin May 23**
+
+The Canada-Korea joint exercises commence May 23, 2026. Two of four original 30-day ATIP deadlines have expired without response. A third was administratively reset to June. All questions filed on April 11–12 remain unanswered.
+
+**What the Korean Military's Institutional Record Shows**
+
+The stakes of those unanswered questions extend beyond Article 92-6. In October 2021, fifteen people were charged in connection with the death of a South Korean air force officer who alleged sexual assault by a male colleague. Investigators found that superior officers tried to cover up the incident and pressure her into a private settlement. The air force chief resigned. In a parallel case decided the same month, a Seoul court ruled that Staff Sergeant Byun Hee-soo — South Korea's first openly transgender soldier — had been unlawfully discharged; the military's classification of her gender reassignment surgery as a disability was ruled highly discriminatory. Byun Hee-soo died in March 2021.[^10]
+
+These are not isolated incidents. They are the documented command culture of the same institution whose criminal statute Canada has not formally addressed on paper before deploying its own personnel under its jurisdiction.
+
+---
+
 ## Sources
 
 [^1]: *Korea Times*, "Korean sub to make trans-Pacific journey for joint drills with Canada amid major bid" (March 25, 2026). <a href="https://www.koreatimes.co.kr/southkorea/defense/20260325/korean-sub-to-make-trans-pacific-journey-for-joint-drills-with-canada-amid-major-bid">https://www.koreatimes.co.kr/southkorea/defense/20260325/korean-sub-to-make-trans-pacific-journey-for-joint-drills-with-canada-amid-major-bid</a>
@@ -254,3 +276,5 @@ Severance/duty to assist: Please sever and release all non-exempt information (s
 [^8]: *Office of the Auditor General of Canada*, "Report 10 — Industrial and Technological Benefits," *Fall 2024 Reports of the Auditor General of Canada* (December 2024). <a href="https://www.canada.ca/en/auditor-general/our-work/audit-reports/parl-oag-202412-10-e.html">https://www.canada.ca/en/auditor-general/our-work/audit-reports/parl-oag-202412-10-e.html</a>
 
 [^9]: *Amnesty International*, "South Korea: Serving in Silence: LGBTI People in South Korea's Military," Index ASA 25/0529/2019 (July 11, 2019). Documents the 2017 witch hunt: soldiers identified via dating apps, prosecuted under Article 92-6, subjected to forced sexual acts as punishment, beaten and subjected to violence and isolation; at least 4 documented suicide attempts. <a href="https://www.amnesty.org/en/documents/asa25/0529/2019/en/">https://www.amnesty.org/en/documents/asa25/0529/2019/en/</a>
+
+[^10]: *BBC News*, "South Korean air force officer's death sees 15 people charged" (October 7, 2021). Fifteen charged; air force chief resigned; Seoul court ruled Staff Sgt Byun Hee-soo (South Korea's first transgender soldier) unlawfully dismissed — military's classification of gender reassignment surgery as a disability ruled highly discriminatory. Byun Hee-soo died March 2021. <a href="https://www.bbc.com/news/world-asia-58828258">https://www.bbc.com/news/world-asia-58828258</a>
