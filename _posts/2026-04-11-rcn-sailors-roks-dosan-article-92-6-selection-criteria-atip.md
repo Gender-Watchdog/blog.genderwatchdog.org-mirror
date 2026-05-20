@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Sailors, One Question DND Cannot Answer: The Selection Criteria That Implicate Canada's Armed Forces Law (updated at 2026-05-20T04:44:53Z)"
+title: "Two Sailors, One Question DND Cannot Answer: The Selection Criteria That Implicate Canada's Armed Forces Law (updated at 2026-05-20T20:21:28Z)"
 date: 2026-04-11 00:00:00 +0000
 slug: rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip
 lang: en
@@ -239,7 +239,9 @@ Severance/duty to assist: Please sever and release all non-exempt information (s
 
 **ATIP Non-Compliance: Two Statutory Deadlines Missed**
 
-The 30-day response deadline for EA2026_0167922 (Article 92-6 / CAF LGBTQ+ policy conflict) and EA2026_0167940 (RCN sailor selection criteria) passed approximately May 11, 2026, without a response from the Department of National Defence. Both requests are now non-compliant under the *Access to Information Act*. A formal complaint has been filed with the Office of the Information Commissioner of Canada.
+The 30-day response deadline for EA2026_0167922 (Article 92-6 / CAF LGBTQ+ policy conflict) and EA2026_0167940 (RCN sailor selection criteria) passed approximately May 11, 2026, without a response from the Department of National Defence. Both requests are now non-compliant under the *Access to Information Act*. A formal complaint was filed with the Office of the Information Commissioner of Canada on May 14, 2026.
+
+On May 20, 2026, the Information Commissioner of Canada issued formal Section 32 notices to National Defence for both requests — OIC files 5826-01015 (EA2026_0167922 / A-2026-00129) and 5826-01016 (EA2026_0167940 / A-2026-00130) — formally opening investigations. National Defence is now legally required to preserve all records relating to these requests until the investigation and any subsequent legal proceedings are complete. The Section 32 investigation notices are published in the Gender Watchdog evidence repository: <a href="https://github.com/Gender-Watchdog/evidence_repository/tree/master/email-eml/canada-defence-hanwha-submarines/oic-complaints">https://github.com/Gender-Watchdog/evidence_repository/tree/master/email-eml/canada-defence-hanwha-submarines/oic-complaints</a>
 
 **Women's Selection ATIP — Clock Reset Past Exercise Date**
 
