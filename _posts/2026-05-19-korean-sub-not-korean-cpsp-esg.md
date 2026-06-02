@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Korean Submarine That Isn't: How Hanwha's CPSP Bid Routes ESG Risk Through Seoul (updated at 2026-05-25T18:22:01Z)"
+title: "The Korean Submarine That Isn't: How Hanwha's CPSP Bid Routes ESG Risk Through Seoul (updated at 2026-05-28T18:33:30Z)"
 date: 2026-05-19 00:00:00 +0000
 slug: korean-sub-not-korean-cpsp-esg
 lang: en
@@ -191,6 +191,14 @@ On May 21, 2026 — the day @HanwhaCanada posted about the ROKS Dosan Ahn Chang-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A company bidding for a $24B contract to supply Canada&#39;s submarine fleet doesn&#39;t block a small advocacy account by accident. Someone flagged us internally as a threat — on the day ROKS Dosan Ahn Chang-ho docks at CFB Esquimalt.<br><br>The block is now part of the record. The timing… <a href="https://t.co/MmXyRcPKI5">https://t.co/MmXyRcPKI5</a> <a href="https://t.co/IWGdABNSpf">pic.twitter.com/IWGdABNSpf</a></p>&mdash; Gender Watchdog (@Gender_Watchdog) <a href="https://twitter.com/Gender_Watchdog/status/2058326099382477062?ref_src=twsrc%5Etfw">May 23, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+---
+
+## Update — May 26–28, 2026
+
+On May 26 — the same day ROKS Dosan docked at Esquimalt — Korea's Ministry of National Defense published its first formal nuclear submarine roadmap, the Jangbogo N project, targeting a mid-2030s launch. On May 28, Korea's Industry Minister held a press conference where he publicly confirmed that Canada's own Industry Minister told him their meeting "shouldn't be happening" due to a procurement fairness concern, acknowledged that Canada "could make a strategic decision in favor of its long-standing European partner," and forecast \$900 billion in Korean exports as narrative infrastructure ahead of the June procurement announcement. The capital market context: the Korean won has closed above 1,500 on 19 trading days this year — surpassing global financial crisis levels — while Korea's BIS real effective exchange rate fell to its lowest point since March 2009, and 84% of Korean listed companies are flat or posting losses despite the KOSPI headline rally.
+
+A companion post examines what these three simultaneous signals — the nuclear pivot, the bond market, and the minister's unguarded admissions — reveal about the long-term institutional bet Canada is being asked to make: <a href="https://blog.genderwatchdog.org/cpsp-bond-not-stock-korea-nuclear-pivot/">https://blog.genderwatchdog.org/cpsp-bond-not-stock-korea-nuclear-pivot/</a>
 
 ---
 
