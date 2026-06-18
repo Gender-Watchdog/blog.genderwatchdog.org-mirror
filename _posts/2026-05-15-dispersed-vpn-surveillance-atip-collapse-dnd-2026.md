@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "They Were Watching. Then We Filed the ATIP. Then They Switched to GitHub. (updated at 2026-05-15T17:30:05Z)"
+title: "They Were Watching. Then We Filed the ATIP. Then They Switched to GitHub. (updated at 2026-06-18T19:43:22Z)"
 date: 2026-05-15 00:00:00 +0000
 slug: dispersed-vpn-surveillance-atip-collapse-dnd-2026
 lang: en
@@ -481,6 +481,43 @@ Important limitations:
 
 ---
 
+## Update — June 18, 2026: Full Traffic-Tracker Archive Published — The Numbers Across 12 Weeks
+
+As of June 18, 2026, the complete Fathom Analytics vs. GitHub clone comparison dataset — spanning **March 24 through June 18, 2026** — is archived in 2-week intervals on GitHub.[^11] Each period folder contains a `public_report.html` with metrics tables, raw Fathom data exports, GitHub clone/view counts, and four standardised comparison charts. The numbers below are drawn directly from those reports.
+
+**Traffic-tracker repository:** <a href="https://github.com/Gender-Watchdog/evidence_repository/tree/master/traffic-tracker/canada-pspc-submarine-procurement-fathom-vs-github">https://github.com/Gender-Watchdog/evidence_repository/tree/master/traffic-tracker/canada-pspc-submarine-procurement-fathom-vs-github</a>
+
+### The 12-Week Arc in Six Periods
+
+| Period | GitHub Clones | Unique Cloners | Clone × | Web Visits | Key Event |
+|--------|:------------:|:--------------:|:-------:|:----------:|-----------|
+| Mar 24–Apr 7 | **510** | 305 | 1.67× | **485** | Dispersed-country wind-down, Easter silence |
+| Apr 7–26 | **1,003** | 580 | 1.73× | **318** | ATIP filed Apr 11–12 — web collapses 34% |
+| Apr 26–May 14 | **858** | 390 | 2.20× | **176** | DND non-response, OIC filed May 13 |
+| May 14–Jun 2 | **593** | 316 | 1.88× | **150** | ROKS Dosan at Esquimalt, Hanwha Canada blocks GW |
+| Jun 2–10 | **470** | 195 | **2.41×** | **35** | Daejeon explosion, CEO booked — highest clone multiplier |
+| Jun 10–18 | **257** | 119 | 2.16× | **35** | PSPC release contradicts DND NIL, OIC filed |
+
+**The headline: web visits dropped 93% (485 → 35) while the clone multiplier rose from 1.67× to 2.16× and peaked at 2.41× during the Daejeon crisis week.**
+
+### What the Multiplier Means
+
+A clone multiplier of 2.41× means the same institutional actors — 195 unique cloners generating 470 clone events — are returning to pull repositories an average of 2.4 times each in a single 9-day window. This is not discovery behaviour. It is persistent, returning institutional monitoring through the only channel the actors believe is invisible.
+
+### The evidence_repository Flip (Period 5)
+
+In Period 5 (June 2–10) — the week of the Daejeon explosion and companywide shutdown — `evidence_repository` overtook `metoo2025_dashboard` as the #1 cloned repository for the first time in the entire tracking series: **172 clones from 59 unique cloners, a 2.92× multiplier**. The `blog.genderwatchdog.org-mirror` followed at 2.68× (158 clones, 59 unique). The three top repos — evidence, blog mirror, dashboard — each recorded exactly 59 unique cloners, suggesting a single actor pool of approximately 60 institutions or teams rotating across all three repositories.
+
+This is the repository where ATIP response letters, PSPC release packages, OIC complaint forms, and the full correspondence record are published. The monitoring shifted to the evidence layer at precisely the moment the evidence layer became the most consequential part of the record — the Daejeon fatalities, the criminal booking of Hanwha Aerospace's CEO, and the company's first all-plant shutdown in corporate history.
+
+### The Clone-Only Monitoring Regime
+
+Periods 5 and 6 tell the same story with different intensity: web visits flatlined at **35 per period** — roughly 4 visits per day across 8 websites. Clone events ran at **470 and 257** respectively, with multipliers at 2.41× and 2.16×. The institutional monitoring has not stopped. It has completed its migration to a channel the actors appear to believe leaves no trace.
+
+Every period folder contains the four standardised charts — clone multiplier by repo, web vs. clone unique-actor comparison, engagement depth, and daily clone-vs-web trend — plus the raw JSON. The full archive is the evidentiary record that the pattern documented in the original May 15 post did not end when that post was published. It continued, adapted, and intensified across every major CPSP campaign event through the present.
+
+---
+
 ## Sources
 
 [^1]: Gender Watchdog, X.com thread (August 27, 2025). <a href="https://x.com/Gender_Watchdog/status/1960722731529593132">https://x.com/Gender_Watchdog/status/1960722731529593132</a>
@@ -493,3 +530,5 @@ Important limitations:
 [^8]: *Access to Information Act*, R.S.C. 1985, c. A-1 (Canada). <a href="https://laws-lois.justice.gc.ca/eng/acts/A-1/">https://laws-lois.justice.gc.ca/eng/acts/A-1/</a>
 [^9]: Office of the Information Commissioner of Canada. <a href="https://www.oic-ci.gc.ca/">https://www.oic-ci.gc.ca/</a>
 [^10]: Evidence of DND non-response to ATIP filing verified via Gender Watchdog's active ATIP portal records as of May 13, 2026. <a href="https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/canada-korea-military-lgbt-human-rights/atip-no-response-lgbt-human-rights/atip-requests-dashboard-20260514.png?raw=true">https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/canada-korea-military-lgbt-human-rights/atip-no-response-lgbt-human-rights/atip-requests-dashboard-20260514.png?raw=true</a>
+
+[^11]: Gender Watchdog, Traffic-Tracker Archive — Canada CPSP Submarine Procurement: Fathom Analytics vs. GitHub Clones (March 24 – June 18, 2026). Full dataset in 2-week intervals: <a href="https://github.com/Gender-Watchdog/evidence_repository/tree/master/traffic-tracker/canada-pspc-submarine-procurement-fathom-vs-github">https://github.com/Gender-Watchdog/evidence_repository/tree/master/traffic-tracker/canada-pspc-submarine-procurement-fathom-vs-github</a>
