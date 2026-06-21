@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Canada Shows Asia: The Whitened Embassy (updated at 2026-06-21T19:54:51Z)"
+title: "What Canada Shows Asia: The Whitened Embassy (updated at 2026-06-21T20:02:01Z)"
 date: 2026-06-21 00:00:00 +0000
 slug: canada-to-asia-the-whitened-embassy
 lang: en
@@ -17,7 +17,7 @@ Global Affairs Canada (GAC) runs Canada's embassies in Seoul, Tokyo, and Beijing
 
 The architecture documented here — an all-white ambassador corps to Northeast Asia across 60+ years, a diversity panel marketed with a legally defined title its participants do not hold, a human rights defender framework that evaporated on contact when tested, and an embassy that deflected citizen reports of child sex abuse across two different decades — is not a collection of separate failures. It is one mechanism.
 
-A companion post examines the broader federal architecture: GAC's Anti-racism Secretariat — eight members, zero East Asian; searching "residential schools" on GAC's website returns a diplomat's pay table as its first result; reaching Indigenous rights content from an embassy page requires five clicks; and field verification confirmed no embassy in Seoul, Tokyo, or Beijing displays any material addressing anti-Asian racism or the residential school history.[^1]
+A companion post examines a parallel pattern in the same federal architecture — GAC's Anti-racism Secretariat: eight members, zero East Asian; searching "residential schools" on GAC's website returns a diplomat's pay table as its first result; reaching Indigenous rights content from an embassy page requires five clicks; and field verification confirmed no embassy in Seoul, Tokyo, or Beijing displays any material addressing anti-Asian racism or the residential school history.[^1]
 
 ---
 
@@ -152,9 +152,9 @@ Six structural outcomes of the same institutional culture:
 
 1.  **The faceless Asian male.** A BC Government consent poster distributed to 25 post-secondary institutions codes an Asian male as a suspect from the moment of conversation — the only non-contact pairing in a six-poster set — while documented white-male-perpetrator violence against Asian women in BC is erased from the frame.[^1]
 
-2.  **The anti-racism body with no East Asians.** GAC's eight-member Anti-racism Secretariat, established in response to George Floyd and Joyce Echaquan, has zero East Asian or Southeast Asian members.
+2.  **The anti-racism body with no East Asians.** GAC's eight-member Anti-racism Secretariat, established in response to George Floyd and Joyce Echaquan, has zero East Asian or Southeast Asian members.[^1]
 
-3.  **The genocide behind a pay table.** Searching "residential schools" on GAC's website returns a Technical Assistance Handbook page with "Residential school in Canada" as a diplomat's allowance heading — CAD 74,230.00 — with no reference to the residential school genocide or the Truth and Reconciliation Commission.
+3.  **The genocide behind a pay table.** Searching "residential schools" on GAC's website returns a Technical Assistance Handbook page with "Residential school in Canada" as a diplomat's allowance heading — CAD 74,230.00 — with no reference to the residential school genocide or the Truth and Reconciliation Commission.[^1]
 
 4.  **The all-white ambassador corps.** Every Canadian ambassador to South Korea, China, and Japan across 60+ years has been of European descent — while the US cycles Korean-Americans through the Korea chair and Canada diversifies Southeast Asian posts but not Northeast Asian ones.
 
