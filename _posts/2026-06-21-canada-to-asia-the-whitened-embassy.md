@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Canada Shows Asia: The Whitened Embassy (updated at 2026-06-22T14:23:38Z)"
+title: "What Canada Shows Asia: The Whitened Embassy (updated at 2026-06-22T17:09:54Z)"
 date: 2026-06-21 00:00:00 +0000
 slug: canada-to-asia-the-whitened-embassy
 lang: en
@@ -156,7 +156,7 @@ GAC has the policy, the staff, the budget, the 80-page multi-language framework,
 
 Three gaps in the Voices at Risk Guidelines deserve specific documentation — because they map directly onto the institutional behaviour GW encountered.
 
-**The East Asia gap.** GAC's §3.8 lists regional human rights mechanisms for Africa, the Americas, Asia (ASEAN), Europe, the Middle East, and the OSCE. Northeast Asia — Korea, Japan, China — has no regional human rights mechanism listed. The "Asia" entry points to ASEAN, which covers Southeast Asia, not the three Northeast Asian capitals where Canada maintains its most strategically important embassies. This structural gap in GAC's own framework makes bilateral embassy engagement *more* important — it is the only channel available. And Canada is not using it.
+**The East Asia gap.** GAC's §3.8 lists regional human rights mechanisms for Africa, the Americas, Asia (ASEAN), Europe, the Middle East, and the OSCE. Northeast Asia — the region containing South Korea and other major Canadian trading partners — has no regional human rights mechanism listed. The "Asia" entry points to ASEAN, which covers Southeast Asia, not the Northeast Asian capitals where Canada maintains its most strategically important embassies. This structural gap in GAC's own framework makes bilateral embassy engagement *more* important — it is the only channel available for Korea. And Canada is not using it.
 
 **The trade blind spot.** GAC's §3.12 instructs missions to promote responsible business conduct with host governments and companies — the OECD Guidelines, the UN Guiding Principles, the Voluntary Principles on Security and Human Rights. Missions can "organize, sponsor or participate in public events" to promote these standards. §5 states that "human rights issues will figure regularly and prominently in political and economic, development and trade initiatives."
 
