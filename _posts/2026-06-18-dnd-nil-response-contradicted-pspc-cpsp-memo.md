@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DND Said No Records Exist. PSPC Released One DND Co-Authored."
+title: "DND Said No Records Exist. PSPC Released One DND Co-Authored. (updated at 2026-06-27T05:55:57Z)"
 date: 2026-06-18 00:00:00 +0000
 slug: dnd-nil-response-contradicted-pspc-cpsp-memo
 lang: en
@@ -144,6 +144,27 @@ Gender Watchdog documents institutional accountability failures. This is one of 
 
 ---
 
+## Update — June 22–26, 2026: OIC Opens Formal Investigations
+
+On June 22 and June 26, 2026, the Office of the Information Commissioner issued section 32 notices confirming formal investigations into both complaints filed June 17.[^8][^9]
+
+**A-2026-00200 — Deemed refusal (OIC file 5826-01709):** The Commissioner confirmed DND "did not respond to the above-noted access request(s) within the 30-day or extended period, as required by section 7."[^8] The allegation falls under paragraph 30(1)(a). DND obtained a clock restart via amendment on May 14, 2026, with a new deadline of approximately June 13. That deadline passed. No response. No extension notice. The Commissioner is now investigating.
+
+**A-2026-00128 — Inadequate search and improper NIL claim (OIC file 5826-01708):** The Commissioner confirmed investigation into two specific allegations: that DND "did not search for the records requested and/or that additional records that are responsive to the above-noted access request(s) must exist," and that DND "improperly responded that some or all of the records requested in the above-noted access request(s) do not exist."[^9] Both allegations fall under paragraph 30(1)(a). This is the investigation that directly validates the central contradiction documented in this post: DND claimed no CPSP evaluation records exist. PSPC released one DND co-authored. The Information Commissioner is now formally examining whether DND's search was "thorough and complete" as represented.
+
+**Status of all four DND CPSP files as of June 26:**
+
+| File | Subject | DND Action | OIC Status |
+|------|---------|------------|------------|
+| A-2026-00128 | CPSP procurement governance | NIL — contradicted by PSPC evidence | s.32 investigation active — inadequate search + improper NIL |
+| A-2026-00129 | Article 92-6 / CAF LGBTQ+ policy | Deemed refusal | s.32 investigation active since May 20, 2026 |
+| A-2026-00130 | RCN sailor selection criteria | Deemed refusal | s.32 investigation active since May 20, 2026 |
+| A-2026-00200 | RCN female sailor selection | Deemed refusal | s.32 investigation active — failure to respond |
+
+Four OIC investigations. All four confirmed by section 32 notices. Four CPSP access requests. Four DND failures. One consistent pattern — documented, sourced, and now under formal investigation by Canada's independent Information Commissioner.
+
+---
+
 ## Sources
 
 [^1]: Department of National Defence, NIL Response Letter — File A-2026-00128 (May 11, 2026). Signed by Shannon Clark Larkin, Executive Director, Access to Information and Privacy. Screenshots: <a href="https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/canada-korea-military-lgbt-human-rights/atip-responses/A-2026-00128/NIL-response-letter-A-2026-00128-1.png?raw=true">https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/canada-korea-military-lgbt-human-rights/atip-responses/A-2026-00128/NIL-response-letter-A-2026-00128-1.png?raw=true</a>, <a href="https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/canada-korea-military-lgbt-human-rights/atip-responses/A-2026-00128/NIL-response-letter-A-2026-00128-2.png?raw=true">https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/canada-korea-military-lgbt-human-rights/atip-responses/A-2026-00128/NIL-response-letter-A-2026-00128-2.png?raw=true</a>
@@ -159,3 +180,5 @@ Gender Watchdog documents institutional accountability failures. This is one of 
 [^6]: Gender Watchdog, "Criminalizing the Crew: Korea's Article 92-6, Canada's Armed Forces Law, and the Conflict Arriving at Esquimalt" (April 5, 2026). <a href="https://blog.genderwatchdog.org/korea-military-article-92-6-canada-cpsp-lgbtq-conflict-esquimalt/">https://blog.genderwatchdog.org/korea-military-article-92-6-canada-cpsp-lgbtq-conflict-esquimalt/</a>
 
 [^7]: Gender Watchdog, "Two Sailors, One Question DND Cannot Answer" (April 11, 2026). <a href="https://blog.genderwatchdog.org/rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip/">https://blog.genderwatchdog.org/rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip/</a>
+[^8]: Office of the Information Commissioner of Canada, s.32 Notice of Intention to Investigate — A-2026-00200, OIC file 5826-01709 (June 22, 2026). Allegation: DND did not respond within the 30-day or extended period as required by s.7 of the *Access to Information Act*.
+[^9]: Office of the Information Commissioner of Canada, s.32 Notice of Intention to Investigate — A-2026-00128, OIC file 5826-01708 (June 26, 2026). Two allegations: (1) DND did not search for requested records and/or additional responsive records must exist; (2) DND improperly responded that records do not exist.
