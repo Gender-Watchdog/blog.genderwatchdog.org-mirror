@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Sexual Violence Case at Dongguk University: \"Your Voice is Sex-Appealing\" – Professor F's Abuse and the 4-Month Institutional Silence"
+title: "New Sexual Violence Case at Dongguk University: \"Your Voice is Sex-Appealing\" – Professor F's Abuse and the 4-Month Institutional Silence (updated at 2026-06-30T18:22:25Z)"
 slug: "new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence"
 date: 2025-12-03T00:00:00+00:00
 lang: en
@@ -69,11 +69,21 @@ The case has sparked outrage not just on campus but across the international stu
 
 This sentiment echoes the exact mission of our advocacy: silence is not neutral; it is an active component of the abuse.
 
+## June 2026 Update: Dismissal Confirmed — After a Second Audit
+
+On June 16, 2026 — seven months after the Human Rights Center confirmed violations and students first went public — Dongguk University's faculty disciplinary committee voted to dismiss the Cultural Heritage professor. The dismissal took effect June 22.⁹
+
+This outcome followed a path that confirms the argument made in this post: the December 2025 disciplinary committee's initial ruling was a **3-month unpaid suspension** — the outcome students publicly protested as insufficient. Only after the university conducted a **special audit and re-interviewed students** did it conclude the misconduct was serious enough to warrant dismissal. That conclusion required a second process, triggered by continued student pressure, to reach what the university's own Human Rights Center had already confirmed in June 2025.
+
+A student representative welcomed the decision in a statement posted to an online campus community: *"The dismissal is the minimum measure students have continuously demanded."⁹*
+
+The case is not closed. Under South Korean law, dismissed faculty may challenge disciplinary action through the Ministry of Education's Teachers' Appeals Review Committee. The university did not disclose whether the professor plans to appeal.⁹
+
 ## Conclusion: A Pattern of Protection
 
 This new case mirrors the 220+ days of silence regarding Dongguk's falsified international partnerships. Whether it is fraud or sexual violence, the institution's default response is **silence and delay** until external pressure becomes undeniable.
 
-For international partners, this serves as a real-time case study: **Dongguk's internal safety mechanisms are broken.** A "Human Rights Center" that cannot enforce safety is not a safeguard; it is a liability shield.
+For international partners, this serves as a real-time case study in how Dongguk's internal safety mechanisms operate: the Human Rights Center confirms violations — then waits. The board delays. A suspension is issued. Students protest. A special audit follows. Dismissal arrives seven months later. The institution corrected what students called "the minimum" only after sustained, public pressure made inaction untenable. **A system that requires that much friction to reach the minimum is not a safeguard. It is a liability shield that happens, under sufficient external force, to occasionally work.**
 
 ---
 
@@ -87,3 +97,4 @@ For international partners, this serves as a real-time case study: **Dongguk's i
 6.  Gender Watchdog. "Urgent Partner Verification Request - Dongguk University Falsified Partnerships & Student Safety Risks." *Gender Watchdog Research Collective*, December 2, 2025.
 7.  Korean Women's Development Institute (KWDI). "Survey on Sexual Violence in Arts and Culture Universities." 2020.
 8.  Gender Watchdog. "The Alleged Predatory Appointment and Government Cover-Up." *Gender Watchdog Blog*, 2025.
+9.  "South Korea's Dongguk University professor dismissed over sexual harassment allegations." *The Star* / *The Korea Herald*, June 24, 2026. <a href="https://archive.md/kUE9c">https://archive.md/kUE9c</a>
