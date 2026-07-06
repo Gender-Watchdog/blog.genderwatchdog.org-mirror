@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DND Said No Records Exist. PSPC Released One DND Co-Authored. (updated at 2026-06-27T05:55:57Z)"
+title: "DND Said No Records Exist. PSPC Released One DND Co-Authored. (updated at 2026-07-06T18:09:10Z)"
 date: 2026-06-18 00:00:00 +0000
 slug: dnd-nil-response-contradicted-pspc-cpsp-memo
 lang: en
@@ -165,6 +165,14 @@ Four OIC investigations. All four confirmed by section 32 notices. Four CPSP acc
 
 ---
 
+## Update — July 6, 2026: Canada Names TKMS Preferred Bidder
+
+On July 6, 2026, Prime Minister Mark Carney named Germany's Thyssenkrupp Marine Systems (TKMS), bid in partnership with Norway, as the preferred bidder for the Canadian Patrol Submarine Project — up to 12 submarines, in a program reported at up to $100 billion over three decades.[^10] Hanwha Ocean's KSS-III Batch-II bid was not selected.[^11] The announcement names a preferred bidder; it does not finalize a signed contract, and negotiations are expected to continue for months or longer.[^10]
+
+This does not close the accountability questions this post documents — it sharpens them. The four OIC investigations concern whether DND's evaluation record was ever properly searched, disclosed, and assessed before Canada reached this point, not which bidder ultimately won. If DND's search for CPSP evaluation records was inadequate, as the Commissioner is now investigating, that inadequacy applied throughout the evaluation period that produced today's decision — including whatever assessment DND conducted of the human rights, industrial safety, and institutional integrity risks this campaign documented in Hanwha's bid. A preferred-bidder announcement does not retroactively cure an evaluation process that DND has yet to fully disclose. The Office of the Information Commissioner's investigations remain open, and this post will be updated as they progress.
+
+---
+
 ## Sources
 
 [^1]: Department of National Defence, NIL Response Letter — File A-2026-00128 (May 11, 2026). Signed by Shannon Clark Larkin, Executive Director, Access to Information and Privacy. Screenshots: <a href="https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/canada-korea-military-lgbt-human-rights/atip-responses/A-2026-00128/NIL-response-letter-A-2026-00128-1.png?raw=true">https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/canada-korea-military-lgbt-human-rights/atip-responses/A-2026-00128/NIL-response-letter-A-2026-00128-1.png?raw=true</a>, <a href="https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/canada-korea-military-lgbt-human-rights/atip-responses/A-2026-00128/NIL-response-letter-A-2026-00128-2.png?raw=true">https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/canada-korea-military-lgbt-human-rights/atip-responses/A-2026-00128/NIL-response-letter-A-2026-00128-2.png?raw=true</a>
@@ -182,3 +190,7 @@ Four OIC investigations. All four confirmed by section 32 notices. Four CPSP acc
 [^7]: Gender Watchdog, "Two Sailors, One Question DND Cannot Answer" (April 11, 2026). <a href="https://blog.genderwatchdog.org/rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip/">https://blog.genderwatchdog.org/rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip/</a>
 [^8]: Office of the Information Commissioner of Canada, s.32 Notice of Intention to Investigate — A-2026-00200, OIC file 5826-01709 (June 22, 2026). Allegation: DND did not respond within the 30-day or extended period as required by s.7 of the *Access to Information Act*.
 [^9]: Office of the Information Commissioner of Canada, s.32 Notice of Intention to Investigate — A-2026-00128, OIC file 5826-01708 (June 26, 2026). Two allegations: (1) DND did not search for requested records and/or additional responsive records must exist; (2) DND improperly responded that records do not exist.
+
+[^10]: *CBC News*, "Carney to choose Germany and Norway to build Canada's submarines" (July 6, 2026). <a href="https://www.cbc.ca/news/politics/submarines-germany-canada-norway-south-korea-9.7259709">https://www.cbc.ca/news/politics/submarines-germany-canada-norway-south-korea-9.7259709</a> — confirms TKMS, bid in partnership with Norway, named preferred bidder for up to 12 submarines in a program reported at up to $100 billion over three decades; confirms the announcement names a preferred bidder rather than a signed contract, with negotiations expected to continue for months or longer. — *CTV News* (@CTVNews on X), "Canada chooses German company to build new submarine fleet: report" (July 6, 2026, 12:50pm ET). <a href="https://x.com/CTVNews/status/2074113715390005427">https://x.com/CTVNews/status/2074113715390005427</a>
+
+[^11]: *Korea Times*, "Germany's TKMS beats Hanwha Ocean for Canada submarine deal: Canadian media" (July 6, 2026). <a href="https://www.koreatimes.co.kr/southkorea/defense/20260706/germanys-tkms-beats-hanwha-ocean-for-canada-submarine-deal-canadian-media">https://www.koreatimes.co.kr/southkorea/defense/20260706/germanys-tkms-beats-hanwha-ocean-for-canada-submarine-deal-canadian-media</a> — confirms Hanwha Ocean's KSS-III Batch-II bid (fuel-cell propulsion and lithium-ion batteries, pledged over $50 billion in economic impact, proposed first delivery by 2032) was not selected; describes the outcome as Hanwha's second major setback against TKMS, after Hanwha's earlier withdrawal from India's Project-75I submarine program.
