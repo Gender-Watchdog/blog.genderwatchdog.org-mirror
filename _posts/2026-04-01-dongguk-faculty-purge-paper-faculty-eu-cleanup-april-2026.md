@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Profiles, Two Cleanup Tracks: Dongguk Scrubs Its Film Faculty Eight Days After the EU-Korea Research Summit (updated at 2026-05-02T03:27:26Z)"
+title: "Two Profiles, Two Cleanup Tracks: Dongguk Scrubs Its Film Faculty Eight Days After the EU-Korea Research Summit (updated at 2026-09-14T13:47:45Z)"
 date: 2026-04-01 00:00:00 +0000
 slug: dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026
 lang: en
@@ -55,17 +55,41 @@ The Dongguk University Graduate School of Digital Image &amp; Contents (동국�
 
 The automated text-change analysis compressed what are actually three distinct roster changes into a single apparent "profile modification." Cross-referencing the Visual Ping diff against the Wayback Machine archives of the faculty page — July 25, 2025 (pre-change) and April 1, 2026 (post-change)[^13] — makes the full picture precise. It is not routine maintenance.
 
+> **Note (September 2026):** The Visual Ping interactive diff applet below is currently displaying an incomplete image — the "before" panel has gone offline on Visual Ping's side. We have contacted Visual Ping support and the applet is preserved here pending restoration. The static screenshots below and the Wayback Machine archives cited in footnotes [^13] and [^16] independently document the same before/after change.
+
 <iframe src="https://visualping.io/diff/984971310?disableId=9yNDjbXqv0l6Dtn" title="dongguk-film-faculty-profiles-ko" height="600" width="600" frameborder="0"></iframe>
 
 *Interactive Visual Ping diff: Dongguk DIC faculty page, April 1, 2026. Drag the center vertical slider left and right to compare versions (Red = removed. Green = added).*
 
 [Open full interactive diff — Dongguk DIC faculty page before/after April 1, 2026](https://visualping.io/diff/984971310?disableId=9yNDjbXqv0l6Dtn)
 
+**Static evidence — before/after (local archive, Webrecorder ArchiveWeb):**
+
+![Dongguk DIC faculty page — before, February 20 2026. 김종완 listed as 교수 with phone 02-2260-3845 and office 문화관 4층 K413. 이정현 and 최은진 still listed as 연구초빙교수.](https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/k-unis-audit/dongguk/20260914-visual-ping-fix-dongguk-dic-purge/archive-local-before-after-male/dongguk-dic-faculty-before-20260220.png?raw=true)
+
+*Before — February 20, 2026 (local archive, Webrecorder ArchiveWeb). 김종완 title: `교수`. Phone 02-2260-3845, office 문화관 4층 K413 present. 이정현 (BK21) and 최은진 still listed as 연구초빙교수.*
+
+![Dongguk DIC faculty page — after, April 2 2026. 김종완 now listed as 명예교수, phone field blank, office removed.](https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/k-unis-audit/dongguk/20260914-visual-ping-fix-dongguk-dic-purge/archive-local-before-after-male/dongguk-dic-faculty-after-20260402.png?raw=true)
+
+*After — April 2, 2026 (local archive, Webrecorder ArchiveWeb). 김종완 title: `명예교수`. Phone field: `–`. Office gone. 이정현 and 최은진 absent from roster.*
+
+![Visual Ping before-panel — DIC faculty page prior to April 1 2026, showing 이정현 and 최은진 both listed as 연구초빙교수](https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/k-unis-audit/dongguk/20260914-visual-ping-fix-dongguk-dic-purge/removed-females/visual-ping-dongguk-faculty-before-20260401.png?raw=true)
+
+*Visual Ping "before" panel — the image missing from the broken applet above. Shows 이정현 (BK21 사업) and 최은진 both present as 연구초빙교수 prior to the April 1, 2026 update.*
+
 ---
 
 ### Track A: Two Female Research Faculty Removed, One Added — BK21 Credential and Female Research Footprint Eliminated from a Tenured-Male Department
 
 ![Visual Ping diff showing the research visiting professor slot changes on April 1 2026 — 이정현 and 최은진 removed, 박매화 added, BK21 affiliation disappearing from the roster entirely](https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/scrubs-20260320/dongguk/faculty-page/20260401-removed-male/female-faculty-member-bmh.png?raw=true)
+
+![이정현 연구초빙교수 — profile card showing 일반대학원 영화학 박사 credential and BK21 사업 in 세부 연구분야, removed April 1 2026](https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/k-unis-audit/dongguk/20260914-visual-ping-fix-dongguk-dic-purge/removed-females/removed-female-lee.png?raw=true)
+
+*이정현 (연구초빙교수) — removed April 1, 2026. BK21 사업 visible in 세부 연구분야: the only government-research-linked credential in the 연구초빙교수 tier. Credential: 동국대학교 일반대학원 영화학 박사.*
+
+![최은진 연구초빙교수 — profile card showing 일반대학원 영화학 박사 credential and OTT영상콘텐츠 한류 research area, removed April 1 2026](https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/k-unis-audit/dongguk/20260914-visual-ping-fix-dongguk-dic-purge/removed-females/removed-female-choi.png?raw=true)
+
+*최은진 (연구초빙교수) — removed April 1, 2026. 일반대학원 영화학 박사 credential (same academic track as 이정현). Specialty: 영화학/대중문화연구.*
 
 Visual Ping's automated text-change detection flagged this as a single profile modification. The Wayback Machine archives tell a different story. This is what the faculty roster actually showed before and after:
 
