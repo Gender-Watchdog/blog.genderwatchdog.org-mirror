@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Canada Shows Asia: The Whitened Embassy (updated at 2026-06-22T17:09:54Z)"
+title: "What Canada Shows Asia: The Whitened Embassy (updated at 2026-09-17T01:52:25Z)"
 date: 2026-06-21 00:00:00 +0000
 slug: canada-to-asia-the-whitened-embassy
 lang: en
@@ -150,6 +150,10 @@ Two things are visible in this sequence. First, the denial of receipt collapses 
 
 GAC has the policy, the staff, the budget, the 80-page multi-language framework, and the UN speeches about supporting human rights defenders. When an actual HRD — a Canadian citizen doing exactly the work the Guidelines describe, work that protects Canadian institutional integrity abroad — approached two different Canadian diplomatic missions in Asia, the response was acknowledgment followed by silence from one, and a documented two-step sequence of denial-then-admission-then-refusal from the other. Neither triggered any visible implementation of the framework Canada published to address exactly this situation.
 
+In September 2026, Gender Watchdog filed a formal Access to Information Act request with GAC asking the department to produce its own records on all of this: whether an HRD focal point was ever designated at the Seoul embassy as the Guidelines require, whether GW's case was ever internally logged as an HRD matter, and what the November 2025 "no record" denial and subsequent IT investigation actually turned up.[^30]
+
+![Government of Canada ATIP portal confirmation email, September 2026: "Successfully submitted! ... Your request 'Voices at Risk / HRD Implementation Seoul + Gender Watchdog Case' to Global Affairs Canada has been successfully submitted. Your AORS reference number is EA2026_0193242."](https://github.com/Gender-Watchdog/evidence_repository/blob/master/imgs/canada-racialized-sexual-violence/gac-racism/voices-at-risk/atip-email-confirmation-gw-hrd.png?raw=true)
+
 ---
 
 ## The Structural Gaps in GAC's Own Framework
@@ -265,3 +269,5 @@ The same mechanism that erases the Asian male's face from government consent cam
 [^28]: *Embassy of Canada to Korea*, consular response to Gender Watchdog safety assessment request (November 9, 2025). Local file: `sources/emails/from-seoul-emb-20251109.md` — States: "the embassy in Seoul does not have your e-mail inquiry of Oct. 7, 2025 in our records." .eml file available upon request to credentialed press and government officials: genderwatchdog@proton.me.
 
 [^29]: *Embassy of Canada to Korea*, consular response to Gender Watchdog — follow-up after Message-IDs provided (November 10, 2025). Local file: `sources/emails/from-seoul-emb-20251110.md` — States: "The Embassy will be following up with our IT team about your e-mail of Oct. 7" (admitting receipt); refuses safety assessment: "this is not a service that is provided to Canadians living or travelling abroad" — while simultaneously pasting the consular charter that authorizes officials to "provide advice and contact information for local police and medical services to victims of robbery, sexual assault or other violence." .eml file available upon request: genderwatchdog@proton.me.
+
+[^30]: *Gender Watchdog*, Access to Information Act request filed with Global Affairs Canada, "Voices at Risk / HRD Implementation Seoul + Gender Watchdog Case" (filed September 2026), AORS reference EA2026_0193242. On file with Gender Watchdog. Full request text: `posts/atip-request/to-file/atip-voices-at-risk-consolidated.md`.
