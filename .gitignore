@@ -45,3 +45,15 @@ copilot-instructions.md
 /scripts/*
 
 *.env
+
+# AI assistant instruction and settings files (local only)
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+GEMINI.md
+.claude/
+.cursor/
+.mcp.json
+*.instructions.md
+.github/instructions/
+.github/prompts/
