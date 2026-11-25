@@ -1,0 +1,102 @@
+# Entities the blog writes about, with the names people search for. Single source of truth for
+# JSON-LD about/mentions (_includes/jsonld.html) and for "related posts" (_includes/related-posts.html).
+#
+# A page opts in with front matter:   entities: [dongguk-ai-dept, dongguk-university]
+# (parents are added automatically). Only list an entity on a page whose visible text mentions it:
+# structured data must describe what readers can see.
+#
+# Facts here come from the posts and their cited sources. Verified 2026-11-25:
+#   - dongguk-university sameAs: Wikidata Q487804 ("university in Seoul, South Korea"), its en/ko/ja/zh
+#     Wikipedia sitelinks, and its official website (P856).
+#   - The department / major renames: the graduate school's history page, dic.dongguk.edu/page/1042,
+#     captured 2026-10-12 (2027.03 entry).
+#   - English names: Dongguk's English site heads its department pages "Graduate School of Digital
+#     Image & Contents" and calls the film department "Department of Film and Digital Media"
+#     (Wayback capture 2026-04-02 of dongguk.edu/eng/dandae/122). The official school name leads;
+#     "Graduate School of Imaging" (used in the rename reports) stays as an alternate.
+# Japanese and Chinese school names follow the rename post's translation glossary
+# (映像大学院 / 影像研究生院 / 影像研究所). The "film school" wording the translations also use
+# (映画大学院 / 电影研究生院 / 電影研究所) is listed under alternate_names.
+#
+# Keys: type (schema.org), role (about | mentions), parent + parent_property, url, name (per language,
+# falls back to en), alternate_names (all languages together, so any of them finds the entity),
+# description (per language, optional), same_as, slug_match + related_heading (related posts).
+
+dongguk-university:
+  type: CollegeOrUniversity
+  role: mentions
+  url: "https://www.dongguk.edu"
+  name:
+    en: "Dongguk University"
+    ko: "동국대학교"
+    ja: "東国大学"
+    zh-cn: "东国大学"
+    zh-tw: "東國大學"
+  alternate_names: ["Dongguk University", "DGU", "동국대학교", "동국대", "東国大学", "東国大学校", "东国大学", "東國大學"]
+  same_as:
+    - "https://www.wikidata.org/wiki/Q487804"
+    - "https://en.wikipedia.org/wiki/Dongguk_University"
+    - "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90"
+    - "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%A0%A1"
+    - "https://zh.wikipedia.org/wiki/%E6%9D%B1%E5%9C%8B%E5%A4%A7%E5%AD%B8"
+  # every post with "dongguk" in its slug shows a "related posts" block (no per-post edits needed)
+  slug_match: ["dongguk"]
+  related_heading:
+    en: "More on Dongguk University"
+    ko: "동국대학교 관련 글"
+    ja: "東国大学の関連記事"
+    zh-cn: "东国大学相关文章"
+    zh-tw: "東國大學相關文章"
+    vi: "Bài viết khác về Đại học Dongguk"
+    es: "Más sobre la Universidad Dongguk"
+
+dongguk-gsi:
+  type: EducationalOrganization
+  role: mentions
+  parent: dongguk-university
+  parent_property: parentOrganization
+  url: "https://dic.dongguk.edu"
+  name:
+    en: "Dongguk University Graduate School of Digital Image & Contents"
+    ko: "동국대학교 영상대학원"
+    ja: "東国大学 映像大学院"
+    zh-cn: "东国大学影像研究生院"
+    zh-tw: "東國大學影像研究所"
+  alternate_names: ["Graduate School of Digital Image & Contents", "Graduate School of Imaging", "영상대학원", "동국대 영상대학원", "映像大学院", "映画大学院", "影像研究生院", "电影研究生院", "影像研究所", "電影研究所"]
+
+dongguk-ai-dept:
+  type: EducationalOrganization
+  role: about
+  parent: dongguk-gsi
+  parent_property: parentOrganization
+  # The department names stay in Hangul in every language, as in the translations.
+  name:
+    en: "AI영상예술산업학과"
+  alternate_names: ["AI영상예술산업학과", "영화영상제작학과", "AI영상예술산업(영화영상제작)학과", "동국대 영화영상제작학과", "동국대 AI영상예술산업학과", "Department of Film and Digital Media", "Department of Film and Video Production"]
+  description:
+    en: "Department of Dongguk University's Graduate School of Digital Image & Contents, listed as 영화영상제작학과 before the 2026 website change. The school's history page records its rename to AI영상예술산업학과 for March 2027."
+    ko: "동국대학교 영상대학원의 학과. 2026년 웹사이트 변경 전까지 영화영상제작학과로 표기되었으며, 대학원 연혁 페이지에는 2027년 3월 AI영상예술산업학과로의 학과명 변경이 기록되어 있다."
+    ja: "東国大学映像大学院の学科。2026年のウェブサイト変更より前は 영화영상제작학과 と表記されていた。同大学院の沿革ページには、2027年3月に AI영상예술산업학과 へ改称することが記録されている。"
+    zh-cn: "东国大学影像研究生院下设学科。2026年网站变更前标注为 영화영상제작학과；该研究生院沿革页面记载，该学科将于2027年3月更名为 AI영상예술산업학과。"
+    zh-tw: "東國大學影像研究所下設學系。2026年網站變更前標示為 영화영상제작학과；該研究所沿革頁面記載，該學系將於2027年3月更名為 AI영상예술산업학과。"
+
+dongguk-ai-vfx-major:
+  type: EducationalOccupationalProgram
+  role: mentions
+  parent: dongguk-ai-dept
+  parent_property: provider
+  name:
+    en: "AI&비주얼이펙트전공"
+  alternate_names: ["AI&비주얼이펙트전공", "AI & Visual Effects major"]
+
+# The same 2027.03 history-page entry also renames the production MAJOR:
+#   영화영상제작전공 -> 시네마틱콘텐츠제작전공 ("Cinematic Content Production").
+# The five rename posts quote the full line (added 2026-11-25), so they list this entity.
+dongguk-cinematic-content-major:
+  type: EducationalOccupationalProgram
+  role: mentions
+  parent: dongguk-ai-dept
+  parent_property: provider
+  name:
+    en: "시네마틱콘텐츠제작전공"
+  alternate_names: ["시네마틱콘텐츠제작전공", "영화영상제작전공"]

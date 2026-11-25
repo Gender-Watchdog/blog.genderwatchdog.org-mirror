@@ -1,0 +1,18 @@
+{%- comment -%}
+  Best description for a page or post. Parameter: doc=page (or a post from a loop).
+  Order: meta_description, summary, description, a cleaned excerpt, then the localized site description.
+  Sets: pd_out (plain text; callers escape it for HTML attributes / XML, JSON-LD uses it as-is).
+  `default: ''` matters: in this Liquid version nil == blank is false, only '' is.
+{%- endcomment -%}
+{%- assign pd_doc = include.doc -%}
+{%- assign pd_out = pd_doc.meta_description | default: pd_doc.summary | default: pd_doc.description | default: '' -%}
+{%- if pd_out == '' and pd_doc.excerpt -%}
+  {%- comment -%} The rendered excerpt is HTML: strip tags, then decode the entities it contains (&amp; last). {%- endcomment -%}
+  {%- assign pd_out = pd_doc.excerpt | strip_html | replace: '&quot;', '"' | replace: '&#39;', "'" | replace: '&apos;', "'" | replace: '&lt;', '<' | replace: '&gt;', '>' | replace: '&nbsp;', ' ' | replace: '&amp;', '&' | normalize_whitespace | truncatewords: 45, '…' | truncate: 300, '…' -%}
+{%- endif -%}
+{%- if pd_out == '' -%}
+  {%- assign pd_lang = pd_doc.lang | default: 'en' -%}
+  {%- assign pd_l = site.data.seo_languages[pd_lang] -%}
+  {%- assign pd_out = pd_l.site_description | default: site.description -%}
+{%- endif -%}
+{%- assign pd_out = pd_out | strip_html | normalize_whitespace -%}

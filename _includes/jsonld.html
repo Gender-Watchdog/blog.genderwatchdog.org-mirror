@@ -1,0 +1,257 @@
+{%- comment -%}
+  One JSON-LD <script> per page: a single @graph that replaces the three overlapping blocks
+  (Organization, hand-written NewsArticle, jekyll-seo-tag's BlogPosting).
+
+  MUST run after seo-head.html in the same layout: it reuses seo_t, seo_d, seo_img (and, for posts,
+  cl_members / cl_en from hreflang.html -> translation-cluster.html, plus title_clean / title_stamp).
+
+  Nodes (all connected by @id):
+    Organization   same on every page (name + alternateName in 5 languages); description is in the page's language
+    WebSite        same on every page; alternateName lists the localized site names
+    NewsArticle    posts: headline / description / inLanguage / articleSection in the post's own language,
+                   real dateModified (last_modified_at, else the "updated at" stamp in the title, else the date),
+                   translationOfWork (translations) / workTranslation (English original)
+    CollectionPage language archive pages (/en/, /ko/, ...)
+    WebPage        every other page (with dateModified when it sets last_modified_at)
+    BreadcrumbList posts, archive pages and reference pages (translation_key), labels in the page's language
+    Entities       from _data/entities.yml for pages that set `entities:` in front matter (parents are
+                   added automatically). The NewsArticle / WebPage node gets `about` and `mentions`
+                   according to each entity's `role`; names and descriptions follow the page's language.
+
+  Every string goes through `jsonify` (never `escape`, which would put &#39; into the JSON).
+  Optional properties start with a comma inside their own if-block, so the output is always valid JSON.
+{%- endcomment -%}
+{%- include lang-vars.html -%}
+{%- assign ld_home = '/' | absolute_url -%}
+{%- assign ld_org = ld_home | append: '#organization' -%}
+{%- assign ld_web = ld_home | append: '#website' -%}
+{%- assign ld_url = page.canonical_url | default: page.url | absolute_url -%}
+{%- assign ld_is_post = false -%}
+{%- if page.layout == 'post' -%}{%- assign ld_is_post = true -%}{%- endif -%}
+{%- assign ld_is_archive = false -%}
+{%- if ld_is_post == false and page.url == L.archive_url -%}{%- assign ld_is_archive = true -%}{%- endif -%}
+
+{%- comment -%} localized site names for WebSite.alternateName {%- endcomment -%}
+{%- assign ld_site_alts = '' | split: '' -%}
+{%- for e in site.data.seo_languages -%}
+  {%- if e[1].site_name != site.title -%}{%- assign ld_site_alts = ld_site_alts | push: e[1].site_name -%}{%- endif -%}
+{%- endfor -%}
+{%- assign ld_site_alts = ld_site_alts | uniq -%}
+{%- assign ld_langs = 'en ko ja zh-CN zh-TW vi es' | split: ' ' -%}
+{%- assign ld_org_alts = 'Gender Watchdog Research Collective|젠더 와치독|ジェンダー・ウォッチドッグ|性别监督|性別監督' | split: '|' -%}
+{%- assign ld_same_as = 'https://x.com/Gender_Watchdog https://mastodon.social/@genderwatchdog https://www.youtube.com/@GenderWatchdog https://github.com/Gender-Watchdog https://github.com/genderwatchdog1/timeline-website https://genderwatchdog.bearblog.dev https://genderwatchdog.substack.com https://genderwatchdog.org' | split: ' ' -%}
+{%- assign ld_org_desc = L.site_description | default: 'Investigating and documenting sexual violence cases and institutional failures in Korean higher education' -%}
+{%- assign ld_logo = '/assets/images/favicons/gender-watchdog-icon-04142025.png' | absolute_url -%}
+
+{%- if ld_is_post and page.date -%}
+  {%- assign ld_pub = page.date | date_to_xmlschema -%}
+  {%- if page.last_modified_at -%}
+    {%- assign ld_mod = page.last_modified_at | date_to_xmlschema -%}
+  {%- elsif title_stamp != '' -%}
+    {%- assign ld_mod = title_stamp -%}
+  {%- else -%}
+    {%- assign ld_mod = ld_pub -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- comment -%} entities listed in front matter, plus their parents so every reference resolves {%- endcomment -%}
+{%- assign ld_ent_ids = '' | split: '' -%}
+{%- assign ld_about = '' | split: '' -%}
+{%- assign ld_mentions = '' | split: '' -%}
+{%- for eid in page.entities -%}
+  {%- assign ld_e = site.data.entities[eid] -%}
+  {%- if ld_e -%}
+    {%- assign ld_ref = ld_home | append: '#entity-' | append: eid -%}
+    {%- if ld_e.role == 'about' -%}{%- assign ld_about = ld_about | push: ld_ref -%}{%- else -%}{%- assign ld_mentions = ld_mentions | push: ld_ref -%}{%- endif -%}
+  {%- endif -%}
+  {%- assign ld_cur = eid -%}
+  {%- for hop in (1..4) -%}
+    {%- assign ld_cur_e = site.data.entities[ld_cur] -%}
+    {%- if ld_cur_e -%}
+      {%- unless ld_ent_ids contains ld_cur -%}{%- assign ld_ent_ids = ld_ent_ids | push: ld_cur -%}{%- endunless -%}
+      {%- assign ld_cur = ld_cur_e.parent -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+{%- capture ld_about_mentions -%}
+  {%- if ld_about.size > 0 %},
+          "about": [ {% for r in ld_about %}{ "@id": {{ r | jsonify }} }{% unless forloop.last %}, {% endunless %}{% endfor %} ]
+  {%- endif -%}
+  {%- if ld_mentions.size > 0 %},
+          "mentions": [ {% for r in ld_mentions %}{ "@id": {{ r | jsonify }} }{% unless forloop.last %}, {% endunless %}{% endfor %} ]
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- assign ld_translations = '' | split: '' -%}
+{%- assign ld_has_versions = false -%}
+{%- if ld_is_post or page.translation_key -%}{%- assign ld_has_versions = true -%}{%- endif -%}
+{%- assign ld_node = '#webpage' -%}
+{%- if ld_is_post -%}{%- assign ld_node = '#article' -%}{%- endif -%}
+{%- if ld_has_versions and cl_members.size > 1 and seo_lang_key == 'en' -%}
+  {%- for m in cl_members -%}
+    {%- if m.url != page.url -%}
+      {%- assign ld_tid = m.url | absolute_url | append: ld_node -%}
+      {%- assign ld_translations = ld_translations | push: ld_tid -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": {{ ld_org | jsonify }},
+          "name": "Gender Watchdog",
+          "alternateName": {{ ld_org_alts | jsonify }},
+          "url": {{ ld_home | jsonify }},
+          "logo": { "@type": "ImageObject", "url": {{ ld_logo | jsonify }}, "width": 1024, "height": 1024 },
+          "description": {{ ld_org_desc | jsonify }},
+          "sameAs": {{ ld_same_as | jsonify }},
+          "knowsLanguage": {{ ld_langs | jsonify }},
+          "contactPoint": { "@type": "ContactPoint", "email": "genderwatchdog@proton.me", "contactType": "customer service" }
+        },
+        {
+          "@type": "WebSite",
+          "@id": {{ ld_web | jsonify }},
+          "url": {{ ld_home | jsonify }},
+          "name": {{ site.title | jsonify }},
+          "alternateName": {{ ld_site_alts | jsonify }},
+          "inLanguage": {{ ld_langs | jsonify }},
+          "publisher": { "@id": {{ ld_org | jsonify }} }
+        },
+{%- if ld_is_post %}
+        {
+          "@type": "NewsArticle",
+          "@id": {{ ld_url | append: '#article' | jsonify }},
+          "url": {{ ld_url | jsonify }},
+          "mainEntityOfPage": { "@type": "WebPage", "@id": {{ ld_url | jsonify }} },
+          "headline": {{ title_clean | truncate: 110, '…' | jsonify }},
+          {%- if page.seo_title %}
+          "alternativeHeadline": {{ page.seo_title | jsonify }},
+          {%- endif %}
+          "description": {{ seo_d | jsonify }},
+          "datePublished": {{ ld_pub | jsonify }},
+          "dateModified": {{ ld_mod | jsonify }},
+          {%- if L.html_lang != '' %}
+          "inLanguage": {{ L.html_lang | jsonify }},
+          {%- endif %}
+          "image": [ {{ seo_img | jsonify }} ],
+          "author": { "@id": {{ ld_org | jsonify }} },
+          "publisher": { "@id": {{ ld_org | jsonify }} },
+          "isPartOf": { "@id": {{ ld_web | jsonify }} },
+          "articleSection": {{ L.article_section | jsonify }},
+          "isAccessibleForFree": true,
+          "breadcrumb": { "@id": {{ ld_url | append: '#breadcrumb' | jsonify }} }
+          {{- ld_about_mentions }}
+          {%- if page.keywords %},
+          "keywords": {{ page.keywords | jsonify }}
+          {%- endif %}
+          {%- if cl_en and seo_lang_key != 'en' %},
+          "translationOfWork": { "@id": {{ cl_en.url | absolute_url | append: '#article' | jsonify }} }
+          {%- endif %}
+          {%- if ld_translations.size > 0 %},
+          "workTranslation": [
+            {%- for tid in ld_translations %}
+            { "@id": {{ tid | jsonify }} }{% unless forloop.last %},{% endunless %}
+            {%- endfor %}
+          ]
+          {%- endif %}
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": {{ ld_url | append: '#breadcrumb' | jsonify }},
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": {{ L.breadcrumb_home | jsonify }}, "item": {{ ld_home | jsonify }} },
+            { "@type": "ListItem", "position": 2, "name": {{ L.breadcrumb_archive | jsonify }}, "item": {{ L.archive_url | absolute_url | jsonify }} },
+            { "@type": "ListItem", "position": 3, "name": {{ title_clean | jsonify }}, "item": {{ ld_url | jsonify }} }
+          ]
+        }
+{%- elsif ld_is_archive %}
+        {
+          "@type": "CollectionPage",
+          "@id": {{ ld_url | append: '#webpage' | jsonify }},
+          "url": {{ ld_url | jsonify }},
+          "name": {{ seo_t | jsonify }},
+          "description": {{ seo_d | jsonify }},
+          {%- if L.html_lang != '' %}
+          "inLanguage": {{ L.html_lang | jsonify }},
+          {%- endif %}
+          "isPartOf": { "@id": {{ ld_web | jsonify }} },
+          "publisher": { "@id": {{ ld_org | jsonify }} },
+          "breadcrumb": { "@id": {{ ld_url | append: '#breadcrumb' | jsonify }} }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": {{ ld_url | append: '#breadcrumb' | jsonify }},
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": {{ L.breadcrumb_home | jsonify }}, "item": {{ ld_home | jsonify }} },
+            { "@type": "ListItem", "position": 2, "name": {{ L.breadcrumb_archive | jsonify }}, "item": {{ ld_url | jsonify }} }
+          ]
+        }
+{%- else %}
+        {
+          "@type": "WebPage",
+          "@id": {{ ld_url | append: '#webpage' | jsonify }},
+          "url": {{ ld_url | jsonify }},
+          "name": {{ seo_t | default: site.title | jsonify }},
+          "description": {{ seo_d | jsonify }},
+          {%- if L.html_lang != '' %}
+          "inLanguage": {{ L.html_lang | jsonify }},
+          {%- endif %}
+          "isPartOf": { "@id": {{ ld_web | jsonify }} },
+          "publisher": { "@id": {{ ld_org | jsonify }} }
+          {%- if page.last_modified_at %},
+          "dateModified": {{ page.last_modified_at | date_to_xmlschema | jsonify }}
+          {%- endif %}
+          {%- if page.translation_key %},
+          "breadcrumb": { "@id": {{ ld_url | append: '#breadcrumb' | jsonify }} }
+          {%- if cl_en and seo_lang_key != 'en' %},
+          "translationOfWork": { "@id": {{ cl_en.url | absolute_url | append: '#webpage' | jsonify }} }
+          {%- endif %}
+          {%- if ld_translations.size > 0 %},
+          "workTranslation": [
+            {%- for tid in ld_translations %}
+            { "@id": {{ tid | jsonify }} }{% unless forloop.last %},{% endunless %}
+            {%- endfor %}
+          ]
+          {%- endif %}
+          {%- endif %}
+          {{- ld_about_mentions }}
+        }
+  {%- if page.translation_key %},
+        {
+          "@type": "BreadcrumbList",
+          "@id": {{ ld_url | append: '#breadcrumb' | jsonify }},
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": {{ L.breadcrumb_home | jsonify }}, "item": {{ ld_home | jsonify }} },
+            { "@type": "ListItem", "position": 2, "name": {{ title_clean | jsonify }}, "item": {{ ld_url | jsonify }} }
+          ]
+        }
+  {%- endif %}
+{%- endif %}
+{%- for eid in ld_ent_ids -%}
+  {%- assign ld_e = site.data.entities[eid] %},
+        {
+          "@type": {{ ld_e.type | jsonify }},
+          "@id": {{ ld_home | append: '#entity-' | append: eid | jsonify }},
+          "name": {{ ld_e.name[seo_lang_key] | default: ld_e.name.en | jsonify }},
+          "alternateName": {{ ld_e.alternate_names | jsonify }}
+          {%- if ld_e.description %},
+          "description": {{ ld_e.description[seo_lang_key] | default: ld_e.description.en | jsonify }}
+          {%- endif %}
+          {%- if ld_e.url %},
+          "url": {{ ld_e.url | jsonify }}
+          {%- endif %}
+          {%- if ld_e.same_as %},
+          "sameAs": {{ ld_e.same_as | jsonify }}
+          {%- endif %}
+          {%- if ld_e.parent %},
+          {{ ld_e.parent_property | jsonify }}: { "@id": {{ ld_home | append: '#entity-' | append: ld_e.parent | jsonify }} }
+          {%- endif %}
+        }
+{%- endfor %}
+      ]
+    }
+    </script>

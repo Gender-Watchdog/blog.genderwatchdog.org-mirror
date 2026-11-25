@@ -2,9 +2,12 @@
 layout: default
 title: "Todas las publicaciones en español"
 lang: es
+description: "Todas las publicaciones en español de Gender Watchdog: investigaciones sobre violencia sexual y rendición de cuentas institucional en la educación superior de Corea."
 ---
 
 <h1>Todas las publicaciones en español</h1>
+<p class="archive-intro">{{ page.description }}</p>
+{% include featured.html %}
 
 <ul class="post-list">
 {% assign posts = site.posts | where: "lang", "es" | sort: "date" | reverse %}

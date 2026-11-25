@@ -1,0 +1,31 @@
+{%- comment -%}
+  Pinned links for the current language archive page, from _data/featured.yml. For each pin (a post
+  translation cluster, or a reference page identified by translation_key), shows the version written
+  in this page's language, if there is one.
+{%- endcomment -%}
+{%- assign ft_lang = page.lang | default: 'en' -%}
+{%- assign ft_found = '' | split: '' -%}
+{%- for item in site.data.featured -%}
+  {%- if item.cluster -%}
+    {%- include translation-cluster.html slug=item.cluster lang='en' -%}
+    {%- assign ft_candidates = cl_members -%}
+  {%- else -%}
+    {%- assign ft_candidates = site.pages | where: 'translation_key', item.page_key -%}
+  {%- endif -%}
+  {%- for m in ft_candidates -%}
+    {%- assign m_lang = m.lang | default: 'en' -%}
+    {%- if m_lang == ft_lang -%}{%- assign ft_found = ft_found | push: m -%}{%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+{%- comment -%} translation-cluster changed L to the cluster's language; restore this page's {%- endcomment -%}
+{%- include lang-vars.html -%}
+{%- if ft_found.size > 0 %}
+<aside class="featured-posts" aria-label="{{ L.featured_label | escape }}">
+    <strong>📌 {{ L.featured_label }}</strong>
+    <ul>
+        {%- for f in ft_found %}
+        <li><a href="{{ f.url | relative_url }}">{{ f.title | escape }}</a></li>
+        {%- endfor %}
+    </ul>
+</aside>
+{%- endif -%}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+{%- comment -%}
+  RSS 2.0 feed of one language's 20 newest posts (for Naver Search Advisor's RSS submission and readers).
+  Parameter: feed_lang="ko" (a key of _data/seo_languages.yml). Titles have the "updated at" stamp
+  stripped; descriptions come from page-description.html.
+{%- endcomment -%}
+{%- assign fl = site.data.seo_languages[include.feed_lang] -%}
+{%- assign fposts = site.posts | where: 'lang', include.feed_lang -%}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ fl.site_name | xml_escape }}</title>
+    <link>{{ fl.archive_url | absolute_url | xml_escape }}</link>
+    <description>{{ fl.site_description | default: site.description | xml_escape }}</description>
+    <language>{{ fl.html_lang }}</language>
+    <atom:link href="{{ fl.feed_url | absolute_url | xml_escape }}" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    {%- for fp in fposts limit: 20 -%}
+      {%- include title-parts.html t=fp.title -%}
+      {%- include page-description.html doc=fp %}
+    <item>
+      <title>{{ title_clean | xml_escape }}</title>
+      <link>{{ fp.url | absolute_url | xml_escape }}</link>
+      <guid isPermaLink="true">{{ fp.url | absolute_url | xml_escape }}</guid>
+      <pubDate>{{ fp.date | date_to_rfc822 }}</pubDate>
+      <description>{{ pd_out | xml_escape }}</description>
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>

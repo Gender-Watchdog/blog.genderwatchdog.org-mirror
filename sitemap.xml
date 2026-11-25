@@ -1,0 +1,12 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for e in site.data.seo_languages %}
+  <sitemap>
+    <loc>{{ "/sitemap-" | append: e[0] | append: ".xml" | absolute_url | xml_escape }}</loc>
+  </sitemap>
+{%- endfor %}
+</sitemapindex>

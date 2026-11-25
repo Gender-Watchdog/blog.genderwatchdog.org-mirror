@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+{%- comment -%}
+  One language's sitemap. Parameter: sm_lang="ko" (a key of _data/seo_languages.yml).
+  Posts whose lang matches (no lang = en), plus the pages of that language (pages without a lang = en).
+  lastmod: last_modified_at, else the "updated at" stamp in the title, else the post date;
+  archive pages use the newest post date of their language; other pages get none rather than a made-up date.
+  Posts that belong to a translation cluster list every language version as xhtml:link alternates
+  (same set as the hreflang tags in the page head, including x-default and the zh-HK alias).
+{%- endcomment -%}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{%- assign sm_newest = '' -%}
+{%- for sp in site.posts -%}
+  {%- assign sp_lang = sp.lang | default: 'en' -%}
+  {%- if sp_lang == include.sm_lang and sm_newest == '' -%}{%- assign sm_newest = sp.date | date_to_xmlschema -%}{%- endif -%}
+{%- endfor -%}
+{%- for pg in site.html_pages -%}
+  {%- assign pg_lang = pg.lang | default: 'en' -%}
+  {%- if pg.sitemap != false and pg_lang == include.sm_lang %}
+  <url>
+    <loc>{{ pg.url | absolute_url | xml_escape }}</loc>
+    {%- if pg.last_modified_at %}
+    <lastmod>{{ pg.last_modified_at | date_to_xmlschema }}</lastmod>
+    {%- elsif pg.url == site.data.seo_languages[pg_lang].archive_url and sm_newest != '' %}
+    <lastmod>{{ sm_newest }}</lastmod>
+    {%- endif %}
+    {%- if pg.translation_key -%}
+      {%- include page-cluster.html key=pg.translation_key -%}
+      {%- if cl_members.size > 1 -%}
+        {%- for m in cl_members -%}
+          {%- assign m_l = site.data.seo_languages[m.lang] -%}
+          {%- for code in m_l.hreflang %}
+    <xhtml:link rel="alternate" hreflang="{{ code }}" href="{{ m.url | absolute_url | xml_escape }}"/>
+          {%- endfor -%}
+        {%- endfor -%}
+        {%- if cl_en %}
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ cl_en.url | absolute_url | xml_escape }}"/>
+        {%- endif -%}
+      {%- endif -%}
+    {%- endif -%}
+    {%- comment -%} language archive pages: the set of archive pages (same as the hreflang tags in their head) {%- endcomment -%}
+    {%- if pg.url == site.data.seo_languages[pg_lang].archive_url and site.data.seo_languages[pg_lang].hreflang.size > 0 -%}
+      {%- for e in site.data.seo_languages -%}
+        {%- if e[1].hreflang.size > 0 -%}
+          {%- for code in e[1].hreflang %}
+    <xhtml:link rel="alternate" hreflang="{{ code }}" href="{{ e[1].archive_url | absolute_url | xml_escape }}"/>
+          {%- endfor -%}
+        {%- endif -%}
+      {%- endfor %}
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.data.seo_languages.en.archive_url | absolute_url | xml_escape }}"/>
+    {%- endif %}
+  </url>
+  {%- endif -%}
+{%- endfor -%}
+{%- for sp in site.posts -%}
+  {%- assign sp_lang = sp.lang | default: 'en' -%}
+  {%- if sp_lang == include.sm_lang -%}
+    {%- include title-parts.html t=sp.title -%}
+    {%- if sp.last_modified_at -%}
+      {%- assign sm_mod = sp.last_modified_at | date_to_xmlschema -%}
+    {%- elsif title_stamp != '' -%}
+      {%- assign sm_mod = title_stamp -%}
+    {%- else -%}
+      {%- assign sm_mod = sp.date | date_to_xmlschema -%}
+    {%- endif -%}
+    {%- include translation-cluster.html slug=sp.slug lang=sp_lang %}
+  <url>
+    <loc>{{ sp.url | absolute_url | xml_escape }}</loc>
+    <lastmod>{{ sm_mod }}</lastmod>
+    {%- if cl_members.size > 1 -%}
+      {%- for m in cl_members -%}
+        {%- assign m_lang = m.lang | default: 'en' -%}
+        {%- assign m_l = site.data.seo_languages[m_lang] -%}
+        {%- for code in m_l.hreflang %}
+    <xhtml:link rel="alternate" hreflang="{{ code }}" href="{{ m.url | absolute_url | xml_escape }}"/>
+        {%- endfor -%}
+      {%- endfor -%}
+      {%- if cl_en %}
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ cl_en.url | absolute_url | xml_escape }}"/>
+      {%- endif -%}
+    {%- endif %}
+  </url>
+  {%- endif -%}
+{%- endfor %}
+</urlset>

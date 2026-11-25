@@ -1,0 +1,49 @@
+{%- comment -%}
+  Finds every language version of the current post (the "cluster") using the key from slug-base.html.
+  Sets:
+    cl_key      the cluster key (slug of the English original)
+    cl_members  the cluster's posts, one per language, in the order of _data/seo_languages.yml
+                (en, ko, ja, zh-cn, zh-tw, vi, es). The current page is included. Posts in the
+                "other" bucket are never members (no single language to declare).
+    cl_en       the English member, or nil when the cluster has none
+  Used by hreflang.html (head) and lang-switcher.html (visible links).
+  Only meaningful for posts. Defaults to the current page; pass slug=post.slug lang=post.lang to
+  cluster another post (used by the per-language sitemaps). Note it sets L / seo_lang_key to that
+  post's language, so callers that need the page's own L should not call it with other posts.
+{%- endcomment -%}
+{%- assign cl_slug = include.slug | default: page.slug -%}
+{%- assign cl_lang_arg = include.lang | default: page.lang | default: 'en' -%}
+{%- include lang-vars.html lang=cl_lang_arg -%}
+{%- include slug-base.html slug=cl_slug lang=seo_lang_key -%}
+{%- assign cl_key = sb_key -%}
+{%- assign cl_probe = cl_key | slice: 0, 24 -%}
+{%- assign cl_pool = '' | split: '' -%}
+{%- assign cl_langs = '|' -%}
+{%- for p in site.posts -%}
+  {%- assign cl_ov = site.data.translation_overrides[p.slug] -%}
+  {%- if cl_ov or p.slug contains cl_probe -%}
+    {%- assign p_lang = p.lang | default: 'en' -%}
+    {%- include slug-base.html slug=p.slug lang=p_lang -%}
+    {%- if sb_key == cl_key -%}
+      {%- assign p_l = site.data.seo_languages[p_lang] -%}
+      {%- if p_l.hreflang.size > 0 -%}
+        {%- capture cl_tok -%}|{{ p_lang }}|{%- endcapture -%}
+        {%- unless cl_langs contains cl_tok -%}
+          {%- assign cl_pool = cl_pool | push: p -%}
+          {%- assign cl_langs = cl_langs | append: p_lang | append: '|' -%}
+        {%- endunless -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign cl_members = '' | split: '' -%}
+{%- assign cl_en = nil -%}
+{%- for entry in site.data.seo_languages -%}
+  {%- for p in cl_pool -%}
+    {%- assign p_lang = p.lang | default: 'en' -%}
+    {%- if p_lang == entry[0] -%}
+      {%- assign cl_members = cl_members | push: p -%}
+      {%- if p_lang == 'en' -%}{%- assign cl_en = p -%}{%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}

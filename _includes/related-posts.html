@@ -1,0 +1,57 @@
+{%- comment -%}
+  "More on <entity>" block under a post: the 5 newest OTHER posts in the same language that belong
+  to the same entity. An entity with `slug_match` in _data/entities.yml claims every post whose slug
+  contains one of those strings, plus any post that lists it in `entities:` front matter, so old posts
+  need no edits. Renders nothing for the "other" language bucket (mixed languages).
+  A page with `reference_for: <entity id>` is listed first, on posts of the same language whose
+  `entities:` front matter includes that id.
+  Uses the page's language data L (post.html has already looked it up).
+{%- endcomment -%}
+{%- assign rp_id = '' -%}
+{%- for e in site.data.entities -%}
+  {%- if rp_id == '' and e[1].slug_match -%}
+    {%- if page.entities contains e[0] -%}{%- assign rp_id = e[0] -%}{%- endif -%}
+    {%- for sm in e[1].slug_match -%}
+      {%- if page.slug contains sm -%}{%- assign rp_id = e[0] -%}{%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if rp_id != '' and L.html_lang != '' -%}
+  {%- assign rp_e = site.data.entities[rp_id] -%}
+  {%- assign rp_lang = page.lang | default: 'en' -%}
+  {%- assign rp_found = '' | split: '' -%}
+  {%- for p in site.posts -%}
+    {%- if rp_found.size < 5 -%}
+      {%- assign p_lang = p.lang | default: 'en' -%}
+      {%- if p_lang == rp_lang and p.url != page.url -%}
+        {%- assign rp_hit = false -%}
+        {%- if p.entities contains rp_id -%}{%- assign rp_hit = true -%}{%- endif -%}
+        {%- for sm in rp_e.slug_match -%}
+          {%- if p.slug contains sm -%}{%- assign rp_hit = true -%}{%- endif -%}
+        {%- endfor -%}
+        {%- if rp_hit -%}{%- assign rp_found = rp_found | push: p -%}{%- endif -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign rp_refs = '' | split: '' -%}
+  {%- for pg in site.pages -%}
+    {%- if pg.reference_for -%}
+      {%- assign pg_lang = pg.lang | default: 'en' -%}
+      {%- if pg_lang == rp_lang and page.entities contains pg.reference_for -%}{%- assign rp_refs = rp_refs | push: pg -%}{%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if rp_found.size > 0 or rp_refs.size > 0 -%}
+    {%- assign rp_heading = rp_e.related_heading[rp_lang] | default: rp_e.related_heading.en %}
+    <aside class="related-posts" aria-label="{{ rp_heading | escape }}">
+        <h2>{{ rp_heading }}</h2>
+        <ul>
+            {%- for pg in rp_refs %}
+            <li class="related-reference">📌 <a href="{{ pg.url | relative_url }}">{{ pg.title | escape }}</a></li>
+            {%- endfor %}
+            {%- for p in rp_found %}
+            <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a> <time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%Y-%m-%d" }}</time></li>
+            {%- endfor %}
+        </ul>
+    </aside>
+  {%- endif -%}
+{%- endif -%}

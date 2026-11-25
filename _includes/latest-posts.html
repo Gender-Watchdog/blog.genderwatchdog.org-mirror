@@ -1,0 +1,37 @@
+{%- comment -%}
+  Home page block: the 5 newest English posts, then the newest post in each other language, with a
+  link to that language's archive. Generated from site.posts, so it never needs hand-editing.
+  The curated timeline in index.md below it is separate and hand-written.
+{%- endcomment -%}
+{%- assign lp_en = '' | split: '' -%}
+{%- for p in site.posts -%}
+  {%- assign p_lang = p.lang | default: 'en' -%}
+  {%- if p_lang == 'en' and lp_en.size < 5 -%}{%- assign lp_en = lp_en | push: p -%}{%- endif -%}
+{%- endfor %}
+<section class="latest-posts" aria-labelledby="latest-posts-heading">
+    <h2 id="latest-posts-heading">Latest posts</h2>
+    <ul>
+        {%- for p in lp_en %}
+        <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a> <time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%Y-%m-%d" }}</time></li>
+        {%- endfor %}
+    </ul>
+    <p><a href="{{ '/en/' | relative_url }}">All English posts</a></p>
+    {%- assign lp_refs = site.pages | where: 'lang', 'en' | where_exp: 'pg', 'pg.translation_key' %}
+    {%- for pg in lp_refs %}
+    <p class="latest-reference">Reference: <a href="{{ pg.url | relative_url }}">{{ pg.title | escape }}</a></p>
+    {%- endfor %}
+    <h3>Newest in other languages</h3>
+    <ul class="latest-by-language">
+        {%- for entry in site.data.seo_languages -%}
+          {%- assign key = entry[0] -%}
+          {%- assign ld = entry[1] -%}
+          {%- if key != 'en' and key != 'other' -%}
+            {%- assign lp_newest = site.posts | where: 'lang', key | first -%}
+            {%- if lp_newest %}
+        <li><a class="latest-archive" href="{{ ld.archive_url | relative_url }}" hreflang="{{ ld.hreflang | first }}" lang="{{ ld.html_lang }}">{{ ld.native_name }}</a>
+            <a href="{{ lp_newest.url | relative_url }}" hreflang="{{ ld.hreflang | first }}" lang="{{ ld.html_lang }}">{{ lp_newest.title | escape }}</a></li>
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor %}
+    </ul>
+</section>

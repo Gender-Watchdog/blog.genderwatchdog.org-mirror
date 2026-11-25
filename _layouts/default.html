@@ -1,112 +1,24 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: 'en' }}">
+{% include lang-vars.html -%}
+<html{% if L.html_lang != blank %} lang="{{ L.html_lang }}"{% endif %}>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
-    
-    <!-- Primary Meta Tags -->
-    <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | escape }}{% else %}sexual violence, Korean universities, Dongguk University, Title IX compliance, IEQAS certification, institutional accountability, international student safety, arts education{% endif %}">
-    <meta name="author" content="Gender Watchdog Research Collective">
-    
-    <!-- Mastodon Verification -->
-    <meta name="fediverse:creator" content="@genderwatchdog@mastodon.social">
-    
-    <!-- Multi-language Meta Descriptions -->
-    <meta name="description" lang="ko" content="젠더 와치독 - 한국 고등교육 내 성폭력 사건과 제도적 실패 조사">
-    <meta name="description" lang="ja" content="ジェンダー・ウォッチドッグ - 韓国高等教育における性暴力事件と制度的失敗の調査">
-    <meta name="description" lang="zh-CN" content="性别监督 - 调查韩国高等教育中的性暴力案件和制度性失败">
-    <meta name="description" lang="zh-TW" content="性別監督 - 調查韓國高等教育中的性暴力案件和制度性失敗">
-    <meta name="description" lang="vi" content="Gender Watchdog - Điều tra các vụ bạo lực tình dục và thất bại thể chế trong giáo dục đại học Hàn Quốc">
+    {% include seo-head.html %}
     
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/assets/images/favicons/gender-watchdog-icon-04142025.png">
     <link rel="apple-touch-icon" href="/assets/images/favicons/gender-watchdog-icon-04142025.png">
     
-    <!-- Enhanced hreflang Links -->
-    <link rel="alternate" hreflang="en" href="{{ site.url }}/en/">
-    <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko/">
-    <link rel="alternate" hreflang="ja" href="{{ site.url }}/ja/">
-    <link rel="alternate" hreflang="zh-CN" href="{{ site.url }}/zh-cn/">
-    <link rel="alternate" hreflang="zh-TW" href="{{ site.url }}/zh-tw/">
-    <link rel="alternate" hreflang="vi" href="{{ site.url }}/vi/">
-    <link rel="alternate" hreflang="x-default" href="{{ site.url }}/">
-    
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     
-    <!-- Open Graph / Social Media -->
-    <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/favicons/gender-watchdog-icon-04142025.png' | absolute_url }}{% endif %}">
-    <meta property="og:image:alt" content="{{ page.title | escape }}">
-    
-    <!-- Structured Data - Organization -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "Gender Watchdog",
-      "alternateName": ["젠더 와치독", "ジェンダー・ウォッチドッグ", "性别监督", "性別監督"],
-      "url": "{{ site.url }}",
-      "sameAs": ["https://github.com/genderwatchdog1/timeline-website", "https://twitter.com/Gender_Watchdog", "https://genderwatchdog.org"],
-      "description": "Investigating and documenting sexual violence cases and institutional failures in Korean higher education",
-      "knowsLanguage": ["en", "ko", "ja", "zh-CN", "zh-TW"],
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "email": "genderwatchdog@proton.me",
-        "contactType": "customer service"
-      }
-    }
-    </script>
-    
-    {% if page.layout == 'post' %}
-    <!-- Structured Data - NewsArticle -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "{{ page.title | escape }}",
-      "description": "{{ page.meta_description | escape }}",
-      "datePublished": "{{ page.date | date_to_xmlschema }}",
-      {% if page.modified_date %}
-      "dateModified": "{{ page.modified_date | date_to_xmlschema }}",
-      {% else %}
-      "dateModified": "{{ page.date | date_to_xmlschema }}",
-      {% endif %}
-      "author": {
-        "@type": "Organization",
-        "name": "Gender Watchdog Research Collective"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Gender Watchdog",
-        "url": "{{ site.url }}"
-      },
-      {% if page.image %}
-      "image": "{{ page.image }}",
-      {% endif %}
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{ page.url | absolute_url }}"
-      },
-      "inLanguage": "{{ page.lang | default: 'en' }}",
-      {% if page.keywords %}
-      "keywords": "{{ page.keywords | escape }}",
-      {% endif %}
-      "articleSection": "Investigative Journalism"
-    }
-    </script>
-    {% endif %}
+    <!-- Structured data: one JSON-LD @graph per page (after the SEO head, which it reuses) -->
+    {% include jsonld.html %}
     
     <!-- Fathom - beautiful, simple website analytics -->
     <script src="https://cdn.usefathom.com/script.js" data-site="RTNTPNUN" defer></script>
     <!-- / Fathom -->
     
-    {% seo %}
-    
-    <!-- Override jekyll-seo-tag twitter:card to force large image format -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@Gender_Watchdog">
-    <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/favicons/gender-watchdog-icon-04142025.png' | absolute_url }}{% endif %}">
-    <meta name="twitter:image:alt" content="{{ page.title | escape }}">
 </head>
 <body>
     <header>
@@ -173,21 +85,6 @@
                 <a href="{{ site.url }}/twitter/">X / Twitter</a> | 
                 <a rel="me" href="https://mastodon.social/@genderwatchdog">Mastodon</a> | 
                 <a href="mailto:genderwatchdog@proton.me">Email Contact</a>
-            </div>
-            
-            <div class="keywords-section">
-                <div class="keyword-group">
-                    <strong>🇰🇷 한국 키워드:</strong> 제도적 포획 한국, 한국 언론 공모, 인종차별적 성폭력 한국, 동국대학교 학술 사기
-                </div>
-                <div class="keyword-group">
-                    <strong>🇯🇵 日本キーワード:</strong> 制度的捕獲韓国, 韓国メディア共謀, 人種差別的性暴力韓国, 東国大学学術詐欺
-                </div>
-                <div class="keyword-group">
-                    <strong>🇨🇳 中文关键词:</strong> 制度性捕获韩国, 韩国媒体共谋, 种族化性暴力韩国, 东国大学学术欺诈
-                </div>
-                <div class="keyword-group">
-                    <strong>🇭🇰 中文關鍵詞:</strong> 制度性捕獲韓國, 韓國媒體共謀, 種族化性暴力韓國, 東國大學學術欺詐
-                </div>
             </div>
             
             <div class="endorsements-section">

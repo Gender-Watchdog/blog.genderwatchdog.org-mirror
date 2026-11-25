@@ -1,0 +1,13 @@
+{%- comment -%}
+  Looks up the language data for the current page and exposes it to the including template:
+    seo_lang_key  the key used in _data/seo_languages.yml (page.lang, falling back to "en")
+    L             that language's data (html_lang, og_locale, site_name, site_description)
+  Optional parameter: lang="ko" to look up a different language than the current page's.
+  Jekyll `include` shares scope with the caller, so these variables are visible after the include.
+{%- endcomment -%}
+{%- assign seo_lang_key = include.lang | default: page.lang | default: 'en' -%}
+{%- assign L = site.data.seo_languages[seo_lang_key] -%}
+{%- unless L -%}
+  {%- assign seo_lang_key = 'en' -%}
+  {%- assign L = site.data.seo_languages.en -%}
+{%- endunless -%}

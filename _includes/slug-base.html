@@ -1,0 +1,41 @@
+{%- comment -%}
+  Computes the cluster key of a post: the slug of its English original.
+  Parameters: slug="..." (required), lang="ko" (the post's own language; defaults to en).
+  Sets: sb_key
+  1. translation_overrides.yml wins (odd slugs: numeric, truncated, differently named).
+  2. Otherwise strip ONE language marker, but only a marker that belongs to the post's own language
+     (suffix first, then prefix), so an English slug can never be mistaken for a translation.
+  English and "other" posts have no markers, so their key is their own slug.
+{%- endcomment -%}
+{%- assign sb_slug = include.slug | default: '' -%}
+{%- assign sb_key = site.data.translation_overrides[sb_slug] -%}
+{%- unless sb_key -%}
+  {%- assign sb_key = sb_slug -%}
+  {%- assign sb_lang = include.lang | default: 'en' -%}
+  {%- assign sb_l = site.data.seo_languages[sb_lang] -%}
+  {%- assign sb_done = false -%}
+  {%- for sfx in sb_l.slug_suffixes -%}
+    {%- unless sb_done -%}
+      {%- assign sfx_n = sfx | size -%}
+      {%- assign sfx_neg = 0 | minus: sfx_n -%}
+      {%- assign sb_tail = sb_slug | slice: sfx_neg, sfx_n -%}
+      {%- if sb_tail == sfx -%}
+        {%- assign sb_len = sb_slug | size | minus: sfx_n -%}
+        {%- assign sb_key = sb_slug | slice: 0, sb_len -%}
+        {%- assign sb_done = true -%}
+      {%- endif -%}
+    {%- endunless -%}
+  {%- endfor -%}
+  {%- unless sb_done -%}
+    {%- for pfx in sb_l.slug_prefixes -%}
+      {%- unless sb_done -%}
+        {%- assign pfx_n = pfx | size -%}
+        {%- assign sb_head = sb_slug | slice: 0, pfx_n -%}
+        {%- if sb_head == pfx -%}
+          {%- assign sb_key = sb_slug | slice: pfx_n, 500 -%}
+          {%- assign sb_done = true -%}
+        {%- endif -%}
+      {%- endunless -%}
+    {%- endfor -%}
+  {%- endunless -%}
+{%- endunless -%}

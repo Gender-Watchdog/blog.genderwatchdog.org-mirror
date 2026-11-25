@@ -1,0 +1,46 @@
+{%- comment -%}
+  Splits an "updated at" stamp off a post title (see CLAUDE.md: titles end with
+  "(updated at YYYY-MM-DDTHH:MM:SSZ)" and translated equivalents such as "（更新于 …Z）",
+  "(업데이트됨 …Z)", "（…Z 更新）", "(actualizado el …Z)").
+  Language-independent: the title must end in ")" or "）", and the text inside the LAST bracket pair
+  must contain a 20-character ISO time at the start of a space-separated word
+  (a particle glued on the end, as in "…Z에 업데이트됨", is fine). Anything else is left untouched.
+  Optional parameter: t="..." to split a different string than page.title (e.g. t=post.title in a loop).
+  Sets:
+    title_clean   the title without the stamp (== the title when it has none)
+    title_stamp   the ISO time such as 2026-10-05T07:56:51Z, or "" when the title has no stamp
+{%- endcomment -%}
+{%- assign tp_raw = include.t | default: page.title | default: '' -%}
+{%- assign title_clean = tp_raw -%}
+{%- assign title_stamp = '' -%}
+{%- assign tp_last = tp_raw | slice: -1, 1 -%}
+{%- if tp_last == ')' or tp_last == '）' -%}
+  {%- if tp_last == ')' -%}{%- assign tp_open = '(' -%}{%- else -%}{%- assign tp_open = '（' -%}{%- endif -%}
+  {%- assign tp_parts = tp_raw | split: tp_open -%}
+  {%- if tp_parts.size > 1 -%}
+    {%- assign tp_seg = tp_parts | last | remove: ')' | remove: '）' | replace: '　', ' ' -%}
+    {%- assign tp_found = '' -%}
+    {%- if tp_seg.size < 60 -%}
+      {%- assign tp_words = tp_seg | split: ' ' -%}
+      {%- for w in tp_words -%}
+        {%- if w.size >= 20 -%}
+          {%- assign w_c = w | slice: 0, 20 -%}
+          {%- assign w_d = w_c | slice: 4, 1 -%}
+          {%- assign w_t = w_c | slice: 10, 1 -%}
+          {%- assign w_z = w_c | slice: 19, 1 -%}
+          {%- if w_d == '-' and w_t == 'T' and w_z == 'Z' -%}{%- assign tp_found = w_c -%}{%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+    {%- if tp_found != '' -%}
+      {%- assign tp_n = tp_parts.size | minus: 1 -%}
+      {%- capture title_clean -%}
+        {%- for p in tp_parts -%}
+          {%- if forloop.index0 < tp_n -%}{%- unless forloop.first -%}{{ tp_open }}{%- endunless -%}{{ p }}{%- endif -%}
+        {%- endfor -%}
+      {%- endcapture -%}
+      {%- assign title_clean = title_clean | strip -%}
+      {%- assign title_stamp = tp_found -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}

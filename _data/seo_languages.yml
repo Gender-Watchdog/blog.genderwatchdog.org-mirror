@@ -1,0 +1,173 @@
+# Per-language SEO data, keyed by the post/page `lang` front-matter value.
+# Read by _includes/lang-vars.html -> used by seo-head.html and the layouts.
+#
+#   html_lang        value for <html lang> and <article lang> (BCP-47). Empty = omit the attribute.
+#   og_locale        Open Graph locale. Empty = omit.
+#   site_name        localized site name (used in <title> suffix and og:site_name)
+#   site_description fallback <meta name="description"> when a page has no description of its own.
+#                    Empty = use site.description from _config.yml (English).
+#   hreflang         hreflang code(s) this language's page is published under. Traditional Chinese is
+#                    also offered to zh-HK. Empty list = never emitted (the "other" bucket mixes languages).
+#   native_name      language name shown in the language switcher, in that language
+#   switcher_label   "also available in" label shown in the switcher (AI-drafted, review)
+#   archive_url      this language's archive page
+#   feed_url         this language's RSS feed (feed-<lang>.xml); empty = none
+#   featured_label   heading of the pinned box on the archive page (AI-drafted, review)
+#   article_section  JSON-LD articleSection for posts (AI-drafted translations, review)
+#   breadcrumb_home / breadcrumb_archive
+#                    JSON-LD BreadcrumbList labels: "Home" and this language's archive (AI-drafted, review)
+#   slug_suffixes /  markers that identify a translation's slug (checked in order, first match wins);
+#   slug_prefixes    stripped to find the cluster key shared with the English original. A marker is only
+#                    stripped when the post's own `lang` is this language. Odd slugs go in
+#                    translation_overrides.yml.
+#
+# Notes:
+# - ko / ja / zh-cn / zh-tw / vi descriptions are the strings that were hard-coded in
+#   _layouts/default.html; they are unchanged.
+# - es: no Spanish string existed before; the description below is NEW and AI-drafted. Review it.
+# - other: posts in French, Indonesian, Russian, etc. share one bucket, so the actual language is
+#   unknown; html_lang/og_locale are left empty rather than claiming a wrong one.
+
+en:
+  html_lang: "en"
+  og_locale: "en_US"
+  site_name: "Gender Watchdog Blog"
+  site_description: ""
+  hreflang: ["en"]
+  native_name: "English"
+  switcher_label: "Also available in:"
+  archive_url: "/en/"
+  feed_url: ""
+  featured_label: "Featured"
+  updated_label: "Last updated"
+  article_section: "Investigative Journalism"
+  breadcrumb_home: "Home"
+  breadcrumb_archive: "English posts"
+  slug_suffixes: []
+  slug_prefixes: []
+
+ko:
+  html_lang: "ko"
+  og_locale: "ko_KR"
+  site_name: "젠더 와치독 블로그"
+  site_description: "젠더 와치독 - 한국 고등교육 내 성폭력 사건과 제도적 실패 조사"
+  hreflang: ["ko"]
+  native_name: "한국어"
+  switcher_label: "다른 언어로 읽기:"
+  archive_url: "/ko/"
+  feed_url: "/feed-ko.xml"
+  featured_label: "주요 글"
+  updated_label: "최종 수정"
+  article_section: "탐사 보도"
+  breadcrumb_home: "홈"
+  breadcrumb_archive: "한국어 게시물"
+  slug_suffixes: ["-ko-new", "-ko"]
+  slug_prefixes: ["ko-"]
+
+ja:
+  html_lang: "ja"
+  og_locale: "ja_JP"
+  site_name: "ジェンダー・ウォッチドッグ ブログ"
+  site_description: "ジェンダー・ウォッチドッグ - 韓国高等教育における性暴力事件と制度的失敗の調査"
+  hreflang: ["ja"]
+  native_name: "日本語"
+  switcher_label: "他の言語で読む："
+  archive_url: "/ja/"
+  feed_url: "/feed-ja.xml"
+  featured_label: "注目の記事"
+  updated_label: "最終更新"
+  article_section: "調査報道"
+  breadcrumb_home: "ホーム"
+  breadcrumb_archive: "日本語の記事"
+  slug_suffixes: ["-ja"]
+  slug_prefixes: ["ja-"]
+
+zh-cn:
+  html_lang: "zh-CN"
+  og_locale: "zh_CN"
+  site_name: "性别监督 博客"
+  site_description: "性别监督 - 调查韩国高等教育中的性暴力案件和制度性失败"
+  hreflang: ["zh-CN"]
+  native_name: "简体中文"
+  switcher_label: "其他语言版本："
+  archive_url: "/zh-cn/"
+  feed_url: "/feed-zh-cn.xml"
+  featured_label: "重点文章"
+  updated_label: "最后更新"
+  article_section: "调查报道"
+  breadcrumb_home: "首页"
+  breadcrumb_archive: "简体中文文章"
+  slug_suffixes: ["-zh-cn", "-zh-ch", "-zh-hans", "-hans"]
+  slug_prefixes: ["hans-"]
+
+zh-tw:
+  html_lang: "zh-TW"
+  og_locale: "zh_TW"
+  site_name: "性別監督 部落格"
+  site_description: "性別監督 - 調查韓國高等教育中的性暴力案件和制度性失敗"
+  hreflang: ["zh-TW", "zh-HK"]
+  native_name: "繁體中文"
+  switcher_label: "其他語言版本："
+  archive_url: "/zh-tw/"
+  feed_url: "/feed-zh-tw.xml"
+  featured_label: "重點文章"
+  updated_label: "最後更新"
+  article_section: "調查報導"
+  breadcrumb_home: "首頁"
+  breadcrumb_archive: "繁體中文文章"
+  slug_suffixes: ["-zh-tw", "-zh-hant", "-hant"]
+  slug_prefixes: ["hant-"]
+
+vi:
+  html_lang: "vi"
+  og_locale: "vi_VN"
+  site_name: "Gender Watchdog Blog"
+  site_description: "Gender Watchdog - Điều tra các vụ bạo lực tình dục và thất bại thể chế trong giáo dục đại học Hàn Quốc"
+  hreflang: ["vi"]
+  native_name: "Tiếng Việt"
+  switcher_label: "Đọc bằng ngôn ngữ khác:"
+  archive_url: "/vi/"
+  feed_url: ""
+  featured_label: "Bài nổi bật"
+  updated_label: "Cập nhật lần cuối"
+  article_section: "Báo chí điều tra"
+  breadcrumb_home: "Trang chủ"
+  breadcrumb_archive: "Bài viết tiếng Việt"
+  slug_suffixes: ["-vi"]
+  slug_prefixes: ["vi-"]
+
+es:
+  html_lang: "es"
+  og_locale: "es_ES"
+  site_name: "Gender Watchdog Blog"
+  site_description: "Gender Watchdog - Investigación de casos de violencia sexual y fallos institucionales en la educación superior de Corea"
+  hreflang: ["es"]
+  native_name: "Español"
+  switcher_label: "Leer en otro idioma:"
+  archive_url: "/es/"
+  feed_url: ""
+  featured_label: "Destacado"
+  updated_label: "Última actualización"
+  article_section: "Periodismo de investigación"
+  breadcrumb_home: "Inicio"
+  breadcrumb_archive: "Publicaciones en español"
+  slug_suffixes: ["-es"]
+  slug_prefixes: ["es-"]
+
+other:
+  html_lang: ""
+  og_locale: ""
+  site_name: "Gender Watchdog Blog"
+  site_description: ""
+  hreflang: []
+  native_name: ""
+  switcher_label: ""
+  archive_url: "/other/"
+  feed_url: ""
+  featured_label: "Featured"
+  updated_label: "Last updated"
+  article_section: "Investigative Journalism"
+  breadcrumb_home: "Home"
+  breadcrumb_archive: "Posts in other languages"
+  slug_suffixes: []
+  slug_prefixes: []

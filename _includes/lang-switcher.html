@@ -1,0 +1,16 @@
+{%- comment -%}
+  Visible "also available in" links to the other language versions of a post. Renders nothing when
+  the post has no other version. Requires translation-cluster.html to have run first (post.html does). Labels are in each language's own name; the intro is in the page's language.
+{%- endcomment -%}
+{%- if cl_members.size > 1 %}
+        <nav class="language-switcher" aria-label="{{ L.switcher_label | escape }}">
+            <span class="language-switcher-label">{{ L.switcher_label }}</span>
+            {%- for m in cl_members -%}
+              {%- if m.url != page.url -%}
+                {%- assign m_lang = m.lang | default: 'en' -%}
+                {%- assign m_l = site.data.seo_languages[m_lang] %}
+            <a href="{{ m.url | relative_url }}" hreflang="{{ m_l.hreflang | first }}" lang="{{ m_l.html_lang }}">{{ m_l.native_name }}</a>
+              {%- endif -%}
+            {%- endfor %}
+        </nav>
+{%- endif -%}

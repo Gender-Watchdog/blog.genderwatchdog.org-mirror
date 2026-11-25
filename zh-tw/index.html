@@ -2,9 +2,12 @@
 layout: default
 title: "所有繁體中文文章"
 lang: zh-tw
+description: "Gender Watchdog 的全部繁體中文文章：以東國大學為核心案例，調查韓國高等教育中的性暴力與制度問責。"
 ---
 
 <h1>所有繁體中文文章</h1>
+<p class="archive-intro">{{ page.description }}</p>
+{% include featured.html %}
 
 <ul class="post-list">
 {% assign posts = site.posts | where: "lang", "zh-tw" | sort: "date" | reverse %}

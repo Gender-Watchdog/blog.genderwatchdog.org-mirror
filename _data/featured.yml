@@ -1,0 +1,7 @@
+# Pinned links at the top of each language archive page (_includes/featured.html).
+# Each entry is either `cluster:` (a post translation cluster, named by its English slug) or
+# `page_key:` (a reference page, named by its translation_key). Every archive shows the version in
+# its own language, and nothing when that language has none. Order here = display order. Keep it
+# short, and remove pins once they are no longer current.
+- cluster: dongguk-film-school-ai-rename-label-ahead-of-capacity
+- page_key: dongguk-film-school-name-history

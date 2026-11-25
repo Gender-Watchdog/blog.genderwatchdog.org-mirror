@@ -192,6 +192,92 @@ blockquote {
     border: 1px solid #c8e1ff;
 }
 
+/* Pinned box on language archive pages (_includes/featured.html) */
+.archive-intro {
+    color: #586069;
+}
+
+.featured-posts {
+    margin: 1em 0 1.5em;
+    padding: 0.8em 1em;
+    border: 1px solid #c8e1ff;
+    border-left-width: 4px;
+    border-radius: 3px;
+    background: #f1f8ff;
+}
+
+.featured-posts ul {
+    margin: 0.4em 0 0;
+}
+
+/* "Latest posts" box on the home page (_includes/latest-posts.html) */
+.latest-posts {
+    margin: 0 0 2em;
+    padding: 0.2em 1.2em 0.6em;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+}
+
+.latest-posts li {
+    margin-bottom: 0.4em;
+}
+
+.latest-posts time {
+    color: #586069;
+    font-size: 0.85em;
+    white-space: nowrap;
+}
+
+.latest-posts .latest-archive {
+    font-weight: 600;
+    margin-right: 0.4em;
+}
+
+/* "More on ..." list under a post (_includes/related-posts.html) */
+.related-posts {
+    margin: 2.5em 0 1.5em;
+    padding-top: 1em;
+    border-top: 1px solid #e1e4e8;
+}
+
+.related-posts h2 {
+    font-size: 1.1em;
+    margin-top: 0;
+}
+
+.related-posts li {
+    margin-bottom: 0.4em;
+}
+
+.related-posts time {
+    color: #586069;
+    font-size: 0.85em;
+    white-space: nowrap;
+}
+
+/* Links between language versions of a post (_includes/lang-switcher.html) */
+.language-switcher {
+    margin-top: 0.8em;
+    font-size: 0.9em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em 0.8em;
+    align-items: center;
+    color: #586069;
+}
+
+.language-switcher a {
+    padding: 0.1em 0.6em;
+    border: 1px solid #c8e1ff;
+    border-radius: 3px;
+    background: #f1f8ff;
+    text-decoration: none;
+}
+
+.language-switcher a:hover {
+    background: #dbedff;
+}
+
 .post-description {
     color: #586069;
     font-style: italic;
@@ -367,24 +453,6 @@ footer {
     color: #0366d6;
 }
 
-/* Keywords Section */
-.keywords-section {
-    margin: 2em 0;
-}
-
-.keyword-group {
-    margin: 1em 0;
-    padding: 0.8em;
-    background: #f6f8fa;
-    border-radius: 4px;
-    font-size: 0.85em;
-}
-
-.keyword-group strong {
-    display: inline;
-    margin: 0 0.5em 0 0;
-}
-
 /* Endorsements Section */
 .endorsements-section {
     margin: 2em auto;
@@ -431,6 +499,14 @@ footer {
 .contact {
     font-size: 0.85em;
     margin-top: 1em;
+}
+
+/* Reference pages: keep Korean names whole in English text. Limited to lang="en" and "ko" because
+   keep-all would also stop Chinese and Japanese lines from wrapping. */
+.evergreen:lang(en),
+.evergreen:lang(ko) {
+    word-break: keep-all;
+    overflow-wrap: break-word;
 }
 
 /* Tables */

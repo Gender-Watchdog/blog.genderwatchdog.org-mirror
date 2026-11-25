@@ -2,9 +2,12 @@
 layout: default
 title: "Tất cả bài viết tiếng Việt"
 lang: vi
+description: "Toàn bộ bài viết tiếng Việt của Gender Watchdog: điều tra bạo lực tình dục và trách nhiệm giải trình của thể chế trong giáo dục đại học Hàn Quốc, với Đại học Dongguk là trường hợp trọng tâm."
 ---
 
 <h1>Tất cả bài viết tiếng Việt</h1>
+<p class="archive-intro">{{ page.description }}</p>
+{% include featured.html %}
 
 <ul class="post-list">
 {% assign posts = site.posts | where: "lang", "vi" | sort: "date" | reverse %}

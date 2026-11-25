@@ -2,9 +2,12 @@
 layout: default
 title: "모든 한국어 게시물"
 lang: ko
+description: "젠더 와치독의 한국어 글 전체 목록. 동국대학교를 중심 사례로 한국 고등교육의 성폭력 문제와 제도적 책임을 조사합니다."
 ---
 
 <h1>모든 한국어 게시물</h1>
+<p class="archive-intro">{{ page.description }}</p>
+{% include featured.html %}
 
 <ul class="post-list">
 {% assign posts = site.posts | where: "lang", "ko" | sort: "date" | reverse %}

@@ -1,0 +1,22 @@
+# Translations whose slug does not follow the "<english-slug> + language marker" pattern.
+# Maps the translation's slug -> the slug of its English original (the cluster key), so
+# _includes/translation-cluster.html can group them for hreflang and the language switcher.
+# Each entry was matched by comparing the translated title with the English post's title.
+# English originals and regular translations (-ko, -ja, -zh-cn, -zh-tw, hans-, hant-, ...) need no entry.
+
+# 隐蔽渠道：学术界个人邮箱使用如何削弱监督和安全
+"4063": "hidden-channels-how-personal-email-use-in-academia-undermines-oversight-and-safety"
+# 外国女性公开在韩国遭受性暴力的经历
+"7882": "foreign-women-speak-out-about-their-experiences-of-sexual-violence-in-korea"
+# プレスリリース：仏教系大学が性的暴力リスクを黙殺
+"1793": "press-release-buddhist-university-turns-blind-eye-to-sexual-violence-risk"
+# 新聞稿：佛教大學對性暴力風險視而不見
+"6596": "press-release-buddhist-university-turns-blind-eye-to-sexual-violence-risk"
+# 小紅書數據分析 - 2025年5月25日 (slug lost its final "c": ...-pm-ut-zh-hant vs ...-pm-utc)
+"xiaohongshu-metrics-updated-may-25-2025-at-109-pm-ut-zh-hant": "xiaohongshu-metrics-updated-may-25-2025-at-109-pm-utc"
+# "ieqas-link-" prefixed ko / zh-tw copies of the Sept 23 2025 post (the ja and zh-cn copies have no prefix)
+"ieqas-link-the-alleged-predatory-appointment-and-government-cover-up-how-ieqas-certification-enables-systematic-corporate-academic-exploitation-at-dongguk-university-ko": "the-alleged-predatory-appointment-and-government-cover-up-how-ieqas-certification-enables-systematic-corporate-academic-exploitation-at-dongguk-university"
+"ieqas-link-the-alleged-predatory-appointment-and-government-cover-up-how-ieqas-certification-enables-systematic-corporate-academic-exploitation-at-dongguk-university-hant": "the-alleged-predatory-appointment-and-government-cover-up-how-ieqas-certification-enables-systematic-corporate-academic-exploitation-at-dongguk-university"
+# ko "Title IX 위험 권고 — 동국대학교(서울)의 구조적 성폭력 노출": its slug says "...fake-partnerships...", but the
+# title is the Title IX Risk Advisory, so it belongs with that English post
+"title-ix-and-fake-partnerships-university-under-global-review-ko": "title-ix-risk-advisory-structural-sexual-violence-exposure-at-dongguk-university-seoul"

@@ -1,0 +1,38 @@
+{%- comment -%}
+  hreflang alternates, emitted inside <head> (Google ignores them anywhere else).
+  - Posts: one tag per language version that really exists (see translation-cluster.html), each
+    member self-referencing, plus x-default -> the English original when there is one.
+    Nothing is emitted for a post that has no other language version.
+  - Reference pages with a translation_key: the same as posts (see page-cluster.html).
+  - Language archive pages (/en/, /ko/, ...): the set of archive pages; x-default -> /en/.
+  - Every other page (home, about, ...): nothing.
+{%- endcomment -%}
+{%- include lang-vars.html -%}
+{%- if page.layout == 'post' or page.translation_key -%}
+  {%- if page.translation_key -%}
+    {%- include page-cluster.html -%}
+  {%- else -%}
+    {%- include translation-cluster.html -%}
+  {%- endif -%}
+  {%- if cl_members.size > 1 -%}
+    {%- for m in cl_members -%}
+      {%- assign m_lang = m.lang | default: 'en' -%}
+      {%- assign m_l = site.data.seo_languages[m_lang] -%}
+      {%- for code in m_l.hreflang %}
+    <link rel="alternate" hreflang="{{ code }}" href="{{ m.url | absolute_url }}">
+      {%- endfor -%}
+    {%- endfor -%}
+    {%- if cl_en %}
+    <link rel="alternate" hreflang="x-default" href="{{ cl_en.url | absolute_url }}">
+    {%- endif -%}
+  {%- endif -%}
+{%- elsif page.url == L.archive_url and L.hreflang.size > 0 -%}
+  {%- for entry in site.data.seo_languages -%}
+    {%- if entry[1].hreflang.size > 0 -%}
+      {%- for code in entry[1].hreflang %}
+    <link rel="alternate" hreflang="{{ code }}" href="{{ entry[1].archive_url | absolute_url }}">
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor %}
+    <link rel="alternate" hreflang="x-default" href="{{ site.data.seo_languages.en.archive_url | absolute_url }}">
+{%- endif -%}

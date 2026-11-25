@@ -1,0 +1,18 @@
+{%- comment -%}
+  Language versions of a reference page: the pages that share a translation_key, in the order of
+  _data/seo_languages.yml. Sets cl_members and cl_en, the same names translation-cluster.html sets
+  for posts, so lang-switcher.html and the head, sitemap and JSON-LD code work for both.
+  Optional parameter key= (defaults to the current page's translation_key). Does not change L.
+{%- endcomment -%}
+{%- assign pc_key = include.key | default: page.translation_key -%}
+{%- assign pc_pool = site.pages | where: 'translation_key', pc_key -%}
+{%- assign cl_members = '' | split: '' -%}
+{%- assign cl_en = nil -%}
+{%- for entry in site.data.seo_languages -%}
+  {%- for p in pc_pool -%}
+    {%- if p.lang == entry[0] -%}
+      {%- assign cl_members = cl_members | push: p -%}
+      {%- if p.lang == 'en' -%}{%- assign cl_en = p -%}{%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}

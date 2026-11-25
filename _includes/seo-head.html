@@ -1,0 +1,94 @@
+{%- comment -%}
+  Single source for <title>, description, canonical, author, keywords, Open Graph, Twitter card and
+  search-console verification tags. Replaces the jekyll-seo-tag output and the metadata that used
+  to be hand-written in _layouts/default.html. hreflang and JSON-LD are handled elsewhere (see plan).
+
+  Per-page inputs (all optional, all front matter):
+    seo_title         overrides the <title>/og:title text (the on-page H1 keeps `title`)
+    meta_description  preferred description; then `summary`, `description`, an excerpt, then a
+                      localized site description
+    keywords          comma-separated string; the tag is omitted when not set
+    image             absolute or site-relative image for og:image / twitter:image; default is the
+                      1200x630 card assets/images/social/gender-watchdog-social-card-1200x630.png
+                      (a logo-only placeholder composed from the icon; replace the file to change it)
+    canonical_url     overrides the canonical link
+  Language-specific values come from _data/seo_languages.yml via lang-vars.html.
+{%- endcomment -%}
+{%- include lang-vars.html -%}
+{%- include title-parts.html -%}
+{%- if page.seo_title -%}
+  {%- assign seo_t = page.seo_title -%}
+{%- else -%}
+  {%- assign seo_t = title_clean -%}
+{%- endif -%}
+{%- assign seo_site = L.site_name | default: site.title -%}
+
+{%- comment -%} `default: ''` matters: in this Liquid version `nil == blank` is false, only '' is. {%- endcomment -%}
+{%- include page-description.html doc=page -%}
+{%- assign seo_d = pd_out -%}
+
+{%- assign seo_canon = page.canonical_url | default: page.url | absolute_url -%}
+{%- if page.image -%}
+  {%- assign seo_img = page.image | absolute_url -%}
+{%- else -%}
+  {%- assign seo_img = '/assets/images/social/gender-watchdog-social-card-1200x630.png' | absolute_url -%}
+{%- endif -%}
+
+    <title>{% if seo_t != blank %}{{ seo_t | escape }} | {% endif %}{{ seo_site | escape }}</title>
+    <meta name="description" content="{{ seo_d | escape }}">
+    <link rel="canonical" href="{{ seo_canon }}">{%- include hreflang.html %}
+    {%- if page.url == L.archive_url and L.feed_url != '' %}
+    <link rel="alternate" type="application/rss+xml" title="{{ seo_site | escape }}" href="{{ L.feed_url | absolute_url }}">
+    {%- endif %}
+    <meta name="author" content="Gender Watchdog Research Collective">
+    <meta name="fediverse:creator" content="@genderwatchdog@mastodon.social">
+    {%- if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords | escape }}">
+    {%- endif %}
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="{% if seo_t != blank %}{{ seo_t | escape }}{% else %}{{ seo_site | escape }}{% endif %}">
+    <meta property="og:description" content="{{ seo_d | escape }}">
+    <meta property="og:url" content="{{ seo_canon }}">
+    <meta property="og:site_name" content="{{ seo_site | escape }}">
+    {%- if L.og_locale != blank %}
+    <meta property="og:locale" content="{{ L.og_locale }}">
+    {%- endif %}
+    {%- if page.layout == 'post' %}
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+    {%- else %}
+    <meta property="og:type" content="website">
+    {%- endif %}
+    <meta property="og:image" content="{{ seo_img }}">
+    {%- unless page.image %}
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    {%- endunless %}
+    <meta property="og:image:alt" content="{{ seo_t | default: seo_site | escape }}">
+
+    <!-- Twitter / X card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@Gender_Watchdog">
+    <meta name="twitter:title" content="{% if seo_t != blank %}{{ seo_t | escape }}{% else %}{{ seo_site | escape }}{% endif %}">
+    <meta name="twitter:description" content="{{ seo_d | escape }}">
+    <meta name="twitter:image" content="{{ seo_img }}">
+    <meta name="twitter:image:alt" content="{{ seo_t | default: seo_site | escape }}">
+
+    <!-- Search console verification (tokens live in _config.yml: webmaster_verifications) -->
+    {%- assign wv = site.webmaster_verifications %}
+    {%- if wv.google %}
+    <meta name="google-site-verification" content="{{ wv.google }}">
+    {%- endif %}
+    {%- if wv.bing %}
+    <meta name="msvalidate.01" content="{{ wv.bing }}">
+    {%- endif %}
+    {%- if wv.yandex %}
+    <meta name="yandex-verification" content="{{ wv.yandex }}">
+    {%- endif %}
+    {%- if wv.baidu %}
+    <meta name="baidu-site-verification" content="{{ wv.baidu }}">
+    {%- endif %}
+    {%- if wv.naver %}
+    <meta name="naver-site-verification" content="{{ wv.naver }}">
+    {%- endif %}

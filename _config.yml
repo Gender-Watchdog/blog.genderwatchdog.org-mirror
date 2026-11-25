@@ -42,6 +42,8 @@ defaults:
 # Exclude from build
 exclude:
   - README.md
+  - CLAUDE.md          # project instructions, not site content (was being published at /CLAUDE.md)
+  - jekyll.log
   - Gemfile
   - Gemfile.lock
   - convert_csv_to_posts.py
@@ -49,6 +51,17 @@ exclude:
   - vendor/
   - .git/
   - .gitignore
+
+# Search-console verification tokens, emitted as <meta> tags by _includes/seo-head.html.
+# Leave a value empty to emit nothing. Google is already verified through a DNS TXT record on
+# genderwatchdog.org, so it normally needs no tag here. Tokens are public (they appear in the
+# page source), not secrets.
+webmaster_verifications:
+  google:
+  bing:
+  yandex:
+  baidu:
+  naver:
 
 # Plugins
 plugins:

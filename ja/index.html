@@ -2,9 +2,12 @@
 layout: default
 title: "すべての日本語記事"
 lang: ja
+description: "ジェンダー・ウォッチドッグの日本語記事一覧。東国大学を中心事例として、韓国の高等教育における性暴力と制度の説明責任を調査しています。"
 ---
 
 <h1>すべての日本語記事</h1>
+<p class="archive-intro">{{ page.description }}</p>
+{% include featured.html %}
 
 <ul class="post-list">
 {% assign posts = site.posts | where: "lang", "ja" | sort: "date" | reverse %}
